@@ -1,0 +1,20 @@
+{
+  "ticker": "META",
+  "risk_level": "medium",
+  "overall_risk_score": 45.9,
+  "factors": {
+    "volatility": 70.4,
+    "debt_burden": 30.0,
+    "earnings_consistency": 26.1,
+    "cash_burn": 0.0,
+    "sector_risk": 55.0,
+    "sentiment_stability": 54.4,
+    "liquidity": 87.5,
+    "drawdown": 52.2,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Low relative trading volume"
+  ]
+}

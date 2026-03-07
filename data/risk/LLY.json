@@ -1,0 +1,21 @@
+{
+  "ticker": "LLY",
+  "risk_level": "high",
+  "overall_risk_score": 55.2,
+  "factors": {
+    "volatility": 80.0,
+    "debt_burden": 75.0,
+    "earnings_consistency": 16.0,
+    "cash_burn": 24.0,
+    "sector_risk": 50.0,
+    "sentiment_stability": 61.7,
+    "liquidity": 75.0,
+    "drawdown": 65.1,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Elevated debt-to-equity ratio",
+    "Low relative trading volume"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "CRM",
+  "risk_level": "medium",
+  "overall_risk_score": 42.6,
+  "factors": {
+    "volatility": 75.5,
+    "debt_burden": 15.0,
+    "earnings_consistency": 7.5,
+    "cash_burn": 0.0,
+    "sector_risk": 55.0,
+    "sentiment_stability": 45.5,
+    "liquidity": 81.2,
+    "drawdown": 77.2,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Low relative trading volume",
+    "Significant drawdown in last 12 months"
+  ]
+}

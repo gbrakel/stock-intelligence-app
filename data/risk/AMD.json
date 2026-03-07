@@ -1,0 +1,19 @@
+{
+  "ticker": "AMD",
+  "risk_level": "medium",
+  "overall_risk_score": 46.3,
+  "factors": {
+    "volatility": 100.0,
+    "debt_burden": 15.0,
+    "earnings_consistency": 22.7,
+    "cash_burn": 0.0,
+    "sector_risk": 55.0,
+    "sentiment_stability": 67.7,
+    "liquidity": 50.0,
+    "drawdown": 63.8,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "High volatility (annualized)"
+  ]
+}

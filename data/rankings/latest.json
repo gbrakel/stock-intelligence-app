@@ -1,0 +1,1970 @@
+{
+  "date": "2026-03-06",
+  "generated_at": "2026-03-07T00:04:49.665010",
+  "rankings": [
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy",
+      "sector": "Utilities",
+      "composite_score": 69.8,
+      "signal": "exit_watch",
+      "signal_confidence": 0.66,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 53.3,
+        "valuation": 100.0,
+        "sentiment": 68.0,
+        "technical": 79.2,
+        "risk_penalty": 33.8
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 23.6%",
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Technical] Trading 5% above 50-day SMA"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Buy due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "NEE scores 70/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 91.02,
+      "price_change_pct": -0.12,
+      "rank": 1
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "sector": "Materials",
+      "composite_score": 65.9,
+      "signal": "reduce",
+      "signal_confidence": 0.53,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 95.0,
+        "growth_trend": 57.4,
+        "valuation": 83.3,
+        "sentiment": 61.3,
+        "technical": 74.1,
+        "risk_penalty": 33.0
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 17.5%",
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Technical] Trading 5% above 50-day SMA"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Buy due to exit triggers"
+        ],
+        "exit_warnings": [
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "LIN scores 66/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 484.74,
+      "price_change_pct": -1.09,
+      "rank": 2
+    },
+    {
+      "ticker": "AMT",
+      "name": "American Tower Corp.",
+      "sector": "Real Estate",
+      "composite_score": 63.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 47.8,
+        "valuation": 100.0,
+        "sentiment": 64.1,
+        "technical": 55.2,
+        "risk_penalty": 46.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 30.0%",
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Sentiment] 18/25 recent articles are positive"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "AMT scores 63/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 188.59,
+      "price_change_pct": 0.51,
+      "rank": 3
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "sector": "Technology",
+      "composite_score": 62.8,
+      "signal": "exit_watch",
+      "signal_confidence": 0.57,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 89.1,
+        "growth_trend": 76.4,
+        "valuation": 49.2,
+        "sentiment": 55.9,
+        "technical": 58.2,
+        "risk_penalty": 33.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Strong ROE of 27.3%",
+          "[Growth] Strong YoY revenue growth of 73%"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "negative_news_cluster: 15 negative articles in last 48 hours"
+        ],
+        "summary": "NVDA scores 63/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 177.82,
+      "price_change_pct": -3.01,
+      "rank": 4
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp.",
+      "sector": "Energy",
+      "composite_score": 60.5,
+      "signal": "exit",
+      "signal_confidence": 0.65,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 91.7,
+        "growth_trend": 36.7,
+        "valuation": 93.8,
+        "sentiment": 52.3,
+        "technical": 83.3,
+        "risk_penalty": 28.8
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] Low debt-to-equity ratio of 0.16",
+          "[Technical] Trading 10% above 50-day SMA"
+        ],
+        "risks": [
+          "[Growth] Revenue growth is decelerating QoQ"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 3 consecutive quarters",
+          "negative_news_cluster: 14 negative articles in last 48 hours"
+        ],
+        "summary": "XOM scores 60/100 with a Exit signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 151.21,
+      "price_change_pct": 0.3,
+      "rank": 5
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble",
+      "sector": "Consumer Staples",
+      "composite_score": 58.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.73,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 83.0,
+        "growth_trend": 45.1,
+        "valuation": 82.3,
+        "sentiment": 64.6,
+        "technical": 49.8,
+        "risk_penalty": 28.6
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 19.4%",
+          "[Valuation] Average valuation relative to sector",
+          "[Sentiment] 10/14 recent articles are positive"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "PG scores 58/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 153.63,
+      "price_change_pct": -0.23,
+      "rank": 6
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "sector": "Financials",
+      "composite_score": 57.5,
+      "signal": "exit_watch",
+      "signal_confidence": 0.75,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 85.6,
+        "growth_trend": 58.4,
+        "valuation": 46.2,
+        "sentiment": 67.3,
+        "technical": 38.4,
+        "risk_penalty": 31.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 53.7%",
+          "[Sentiment] 14/19 recent articles are positive"
+        ],
+        "risks": [
+          "[Technical] 50-day SMA below 200-day SMA (bearish structure)"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "V scores 58/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 317.36,
+      "price_change_pct": -0.76,
+      "rank": 7
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corp.",
+      "sector": "Industrials",
+      "composite_score": 57.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 71.0,
+        "growth_trend": 54.7,
+        "valuation": 90.6,
+        "sentiment": 61.3,
+        "technical": 67.0,
+        "risk_penalty": 38.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Average valuation relative to sector",
+          "[Fundamentals] Healthy net margin of 30.4%",
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "UNP scores 57/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 254.11,
+      "price_change_pct": -2.34,
+      "rank": 8
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc.",
+      "sector": "Consumer Staples",
+      "composite_score": 57.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 69.0,
+        "growth_trend": 57.1,
+        "valuation": 83.3,
+        "sentiment": 68.1,
+        "technical": 66.0,
+        "risk_penalty": 42.0
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] High debt-to-equity ratio of 2.43",
+          "[Sentiment] 15/18 recent articles are positive"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "PEP scores 57/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 159.43,
+      "price_change_pct": 0.1,
+      "rank": 9
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike Inc.",
+      "sector": "Consumer Discretionary",
+      "composite_score": 57.1,
+      "signal": "reduce",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 53.6,
+        "valuation": 59.4,
+        "sentiment": 54.5,
+        "technical": 28.4,
+        "risk_penalty": 40.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Average fundamental metrics"
+        ],
+        "risks": [
+          "[Technical] Trading 7% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 5 negative articles in last 48 hours"
+        ],
+        "summary": "NKE scores 57/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 57.01,
+      "price_change_pct": -1.74,
+      "rank": 10
+    },
+    {
+      "ticker": "GE",
+      "name": "GE Aerospace",
+      "sector": "Industrials",
+      "composite_score": 55.6,
+      "signal": "exit_watch",
+      "signal_confidence": 0.81,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 73.0,
+        "growth_trend": 60.1,
+        "valuation": 45.0,
+        "sentiment": 62.8,
+        "technical": 67.8,
+        "risk_penalty": 34.7
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 20.0%",
+          "[Technical] Outperforming benchmark by 11% over 3 months",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 3 consecutive quarters",
+          "negative_news_cluster: 6 negative articles in last 48 hours"
+        ],
+        "summary": "GE scores 56/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 323.11,
+      "price_change_pct": -1.19,
+      "rank": 11
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "composite_score": 55.5,
+      "signal": "reduce",
+      "signal_confidence": 0.82,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 70.0,
+        "growth_trend": 73.6,
+        "valuation": 40.0,
+        "sentiment": 63.7,
+        "technical": 49.4,
+        "risk_penalty": 36.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Growth] Revenue growth is accelerating QoQ",
+          "[Fundamentals] Strong ROE of 47.7%",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 5 negative articles in last 48 hours"
+        ],
+        "summary": "AAPL scores 56/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 257.46,
+      "price_change_pct": -1.09,
+      "rank": 12
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp.",
+      "sector": "Energy",
+      "composite_score": 55.5,
+      "signal": "exit_watch",
+      "signal_confidence": 0.82,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 75.0,
+        "growth_trend": 44.6,
+        "valuation": 72.9,
+        "sentiment": 53.5,
+        "technical": 86.7,
+        "risk_penalty": 31.8
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Technical] Trading 11% above 50-day SMA",
+          "[Fundamentals] Low debt-to-equity ratio of 0.21",
+          "[Valuation] Forward P/E suggests improving earnings outlook"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 3 consecutive quarters",
+          "negative_news_cluster: 12 negative articles in last 48 hours"
+        ],
+        "summary": "CVX scores 56/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 189.94,
+      "price_change_pct": 0.02,
+      "rank": 13
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "composite_score": 55.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.82,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 83.3,
+        "growth_trend": 35.1,
+        "valuation": 50.0,
+        "sentiment": 67.1,
+        "technical": 79.0,
+        "risk_penalty": 31.5
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 20.8%",
+          "[Technical] Trading 6% above 50-day SMA",
+          "[Sentiment] 19/27 recent articles are positive"
+        ],
+        "risks": [
+          "[Growth] Revenue growth is accelerating QoQ"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 3 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 6 negative articles in last 48 hours"
+        ],
+        "summary": "JNJ scores 55/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 240.4,
+      "price_change_pct": 0.32,
+      "rank": 14
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc.",
+      "sector": "Communication",
+      "composite_score": 55.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.83,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 87.5,
+        "growth_trend": 46.0,
+        "valuation": 50.0,
+        "sentiment": 65.8,
+        "technical": 52.7,
+        "risk_penalty": 40.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 20.1%",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Significant drawdown in last 12 months"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "NFLX scores 55/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 99.02,
+      "price_change_pct": -0.15,
+      "rank": 15
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International",
+      "sector": "Industrials",
+      "composite_score": 53.7,
+      "signal": "reduce",
+      "signal_confidence": 0.79,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 65.1,
+        "valuation": 82.7,
+        "sentiment": 60.0,
+        "technical": 76.1,
+        "risk_penalty": 36.5
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Technical] Trading 5% above 50-day SMA",
+          "[Growth] EPS trending upward over recent quarters"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods"
+        ],
+        "summary": "HON scores 54/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 235.29,
+      "price_change_pct": -1.3,
+      "rank": 16
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc.",
+      "sector": "Financials",
+      "composite_score": 53.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 69.4,
+        "growth_trend": 68.3,
+        "valuation": 35.3,
+        "sentiment": 69.8,
+        "technical": 39.2,
+        "risk_penalty": 40.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Sentiment] 16/20 recent articles are positive",
+          "[Fundamentals] Strong ROE of 52.4%",
+          "[Growth] EPS trending upward over recent quarters"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio",
+          "[Technical] 50-day SMA below 200-day SMA (bearish structure)",
+          "[Valuation] Forward P/E suggests improving earnings outlook"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "MA scores 53/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 522.34,
+      "price_change_pct": -0.44,
+      "rank": 17
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products & Chemicals",
+      "sector": "Materials",
+      "composite_score": 53.2,
+      "signal": "hold",
+      "signal_confidence": 0.77,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 71.7,
+        "growth_trend": 58.1,
+        "valuation": 90.9,
+        "sentiment": 62.7,
+        "technical": 50.3,
+        "risk_penalty": 63.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Average valuation relative to sector",
+          "[Fundamentals] Healthy net margin of 21.9%",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "Inconsistent earnings across recent quarters",
+          "Frequent negative free cash flow"
+        ],
+        "changes": [
+          "No significant changes from previous day"
+        ],
+        "exit_warnings": [],
+        "summary": "APD scores 53/100 \u2014 currently a Hold. Risk level: High."
+      },
+      "price": 272.18,
+      "price_change_pct": -1.51,
+      "rank": 18
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corp.",
+      "sector": "Communication",
+      "composite_score": 53.1,
+      "signal": "exit_watch",
+      "signal_confidence": 0.77,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 66.3,
+        "growth_trend": 42.1,
+        "valuation": 100.0,
+        "sentiment": 55.5,
+        "technical": 77.2,
+        "risk_penalty": 41.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Low P/E of 5.9",
+          "[Technical] Trading 7% above 50-day SMA",
+          "[Fundamentals] Average fundamental metrics"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 3 negative articles in last 48 hours"
+        ],
+        "summary": "CMCSA scores 53/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 31.91,
+      "price_change_pct": 0.98,
+      "rank": 19
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "sector": "Technology",
+      "composite_score": 52.9,
+      "signal": "reduce",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 67.8,
+        "growth_trend": 56.3,
+        "valuation": 95.3,
+        "sentiment": 66.0,
+        "technical": 25.3,
+        "risk_penalty": 45.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] Healthy net margin of 30.0%",
+          "[Sentiment] 12/17 recent articles are positive"
+        ],
+        "risks": [
+          "Low relative trading volume",
+          "Significant drawdown in last 12 months",
+          "[Technical] Trading 18% below 200-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "ADBE scores 53/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 283.62,
+      "price_change_pct": 0.67,
+      "rank": 20
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "sector": "Technology",
+      "composite_score": 52.8,
+      "signal": "exit_watch",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 67.5,
+        "growth_trend": 67.2,
+        "valuation": 63.5,
+        "sentiment": 64.0,
+        "technical": 22.9,
+        "risk_penalty": 38.0
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 47.3%",
+          "[Growth] Revenue growth is accelerating QoQ",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "[Technical] Trading 6% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 10 negative articles in last 48 hours",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "MSFT scores 53/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 408.96,
+      "price_change_pct": -0.42,
+      "rank": 21
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co.",
+      "sector": "Healthcare",
+      "composite_score": 52.8,
+      "signal": "exit",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 61.5,
+        "growth_trend": 44.5,
+        "valuation": 86.7,
+        "sentiment": 64.1,
+        "technical": 72.5,
+        "risk_penalty": 36.5
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Technical] Outperforming benchmark by 15% over 3 months",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "debt_stress: Debt-to-equity increased 30% over recent quarters",
+          "negative_news_cluster: 7 negative articles in last 48 hours"
+        ],
+        "summary": "MRK scores 53/100 with a Exit signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 115.79,
+      "price_change_pct": -0.24,
+      "rank": 22
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "sector": "Industrials",
+      "composite_score": 52.8,
+      "signal": "exit_watch",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 64.0,
+        "growth_trend": 62.2,
+        "valuation": 65.4,
+        "sentiment": 54.7,
+        "technical": 75.2,
+        "risk_penalty": 46.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Technical] RSI at 23 (oversold zone)",
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] High debt-to-equity ratio of 2.03"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio",
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 4 negative articles in last 48 hours"
+        ],
+        "summary": "CAT scores 53/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 680.9,
+      "price_change_pct": -3.57,
+      "rank": 23
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms Inc.",
+      "sector": "Technology",
+      "composite_score": 52.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 67.8,
+        "growth_trend": 63.4,
+        "valuation": 73.4,
+        "sentiment": 57.4,
+        "technical": 45.4,
+        "risk_penalty": 45.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] Healthy net margin of 38.0%",
+          "[Growth] Revenue growth is accelerating QoQ"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "debt_stress: Debt-to-equity increased 52% over recent quarters",
+          "negative_news_cluster: 13 negative articles in last 48 hours"
+        ],
+        "summary": "META scores 53/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 644.86,
+      "price_change_pct": -2.38,
+      "rank": 24
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing Co.",
+      "sector": "Industrials",
+      "composite_score": 52.7,
+      "signal": "exit",
+      "signal_confidence": 0.76,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 72.0,
+        "growth_trend": 60.7,
+        "valuation": 48.7,
+        "sentiment": 69.1,
+        "technical": 62.1,
+        "risk_penalty": 60.1
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Strong ROE of 150.6%",
+          "[Sentiment] 19/25 recent articles are positive",
+          "[Technical] Outperforming benchmark by 15% over 3 months"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio",
+          "Inconsistent earnings across recent quarters",
+          "Frequent negative free cash flow"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 5 negative articles in last 48 hours"
+        ],
+        "summary": "BA scores 53/100 with a Exit signal. Risk level: High. Review position carefully."
+      },
+      "price": 231.11,
+      "price_change_pct": 4.08,
+      "rank": 25
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly & Co.",
+      "sector": "Healthcare",
+      "composite_score": 51.6,
+      "signal": "exit_watch",
+      "signal_confidence": 0.72,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 76.0,
+        "growth_trend": 65.3,
+        "valuation": 28.9,
+        "sentiment": 65.4,
+        "technical": 48.2,
+        "risk_penalty": 55.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Strong ROE of 25.0%",
+          "[Sentiment] Neutral news sentiment",
+          "[Growth] Strong YoY revenue growth of 43%"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Elevated debt-to-equity ratio",
+          "Low relative trading volume",
+          "[Valuation] High P/E of 43.2"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "negative_news_cluster: 7 negative articles in last 48 hours"
+        ],
+        "summary": "LLY scores 52/100 with a Exit Watch signal. Risk level: High. Review position carefully."
+      },
+      "price": 990.33,
+      "price_change_pct": 0.72,
+      "rank": 26
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Co.",
+      "sector": "Communication",
+      "composite_score": 51.5,
+      "signal": "reduce",
+      "signal_confidence": 0.72,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 71.2,
+        "growth_trend": 59.4,
+        "valuation": 75.0,
+        "sentiment": 56.5,
+        "technical": 30.0,
+        "risk_penalty": 43.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Low P/E of 15.0",
+          "[Fundamentals] Negative free cash flow"
+        ],
+        "risks": [
+          "Low relative trading volume",
+          "[Technical] Trading 7% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 3 negative articles in last 48 hours",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "DIS scores 52/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 101.54,
+      "price_change_pct": -0.85,
+      "rank": 27
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc.",
+      "sector": "Healthcare",
+      "composite_score": 51.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.71,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 56.2,
+        "growth_trend": 44.3,
+        "valuation": 93.8,
+        "sentiment": 72.4,
+        "technical": 60.5,
+        "risk_penalty": 43.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Sentiment] 18/21 recent articles are positive",
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "Inconsistent earnings across recent quarters"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "PFE scores 51/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 27.05,
+      "price_change_pct": 1.65,
+      "rank": 28
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Co.",
+      "sector": "Consumer Staples",
+      "composite_score": 50.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 63.0,
+        "growth_trend": 46.2,
+        "valuation": 65.6,
+        "sentiment": 58.6,
+        "technical": 65.3,
+        "risk_penalty": 30.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Average valuation relative to sector",
+          "[Technical] Neutral technical setup",
+          "[Fundamentals] Healthy net margin of 19.2%"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters"
+        ],
+        "summary": "KO scores 51/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 77.04,
+      "price_change_pct": 0.01,
+      "rank": 29
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "sector": "Financials",
+      "composite_score": 50.6,
+      "signal": "exit_watch",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 54.3,
+        "growth_trend": 50.7,
+        "valuation": 100.0,
+        "sentiment": 65.8,
+        "technical": 40.7,
+        "risk_penalty": 37.0
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Low P/E of 12.8",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "negative_news_cluster: 4 negative articles in last 48 hours"
+        ],
+        "summary": "BAC scores 51/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 48.64,
+      "price_change_pct": -1.8,
+      "rank": 30
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Technology",
+      "composite_score": 50.5,
+      "signal": "exit",
+      "signal_confidence": 0.68,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 67.8,
+        "growth_trend": 52.1,
+        "valuation": 54.2,
+        "sentiment": 54.2,
+        "technical": 51.5,
+        "risk_penalty": 28.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Healthy net margin of 30.3%"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "debt_stress: Debt-to-equity increased 46% over recent quarters",
+          "negative_news_cluster: 14 negative articles in last 48 hours"
+        ],
+        "summary": "GOOGL scores 50/100 with a Exit signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 298.52,
+      "price_change_pct": -0.78,
+      "rank": 31
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale",
+      "sector": "Consumer Staples",
+      "composite_score": 50.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.67,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 65.0,
+        "growth_trend": 48.9,
+        "valuation": 42.7,
+        "sentiment": 62.1,
+        "technical": 63.7,
+        "risk_penalty": 31.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Fundamentals] Low debt-to-equity ratio of 0.27",
+          "[Technical] Recent golden cross (50 SMA crossed above 200 SMA)",
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 13 negative articles in last 48 hours"
+        ],
+        "summary": "COST scores 50/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 998.1,
+      "price_change_pct": 1.58,
+      "rank": 32
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems",
+      "sector": "Technology",
+      "composite_score": 49.6,
+      "signal": "hold",
+      "signal_confidence": 0.65,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 41.9,
+        "growth_trend": 62.8,
+        "valuation": 70.8,
+        "sentiment": 66.5,
+        "technical": 65.3,
+        "risk_penalty": 37.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Sentiment] Neutral news sentiment",
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "High volatility (annualized)"
+        ],
+        "changes": [
+          "No significant changes from previous day"
+        ],
+        "exit_warnings": [],
+        "summary": "CSCO scores 50/100 \u2014 currently a Hold. Risk level: Medium."
+      },
+      "price": 78.64,
+      "price_change_pct": -1.71,
+      "rank": 33
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corp.",
+      "sector": "Consumer Discretionary",
+      "composite_score": 49.5,
+      "signal": "hold",
+      "signal_confidence": 0.65,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 51.3,
+        "valuation": 70.3,
+        "sentiment": 66.3,
+        "technical": 64.2,
+        "risk_penalty": 33.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Sentiment] Neutral news sentiment",
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "No significant changes from previous day"
+        ],
+        "exit_warnings": [],
+        "summary": "MCD scores 50/100 \u2014 currently a Hold. Risk level: Medium."
+      },
+      "price": 328.06,
+      "price_change_pct": 0.19,
+      "rank": 34
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Financials",
+      "composite_score": 48.9,
+      "signal": "exit_watch",
+      "signal_confidence": 0.63,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 64.8,
+        "growth_trend": 43.8,
+        "valuation": 82.4,
+        "sentiment": 58.1,
+        "technical": 43.5,
+        "risk_penalty": 38.2
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Low P/E of 14.5",
+          "[Fundamentals] Healthy net margin of 28.4%"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "negative_news_cluster: 13 negative articles in last 48 hours"
+        ],
+        "summary": "JPM scores 49/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 289.48,
+      "price_change_pct": -1.39,
+      "rank": 35
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc.",
+      "sector": "Technology",
+      "composite_score": 48.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.62,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 49.1,
+        "growth_trend": 64.3,
+        "valuation": 61.2,
+        "sentiment": 61.6,
+        "technical": 46.6,
+        "risk_penalty": 34.4
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Growth] Revenue growth is accelerating QoQ",
+          "[Sentiment] Neutral news sentiment",
+          "[Valuation] Forward P/E suggests improving earnings outlook"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 9 negative articles in last 48 hours"
+        ],
+        "summary": "AMZN scores 49/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 213.21,
+      "price_change_pct": -2.62,
+      "rank": 36
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Technology",
+      "composite_score": 48.6,
+      "signal": "reduce",
+      "signal_confidence": 0.62,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 53.1,
+        "growth_trend": 77.2,
+        "valuation": 43.5,
+        "sentiment": 57.7,
+        "technical": 44.1,
+        "risk_penalty": 46.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Growth] Revenue growth is decelerating QoQ"
+        ],
+        "risks": [
+          "High volatility (annualized)"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 17 negative articles in last 48 hours"
+        ],
+        "summary": "AMD scores 49/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 192.43,
+      "price_change_pct": -3.52,
+      "rank": 37
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Healthcare",
+      "composite_score": 48.4,
+      "signal": "reduce",
+      "signal_confidence": 0.61,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 56.9,
+        "growth_trend": 52.4,
+        "valuation": 50.0,
+        "sentiment": 68.0,
+        "technical": 62.6,
+        "risk_penalty": 43.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Sentiment] 17/24 recent articles are positive",
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters"
+        ],
+        "summary": "ABBV scores 48/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 230.11,
+      "price_change_pct": -0.96,
+      "rank": 38
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock Inc.",
+      "sector": "Financials",
+      "composite_score": 48.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.61,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 63.6,
+        "growth_trend": 56.4,
+        "valuation": 65.2,
+        "sentiment": 49.4,
+        "technical": 41.6,
+        "risk_penalty": 36.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Fundamentals] Healthy net margin of 16.1%"
+        ],
+        "risks": [
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "negative_news_cluster: 11 negative articles in last 48 hours"
+        ],
+        "summary": "BLK scores 48/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 955.45,
+      "price_change_pct": -7.17,
+      "rank": 39
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "sector": "Technology",
+      "composite_score": 48.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.6,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 55.9,
+        "growth_trend": 59.4,
+        "valuation": 51.0,
+        "sentiment": 65.3,
+        "technical": 49.2,
+        "risk_penalty": 44.8
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Sentiment] Neutral news sentiment"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 10 negative articles in last 48 hours"
+        ],
+        "summary": "AVGO scores 48/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 330.48,
+      "price_change_pct": -0.68,
+      "rank": 40
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific",
+      "sector": "Healthcare",
+      "composite_score": 47.9,
+      "signal": "reduce",
+      "signal_confidence": 0.6,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 65.2,
+        "valuation": 52.3,
+        "sentiment": 69.3,
+        "technical": 35.1,
+        "risk_penalty": 39.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Sentiment] 14/19 recent articles are positive",
+          "[Growth] EPS trending upward over recent quarters"
+        ],
+        "risks": [
+          "Low relative trading volume",
+          "[Technical] Trading 9% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods"
+        ],
+        "summary": "TMO scores 48/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 501.97,
+      "price_change_pct": -3.25,
+      "rank": 41
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc.",
+      "sector": "Technology",
+      "composite_score": 46.9,
+      "signal": "reduce",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 51.3,
+        "growth_trend": 59.5,
+        "valuation": 89.2,
+        "sentiment": 59.6,
+        "technical": 21.9,
+        "risk_penalty": 42.6
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Low relative trading volume",
+          "Significant drawdown in last 12 months",
+          "[Technical] Trading 9% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "negative_news_cluster: 5 negative articles in last 48 hours",
+          "price_breakdown: Price below declining 200-day SMA"
+        ],
+        "summary": "CRM scores 47/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 202.11,
+      "price_change_pct": 0.36,
+      "rank": 42
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot",
+      "sector": "Consumer Discretionary",
+      "composite_score": 46.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 42.3,
+        "valuation": 95.3,
+        "sentiment": 59.3,
+        "technical": 52.5,
+        "risk_penalty": 37.0
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Average valuation relative to sector"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "negative_news_cluster: 3 negative articles in last 48 hours"
+        ],
+        "summary": "HD scores 47/100 with a Exit Watch signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 357.92,
+      "price_change_pct": -1.04,
+      "rank": 43
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "sector": "Financials",
+      "composite_score": 45.3,
+      "signal": "reduce",
+      "signal_confidence": 0.51,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 51.1,
+        "growth_trend": 48.9,
+        "valuation": 74.7,
+        "sentiment": 66.2,
+        "technical": 47.6,
+        "risk_penalty": 51.4
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook",
+          "[Sentiment] 12/17 recent articles are positive"
+        ],
+        "risks": [
+          "Elevated debt-to-equity ratio",
+          "Low relative trading volume"
+        ],
+        "changes": [
+          "Signal overridden from Hold due to exit triggers"
+        ],
+        "exit_warnings": [
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods"
+        ],
+        "summary": "GS scores 45/100 with a Reduce signal. Risk level: High. Review position carefully."
+      },
+      "price": 821.42,
+      "price_change_pct": -1.68,
+      "rank": 44
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "sector": "Consumer Staples",
+      "composite_score": 43.7,
+      "signal": "exit",
+      "signal_confidence": 0.54,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 42.9,
+        "valuation": 59.4,
+        "sentiment": 51.9,
+        "technical": 63.8,
+        "risk_penalty": 31.5
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "No significant risk flags detected"
+        ],
+        "changes": [
+          "Signal overridden from Reduce due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 13 negative articles in last 48 hours"
+        ],
+        "summary": "WMT scores 44/100 with a Exit signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 123.8,
+      "price_change_pct": 0.4,
+      "rank": 45
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc.",
+      "sector": "Technology",
+      "composite_score": 38.1,
+      "signal": "exit",
+      "signal_confidence": 0.73,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.6,
+        "growth_trend": 51.1,
+        "valuation": 27.7,
+        "sentiment": 59.3,
+        "technical": 26.8,
+        "risk_penalty": 47.5
+      },
+      "explanation": {
+        "top_reasons": [
+          "Average performance across all dimensions"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Low relative trading volume",
+          "Significant drawdown in last 12 months",
+          "[Valuation] High P/E of 74.5",
+          "[Technical] Trading 29% below 200-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Reduce due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 4 negative articles in last 48 hours",
+          "price_breakdown: Price below declining 200-day SMA",
+          "peer_underperformance: Underperforming sector by 19% over 3 months"
+        ],
+        "summary": "NOW scores 38/100 with a Exit signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 124.34,
+      "price_change_pct": 3.29,
+      "rank": 46
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "composite_score": 37.0,
+      "signal": "exit",
+      "signal_confidence": 0.73,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 35.3,
+        "valuation": 75.8,
+        "sentiment": 56.7,
+        "technical": 26.6,
+        "risk_penalty": 55.9
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Valuation] Forward P/E suggests improving earnings outlook"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Significant drawdown in last 12 months",
+          "[Growth] EPS trending downward over recent quarters",
+          "[Technical] Trading 7% below 50-day SMA"
+        ],
+        "changes": [
+          "Signal overridden from Reduce due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 3 of last 3 quarters",
+          "revenue_deceleration: Revenue growth decelerating for 2 consecutive periods",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "price_breakdown: Price below declining 200-day SMA",
+          "peer_underperformance: Underperforming sector by 16% over 3 months"
+        ],
+        "summary": "UNH scores 37/100 with a Exit signal. Risk level: High. Review position carefully."
+      },
+      "price": 286.48,
+      "price_change_pct": -0.79,
+      "rank": 47
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp.",
+      "sector": "Technology",
+      "composite_score": 35.8,
+      "signal": "reduce",
+      "signal_confidence": 0.69,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 47.2,
+        "growth_trend": 56.7,
+        "valuation": 58.6,
+        "sentiment": 52.0,
+        "technical": 16.3,
+        "risk_penalty": 69.8
+      },
+      "explanation": {
+        "top_reasons": [
+          "Average performance across all dimensions"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Elevated debt-to-equity ratio",
+          "Frequent negative free cash flow",
+          "Significant drawdown in last 12 months",
+          "[Technical] Trading 10% below 50-day SMA"
+        ],
+        "changes": [
+          "No significant changes from previous day"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 19 negative articles in last 48 hours",
+          "price_breakdown: Price below declining 200-day SMA",
+          "peer_underperformance: Underperforming sector by 16% over 3 months"
+        ],
+        "summary": "ORCL scores 36/100 with a Reduce signal. Risk level: High. Review position carefully."
+      },
+      "price": 152.96,
+      "price_change_pct": -1.18,
+      "rank": 48
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc.",
+      "sector": "Technology",
+      "composite_score": 34.1,
+      "signal": "reduce",
+      "signal_confidence": 0.64,
+      "risk_level": "medium",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 38.4,
+        "growth_trend": 42.9,
+        "valuation": 15.1,
+        "sentiment": 56.3,
+        "technical": 44.1,
+        "risk_penalty": 35.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "Average performance across all dimensions"
+        ],
+        "risks": [
+          "[Fundamentals] Low debt-to-equity ratio of 0.18",
+          "[Valuation] High P/E of 364.0"
+        ],
+        "changes": [
+          "No significant changes from previous day"
+        ],
+        "exit_warnings": [
+          "negative_news_cluster: 10 negative articles in last 48 hours"
+        ],
+        "summary": "TSLA scores 34/100 with a Reduce signal. Risk level: Medium. Review position carefully."
+      },
+      "price": 396.73,
+      "price_change_pct": -2.17,
+      "rank": 49
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp.",
+      "sector": "Technology",
+      "composite_score": 33.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.61,
+      "risk_level": "high",
+      "score_delta": null,
+      "scores": {
+        "fundamentals": 26.3,
+        "growth_trend": 49.1,
+        "valuation": 51.1,
+        "sentiment": 53.8,
+        "technical": 67.3,
+        "risk_penalty": 62.3
+      },
+      "explanation": {
+        "top_reasons": [
+          "[Technical] Neutral technical setup"
+        ],
+        "risks": [
+          "High volatility (annualized)",
+          "Inconsistent earnings across recent quarters",
+          "Frequent negative free cash flow",
+          "[Fundamentals] Negative ROE of -0.5%"
+        ],
+        "changes": [
+          "Signal overridden from Reduce due to exit triggers"
+        ],
+        "exit_warnings": [
+          "earnings_deterioration: EPS declined in 2 of last 3 quarters",
+          "margin_compression: Operating margin compressed for 2 consecutive quarters",
+          "negative_news_cluster: 16 negative articles in last 48 hours"
+        ],
+        "summary": "INTC scores 33/100 with a Exit Watch signal. Risk level: High. Review position carefully."
+      },
+      "price": 43.42,
+      "price_change_pct": -5.51,
+      "rank": 50
+    }
+  ]
+}

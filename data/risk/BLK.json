@@ -1,0 +1,19 @@
+{
+  "ticker": "BLK",
+  "risk_level": "medium",
+  "overall_risk_score": 36.9,
+  "factors": {
+    "volatility": 39.0,
+    "debt_burden": 15.0,
+    "earnings_consistency": 8.2,
+    "cash_burn": 24.0,
+    "sector_risk": 50.0,
+    "sentiment_stability": 61.2,
+    "liquidity": 85.7,
+    "drawdown": 34.9,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "Low relative trading volume"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "ORCL",
+  "risk_level": "high",
+  "overall_risk_score": 69.8,
+  "factors": {
+    "volatility": 92.8,
+    "debt_burden": 90.0,
+    "earnings_consistency": 20.1,
+    "cash_burn": 96.0,
+    "sector_risk": 55.0,
+    "sentiment_stability": 60.6,
+    "liquidity": 62.5,
+    "drawdown": 100.0,
+    "concentration": 40.0
+  },
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Elevated debt-to-equity ratio",
+    "Frequent negative free cash flow",
+    "Significant drawdown in last 12 months"
+  ]
+}

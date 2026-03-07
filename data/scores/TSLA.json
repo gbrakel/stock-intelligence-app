@@ -1,0 +1,20 @@
+{
+  "ticker": "TSLA",
+  "history": [
+    {
+      "date": "2026-03-06",
+      "composite": 34.1,
+      "signal": "reduce",
+      "signal_confidence": 0.64,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 38.4,
+        "growth_trend": 42.9,
+        "valuation": 15.1,
+        "sentiment": 56.3,
+        "technical": 44.1,
+        "risk_penalty": 35.3
+      }
+    }
+  ]
+}
