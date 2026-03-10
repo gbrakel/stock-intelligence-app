@@ -2,6 +2,21 @@
   "ticker": "PEP",
   "history": [
     {
+      "date": "2026-03-09",
+      "composite": 56.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 69.0,
+        "growth_trend": 57.1,
+        "valuation": 83.3,
+        "sentiment": 64.4,
+        "technical": 68.4,
+        "risk_penalty": 42.0
+      }
+    },
+    {
       "date": "2026-03-06",
       "composite": 57.2,
       "signal": "exit_watch",
