@@ -2,6 +2,22 @@
   "ticker": "AVGO",
   "quarterly": [
     {
+      "period_end": "2026-01-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.55,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 4741000000.0
+    },
+    {
       "period_end": "2025-10-31",
       "revenue": 18015000000.0,
       "net_income": 8518000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-10-31",
       "revenue": 14054000000.0,
       "net_income": 4324000000.0,
-      "eps": 0.92,
+      "eps": null,
       "gross_margin": 0.6405293866514872,
       "operating_margin": 0.3518571225273943,
       "net_margin": 0.3076704141169774,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 9348000000.0,
       "roe": 0.06389077691421141,
       "roa": 0.026104017628060007,
-      "shares_outstanding": 4679000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 72.63655,
-    "forward_pe": 19.97412,
+    "pe_ratio": 66.91016,
+    "forward_pe": 19.644653,
     "ev_ebitda": 4.621,
-    "price_to_sales": 24.007723,
+    "price_to_sales": 23.78761,
     "peg_ratio": null,
-    "market_cap": 1639295352832,
+    "market_cap": 1624265457664,
     "enterprise_value": 171482251264
   }
 }

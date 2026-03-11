@@ -4,9 +4,9 @@
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "6 negative articles in last 48 hours"
+      "9 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "MSFT",
@@ -14,10 +14,10 @@
     "severity": 0.5,
     "triggers": [
       "Operating margin compressed for 2 consecutive quarters",
-      "12 negative articles in last 48 hours",
+      "6 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "NVDA",
@@ -25,9 +25,9 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "15 negative articles in last 48 hours"
+      "6 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "GOOGL",
@@ -37,9 +37,9 @@
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
       "Debt-to-equity increased 46% over recent quarters",
-      "14 negative articles in last 48 hours"
+      "9 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "META",
@@ -47,9 +47,9 @@
     "severity": 0.5,
     "triggers": [
       "Debt-to-equity increased 52% over recent quarters",
-      "10 negative articles in last 48 hours"
+      "7 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "AMZN",
@@ -57,9 +57,9 @@
     "severity": 0.55,
     "triggers": [
       "Operating margin compressed for 2 consecutive quarters",
-      "13 negative articles in last 48 hours"
+      "5 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "TSLA",
@@ -68,16 +68,16 @@
     "triggers": [
       "8 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "AMD",
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "8 negative articles in last 48 hours"
+      "5 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "CRM",
@@ -87,28 +87,28 @@
       "Debt-to-equity increased 59% over recent quarters",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "ORCL",
     "signal": "reduce",
     "severity": 0.43,
     "triggers": [
-      "16 negative articles in last 48 hours",
+      "12 negative articles in last 48 hours",
       "Price below declining 200-day SMA",
-      "Underperforming sector by 18% over 3 months"
+      "Underperforming sector by 19% over 3 months"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "ADBE",
     "signal": "reduce",
     "severity": 0.45,
     "triggers": [
-      "3 negative articles in last 48 hours",
+      "7 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "INTC",
@@ -117,20 +117,19 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
-      "16 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "AVGO",
     "signal": "exit_watch",
-    "severity": 0.57,
+    "severity": 0.55,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
-      "Operating margin compressed for 2 consecutive quarters",
-      "11 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "NOW",
@@ -140,10 +139,11 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
+      "3 negative articles in last 48 hours",
       "Price below declining 200-day SMA",
-      "Underperforming sector by 16% over 3 months"
+      "Underperforming sector by 18% over 3 months"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "UNH",
@@ -156,7 +156,7 @@
       "Price below declining 200-day SMA",
       "Underperforming sector by 16% over 3 months"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "JNJ",
@@ -166,7 +166,7 @@
       "EPS declined in 3 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "LLY",
@@ -174,19 +174,20 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "4 negative articles in last 48 hours"
+      "7 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "PFE",
     "signal": "exit_watch",
-    "severity": 0.6,
+    "severity": 0.57,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
-      "Operating margin compressed for 3 consecutive quarters"
+      "Operating margin compressed for 3 consecutive quarters",
+      "10 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "ABBV",
@@ -195,19 +196,18 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "MRK",
-    "signal": "exit",
-    "severity": 0.55,
+    "signal": "exit_watch",
+    "severity": 0.57,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
-      "Debt-to-equity increased 30% over recent quarters",
-      "3 negative articles in last 48 hours"
+      "Debt-to-equity increased 30% over recent quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "JPM",
@@ -216,9 +216,9 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "7 negative articles in last 48 hours"
+      "11 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "V",
@@ -229,7 +229,7 @@
       "Operating margin compressed for 2 consecutive quarters",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "MA",
@@ -240,7 +240,7 @@
       "Operating margin compressed for 2 consecutive quarters",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "BAC",
@@ -248,9 +248,9 @@
     "severity": 0.55,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
-      "3 negative articles in last 48 hours"
+      "11 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "GS",
@@ -260,27 +260,29 @@
       "Revenue growth decelerating for 2 consecutive periods",
       "5 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "BLK",
-    "signal": "reduce",
-    "severity": 0.6,
+    "signal": "exit_watch",
+    "severity": 0.55,
     "triggers": [
-      "EPS declined in 2 of last 3 quarters"
+      "EPS declined in 2 of last 3 quarters",
+      "3 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "WMT",
-    "signal": "exit_watch",
-    "severity": 0.57,
+    "signal": "exit",
+    "severity": 0.55,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "Operating margin compressed for 2 consecutive quarters"
+      "Operating margin compressed for 2 consecutive quarters",
+      "4 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "PG",
@@ -290,18 +292,19 @@
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "KO",
-    "signal": "exit_watch",
-    "severity": 0.57,
+    "signal": "exit",
+    "severity": 0.55,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "Operating margin compressed for 2 consecutive quarters"
+      "Operating margin compressed for 2 consecutive quarters",
+      "3 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "PEP",
@@ -311,36 +314,36 @@
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "COST",
     "signal": "exit_watch",
-    "severity": 0.53,
+    "severity": 0.55,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "Operating margin compressed for 2 consecutive quarters",
-      "3 negative articles in last 48 hours"
+      "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
-    "ticker": "MCD",
+    "ticker": "NKE",
     "signal": "reduce",
-    "severity": 0.5,
+    "severity": 0.4,
     "triggers": [
-      "3 negative articles in last 48 hours"
+      "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "HD",
-    "signal": "reduce",
-    "severity": 0.6,
+    "signal": "exit_watch",
+    "severity": 0.5,
     "triggers": [
-      "EPS declined in 2 of last 3 quarters"
+      "EPS declined in 2 of last 3 quarters",
+      "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "XOM",
@@ -350,9 +353,9 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 3 consecutive quarters",
-      "10 negative articles in last 48 hours"
+      "14 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "CVX",
@@ -361,9 +364,9 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 3 consecutive quarters",
-      "11 negative articles in last 48 hours"
+      "16 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "CAT",
@@ -372,7 +375,7 @@
     "triggers": [
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "BA",
@@ -382,9 +385,9 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
-      "4 negative articles in last 48 hours"
+      "7 negative articles in last 48 hours"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "UNP",
@@ -394,7 +397,7 @@
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "HON",
@@ -403,7 +406,7 @@
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "GE",
@@ -413,16 +416,17 @@
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 3 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "DIS",
     "signal": "reduce",
-    "severity": 0.4,
+    "severity": 0.45,
     "triggers": [
+      "4 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "NFLX",
@@ -431,10 +435,10 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
-      "5 negative articles in last 48 hours",
+      "7 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "CMCSA",
@@ -444,7 +448,7 @@
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "NEE",
@@ -454,7 +458,7 @@
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "AMT",
@@ -465,7 +469,7 @@
       "Operating margin compressed for 2 consecutive quarters",
       "Price below declining 200-day SMA"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   },
   {
     "ticker": "LIN",
@@ -474,6 +478,6 @@
     "triggers": [
       "Operating margin compressed for 2 consecutive quarters"
     ],
-    "detected_at": "2026-03-09"
+    "detected_at": "2026-03-10"
   }
 ]
