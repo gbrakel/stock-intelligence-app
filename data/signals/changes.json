@@ -1,44 +1,26 @@
 [
   {
-    "ticker": "MRK",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-10"
-  },
-  {
-    "ticker": "BLK",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-03-10"
-  },
-  {
-    "ticker": "WMT",
+    "ticker": "AVGO",
     "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-03-10"
+    "new_signal": "reduce",
+    "date": "2026-03-11"
+  },
+  {
+    "ticker": "TMO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-03-11"
   },
   {
     "ticker": "KO",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-03-10"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-03-11"
   },
   {
-    "ticker": "MCD",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-03-10"
-  },
-  {
-    "ticker": "NKE",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-03-10"
-  },
-  {
-    "ticker": "HD",
+    "ticker": "HON",
     "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-03-10"
+    "date": "2026-03-11"
   }
 ]

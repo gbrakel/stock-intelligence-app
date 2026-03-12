@@ -2,6 +2,83 @@
   "ticker": "PFE",
   "articles": [
     {
+      "headline": "/C O R R E C T I O N -- CorralData/",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d84a0a1e597507dbf05d28d69c95db3c84ffb194ff1d99880da023cd4d235d47",
+      "published_at": "2026-03-11T21:53:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stay informed about the most active stocks in the S&P500 index on Wednesday's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dae6609e2a37a2ca3559c99af1cb6307b700bb6a9c24332efb0f05a1815b27ab",
+      "published_at": "2026-03-11T19:05:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Be nimble, be ready: how to tackle regulatory uncertainty in clinical trials",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88b03d00fde9a665c72d0d82cc32ad40d6b17a7d756d44e8d67ba926950cddfa",
+      "published_at": "2026-03-11T16:41:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.839,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Health Care Roundup: Market Talk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c2fc9bb0d49acff86812e09fb58ed492ffdd7124d5c7b5611a25be2014d273c",
+      "published_at": "2026-03-11T16:40:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Regeneron: Fairly Valued Now After A Stellar Upswing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bcf7d3b87081de4248ff5309fe6b8c0b930d2958a00fdc7bffe13080306325e4",
+      "published_at": "2026-03-11T09:47:27",
+      "sentiment": "positive",
+      "sentiment_score": 0.875,
+      "sentiment_confidence": 0.875,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Does Pfizer (PFE) Offer Value After Post Pandemic Pipeline And Patent Concerns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3375a47a97a069c7677b898e0ddfe224095cd7ce36020c592a9c1282d71fe539",
+      "published_at": "2026-03-11T06:13:18",
+      "sentiment": "positive",
+      "sentiment_score": 0.575,
+      "sentiment_confidence": 0.575,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer: Cheap For A Reason",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b3c5821e2554644b35c99a4aae0c3b2e5d911e2c4b26a1c6be0d6b6931607f74",
+      "published_at": "2026-03-11T04:24:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.793,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BioNTech SE (BNTX) Q4 2025 Earnings Call Highlights: Strategic Advances Amidst Revenue Challenges",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a00c2d534ef798f9753ecc234b99be8c4f2c4aaec56a7fcbc04d9f6f4a6ac192",
@@ -57,6 +134,17 @@
       "event_type": null
     },
     {
+      "headline": "BridgeBio's Rare-Disease Pipeline Sparks Growth Buzz",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7d9bc93ec7b4c65b516dc3dde67fbaf948fe1f84d0006499f36bed5f1e326071",
+      "published_at": "2026-03-10T14:49:27",
+      "sentiment": "positive",
+      "sentiment_score": 0.859,
+      "sentiment_confidence": 0.859,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BioNTech Reports Earnings. That\u2019s Not Why the Stock Is Down 21%.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c984357ef8b3e04ce0b6e25ec19ceb70c6e7a8b0168b5cd3351f43893eb6d420",
@@ -64,6 +152,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.971,
       "sentiment_confidence": 0.971,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Iran war: Israel's president Herzog calls 'cost' for business the price for Middle East peace",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=03bb769a1dd49c53746ef90581eaefac441c9b06eb924dc3f5a95d1d8e0335bc",
+      "published_at": "2026-03-10T14:14:22",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.814,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.619,
       "sentiment_confidence": 0.619,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is BioNTech SE (BNTX) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0af83ae7cc999b423901279f5ebcd9278a68eae8dacf9c4899a09c8199e5704f",
-      "published_at": "2026-03-05T17:37:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.866,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer Bladder Cancer Trial Results Deepen Oncology Growth And Risk Debate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5806eec7f1c8d8edbbc035ea8048885ee31b4ee2799896f6ff5596468c6f0c6b",
-      "published_at": "2026-03-05T17:10:31",
-      "sentiment": "positive",
-      "sentiment_score": 0.933,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer (PFE) Down 0.6% Since Last Earnings Report: Can It Rebound?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed34f065cf31b091de7bf3ea87d749cf9979ff600aa1f287050aa8efda11b185",
-      "published_at": "2026-03-05T16:30:12",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Smart Money Is Betting Big In PFE Options",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=523a32007da5fc5fd5b22367c7d6c135a05a5430af9a39cc6e69636391ecc723",
-      "published_at": "2026-03-05T15:00:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.779,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why February's CPI Report Matters More Than Ever Amid War-Driven Inflation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3bb55dadc6b15022e67ddbe23fed5c9357ed6333dc83ff9918f4e1ba8fb2ff57",
-      "published_at": "2026-03-05T14:03:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.666,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Pfizer Reignite Growth Amid COVID Declines and Patent Expirations?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b430093c1a8bf6c8a5357bfea42fea0d9ae487ba94e5872e200ea46ca269ed2",
-      "published_at": "2026-03-05T13:45:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.537,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer: Obesity Hype And Vaccine Policy Shocks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ec042a3cb0bace31ea96c8bb251f4189d5bcde60d620b001f5e87f08f2aab541",
-      "published_at": "2026-03-05T06:00:58",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Argus Turns Bullish on Pfizer (PFE), Highlights GLP-1 and Oncology Pipeline",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f3a13279d84b97ba971acdcc306bb83c48290a8ac972fbef2c1546ca3e009b3",
-      "published_at": "2026-03-05T01:55:37",
-      "sentiment": "positive",
-      "sentiment_score": 0.592,
-      "sentiment_confidence": 0.592,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Global Nanomedicine Market is Projected to Cross the USD 550 Billion Mark by 2034 as Advanced Drug Delivery Technologies Accelerate Adoption | DelveInsight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=266bf665932ecf5ebb08eb308159e8361bdc5880c2a77314087a8565130671d7",
-      "published_at": "2026-03-04T23:01:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.893,
-      "sentiment_confidence": 0.893,
       "relevance_score": 1.0,
       "event_type": null
     }
