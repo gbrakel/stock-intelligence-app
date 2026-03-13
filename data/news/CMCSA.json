@@ -2,6 +2,39 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "Comcast to Expand its High-Speed Network to the Quad Cities, Bringing Advanced Technology Solutions to Businesses of All Sizes",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2bee88c63d1b5938913f6ce00e8cc06e1767ae54729093e1f25166bb3d48ca4",
+      "published_at": "2026-03-12T16:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.82,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Comcast NBCUniversal, Telemundo Station Group Partner With Soccer Forward to Deliver $600,000 in Grants to Nonprofits in FIFA World Cup 2026 (TM) Host Cities",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c1dad8a6d0681fd8541b88124cf59fc8f933445bcf551e15ce01458c7aa7ba6",
+      "published_at": "2026-03-12T16:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.848,
+      "sentiment_confidence": 0.848,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Comcast (CMCSA) Dipped More Than Broader Market Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cba565aedd4914594a2e60ba75eb3745a6e2e7371b3c6f546767470c6db5baa2",
+      "published_at": "2026-03-11T21:50:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.54,
+      "sentiment_confidence": 0.54,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Charter vs. Comcast: Which Cable Giant Is the Better Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e950e0dbdc031c0daece94905ff432db8bf7ffc39c3823d1c1fef13ae52a5d17",
@@ -9,6 +42,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Google sells partial stake in fiber business, becomes minority owner of new venture",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf90b61b5494edf04b9b821633bd95332dad6639394ef4626cceefb64817fd36",
+      "published_at": "2026-03-11T19:27:29",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.908,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.614,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "WBD and Paramount may have an easier time winning regulatory approval than Netflix",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=886bb180b8d99c4fa9282b56f0c0f5478a485fa6f9070d64f444057f49cf74b1",
-      "published_at": "2026-02-27T14:35:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.837,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "With Trump\u2019s apparent blessing, the Ellisons are amassing a media empire",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ff7f1093276ac2f551c36ac7630a430db3893bdafaf4d1efab53fa17f7ad441",
-      "published_at": "2026-02-27T13:38:34",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.815,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "EXCLUSIVE: Pok\u00e9mon 30th Anniversary Puts Focus On Brand, Nintendo Stake; YouTuber Leonhart Says 'Endless Possibilities' For Monetization",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ff4e6c23b4a7a1e1a62ce8dbc0ca6a2ef3c1cc44f077cf9482c1b1c4136b1b08",
-      "published_at": "2026-02-27T09:39:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.658,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix drops its WBD bid, Block layoffs, Anthropic's DOD deadline and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=1e980a4bcb1a75ea9b5266333e7fe4ded23ee74d7748beeba234b8656fd4f3fb",
-      "published_at": "2026-02-27T08:08:11",
-      "sentiment": "negative",
-      "sentiment_score": -0.949,
-      "sentiment_confidence": 0.949,
       "relevance_score": 1.0,
       "event_type": null
     }

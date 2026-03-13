@@ -2,6 +2,61 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Is Cisco Systems (CSCO) Still Reasonably Priced After Recent Share Price Pullback",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1119185699ea35ee75517aefc4d9600a5904c41b90bc5b4546c7b32cc19b5f94",
+      "published_at": "2026-03-12T20:11:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.947,
+      "sentiment_confidence": 0.947,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Zscaler Stock Plunges 34% in Three Months: Time to Exit or Hold Tight?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36bca342fd6bbb94c9be9c0fb27f78480b045aa7704d84769389988bc890fcd1",
+      "published_at": "2026-03-12T14:23:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.921,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Living Security Welcomes Edna Conway as Executive Advisor as AI-Native Human Risk Management Reaches Enterprise Inflection Point",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=747931e661b9a7a9a38a99051cafb2d1ab6157f4faee1938cdfa10e4fe7663ca",
+      "published_at": "2026-03-12T14:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.822,
+      "sentiment_confidence": 0.822,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Q2: The Valuation Makes No Sense",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d0d7c0806a03edb38f44f0ea11862d54d8acc7736c6665ac9d71870d887ed814",
+      "published_at": "2026-03-12T13:55:40",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.835,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Systems (CSCO) Rallies After Beat-and-Raise Quarter Driven by Networking and AI Momentum",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cf21a71ab0f893f92a49d923d11e91a274889871b26d9e308c09b4c0567f179",
+      "published_at": "2026-03-12T12:45:03",
+      "sentiment": "positive",
+      "sentiment_score": 0.841,
+      "sentiment_confidence": 0.841,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Axiamatic Launches With $54M from Greylock and Bessemer to End the Era of Failed Enterprise Transformations",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=655ec52f627b9ca78be6c7e87331d7ce0bac8de53c8feaaaea46e8c3994bb145",
@@ -218,6 +273,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.861,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Former Goldman Sachs CEO says DEI programs are \u2018counterproductive,\u2019 arguing \u2018you\u2019re branding the people in that program\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f46f219d7bedce781bd47b83b8e23883d47893ac1d4ab67d5cc09d9c4f4ef96",
+      "published_at": "2026-03-10T07:38:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.567,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.825,
       "sentiment_confidence": 0.825,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Cybersecurity ETF CIBR Belongs in Every Retirement Portfolio Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0a08540148de3d3e494f6afd7cc45b338b52ba1e2945093d1cffb0af18fefc4",
-      "published_at": "2026-03-04T22:23:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Forget Nvidia: This Networking Giant Just Landed $2.1 Billion in AI Orders, and Nobody\u2019s Talking About It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56dcdb13d2a367b35572b113c4487e4c5bd52dc72d74f23eaaa1fe7d13e89747",
-      "published_at": "2026-03-04T16:29:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.868,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia: Abnormal Returns Are A Thing From The Past",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3056945f06abbb335f45357994f31783bac470abb29277b6b14da8824d54ce86",
-      "published_at": "2026-03-04T15:47:13",
-      "sentiment": "negative",
-      "sentiment_score": -0.718,
-      "sentiment_confidence": 0.718,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "New Relic Announces Michael Frendo as Chief Technology Officer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=534ee02a5a123152e1d729513c12ee06b53c2bd93820c5bc6c0ed56ca19c3c78",
-      "published_at": "2026-03-04T14:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Cisco Is Nothing Like Its Dot-Com Self \u2014 And Could Hit $90 by 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b990377386c3d8a593f7d4a6e4fe103d4cdc7e91debf2fcf377aaf8fa8d5982",
-      "published_at": "2026-03-04T12:25:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Qualcomm leads new 6G coalition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6533cdeb3926229f6be7539753956aebe8e272cb9ab37ef1c73ed2767c9c099a",
-      "published_at": "2026-03-04T11:43:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.865,
       "relevance_score": 1.0,
       "event_type": null
     }

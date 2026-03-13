@@ -2,6 +2,94 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Dow Jones Futures: Indexes Tumble As Oil Prices Soar; Dell, Micron Lead 7 Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f41043d2520932f63cac5fb7aedb16d76ac7e1871f5f21b976638ae92bb5a62f",
+      "published_at": "2026-03-12T21:43:12",
+      "sentiment": "negative",
+      "sentiment_score": -0.826,
+      "sentiment_confidence": 0.826,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Qnity Stock Is the Worst in the S&P 500. Here\u2019s Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9bd0093dfbde43537a39c66c4dcf6ad7bedaf645e432e2e50094ade5c296559",
+      "published_at": "2026-03-12T17:34:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.852,
+      "sentiment_confidence": 0.852,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Deere, Caterpillar and 10 Other Stocks for an AI-Infused Blue Collar Renaissance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e29f434894d1d2d7c9cc41af0815d9a7db2635efbb8beff55ed0736a53f1f59",
+      "published_at": "2026-03-12T16:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.798,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making big moves yesterday: Saia, Oracle, Atlas Energy Solutions, IonQ, and Conagra",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbc6174477a6c46efe9468796245770ccb809e1ab45b50cf5f80602f53b09ac4",
+      "published_at": "2026-03-12T14:56:47",
+      "sentiment": "positive",
+      "sentiment_score": 0.515,
+      "sentiment_confidence": 0.515,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Atlas Energy to buy $840M in power assets from Caterpillar",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1033d076d907a0434eaacffbdc4bbf0017ccf1152a8e5729afdf97b7b1bfc1b",
+      "published_at": "2026-03-12T11:39:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.892,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street May Be Underestimating The Next Stock Market Rally, Goldman Sachs Says",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=168f9450ac66f6d1af0c4aecc1c6d488a145d2870cb0cdcc3d33ad7dea3020f0",
+      "published_at": "2026-03-12T10:24:36",
+      "sentiment": "negative",
+      "sentiment_score": -0.867,
+      "sentiment_confidence": 0.867,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar AI Rental Refresh Puts Services And Margins In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dd135d6a8e4142356707632c47c8864a01651d9abda1d1d204a0b947d3984d4",
+      "published_at": "2026-03-12T07:08:27",
+      "sentiment": "positive",
+      "sentiment_score": 0.893,
+      "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar (CAT) Suffers a Larger Drop Than the General Market: Key Insights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74a0e90c24c760bf21e33637131f18021da6b7350a05b78079c80d4b3a2b8af5",
+      "published_at": "2026-03-11T21:45:04",
+      "sentiment": "negative",
+      "sentiment_score": -0.851,
+      "sentiment_confidence": 0.851,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Total Energy Services Q4 Earnings Call Highlights",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=487d0ffaeda93830b27c7246d029b1ef48f6d46e1481234f05562db0076ca9a8",
@@ -31,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "$100 Invested In Caterpillar 15 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e050803c07ece9a7b0cc0fa4485ef28925773fc13ee2039737dc0ed73ec7b41c",
+      "published_at": "2026-03-11T18:30:39",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.887,
       "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Asia markets mostly rise as investors assess Iran conflict impact on energy supplies",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=fba07cbb38fa0ca7db1210cd9f1843e1169336eba20bff973a742f4898af52f6",
-      "published_at": "2026-03-05T18:46:13",
-      "sentiment": "positive",
-      "sentiment_score": 0.441,
-      "sentiment_confidence": 0.441,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow falls 500 points after Trump comments spike oil, surprise job loss in February: Live updates",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=0968b07f23a697a4df5bbd5aabed325c5c95f4e5e235905a1bc6a7219a7e530e",
-      "published_at": "2026-03-05T18:02:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.831,
-      "sentiment_confidence": 0.831,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here Are the Stocks Dragging the Dow Lower",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=584ff589d7c95626a924f67d9d1bf14c848977b6c87f72e9156f8790a5d216b8",
-      "published_at": "2026-03-05T16:35:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.84,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CalAmp To Appoint Maurizio Iperti as CEO Following Another Year of Strong Financial and Operational Performance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a991b0dcd0b031c5b4e4ef1ede6aaaf4da2fab836f98ffbb6a8139b3fd87e959",
-      "published_at": "2026-03-05T16:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.785,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Compact Construction Equipment Company Evaluation Report: Caterpillar, Doosan Bobcat and Kubota Strengthen Leadership with Electrified Machinery, Autonomous Technologies and Manufacturing Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a705685c8c2a77761e7dba889ee88bc844fb0399306e897576b3cef0c95f4182",
-      "published_at": "2026-03-05T14:14:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.954,
-      "sentiment_confidence": 0.954,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar Inc. (CAT) Discusses New Strategy and Leadership Transition in Construction Industries Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1690e9fe2bea35e70a80c77b04ba81a4fcc771e8a673110a7e6a73bfadabb6f7",
-      "published_at": "2026-03-05T13:55:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.768,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Industrials Stocks With Whale Alerts In Today's Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f1ddd8e42b0c7595d8467371deef7d2c9287306572440bc55b9ba03b02ca9364",
-      "published_at": "2026-03-05T13:35:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.864,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar Expands AI Machinery And Low Carbon Power Story For Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00853f7917082a4899da6d5cc94f27b669468538f283b16f941a8b310ae68e55",
-      "published_at": "2026-03-05T12:15:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.821,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar: A High-Quality Cyclical Company With An Extreme Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f6f5e3dd308af6c249e1692a0e715da0df3c557dcb2a48ce56cfa89ca314adeb",
-      "published_at": "2026-03-05T11:21:21",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.874,
       "relevance_score": 1.0,
       "event_type": null
     }
