@@ -2,6 +2,94 @@
   "ticker": "BA",
   "articles": [
     {
+      "headline": "1 Dow Jones Stock with Impressive Fundamentals and 2 That Underwhelm",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e90510c75aeaa6875e79dd599d759eefb2e33c8c7470d91806efc6c93d1ca033",
+      "published_at": "2026-03-13T23:15:42",
+      "sentiment": "positive",
+      "sentiment_score": 0.592,
+      "sentiment_confidence": 0.592,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What to Know About the Air Force Refueling Tanker That Crashed in Iraq",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa468ca8c60c64f022e992aadbe1d88ab7f47e8a0fa05ce5d0b9129f4b6f5368",
+      "published_at": "2026-03-13T20:14:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.858,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Repairs Wiring Issue in 737 MAX Jets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d4058f7851be3f7076a7642885e06b2d0644f48bfa7b005ee07c55058414a4c",
+      "published_at": "2026-03-13T18:58:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.94,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Meta AI model delays, GDP growth slows, Boeing 737 Max jet delays",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c96ec6c6087e8eee4af474ad26fbd33802046a89c0905171f71341d6c5ba7102",
+      "published_at": "2026-03-13T18:33:12",
+      "sentiment": "negative",
+      "sentiment_score": -0.906,
+      "sentiment_confidence": 0.906,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Stock Rises on $2.43 Billion U.S. Air Force Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45a7106db9290baa64c8436c86a95188141377c9896d270373310e1212209834",
+      "published_at": "2026-03-13T17:18:24",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "sentiment_confidence": 0.65,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Contracts Get $2.49 Bil. Update; KC-135s Collide Over Iraq",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=547b114caa20f0db7190a8427a33289b3d9a0d4b5964227336d1fbf7182d8075",
+      "published_at": "2026-03-13T13:44:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.77,
+      "sentiment_confidence": 0.77,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing: New 737 MAX Problem, Stock Down Despite Solid Delivery Performance",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c3d70d41ce326e1edd0053f3de80d072a1e3a590cece43aba85a8dd0602bc15",
+      "published_at": "2026-03-13T11:13:30",
+      "sentiment": "negative",
+      "sentiment_score": -0.972,
+      "sentiment_confidence": 0.972,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "All six crew members killed in KC-135 refueling plane crash in Iraq, U.S. military says",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=965beaefa669cd3050316e58c880b70ab4113de4a0b31bd2e0caa035fb6d686f",
+      "published_at": "2026-03-12T22:41:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.899,
+      "sentiment_confidence": 0.899,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Astronics Selected to Supply Fuel Tank Access Doors for Boeing 737 MAX",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e1ffb434dd33842563b5041a948a4f09c226654abf597b2d814f0e6aa3c12f90",
@@ -35,6 +123,28 @@
       "event_type": null
     },
     {
+      "headline": "Astronics Selected To Provide Fuel Tank Access Doors For Boeing 737 MAX",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0767518c961c97f2315c5ff69d822d9beb1aec5db6a62b000a65c93608d01c19",
+      "published_at": "2026-03-12T16:27:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.544,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sam Altman faced 'serious questions' in meeting with lawmakers about OpenAI's defense work",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4da9d309dd5937c7a996761a9672608c31ce8a52cecf4f7142a48d029f630206",
+      "published_at": "2026-03-12T16:14:30",
+      "sentiment": "negative",
+      "sentiment_score": -0.634,
+      "sentiment_confidence": 0.634,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Boeing\u2019s New Israel Deal Highlights Defense Strength Versus Commercial Challenges",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=12d7245b708f8e75422449863a499d0422a3586994050b12140dddb9898890e1",
@@ -53,6 +163,28 @@
       "sentiment": "positive",
       "sentiment_score": 0.796,
       "sentiment_confidence": 0.796,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of aircraft production companies are trading lower as the Middle East conflict drives inflationary concerns surrounding fuel and raw materials prices. Also, future demand for passenger jets may also come under pressure.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a04fc97c66503cf4a56fbdf2499325429183537e487516836a5c852e4c0dda9d",
+      "published_at": "2026-03-12T13:00:56",
+      "sentiment": "negative",
+      "sentiment_score": -0.971,
+      "sentiment_confidence": 0.971,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Shares Lower As Rework On 737 MAX Jets Could Delay Deliveries",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ba6a84e5472e32213d48a5b7fc9330c9a3b1b098e762e995be8206caecb7493f",
+      "published_at": "2026-03-12T11:12:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.966,
+      "sentiment_confidence": 0.966,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -416,138 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.814,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trump Trade: White House announces Executive Order to combat cybercrime",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a4fa83f1fa3e5f9c038f49b4ff136e7c1b2535e0245a9e1dbffba59deb0ad526",
-      "published_at": "2026-03-10T14:07:38",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.757,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why This Defense ETF Could Keep Rallying as the Iran Conflict Escalates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de2d285fdb8d3589564b4a47998c46f364826eeda78609973c936c909fb537a5",
-      "published_at": "2026-03-10T13:38:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.765,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "7 Industrials Stocks With Whale Alerts In Today's Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=29fead7f775e666573a0d4b0c0d9e03af3f5ed1f2fd72a680af55d9560a2eeba",
-      "published_at": "2026-03-10T13:35:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.84,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing Stock Rises 13.2% in 3 Months: Is There More Room for Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be3e559a6b78c2d289dd3f446df08591321b1ec0f160398160b8c5c41b2e221a",
-      "published_at": "2026-03-10T12:41:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.891,
-      "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pentagon Moves to Secure Rare Earth Metals for Next-Gen Weapons",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=030dfaa438d68bc8a04300c3f5e2aa2b11ccb1f6bb4ebbd0e23cfc1bb1c499ef",
-      "published_at": "2026-03-10T12:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.835,
-      "sentiment_confidence": 0.835,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks to Watch Tuesday: Joby, Nio, HPE, Kohl's",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7b87803a59ef1df3ea28bcea32046977d3589af7c1408de94e85021c7d403e0",
-      "published_at": "2026-03-10T12:28:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=cac75b3894b29ee0ae1513c070b8e1bc0f97049ab53afe36ce9134a580a8e939",
-      "published_at": "2026-03-10T12:00:14",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.907,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Boeing Says 737 Program Is Performing Rework On A Group Of Airplanes To Fix Wires That Have Small Scratches Due To A Machining Error; Production Of New 737 Max Airplanes Continues At Existing Rate; Expect Some Near-Term Delivery Delays That May Affect Our Deliveries Of 737 Max In The First Quarter;  Do Not Currently Expect Issue To Impact Our Year-end Delivery Total Of 737 Max Airplanes' - Seattle Times",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cb8e55ef3c332b29a34dae99bf0cd2d847bec3514c325e222cefb11ccc4abd91",
-      "published_at": "2026-03-10T11:43:24",
-      "sentiment": "negative",
-      "sentiment_score": -0.935,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Boeing Says Wiring Flaws Will Slow Some 737 MAX Deliveries; Plane Maker Found Scratched Wiring On Jets; Fixes Could Curb March Deliveries' - WSJ",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e89326b468eb70af70a426e6f7247660a68989c4ec08a01580f999115c5b4ebf",
-      "published_at": "2026-03-10T11:06:28",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing Says In Feb Booked 21 Gross Orders & Had 6 Cancellations; Delivered 51 Airplanes In February",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=77da4d2c441692bc04374148566791e41503d05f254993cb7c57d689e41f3a91",
-      "published_at": "2026-03-10T11:02:47",
-      "sentiment": "negative",
-      "sentiment_score": -0.909,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Astara Capital Expands Operating Partner Team",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=659f014cece83471a2a236ce2dd05af3ee2d11c2871f598a5a9ee4ec2dc7fe5b",
-      "published_at": "2026-03-10T11:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.897,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=ad03bd6af76685a363b13c4ba6fb3c57888f7c942993b1cb41268c5ceb1355f2",
-      "published_at": "2026-03-10T08:10:09",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.807,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,39 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Option traders moderately bearish in Coinbase with shares down 1.65%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad3b55ecec71ea0d2df28f689a054203f666919aaf4f45f3e7cdd799d9d6f865",
+      "published_at": "2026-03-13T17:16:52",
+      "sentiment": "negative",
+      "sentiment_score": -0.972,
+      "sentiment_confidence": 0.972,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "U.S. companies should give Trump tariff refunds to workers as bonuses or raises: Greer",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ebcaf82a879cd3745feac0864bbd400bebc111cd5ad029902c90133702353bfc",
+      "published_at": "2026-03-13T13:18:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Home Depot, Inc. (HD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45407a98b46731f19905eeeeeae5454f093b99ba3543cc7528efc05b1d6b92d2",
+      "published_at": "2026-03-13T13:00:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "US CPI Up 0.3% in February: Consumer Discretionary ETFs to Watch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1212ff680c71a39fd9886b5ee6c5be6522e697c0d070f3a7f7dee8f050017c40",
@@ -515,39 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.499,
       "sentiment_confidence": 0.499,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Lags As Trump Says This On Iran; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=780d0a2ed0db5ba05dea8377c31c0b06e7894118d6dc0ada0c6968a82de847bd",
-      "published_at": "2026-03-02T18:29:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.594,
-      "sentiment_confidence": 0.594,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Nasdaq Up After U.S.-Iran Attacks; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=142298bf5a403b0ac85564ee681b22988a9bc7ae741904ef076082dc7c7639cc",
-      "published_at": "2026-03-02T17:43:38",
-      "sentiment": "positive",
-      "sentiment_score": 0.654,
-      "sentiment_confidence": 0.654,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones leads modest retreat as Wall Street aloof to Iran war",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4c7d8f71efbc3d72cb90c24ad1915bfdfa29220559dab21c68e1e3a2c2d906b",
-      "published_at": "2026-03-02T15:00:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.811,
-      "sentiment_confidence": 0.811,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,21 @@
   "ticker": "ORCL",
   "history": [
     {
+      "date": "2026-03-13",
+      "composite": 39.9,
+      "signal": "reduce",
+      "signal_confidence": 0.67,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 49.3,
+        "growth_trend": 56.7,
+        "valuation": 56.5,
+        "sentiment": 63.9,
+        "technical": 28.7,
+        "risk_penalty": 69.4
+      }
+    },
+    {
       "date": "2026-03-12",
       "composite": 38.9,
       "signal": "reduce",
