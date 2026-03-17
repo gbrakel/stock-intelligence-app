@@ -2,6 +2,39 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Morgan Stanley Lifts Price Target on Honeywell International Inc. (HON) to $245, Reiterates Equal Weight Rating",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e482196fdd492c5a6bc7548380e44d3f740cfb267b35d9e1ecbe8d35262ea56",
+      "published_at": "2026-03-16T11:03:21",
+      "sentiment": "positive",
+      "sentiment_score": 0.748,
+      "sentiment_confidence": 0.748,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is Honeywell International Inc. (HON) A Good Stock To Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4be3f525c243d8382a3893b8dab27a0171e118fceab217c4db8fb02b21726b4",
+      "published_at": "2026-03-16T01:15:51",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell Collaboration Puts AI Battery Manufacturing On Investors\u2019 Watch List",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=620ecd8d61c9eb93cff6a85dd28999305cb34d9fb113eb6d8d7264cd8d91f427",
+      "published_at": "2026-03-14T13:09:49",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.872,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Here's Why Honeywell International Inc. (HON) Fell More Than Broader Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=79d38c0d2e169aa99e8fe24200b3599cd1e9f1365357d6b7363b82b140d561c9",
@@ -9,6 +42,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.945,
       "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6dc0e65d01b90f27c5a510b75e03fd2b32ea621b312a6272c60ba2f31ab67b4e",
+      "published_at": "2026-03-12T16:36:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.938,
+      "sentiment_confidence": 0.938,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -101,6 +145,17 @@
       "event_type": null
     },
     {
+      "headline": "Dow's 161-point rally highlighted by gains in Cisco, Caterpillar stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e752f761b86a652aa2696980fca5bbb3df80dd29dd57088034204aa07ee38106",
+      "published_at": "2026-03-10T14:27:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.867,
+      "sentiment_confidence": 0.867,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Trump Trade: White House announces Executive Order to combat cybercrime",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a4fa83f1fa3e5f9c038f49b4ff136e7c1b2535e0245a9e1dbffba59deb0ad526",
@@ -108,6 +163,39 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.757,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar, Cisco share gains lead Dow's 414-point jump",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=36482cc7182afb0cd77777a1e99b9c38d655180a76a4e8396d3cf6c630f4a8d3",
+      "published_at": "2026-03-10T13:23:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.749,
+      "sentiment_confidence": 0.749,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's nearly 300-point rally highlighted by gains for shares of Cisco, Caterpillar",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=65c6301c1d1a31811ac64e61860921872531ba6c825c16a0d67975b8c939b314",
+      "published_at": "2026-03-10T11:50:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.879,
+      "sentiment_confidence": 0.879,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco, 3M share gains lead Dow's 160-point climb",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=62f3a8d0adca4175b413097f80e6d4c2490288e7bc2e1d64ce94a8b05eda1054",
+      "published_at": "2026-03-10T10:46:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.852,
+      "sentiment_confidence": 0.852,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Digital Utility Industry Report 2026-2035, Profiles of ABB, Accenture, Capgemini, Cisco, Cognizant, Eaton, GE, Honeywell, IBM, Itron, Microsoft, Oracle, SAP, Schneider Electric, Siemens, Toshiba",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=117edc172dbd2837a225841a5209847f31bc7f95e2d3b3ef06b59dbda48b1013",
-      "published_at": "2026-03-03T11:36:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "$20+ Bn Connected Worker Global Market Forecasts 2025-2030 with Zebra Technologies, Honeywell International, Microsoft, and Hexagon Dominating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=423810935fec0bc3ca3e43e5a294461593662768ed632d51d58ee79d90dd4c55",
-      "published_at": "2026-03-03T09:06:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.511,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Files Form 10 With SEC For Planned Spin-Off Of Honeywell Aerospace, Which Will Trade On Nasdaq Under Ticker HONA",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=32a50235bf5b823d4e0221176a0999605bd800baf5946f667f8e7655a7ed5499",
-      "published_at": "2026-03-03T08:16:39",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer Highlights Norwegian Cruise Line as a Strategic Target for Disney",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2683322bb9887d3f44e5354fa70787405f404d46e31f1706497c05930ca92c3d",
-      "published_at": "2026-03-03T05:54:11",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.607,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Honeywell International (HON) Pricing In Its Strong Multi\u2011Year Share Price Performance?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81eb034ab72d572e9a52699220c1936e763690665b73f9925ae28bc4bdb10b8a",
-      "published_at": "2026-03-02T23:13:50",
-      "sentiment": "positive",
-      "sentiment_score": 0.8,
-      "sentiment_confidence": 0.8,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Dips As Trump Says This On Iran; Warren Buffett Stock Flashes Sell Signal (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe29d5467c5cfa82630e5ebabe24ed39822249cc3b736041d6cd0d779b557ab4",
-      "published_at": "2026-03-02T21:37:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.859,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Lags As Trump Says This On Iran; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=780d0a2ed0db5ba05dea8377c31c0b06e7894118d6dc0ada0c6968a82de847bd",
-      "published_at": "2026-03-02T18:29:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.594,
-      "sentiment_confidence": 0.594,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's Why You Should Retain Honeywell Stock in Your Portfolio",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=416621d546f5fdb40d85bc64cac5ae56a2fecffaf957335e8f93a768d351ac9c",
-      "published_at": "2026-03-02T17:53:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
       "relevance_score": 1.0,
       "event_type": null
     }

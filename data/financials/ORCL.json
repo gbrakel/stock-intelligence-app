@@ -2,6 +2,22 @@
   "ticker": "ORCL",
   "quarterly": [
     {
+      "period_end": "2026-02-28",
+      "revenue": 17190000000.0,
+      "net_income": 3721000000.0,
+      "eps": 1.29,
+      "gross_margin": 0.645607911576498,
+      "operating_margin": 0.32792321116928447,
+      "net_margin": 0.2164630599185573,
+      "free_cash_flow": -11484000000.0,
+      "total_debt": 153117000000.0,
+      "total_equity": 39051000000.0,
+      "cash_and_equivalents": 38455000000.0,
+      "roe": 0.09528565209597706,
+      "roa": 0.015172891861034089,
+      "shares_outstanding": 2874000000.0
+    },
+    {
       "period_end": "2025-11-30",
       "revenue": 16058000000.0,
       "net_income": 6135000000.0,
@@ -67,25 +83,9 @@
     },
     {
       "period_end": "2024-11-30",
-      "revenue": 14059000000.0,
-      "net_income": 3151000000.0,
-      "eps": 1.13,
-      "gross_margin": 0.7094387936553098,
-      "operating_margin": 0.3083434099153567,
-      "net_margin": 0.2241268938046803,
-      "free_cash_flow": -2666000000.0,
-      "total_debt": 88624000000.0,
-      "total_equity": 14236000000.0,
-      "cash_and_equivalents": 10941000000.0,
-      "roe": 0.2213402641191346,
-      "roa": 0.02122128459150206,
-      "shares_outstanding": 2790000000.0
-    },
-    {
-      "period_end": "2024-08-31",
       "revenue": null,
       "net_income": null,
-      "eps": 1.06,
+      "eps": 1.13,
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": null,
@@ -95,7 +95,7 @@
       "cash_and_equivalents": null,
       "roe": null,
       "roa": null,
-      "shares_outstanding": 2761000000.0
+      "shares_outstanding": 2790000000.0
     }
   ],
   "annual": [
@@ -181,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 29.156013,
-    "forward_pe": 19.499115,
-    "ev_ebitda": 20.488,
-    "price_to_sales": 6.957367,
+    "pe_ratio": 29.317669,
+    "forward_pe": 19.565413,
+    "ev_ebitda": 20.167,
+    "price_to_sales": 6.9959416,
     "peg_ratio": null,
-    "market_cap": 445800251392,
-    "enterprise_value": 586294493184
+    "market_cap": 448271974400,
+    "enterprise_value": 577119911936
   }
 }
