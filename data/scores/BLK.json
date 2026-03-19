@@ -2,6 +2,21 @@
   "ticker": "BLK",
   "history": [
     {
+      "date": "2026-03-18",
+      "composite": 48.2,
+      "signal": "reduce",
+      "signal_confidence": 0.61,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 63.6,
+        "growth_trend": 56.4,
+        "valuation": 65.2,
+        "sentiment": 53.0,
+        "technical": 38.0,
+        "risk_penalty": 39.5
+      }
+    },
+    {
       "date": "2026-03-17",
       "composite": 47.7,
       "signal": "exit_watch",
