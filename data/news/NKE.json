@@ -2,6 +2,83 @@
   "ticker": "NKE",
   "articles": [
     {
+      "headline": "Will Costco's famous hot dog combo stay at $1.50? CEO tells all",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffad8320c3b477bce7cd317b909991653b48f06c850084afabf77a7d32023461",
+      "published_at": "2026-03-19T18:09:42",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nike faces muted expectations ahead of earnings as UBS flags soft sales trends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e7010a0281a7e1e110f7def0c27a0e68b5ab7506bbb527b8593193748ae8a8f",
+      "published_at": "2026-03-19T18:05:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.96,
+      "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sector Update: Consumer Stocks Decline Thursday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba19fef79383c87ebcd3d2c621b9fca7111912f6c9b9a92f0d89aca7cf8d3148",
+      "published_at": "2026-03-19T17:37:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Market Madness: Why JPMorgan, McDonald's are slam dunk stock picks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a568041b67489f8605705050829cafa000c64d6771c65c666c86ffd1636f3af6",
+      "published_at": "2026-03-19T16:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.857,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "CNBC Sport: This year's March Madness will test the health of Cinderella",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0324d7e2de5b3039b5056e934df56d88a1fcd48bcbf0382843f3b52bca83c027",
+      "published_at": "2026-03-19T12:54:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia To $323? Here Are 10 Top Analyst Forecasts For Thursday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9f4991d3c4399a6626fa1038ac3a290d37657c01725019b8d113add58ed28389",
+      "published_at": "2026-03-19T09:25:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BTIG Maintains Buy on Nike, Lowers Price Target to $90",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=309be3a80430c4c02fff64015cd0357335b1f4f1aab91c4df0744fcf213551e9",
+      "published_at": "2026-03-19T08:31:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.471,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Nitesh Sharan Joins Quantinuum as Chief Financial Officer",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3d29f45f981ef888bfb10c4b14d1b58f4effc687f79dbabe336d38a78795454c",
@@ -9,6 +86,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nike Inc. Cl B stock underperforms Wednesday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4ecfed597912f6cd33107c2f287d2d3e7a71e53d50636457d8ecd951e624d739",
+      "published_at": "2026-03-18T16:42:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.943,
+      "sentiment_confidence": 0.943,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=214eb64179030accc4fdbc20e4bebc8be2b34012547f45ec232804acb55c4b6c",
+      "published_at": "2026-03-18T13:35:25",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.818,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -64,6 +163,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.901,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Goldman Sachs, Walt Disney share gains contribute to Dow's 250-point climb",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2d1d72263ebda11fe3af48f68483cf6c60360e522caf9a5ee4b09106bdcfc5d3",
+      "published_at": "2026-03-17T10:46:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.891,
+      "sentiment_confidence": 0.891,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -152,6 +262,39 @@
       "sentiment": "negative",
       "sentiment_score": -0.955,
       "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 475-point rally led by gains for Salesforce, NVIDIA Corp. stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=605c549ae9b835640eba29fadddbc48e619fad4c0735659a81b529cb69a06eb7",
+      "published_at": "2026-03-16T14:40:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.914,
+      "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Salesforce, NVIDIA Corp. share gains contribute to Dow's nearly 350-point jump",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a8053efb202652369ac9f69f1e951edbb21d1eec53ee0a1c3e6ec49e7003f206",
+      "published_at": "2026-03-16T12:48:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.916,
+      "sentiment_confidence": 0.916,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Goldman Sachs, Salesforce share gains lead Dow's 510-point rally",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e9935dd8667e4164ae27af6e4b3839b6c46857361437d2f18ad66641c5ee88c9",
+      "published_at": "2026-03-16T11:47:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.839,
+      "sentiment_confidence": 0.839,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -299,6 +442,17 @@
       "event_type": null
     },
     {
+      "headline": "Dow's 700-point drop led by losses in shares of Goldman Sachs, Boeing",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c015735a921f2a22c0974c63a53949b01813c0f344189a5feef0e75a21915199",
+      "published_at": "2026-03-12T15:53:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.965,
+      "sentiment_confidence": 0.965,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Investors Heavily Search NIKE, Inc. (NKE): Here is What You Need to Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=25f5825d6da87e11e11c6837c44d2a5825057fd9242b15fd5033e49b869c464b",
@@ -306,6 +460,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing, 3M share losses contribute to Dow's 585-point fall",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fd8a985513a31148ce93ac3357d4061976c1b457ef49a16d5f8682d63b7dd5d3",
+      "published_at": "2026-03-12T12:14:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.966,
+      "sentiment_confidence": 0.966,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -383,171 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike's Stock Gets an Upgrade. Barclays Says It's Likely Reached a 'Fundamental Bottom.'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2e8b4b5a0a7a010752227fdcadcc9acbd4a5c014e0a2dc6093779e66e233ce6",
-      "published_at": "2026-03-11T21:13:23",
-      "sentiment": "negative",
-      "sentiment_score": -0.546,
-      "sentiment_confidence": 0.546,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Stock Upgraded On Turnaround Efforts, Analyst Sees 30% Premium",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23acb7474077ce44ca4727a43a5958c6524d6103bd1838a7e4cdc7289c816ae1",
-      "published_at": "2026-03-11T20:53:13",
-      "sentiment": "positive",
-      "sentiment_score": 0.948,
-      "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Barclays' Adrienne Yih upgrades Nike",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=3523599f33569198a6f04001bde1b216a6eebfd75b7b9a0d04c4130afe182913",
-      "published_at": "2026-03-11T16:59:12",
-      "sentiment": "positive",
-      "sentiment_score": 0.433,
-      "sentiment_confidence": 0.433,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Stock Gets an Upgrade.  Investors Are Too Skeptical, It\u2019s Time to Buy, Analyst Says.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a79b2d71eb5fa43d4a0018d393627eb5f9de4bcf6b32be9a4b60e93062cbc34f",
-      "published_at": "2026-03-11T15:42:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.856,
-      "sentiment_confidence": 0.856,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oracle, Nike, Casey's General Stores: Top Analyst Calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0616aade7ca2c366d06b22ff9402f0f06b306de612a0948b76170b5ded85c05",
-      "published_at": "2026-03-11T15:17:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Barclays Upgrades NIKE (NKE)",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=d2aba2f4868aa832ced0c06eb83d24f46d1f1fbe432d1779b5c4d1cd7c1e4fda",
-      "published_at": "2026-03-11T14:20:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Among Dow Leaders On Upgrade, Analyst Sees 30% Premium",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa64e80bb82f6119fb1eea95f49455e11b1fca7d08771c257d3166a5c8954ef7",
-      "published_at": "2026-03-11T13:55:07",
-      "sentiment": "positive",
-      "sentiment_score": 0.784,
-      "sentiment_confidence": 0.784,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oracle, Nike upgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0222bf96c9b5337babfcbec3fe2b0db0ef5fc460033006df4f201b3b7b6617d9",
-      "published_at": "2026-03-11T13:40:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.716,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These S&P500 stocks are moving in today's pre-market session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=73161d1f53bdc7dabcc099893178f4a75ee0dc9705f208b3075e3d492e361ec0",
-      "published_at": "2026-03-11T13:35:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.851,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Leads Dow On Upgrade, Analyst Sees 30% Premium",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a3646f716a40c69a05c023bc31ca334dd4034e2f77e5a81646861d0651ae57d",
-      "published_at": "2026-03-11T12:34:19",
-      "sentiment": "positive",
-      "sentiment_score": 0.92,
-      "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks making the biggest moves midday: Oracle, Papa John's, Nebius, Campbell's, Serve Robotics, Cadre and more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=fcc4c91a9971c90abc0b1c39bd7752b7ca20cc976b6f801c964a5a97a1c27b0d",
-      "published_at": "2026-03-11T12:18:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike stock rises 2% as Barclays upgrades NKE to Overweight on \u2018fundamental bottom\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6923574f0ef84eccd8610dd1d0635703d51c1f7fe4096c1c019ae9cee7a822fc",
-      "published_at": "2026-03-11T11:47:12",
-      "sentiment": "positive",
-      "sentiment_score": 0.562,
-      "sentiment_confidence": 0.562,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: CrowdStrike, Harley-Davidson, Intuitive Surgical, Medline, Nike, Oracle, Planet Fitness, Vici Properties, and More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df15a4cb3db9fc42d32ba2ce3d458159444b58ac8639f6eae5e156cb48d84276",
-      "published_at": "2026-03-11T11:45:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Stock Rises Wednesday: What's Happening?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e53b480dcf2b68674fb79da9819d6752d59fe83fbcf3978f021f2f5bfc57a859",
-      "published_at": "2026-03-11T11:04:19",
-      "sentiment": "negative",
-      "sentiment_score": -0.674,
-      "sentiment_confidence": 0.674,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These Stocks Are Today\u2019s Movers: Oracle, Diamondback Energy, Nike, Blue Owl, AeroVironment, and More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cf7a033e59432003d6886863ec9e892cc5fa751c3377a72fbc6bfeb74697167",
-      "published_at": "2026-03-11T10:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }
