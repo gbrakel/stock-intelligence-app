@@ -2,6 +2,39 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Top Stock Reports for NVIDIA, Caterpillar & KLA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc7dd24ece20f28acd0ce6718a786b274f351598a1d9d5b0bb1d6cc9caad6a3b",
+      "published_at": "2026-03-20T20:23:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar vs. Komatsu: Which Equipment Stock Has the Edge Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07aa3d81a333e30a5866a8a25234140fbf8e21a51090070580fc78d8bd6600a0",
+      "published_at": "2026-03-20T14:39:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.9,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Goldman Sachs Large Cap Value Fund: Q4 2025 Portfolio Attribution And Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f36f15faaa486306eccdb06af30ab86379656f0a90bb03319e06751f3555ef6",
+      "published_at": "2026-03-20T06:20:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stock Market Today: Russell 2000 Leads As Market Claws Back Earlier Losses; Bank, Energy Stocks Up (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d03f7997efb520467b96fd9412a59ef032c740b96a7f57d6db80efa796f0cef9",
@@ -515,39 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.954,
       "sentiment_confidence": 0.954,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Goldman Sachs Large Cap Equity Fund Q4 2025 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=825dc8af17cbaf89190204c8d0fe372906c502c243fab0f5ddcc25523f1d41cc",
-      "published_at": "2026-03-11T09:36:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar Power Deal With Atlas Highlights Energy Growth And Investor Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7c83d79e969ba8ee0573c89cb54daee00655b8638d3c34b6a217f5930acbb59",
-      "published_at": "2026-03-11T03:14:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.777,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Powering AI: Europe switches on its first microgrid-connected data center",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=f1954d9f980ac009b31d517f616aa7bf66034f13365f7cc40b71f91340f62f47",
-      "published_at": "2026-03-11T02:00:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.794,
       "relevance_score": 1.0,
       "event_type": null
     }

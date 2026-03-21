@@ -1,14 +1,44 @@
 [
   {
-    "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-19"
+    "ticker": "META",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-20"
   },
   {
-    "ticker": "BLK",
+    "ticker": "CRM",
     "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-03-20"
+  },
+  {
+    "ticker": "CSCO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-03-20"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-20"
+  },
+  {
+    "ticker": "TMO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-03-20"
+  },
+  {
+    "ticker": "COST",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-20"
+  },
+  {
+    "ticker": "CMCSA",
+    "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-03-19"
+    "date": "2026-03-20"
   }
 ]

@@ -2,6 +2,72 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Should You Sell Moody\u2019s (MCO) Amid AI Disruption Fears?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=742d6a2ce1e1b8e6c1a478ff2a304c7231b25c38a4b824848609867194ab9feb",
+      "published_at": "2026-03-20T20:32:35",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.796,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UiPath's Debt-Free Balance Sheet Fuels Strategic Flexibility",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22c4c9fa1b58ecd2b295aa9f6765ce746037ec3dcb869ae9fc9d23a7728b38a0",
+      "published_at": "2026-03-20T17:48:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.852,
+      "sentiment_confidence": 0.852,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A Look At ServiceNow (NOW) Valuation After Analyst Upgrade And New AI Partnerships",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8ca4ebd6af040915121bf5056bd9a0cdddfc416f7cef18376f13c040c51aa72",
+      "published_at": "2026-03-20T15:07:49",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.915,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Salesforce: AI Is Not The Problem, Architecture Is",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60cdfdff418fe8913fcc0457cd37116defd37a34c6a370ebf56ed4ae72cb4794",
+      "published_at": "2026-03-20T11:30:29",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b07aed5c5aa0fac5546736fdc18496bc0570ea28e2068c85508a124c8ebe98bc",
+      "published_at": "2026-03-20T03:57:45",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Apollo's Sambur says software's AI troubles will persist, noting the 'very large unknowns'",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0f8aeea46fe12215d10d5b9af3c2855a3afb87887c422310fd191592f43c76a3",
+      "published_at": "2026-03-19T19:17:10",
+      "sentiment": "negative",
+      "sentiment_score": -0.893,
+      "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Metaverse Was a $100 Billion Flop. It Should Make Us Think Twice About AI Predictions.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1c60888146a0d8549d4cbe67ee8cf9f488e9fa5909aae2437f35b46d23f2cb56",
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.683,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Consumer Tech News (Mar 9-13): Trump Administration Sues California Over Emissions Targets, Nvidia Announces $26B AI Investment & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2572090736198773ff5e9640f7e905504de847c3f2c6c98aa1440504458fc311",
-      "published_at": "2026-03-15T09:20:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.531,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow (NOW), Cohesity Partner for Real-Time AI Agent Resilience",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4896f0d420b1c9546620a912eb6a04fb88ed006b927f1f40a942257204934a5d",
-      "published_at": "2026-03-15T08:53:55",
-      "sentiment": "positive",
-      "sentiment_score": 0.531,
-      "sentiment_confidence": 0.531,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow Expands AI Reach Into Government And Telecom As Valuation Lags",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=802e40d0127a39dcf3e247750e02907c83cfca91f25df9a5336bc8564dd52b6d",
-      "published_at": "2026-03-15T02:07:55",
-      "sentiment": "positive",
-      "sentiment_score": 0.814,
-      "sentiment_confidence": 0.814,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow (NOW) Launches New AI-Powered Government Solutions to Automate Public Sector Workflows",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5afbabc8bad8918a5cb65e03d6366cc59cb47ce438bc5bb7d1b886d2cd91e1c8",
-      "published_at": "2026-03-14T07:15:32",
-      "sentiment": "positive",
-      "sentiment_score": 0.708,
-      "sentiment_confidence": 0.708,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=515a4c8b463c9c58629eddc571347b97ab6ada6898f06cf880506aea4340e5f1",
-      "published_at": "2026-03-14T06:36:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.885,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is PATH Stock a Hold After Q4 Beat, Buybacks, and Margin Gains?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df3feefd3dca5277152fdbd09502c698032b18948f8c682b62eb8a40adab1177",
-      "published_at": "2026-03-13T18:51:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.713,
       "relevance_score": 1.0,
       "event_type": null
     }

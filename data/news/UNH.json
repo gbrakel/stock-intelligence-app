@@ -2,6 +2,72 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Market Madness: Palantir, Walmart, & other hot stock picks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f4dda3e6ef85b24ebd5cc975168a638104d4c164ecfbc5a43d963249e807587",
+      "published_at": "2026-03-20T21:13:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth Group (UNH) Announces National Expansion of Doula Offering",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27bdd0c17c7af353a1af3d6cf0ac36a9e01c2e9bb9ef9002964127d3d4faad69",
+      "published_at": "2026-03-20T20:34:56",
+      "sentiment": "positive",
+      "sentiment_score": 0.566,
+      "sentiment_confidence": 0.566,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Zacks Analyst Blog Highlights Procter & Gamble, UnitedHealth, Wells Fargo and  Seneca Foods",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1fe87d5486bf09020f00c4449ca288a59514512e8c3cfc3f75ded3334d4af7b9",
+      "published_at": "2026-03-20T14:04:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.947,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Goldman Sachs Large Cap Value Fund: Q4 2025 Portfolio Attribution And Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f36f15faaa486306eccdb06af30ab86379656f0a90bb03319e06751f3555ef6",
+      "published_at": "2026-03-20T06:20:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth Group (UNH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d33e8e24840f1c17fa6684c2cc890b9022be4988e1c0c1ae3e2a8b6338bd6b7",
+      "published_at": "2026-03-19T21:45:05",
+      "sentiment": "negative",
+      "sentiment_score": -0.59,
+      "sentiment_confidence": 0.59,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top Research Reports for Procter & Gamble, UnitedHealth & Wells Fargo",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89f46e57a46c54329ebcdf523d9541cbff672bd9ee323be7c2e9e7dc75a8fe60",
+      "published_at": "2026-03-19T20:08:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Evolent announces appointment of Archie Mayani as chief product officer",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=14da2f0144e7581672a1080e2ddf910d3969a4f579d1e8b0bebfce331419a73d",
@@ -9,6 +75,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Warren Buffett, Markwayne Mullin Bet On The Same 10 Stocks \u2013 Some Might Surprise You",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=90f8585eb24b5b74e4fd0815f0c88e617adceff590d25fb6e63903a8ffa8a780",
+      "published_at": "2026-03-19T12:06:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.912,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.948,
       "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "8 Health Care Stocks With Whale Alerts In Today's Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4505f4f06e48e7f61ba39f8e661df7d9a7a7703e6846a34792986d9ee8fc9d71",
-      "published_at": "2026-03-10T13:35:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow falls nearly 150 points on losses in shares of Salesforce, IBM",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=fc22ddda3db1018d74336c70e2dae2701838569075cc0c276295c881fadb6813",
-      "published_at": "2026-03-10T09:45:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.962,
-      "sentiment_confidence": 0.962,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Industrial Average Monitor Update: A Look At 30 U.S. Large-Caps",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f37bca7beb74a54df0627892e72b5c346dbc6b9d987ed978f764a1fa8a2eb745",
-      "published_at": "2026-03-10T05:26:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.882,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UNH Deploys AI in Optum Rx to Tackle Pharmacy Fraud and Cost Leakage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe72b3a1f72ce1a24a3e9779a56f58a724516578a93672130dba71a5d06e827d",
-      "published_at": "2026-03-09T15:56:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.715,
-      "sentiment_confidence": 0.715,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Healthcare Jobs Drop, UnitedHealth Stock Slips: Opportunity or Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11e94100dafd3f77b52ca4ffeb6cbfe1ff57edae7677682ca610b0f965c951ea",
-      "published_at": "2026-03-09T15:08:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.914,
-      "sentiment_confidence": 0.914,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "When to talk to AI chatbots about mental health\u2014and when to stay far away, professionals say",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=cf8b75c6b9ccb42dbb7a56885969b1dc54e2cc7d47b8fb4dbf70ba022688260f",
-      "published_at": "2026-03-07T09:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (March 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3a24cc66843f2f5bb9b0f1a857b2d9c157108cdb85410f146f10361a96f759d5",
-      "published_at": "2026-03-07T08:15:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.875,
-      "sentiment_confidence": 0.875,
       "relevance_score": 1.0,
       "event_type": null
     }
