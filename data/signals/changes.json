@@ -1,44 +1,56 @@
 [
   {
-    "ticker": "META",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-03-20"
-  },
-  {
     "ticker": "CRM",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-03-20"
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-03-23"
   },
   {
     "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-03-20"
-  },
-  {
-    "ticker": "ABBV",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-03-20"
-  },
-  {
-    "ticker": "TMO",
     "previous_signal": "reduce",
     "new_signal": "hold",
-    "date": "2026-03-20"
+    "date": "2026-03-23"
+  },
+  {
+    "ticker": "LLY",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-23"
+  },
+  {
+    "ticker": "BAC",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-23"
   },
   {
     "ticker": "COST",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-03-20"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-03-23"
   },
   {
-    "ticker": "CMCSA",
+    "ticker": "MCD",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-03-23"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-23"
+  },
+  {
+    "ticker": "BA",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-03-20"
+    "date": "2026-03-23"
+  },
+  {
+    "ticker": "NFLX",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-03-23"
   }
 ]

@@ -2,6 +2,39 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "AbbVie\u2019s ABBV-295 Obesity Data Opens New Non Incretin Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c893fa96ebb00331b5405d3b1a6e25d977e75e043a3f46c4678cdf75243a527e",
+      "published_at": "2026-03-23T21:06:53",
+      "sentiment": "positive",
+      "sentiment_score": 0.547,
+      "sentiment_confidence": 0.547,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why AbbVie Stock Looks Like a Dirt Cheap Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1723e4ac4998dd3d6db208a55faa790fbf8e152447d5a85b7580998f4dc37666",
+      "published_at": "2026-03-23T18:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer on Johnson & Johnson: \u201cIt\u2019s a Textbook Slowdown Stock\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce411adaa1424f664beadda32f27b455f650e7c466dc0fb98226bc3333ecd639",
+      "published_at": "2026-03-21T16:31:22",
+      "sentiment": "negative",
+      "sentiment_score": -0.856,
+      "sentiment_confidence": 0.856,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Market\u2019s Favorite Active ETF Was Made for This Moment. Is It Delivering?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5d1f13eccb8f5190123fd7a52ae1bee9ed04455732467e3f87c981a76150574b",
@@ -86,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.549,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie Inc. stock underperforms Thursday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a409a7a3d745394d99d275726239e649672f611b9d8826bc80be49ef5c9aa1a2",
+      "published_at": "2026-03-19T16:31:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.941,
+      "sentiment_confidence": 0.941,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie Inc. stock underperforms Thursday when compared to competitors",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=cbf5b0e3a424f7f74342388da0df27f65bb9569a6271e2a71ecde598f0f67946",
-      "published_at": "2026-03-12T16:31:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Avalo Therapeutics CEO Teases Q2 Top-Line Data for AVTX-009 Phase 2b HS LOTUS Trial at Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8568b0da7eec5e875a910549b1474437d60b57a8e5ebbb3fb13d1c9c8b8c0e79",
-      "published_at": "2026-03-12T13:53:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.9,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UCB\u2019s Bimzelx bests Skyrizi in Phase III PsA study, but analysts sceptical",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b2ea8f43aa8179e2e094c9fe0e90750491a15770ef1f677ce20310673baa3fc",
-      "published_at": "2026-03-12T12:48:58",
-      "sentiment": "positive",
-      "sentiment_score": 0.665,
-      "sentiment_confidence": 0.665,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Says AbbVie Inc. (ABBV) Growth Story Is Still in Early Stages",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07757ba0df2aed7864d954f4d4980586688cbf1d807afe04ff9c3b657f05e5f2",
-      "published_at": "2026-03-12T06:26:39",
-      "sentiment": "positive",
-      "sentiment_score": 0.92,
-      "sentiment_confidence": 0.92,
       "relevance_score": 1.0,
       "event_type": null
     }
