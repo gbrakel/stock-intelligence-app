@@ -2,6 +2,72 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Home Depot to open 12 new US stores in 2026. See where.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9305b01ae20f67678306daad395932b0d5635831088eec859b106840ade9cae",
+      "published_at": "2026-03-24T23:36:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "IBM and Salesforce Lead Dow Down More Than 350 Points",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf914cd2d2fee92479993cbc47f1a5821f8b5601a007249e6717eb11fa686b66",
+      "published_at": "2026-03-24T16:45:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.971,
+      "sentiment_confidence": 0.971,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot unit SRS to acquire HVAC distributor Mingledorff\u2019s",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=670082d0bc42df2328669c79179a7544f9013662d946e541591d8df937048342",
+      "published_at": "2026-03-24T15:32:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.924,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f314315574a0dc5bf6ec8ca08d52047e8ab4e33acd6fa1c8a493ac84189c4986",
+      "published_at": "2026-03-24T13:00:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Home Depot Subsidiary SRS Distribution Enters into Agreement to Acquire Wholesale HVAC Distributor Mingledorff's",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3806b26e671151bd933c666f8cf46e5c53d5502c267ac749c5d545094071921",
+      "published_at": "2026-03-24T12:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.685,
+      "sentiment_confidence": 0.685,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Home Depot beefs up digital shopping experience for pros",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9596af7bf4dd4fd668b23aebb9f4cd53f04c1816454e2a93ee38627f515567be",
+      "published_at": "2026-03-24T10:11:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.536,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "54-year-old Home Depot rival closes store, no bankruptcy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c62dc391ddd5e3b7078f29cda70de9befbf985be2a7db3b308ffac03711b08c9",
@@ -90,6 +156,28 @@
       "event_type": null
     },
     {
+      "headline": "Small Caps Rally, Oil Sinks 8% After Trump's 5-Day Iran Strike Pause: What's Moving Markets Monday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=38686f6b0aa401fb860aa66bf8422c06f014d51a5a07bc82babc405803886e08",
+      "published_at": "2026-03-23T13:18:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.826,
+      "sentiment_confidence": 0.826,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of homebuilders and housing-related stocks are trading higher as Treasury yields retract following President Trump's suspension of U.S. strikes on Iran's power and energy infrastructure for five days.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1e946fee7756ce0a2df41e9f34672d9e56171205643901a9bf285e3bd3178916",
+      "published_at": "2026-03-23T12:19:38",
+      "sentiment": "positive",
+      "sentiment_score": 0.605,
+      "sentiment_confidence": 0.605,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "SKYX Platforms Highlights Plug-and-Play Smart Ceiling Tech, Pushes for Mandatory WSCR Code Status",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3c1be1dec9de2e2648fd1dc6bf0d594e16eb31598b98d4fdbab22b7b6a33fbe3",
@@ -163,17 +251,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Shares of homebuilders and housing-related stocks are trading lower as Treasury yields climb, driven by rising oil prices amid the ongoing Middle East conflict. The increase in energy prices is fueling inflation concerns, which could lead to higher borrowing costs and weigh on housing affordability and demand.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2c8696fafca546bb47dc86fc99fedd7db8ac47bff563a7117986475150325cff",
-      "published_at": "2026-03-20T12:14:31",
-      "sentiment": "negative",
-      "sentiment_score": -0.972,
-      "sentiment_confidence": 0.972,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.953,
       "sentiment_confidence": 0.953,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "US CPI Up 0.3% in February: Consumer Discretionary ETFs to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1212ff680c71a39fd9886b5ee6c5be6522e697c0d070f3a7f7dee8f050017c40",
-      "published_at": "2026-03-12T14:13:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.682,
-      "sentiment_confidence": 0.682,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trump tariffs: Martin Heinrich bill would give families tax rebate for higher import costs",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=4cb4b4f9e12a81b82145ddf416429149caefb9e76acc0f9732c79b8c405d9fc2",
-      "published_at": "2026-03-12T11:00:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.605,
-      "sentiment_confidence": 0.605,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Assessing Home Depot (HD) Valuation After Loss Prevention Headlines And Softer Home Improvement Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72556b6e971be4b003f59f3df5d316e93246f8d8cd45420a3af568bcbb611078",
-      "published_at": "2026-03-12T10:12:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.437,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "March 2026 Trading Outlook: Fiscal Flows, Oil, Bank Credit, And Fed Interest Rates",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b8ec32a50affa9b8c061ab4e704b318e2f39d50e169426ab5abd87771e626f68",
-      "published_at": "2026-03-12T09:48:38",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Market Finally Pricing In Recession - 2 Dividend Stocks To Weather The Storm",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1d6815b327bea5727211364c257aaef32fc478819faee6593ba503a428281914",
-      "published_at": "2026-03-12T07:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.801,
-      "sentiment_confidence": 0.801,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot launches game-changing feature for certain customers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30378852e8fe163cfbbb3050f33b18bef53289e3ccf9dabe3f70edce6ae983ac",
-      "published_at": "2026-03-11T21:33:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.862,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's How Much You Would Have Made Owning Home Depot Stock In The Last 15 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=35351d30a6f853252eae93fa0566bfef0af02204353e346e191364b6ee742073",
-      "published_at": "2026-03-11T17:15:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
       "relevance_score": 1.0,
       "event_type": null
     }
