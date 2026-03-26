@@ -1,7 +1,7 @@
 [
   {
     "ticker": "AAPL",
-    "composite_score": 55.2,
+    "composite_score": 55.5,
     "signal": "reduce",
     "risk_level": "medium"
   },
@@ -13,31 +13,31 @@
   },
   {
     "ticker": "NVDA",
-    "composite_score": 64.0,
+    "composite_score": 63.6,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "GOOGL",
-    "composite_score": 54.8,
+    "composite_score": 49.5,
     "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "META",
-    "composite_score": 54.1,
+    "composite_score": 52.2,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "AMZN",
-    "composite_score": 47.2,
+    "composite_score": 48.1,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "TSLA",
-    "composite_score": 34.4,
+    "composite_score": 35.1,
     "signal": "reduce",
     "risk_level": "medium"
   },
@@ -49,19 +49,19 @@
   },
   {
     "ticker": "CRM",
-    "composite_score": 47.9,
-    "signal": "reduce",
+    "composite_score": 49.3,
+    "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "ORCL",
-    "composite_score": 37.2,
+    "composite_score": 36.0,
     "signal": "reduce",
     "risk_level": "high"
   },
   {
     "ticker": "ADBE",
-    "composite_score": 47.1,
+    "composite_score": 47.6,
     "signal": "reduce",
     "risk_level": "medium"
   },
@@ -73,103 +73,103 @@
   },
   {
     "ticker": "AVGO",
-    "composite_score": 48.6,
+    "composite_score": 48.5,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "CSCO",
-    "composite_score": 48.1,
+    "composite_score": 49.1,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "NOW",
-    "composite_score": 39.0,
+    "composite_score": 39.8,
     "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "UNH",
-    "composite_score": 39.2,
+    "composite_score": 39.1,
     "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "JNJ",
-    "composite_score": 56.5,
+    "composite_score": 55.2,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "LLY",
-    "composite_score": 51.0,
+    "composite_score": 51.2,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "PFE",
-    "composite_score": 49.6,
+    "composite_score": 50.3,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "ABBV",
-    "composite_score": 43.8,
+    "composite_score": 44.9,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "MRK",
-    "composite_score": 55.0,
-    "signal": "exit_watch",
+    "composite_score": 55.1,
+    "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "TMO",
-    "composite_score": 53.9,
+    "composite_score": 53.3,
     "signal": "hold",
     "risk_level": "medium"
   },
   {
     "ticker": "JPM",
-    "composite_score": 49.9,
+    "composite_score": 49.4,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "V",
-    "composite_score": 56.9,
+    "composite_score": 57.1,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "MA",
-    "composite_score": 51.4,
-    "signal": "exit",
+    "composite_score": 51.1,
+    "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "BAC",
-    "composite_score": 49.3,
+    "composite_score": 51.2,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "GS",
-    "composite_score": 42.4,
+    "composite_score": 43.1,
     "signal": "exit_watch",
     "risk_level": "high"
   },
   {
     "ticker": "BLK",
-    "composite_score": 48.3,
+    "composite_score": 48.5,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "WMT",
-    "composite_score": 51.7,
+    "composite_score": 50.4,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
@@ -181,7 +181,7 @@
   },
   {
     "ticker": "KO",
-    "composite_score": 52.7,
+    "composite_score": 52.8,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
@@ -193,109 +193,109 @@
   },
   {
     "ticker": "COST",
-    "composite_score": 53.1,
+    "composite_score": 53.0,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "MCD",
-    "composite_score": 46.2,
+    "composite_score": 47.2,
     "signal": "hold",
     "risk_level": "medium"
   },
   {
     "ticker": "NKE",
-    "composite_score": 57.7,
+    "composite_score": 58.2,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "HD",
-    "composite_score": 44.4,
+    "composite_score": 45.5,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "XOM",
-    "composite_score": 62.4,
+    "composite_score": 63.2,
     "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "CVX",
-    "composite_score": 55.7,
+    "composite_score": 54.9,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "CAT",
-    "composite_score": 54.4,
+    "composite_score": 53.6,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "BA",
-    "composite_score": 47.9,
+    "composite_score": 48.8,
     "signal": "exit",
     "risk_level": "high"
   },
   {
     "ticker": "UNP",
-    "composite_score": 57.2,
+    "composite_score": 57.4,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "HON",
-    "composite_score": 46.4,
+    "composite_score": 47.9,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "GE",
-    "composite_score": 55.1,
+    "composite_score": 56.9,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "DIS",
-    "composite_score": 50.6,
+    "composite_score": 50.5,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "NFLX",
-    "composite_score": 53.5,
-    "signal": "exit_watch",
+    "composite_score": 53.7,
+    "signal": "exit",
     "risk_level": "medium"
   },
   {
     "ticker": "CMCSA",
-    "composite_score": 53.0,
+    "composite_score": 53.1,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "NEE",
-    "composite_score": 70.5,
+    "composite_score": 70.3,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "AMT",
-    "composite_score": 62.6,
+    "composite_score": 59.7,
     "signal": "exit_watch",
     "risk_level": "medium"
   },
   {
     "ticker": "LIN",
-    "composite_score": 66.7,
+    "composite_score": 67.8,
     "signal": "reduce",
     "risk_level": "medium"
   },
   {
     "ticker": "APD",
-    "composite_score": 53.3,
+    "composite_score": 54.0,
     "signal": "hold",
     "risk_level": "high"
   }

@@ -1,44 +1,26 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-03-24"
+    "ticker": "CRM",
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-03-25"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-25"
   },
   {
     "ticker": "MA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-03-24"
-  },
-  {
-    "ticker": "BAC",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-03-24"
-  },
-  {
-    "ticker": "COST",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-03-24"
-  },
-  {
-    "ticker": "HD",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-03-24"
+    "date": "2026-03-25"
   },
   {
-    "ticker": "CAT",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-03-24"
-  },
-  {
-    "ticker": "BA",
+    "ticker": "NFLX",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-03-24"
+    "date": "2026-03-25"
   }
 ]
