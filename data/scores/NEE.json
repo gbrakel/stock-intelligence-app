@@ -2,6 +2,21 @@
   "ticker": "NEE",
   "history": [
     {
+      "date": "2026-03-26",
+      "composite": 70.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.67,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 53.3,
+        "valuation": 100.0,
+        "sentiment": 71.8,
+        "technical": 71.5,
+        "risk_penalty": 32.2
+      }
+    },
+    {
       "date": "2026-03-25",
       "composite": 70.3,
       "signal": "exit_watch",

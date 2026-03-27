@@ -2,6 +2,61 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Cisco Expands AI Agentic Security Portfolio: Will the Tech Deliver?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1eb099891b7be3195a4cca8cf38f420d55c9c8b3f5d742b8c60a76a2e58e6ce3",
+      "published_at": "2026-03-26T18:38:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.858,
+      "sentiment_confidence": 0.858,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stock Market Today: Dow Drops As Trump's War Comments Hit Stocks; Oil Surges (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3af469283dcf9f6889afe9dcc58c16fd2b32facdbb26a998c9cbc45bf2089f2c",
+      "published_at": "2026-03-26T17:45:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.928,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow opens up but Nasdaq falls as oil surges, Trump says Iran 'better get serious'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc2d495032883f5e7ea30726653bc6663dc7aad980d9649e8ad280c98024ec23",
+      "published_at": "2026-03-26T14:00:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.92,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Advanced Micro Devices Retreats After a 7% Rally: Can the Linux CIQ Partnership Keep AMD Competitive?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6247357b05dbadefe46347c82297839920bbf8f022b934f3a17c1659e0e9faf8",
+      "published_at": "2026-03-26T13:19:26",
+      "sentiment": "positive",
+      "sentiment_score": 0.741,
+      "sentiment_confidence": 0.741,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nanya Technology shares surge 10% after $2.5 billion private placement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb2acafe3bdd172938835f228ee09db1b2e4918514e99a6a3fe2e5c9d0f05288",
+      "published_at": "2026-03-26T01:10:04",
+      "sentiment": "positive",
+      "sentiment_score": 0.932,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AT&T Inc. (T) Leads Industry Collaboration with NVIDIA and Cisco",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c1f74ea8aa6343e502f1de8e677d564cdf3c445452eff48b4980f6a663a7ab7b",
@@ -9,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.771,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Systems Inc. stock outperforms competitors on strong trading day",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b54eea445aa1b78eab220df96c812244e3cec8c06a45c34f64b04f391d1bfe9d",
+      "published_at": "2026-03-25T16:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.939,
+      "sentiment_confidence": 0.939,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -152,6 +218,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.712,
       "sentiment_confidence": 0.712,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart, Nike share gains lead Dow's nearly 200-point jump",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=74223ac40e505577443c135ab4b478cdc5bf2b2ca7494a7f1e61caac9c6db32b",
+      "published_at": "2026-03-24T11:50:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.882,
+      "sentiment_confidence": 0.882,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.946,
       "sentiment_confidence": 0.946,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FTEC: Technology Dashboard For March",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=829e86224c8f3b16a4e8288dd65785c3c9dfe7a58fc1526639cb629cea0a53f3",
-      "published_at": "2026-03-18T06:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco\u2019s 400G Alliance Ties AI Data Centers To Valuation Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7370b61b6834595083fc248e285d4193439311c60c6fc22f0dedfae47b917c4b",
-      "published_at": "2026-03-18T01:09:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.815,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Global Extended Detection and Response (XDR) Market Size/Share Worth USD 6.1 Billion by 2034 at a 21% CAGR: Business Research Industry (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35aced0a76f9e7a2a0312c9e1d2d6204b192814f9ef6d3d81edf1c21493aa451",
-      "published_at": "2026-03-17T20:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Inc. (CSCO): Billionaire Ken Fisher Reignites Interest in Long-Term Holding",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f636b30716129eacf564ebdab8d91f44cfdccf7056dabdc6b3f06cd3f4cb695",
-      "published_at": "2026-03-17T20:21:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.607,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 ETFs Have Similar Names. Their Performances Couldn\u2019t Be More Different.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca8579f035d59f2f100bf3d69f83bc13ec5789f8a422cc2e44ea28cc46bec5e1",
-      "published_at": "2026-03-17T19:54:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CSCO Taps NVIDIA to Drive Secure AI at the Edge: More Upside Ahead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f710973b32b115f74fa4286b2910b14cfb10f06f05a0ad4b8ca1532abdacc73f",
-      "published_at": "2026-03-17T18:47:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.758,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Duke Energy Clean Energy Program Exceeds Enrollment Targets in North Carolina",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2f0d7411a8034acfa934a85e2a7f6f168e8bb94eb6211473af4d9b96c8918ed",
-      "published_at": "2026-03-17T18:05:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.944,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }

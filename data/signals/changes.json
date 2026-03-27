@@ -1,26 +1,32 @@
 [
   {
-    "ticker": "CRM",
+    "ticker": "LLY",
     "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-03-25"
+    "new_signal": "exit_watch",
+    "date": "2026-03-26"
   },
   {
-    "ticker": "MRK",
+    "ticker": "V",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-03-25"
+    "date": "2026-03-26"
   },
   {
     "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-25"
-  },
-  {
-    "ticker": "NFLX",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-03-25"
+    "date": "2026-03-26"
+  },
+  {
+    "ticker": "BAC",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-03-26"
+  },
+  {
+    "ticker": "AMT",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-26"
   }
 ]
