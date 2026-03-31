@@ -2,6 +2,105 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd110a056fe3ed7c5e1bda15b171363156dae13995ed3aab060c9c1c800af06a",
+      "published_at": "2026-03-30T21:45:04",
+      "sentiment": "negative",
+      "sentiment_score": -0.917,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nasdaq, S&P 500 Fall For Third Day, Oil Prices Rise as Iran War Enters Fifth Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf5890af053b0aa69607cd0ad9474f950f4ece671b61ad7d52d001ce39e0026b",
+      "published_at": "2026-03-30T20:45:50",
+      "sentiment": "negative",
+      "sentiment_score": -0.814,
+      "sentiment_confidence": 0.814,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stock Market Today: Dow Up As Software Gains; This Aluminum Stock Soars Amid Iran Attacks (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72c58ef9a7eab9b9cabcdfb433f3ee4dc99ded15cb3c8f3cbf40be93a14b70d",
+      "published_at": "2026-03-30T15:11:17",
+      "sentiment": "positive",
+      "sentiment_score": 0.898,
+      "sentiment_confidence": 0.898,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Alaska Air sinks on fuel prices, Iran strike boosts aluminum stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d7d6d78aa4e00c6c091e22154abb86b2774d87b49abab000f59f2e2fde1664a",
+      "published_at": "2026-03-30T14:54:50",
+      "sentiment": "negative",
+      "sentiment_score": -0.83,
+      "sentiment_confidence": 0.83,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Low-Volatility Promise of ACWV Costs Investors 118% Over a Decade Compared to SPY",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e3df51d9efda8f9fef79bcf3fab9585f7f24f50b7f211699652afb0341ab3fe",
+      "published_at": "2026-03-30T13:15:25",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.773,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Market Week Ahead: Scarcity Narratives And Naval Tactics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3f2db23d6162dc90e2674abd814c06157c3ae468d79456c5b299ff9494a0788",
+      "published_at": "2026-03-28T14:57:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.857,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fed Chair Powell's Speech In Focus, Nike To Report Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=082a9372924ec6246431e067a4667c8ad1730f7770bcd72f34db4b2396055fe3",
+      "published_at": "2026-03-28T11:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Broadcom Expands AI Story With Symantec CBX And 400G Optical Push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64edceb9f1f277b7976f95c1acdfe905b5a0da01f2adbfb6fa6f923005d362d6",
+      "published_at": "2026-03-28T00:17:57",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.504,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Cisco (CSCO) Stock Is Down Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46569cc7f47d44dcebe25dfda0d519ca88f574b2e8a6701ec90528ec054571e5",
+      "published_at": "2026-03-27T22:57:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.92,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 29",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=15892ab5dcbe92ad3f17133da97265c86571af365df929a945e5332df1eda3fa",
@@ -31,6 +130,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.561,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of cybersecurity-related firms are trading lower following reports suggesting that Anthropic's Claude Mythos AI tool may find and exploit software inconsistencies, leaving the sector in need of new investment and products.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e367d628fc03f446269c5bfd7854f5ed871639b6c6ec9723abb4b20fa67868cc",
+      "published_at": "2026-03-27T12:38:57",
+      "sentiment": "negative",
+      "sentiment_score": -0.972,
+      "sentiment_confidence": 0.972,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -438,116 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.489,
       "sentiment_confidence": 0.489,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SharonAI Holdings Pitches Australia \u201cNeocloud\u201d AI Compute, Details $770M Funding at RedChip Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1fdd24d1ae2ce80566bc47514c92c715de9b80556f23d8c0999ee7627c5d3c9c",
-      "published_at": "2026-03-22T10:05:19",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Inc (NASDAQ:CSCO) Shows High Technical and Setup Ratings for Potential Breakout",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=efe8a11a2ba8eb3d149427e9c1f311e53a62427be423d2934f2a98f196f26968",
-      "published_at": "2026-03-21T12:41:17",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Inc. stock outperforms competitors despite losses on the day",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=d33aef0bebad5405049531720e9770855dcaa4a84b6ccee200ab246b8650c7d6",
-      "published_at": "2026-03-20T16:32:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Profitable Stock to Research Further and 2 We Question",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af1c5d9cf084159072483e02c09854a3c9d9e8a53977e018462ed592cda303d9",
-      "published_at": "2026-03-20T15:37:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Intel Back in the AI Race? What\u2019s Changing the Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8775a5989fb239defc9dd0cae2a446402aae57a24efd16698b1e3b223fb1b885",
-      "published_at": "2026-03-20T14:45:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BC-Most Active Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5238bf90f719236a6562f475cb13613a8988597ea18aea7fde7ea51cd384f909",
-      "published_at": "2026-03-20T14:30:17",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Super Micro shares plunge on shocking smuggling case. One stock stands to benefit",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=c77adf80048967602c61f5ba997f4da1ef5b7862f7ac7547f9a10d3eb7b1f04c",
-      "published_at": "2026-03-20T11:16:16",
-      "sentiment": "negative",
-      "sentiment_score": -0.885,
-      "sentiment_confidence": 0.885,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jabil Quietly Manufactures an Accelerating Stock Price Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95007dfa9ee343659bb12f56fe7d0f30f60d67f02b9cf85b33b2ac077fc1fd45",
-      "published_at": "2026-03-19T20:16:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.827,
-      "sentiment_confidence": 0.827,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Community Push Puts 40 Communities Initiative In Investor Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f2153f59324141aeddf2e600759b8b2a3a8e115ba1b340ee24c86c9764915f4",
-      "published_at": "2026-03-19T19:04:55",
-      "sentiment": "positive",
-      "sentiment_score": 0.578,
-      "sentiment_confidence": 0.578,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Blue-Chip Tech Stock Could Topple Overhead Resistance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbc8da3ee94f4d4f3aa6e57a6cace84f12519cc544d339277c453e3ff07664a5",
-      "published_at": "2026-03-19T18:14:21",
-      "sentiment": "negative",
-      "sentiment_score": -0.96,
-      "sentiment_confidence": 0.96,
       "relevance_score": 1.0,
       "event_type": null
     }

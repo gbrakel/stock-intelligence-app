@@ -1,19 +1,17 @@
 {
   "ticker": "CSCO",
   "risk_level": "medium",
-  "overall_risk_score": 39.5,
+  "overall_risk_score": 35.3,
   "factors": {
-    "volatility": 70.5,
+    "volatility": 42.3,
     "debt_burden": 30.0,
     "earnings_consistency": 5.9,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 64.2,
+    "sentiment_stability": 65.2,
     "liquidity": 68.8,
     "drawdown": 27.1,
     "concentration": 40.0
   },
-  "risk_flags": [
-    "High volatility (annualized)"
-  ]
+  "risk_flags": []
 }
