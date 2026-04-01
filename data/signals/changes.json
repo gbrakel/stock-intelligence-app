@@ -1,56 +1,50 @@
 [
   {
-    "ticker": "CRM",
-    "previous_signal": "exit",
-    "new_signal": "reduce",
-    "date": "2026-03-31"
-  },
-  {
     "ticker": "AVGO",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
     "date": "2026-03-31"
   },
   {
     "ticker": "LLY",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-03-31"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-31"
+  },
+  {
+    "ticker": "PG",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-31"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-31"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-03-31"
+  },
+  {
+    "ticker": "CAT",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
     "date": "2026-03-31"
   },
   {
-    "ticker": "MRK",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-31"
-  },
-  {
-    "ticker": "V",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-31"
-  },
-  {
-    "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-31"
-  },
-  {
-    "ticker": "KO",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-03-31"
-  },
-  {
-    "ticker": "MCD",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-03-31"
-  },
-  {
     "ticker": "NFLX",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
     "date": "2026-03-31"
   }
 ]

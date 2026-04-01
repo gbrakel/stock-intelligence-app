@@ -2,6 +2,94 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Iran\u2019s Revolutionary Guard Threatens to Strike U.S. Companies in Mideast",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f5be5290cff65478198729b8b67d5464ffa38a81b3463b7c9dd320d18d268bb",
+      "published_at": "2026-03-31T17:07:13",
+      "sentiment": "negative",
+      "sentiment_score": -0.863,
+      "sentiment_confidence": 0.863,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ANET's Margin Expansion Moderates: Can Growth Be Sustained?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e187e280dc2124b8090091080c0740761d6e6d5c17547d5323d1845f4e45a03",
+      "published_at": "2026-03-31T14:54:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.908,
+      "sentiment_confidence": 0.908,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Western Digital upgraded, PayPal initiated: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27528b27da098eccd8995c8fe4848e47e7b0b73f20c8cb2aad3df002a5e847c0",
+      "published_at": "2026-03-31T13:32:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.867,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Verkada Appoints Chris Stori as Chief Information Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=547dcd1299561880aa737aba6ab918b7610413911c374b61cabd687599c244f7",
+      "published_at": "2026-03-31T13:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Scaling Impact and Connectivity Through Technology Donations at Cisco",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ef9eaa886bb99e26b6feb449236d625081136912afaf31906bfe5171507ee8d",
+      "published_at": "2026-03-31T12:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.828,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Smart Hospitality Market Report 2026-2030 Featuring Strategic Analysis of Cisco Systems, Honeywell, IBM, Johnson Controls, NEC and More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bef31b79e1397f1a8a3bb7beb91f2e2fb551161c3c1590456ef3b327c5b54b0",
+      "published_at": "2026-03-31T12:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "HNI, Rogers, Cisco, Amentum, and Crane NXT Shares Are Falling, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=782364a83d7f63506db52adf76d2ac04c5e2fa7032ec5859c3f18b04006b672a",
+      "published_at": "2026-03-31T03:42:18",
+      "sentiment": "negative",
+      "sentiment_score": -0.61,
+      "sentiment_confidence": 0.61,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is It Too Late To Consider Cisco Systems (CSCO) After Its Recent Share Price Pullback?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11d12fec5833823ce284e3614dcccaa872cf6efca7056224deb95be1547e2ec7",
+      "published_at": "2026-03-31T02:04:13",
+      "sentiment": "negative",
+      "sentiment_score": -0.814,
+      "sentiment_confidence": 0.814,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dd110a056fe3ed7c5e1bda15b171363156dae13995ed3aab060c9c1c800af06a",
@@ -20,6 +108,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.814,
       "sentiment_confidence": 0.814,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of companies within the broader technology sector are trading lower amid overall market weakness due to the ongoing conflict in the Middle East and its impact on energy costs.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5e8b5340a2c8925ede93dcfc6187f87ac7a44755aa91c956fa1cee674a5f3198",
+      "published_at": "2026-03-30T15:19:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.663,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco launches security services to protect the world from AI agents and each other",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5887fdfb895ecf8b00f53a704234fb0036356835126a97b2f961ff2518741037",
-      "published_at": "2026-03-23T20:05:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.797,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "VLUE: Concentration Risks Balance Out Recent Strong Results",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c9a5d51609350602329f66974a747e6196376e0f1d1c9316f8064b50cd7aa8fd",
-      "published_at": "2026-03-23T19:45:23",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Bets on New Portfolio to Reignite Security Growth: What's Ahead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=171e1c5df939bfd753b9d04e3da77ff7df413224821f9e0cb6594eed1b75b8c0",
-      "published_at": "2026-03-23T18:32:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cybersecurity Stocks Rally Amid AI News At RSA Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1c68c58cc790c6abcce49546d1c16d69d0d79b5f72dc1d7dcd6a35f049004ab",
-      "published_at": "2026-03-23T15:36:46",
-      "sentiment": "negative",
-      "sentiment_score": -0.816,
-      "sentiment_confidence": 0.816,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Marvell: Building The AI Interconnect Stack Of The Next Decade",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e7043c4f9aeb0f2adafe273495cb5ea9e9a966616879d3d7289cff09be1d3eca",
-      "published_at": "2026-03-23T13:37:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.722,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems, Inc. (CSCO) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aceacaacf16ad87df526435eba98be9c12b548c6c5f166bc622ac26a5cdb3498",
-      "published_at": "2026-03-23T13:00:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.916,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Reimagines Security for the Agentic Workforce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b21185bb0ab6295496c3f57dea5a5283342c8a2d367d36943b617d1bc6a5e9f",
-      "published_at": "2026-03-23T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9c7490d060a6f08b1e7d4ad80e8132a86cd7188a9e3191f3a5a25a4827d29235",
-      "published_at": "2026-03-23T09:08:48",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A Look At Cisco (CSCO) Valuation As Shares Trade Below Estimated Fair Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b56521c071b1c601926d8deb8473df21226078ff6a9753f5f25acc9a206287fd",
-      "published_at": "2026-03-22T15:05:43",
-      "sentiment": "negative",
-      "sentiment_score": -0.489,
-      "sentiment_confidence": 0.489,
       "relevance_score": 1.0,
       "event_type": null
     }
