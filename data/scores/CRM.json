@@ -2,6 +2,21 @@
   "ticker": "CRM",
   "history": [
     {
+      "date": "2026-04-01",
+      "composite": 50.9,
+      "signal": "exit",
+      "signal_confidence": 0.7,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 52.2,
+        "growth_trend": 70.1,
+        "valuation": 89.2,
+        "sentiment": 66.4,
+        "technical": 19.0,
+        "risk_penalty": 42.7
+      }
+    },
+    {
       "date": "2026-03-31",
       "composite": 50.1,
       "signal": "reduce",

@@ -2,6 +2,21 @@
   "ticker": "NFLX",
   "history": [
     {
+      "date": "2026-04-01",
+      "composite": 54.8,
+      "signal": "exit",
+      "signal_confidence": 0.83,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 87.5,
+        "growth_trend": 46.0,
+        "valuation": 50.0,
+        "sentiment": 63.0,
+        "technical": 54.5,
+        "risk_penalty": 39.8
+      }
+    },
+    {
       "date": "2026-03-31",
       "composite": 55.0,
       "signal": "exit",
