@@ -2,6 +2,17 @@
   "ticker": "AMT",
   "articles": [
     {
+      "headline": "SBA Communications Stock Jumps on Report of Sale Talks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97c486f7c54639f1e690c64f836ab97736e3facebf8f6b3e37627cc52f6db313",
+      "published_at": "2026-04-02T20:30:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.704,
+      "sentiment_confidence": 0.704,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "American Tower Refocuses On Europe As Cost Plan Targets Margin Gains",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d66323048187cd00ba628cc9cbedafe155453cf81bc8b2b5bb883014cd066cb4",
@@ -537,17 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.694,
       "sentiment_confidence": 0.694,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "My Anti-AI Real Asset Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4b515cbc576a2c379cd03675ac9fb08f045fc4b407c12380f272b9124a2570fb",
-      "published_at": "2026-03-05T07:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.936,
       "relevance_score": 1.0,
       "event_type": null
     }

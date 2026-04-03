@@ -2,6 +2,83 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Caterpillar CEO Joe Creed takes over added role as board chairman",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=199a55b9218266223a7de1fd2dc2daaa66b59bb9800deaf35b31abe4e2962129",
+      "published_at": "2026-04-02T20:25:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow, S&P 500, Nasdaq: From Morning Meltdown to Midday \"Meh\"",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21369f63b4bb8215284c892ce9e173f054a1abc4aa2fa10dd91178e2c42016d3",
+      "published_at": "2026-04-02T18:45:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.89,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a98e14c60e400c7b0d8ecd9954081b9293873ac5ee76725aef9d1c2f4692a04a",
+      "published_at": "2026-04-02T12:08:22",
+      "sentiment": "negative",
+      "sentiment_score": -0.781,
+      "sentiment_confidence": 0.781,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar Faces Mexico Import Review As Supply Chain Risks Resurface",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=296ff6ce4f1adc5be6436e3721f04c6d5c819d8328091bddd8d5564fc4685e51",
+      "published_at": "2026-04-02T10:12:14",
+      "sentiment": "negative",
+      "sentiment_score": -0.96,
+      "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "U.S. Stock Futures Slide During Trump\u2019s Address",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0126b6170541efe970b94849b370e117dfcb8e1907b1083b712566da00a19410",
+      "published_at": "2026-04-02T02:03:26",
+      "sentiment": "negative",
+      "sentiment_score": -0.918,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Fall, Oil Prices Jump As Trump Vows To Hit Iran 'Extremely Hard'; Tesla Deliveries Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc984d113f65373c5b66cae734fd686620f84f4339191514ef4c4f181a80ded5",
+      "published_at": "2026-04-02T01:53:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.93,
+      "sentiment_confidence": 0.93,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Barclays Updates Machinery Outlook, Boosts Caterpillar (CAT) Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7c91e16aefe07ac09128efb702bb477243527f1426013216ec77c8c5b27d06c",
+      "published_at": "2026-04-02T01:46:43",
+      "sentiment": "positive",
+      "sentiment_score": 0.84,
+      "sentiment_confidence": 0.84,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Futures: Trump's Iran Speech Looms; Tesla Set To Reclaim EV Crown",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7ae27e0e6711cc00fea362f368fd33b1ffecbe11e2f9f44a44cf36b4b4509454",
@@ -48,11 +125,22 @@
     {
       "headline": "Caterpillar Climbs Above 50-Day SMA: Time to Buy the Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6edec355313326cf6046b0c6789b44a5e3d023f7bdc8114812b24821346f9e05",
+      "url": "https://finnhub.io/api/news?id=ba5282b8334d48f47c37005ed8395d62deb3a8352e9457be4f56ac712de53332",
       "published_at": "2026-04-01T15:53:00",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.772,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Barclays Maintains Equal-Weight on Caterpillar, Raises Price Target to $700",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=60efb558886de1e0bc72523da3ad9c38456b1f5c37c3caea546bd556435bc0e4",
+      "published_at": "2026-04-01T14:04:49",
+      "sentiment": "positive",
+      "sentiment_score": 0.878,
+      "sentiment_confidence": 0.878,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -64,6 +152,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.893,
       "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of companies in the broader industrials sector are trading higher amid expectations for a swifter end to the Middle East conflict and more certainty of future demand.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e2fb1abb8e8bc928ecb2b43a24eaab8a906ae750eaedb836bfb98417f653a669",
+      "published_at": "2026-04-01T13:37:32",
+      "sentiment": "positive",
+      "sentiment_score": 0.946,
+      "sentiment_confidence": 0.946,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.726,
       "sentiment_confidence": 0.726,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Dives, Oil Prices At $100 As Iran War Drags On; Tesla Looms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73280b97620a44048d651e0b80dd1e3065ef962b187a66410223d65df267bcb7",
-      "published_at": "2026-03-27T21:10:45",
-      "sentiment": "negative",
-      "sentiment_score": -0.614,
-      "sentiment_confidence": 0.614,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar, Deere Shares Drop After Trump Says Tractor Costs Should Be Lowered",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67ad4640f0d0cc7dcc1c534cdf8e7fd029589fa8715be7a8167462b4f14927ea",
-      "published_at": "2026-03-27T18:54:13",
-      "sentiment": "negative",
-      "sentiment_score": -0.965,
-      "sentiment_confidence": 0.965,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Final Trades: Vistra, Caterpillar, Citigroup and Target",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=38a281483667a1c198c689b20cabe923b9a970201186e724fff980dbfb49540e",
-      "published_at": "2026-03-27T13:26:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "President Trump Promises Lower Costs For Tractors, 'Cutting Out A Massive Amount Of Nonsense' For Farm Equipment; Says He Will Seek Congressional Action To Secure Year-Round Sales Of E15 Motor Fuel",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=48c52c89484498f6eceb366edc07fd22f673282da684278b67a1472a9facdfdf",
-      "published_at": "2026-03-27T13:10:02",
-      "sentiment": "positive",
-      "sentiment_score": 0.879,
-      "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "President Trump Says Want John Deere, Caterpillar To Give Farmers Lower Tractor And Equipment Costs",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0e293ee1f9a534c06918fbc490725bd56894b5b1126c987c752217973b021d11",
-      "published_at": "2026-03-27T13:08:56",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Halftime Report Final Trades: Vistra, Caterpillar, Citigroup, Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=bee6e41ca6ed161660386053f2a5e1ba308c1d7e1f4687c3d2a79fb90d170dc2",
-      "published_at": "2026-03-27T13:00:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Falls On U.S.-Iran War News; Oil Prices Continue To Rally (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52583743f3e9f68f78145b42eb8b4c2a20594fc953d44bb61773e8b34fb877f6",
-      "published_at": "2026-03-27T12:03:35",
-      "sentiment": "negative",
-      "sentiment_score": -0.927,
-      "sentiment_confidence": 0.927,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "120-year-old British wheel factory at risk of closure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=839af75f6cdc3d2593478b45bf78553c39be8e51493693df3e9a1555dd1e274f",
-      "published_at": "2026-03-27T10:00:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.922,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ASX Stocks That May Be Trading Up To 46.2% Below Intrinsic Value Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bb0e79a1ba2a7b7004a1db7254a42306181b8bcc1e46a7c3e7cc7bfa9be657a",
-      "published_at": "2026-03-26T19:35:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.955,
-      "sentiment_confidence": 0.955,
       "relevance_score": 1.0,
       "event_type": null
     }

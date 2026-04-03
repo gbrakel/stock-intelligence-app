@@ -2,6 +2,83 @@
   "ticker": "COST",
   "articles": [
     {
+      "headline": "Walmart\u2019s Sam\u2019s Club raising membership prices",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d92e0a5f34da4a9289a45577e583c921bcc3af8684b509ebb05684b6cbe9731",
+      "published_at": "2026-04-02T18:34:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.366,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Grocery chain cuts prices as value war heats up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86d9a7a649bfc98d4060296135dec1b9383ccdde308fe38b6e3b0da969dac42b",
+      "published_at": "2026-04-02T17:13:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.961,
+      "sentiment_confidence": 0.961,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which Stocks Are Best Positioned When The Iran War Ends",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8d3009a015a31214328dbb6ccb2222e48319ba989b44b668747a9548f021f6be",
+      "published_at": "2026-04-02T10:51:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump's address, SpaceX IPO, Sam's Club membership prices and more in Morning Squawk",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ce4553f8b3fa098ad42fe0e871ce46198ef37f2840be9e5e9249c3696ca3f485",
+      "published_at": "2026-04-02T08:15:44",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street Breakfast Podcast: Oil Gains After War Talk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9338189f09f3dae5d0363fccfb76ca5653cad0fb9b05e1d0a6482847663f7270",
+      "published_at": "2026-04-02T06:32:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.856,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Will Costco\u2019s (COST) Gas and Business Centre Push Refine Its Value-Driven Retail Narrative?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d85976541e41471cdb9736bd7baf529ede14e081d894b589312cc522a99c8cb",
+      "published_at": "2026-04-02T04:30:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.539,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "As Recession Odds Climb, Defensive Sectors Continue to Outperform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26c137c2d00d029252c2d6e89bd43f145bc335e64fb2514a574ec9e6b814b3ed",
+      "published_at": "2026-04-01T20:20:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.731,
+      "sentiment_confidence": 0.731,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Jim Cramer on Walmart: \u201cIt Bounced Off the Roof, Came Back Down, and It\u2019s Ready to Run\u201d",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fb8c1880b8644ace78a59340f7af655b65f81e18745291debcb6c5b9e68103d8",
@@ -13,6 +90,28 @@
       "event_type": null
     },
     {
+      "headline": "Amazon Prime is offering a 20-cent-per-gallon discount. Stack those savings with a credit card",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2d6403146f46220add55ebefbd96ce7093cd1cdea4464d58209b12e3ceca3dbf",
+      "published_at": "2026-04-01T16:15:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart-owned Sam's Club raises its annual membership fee to $60",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=af86262a8259a60fd5e3e15b8902af6b49dd4dedf2623184b64fed2d9c6698f6",
+      "published_at": "2026-04-01T14:55:22",
+      "sentiment": "positive",
+      "sentiment_score": 0.794,
+      "sentiment_confidence": 0.794,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Calls of the Day: Quanta, Disney, Costco and Enterprise Products",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=66f503a70804102e7f279cc8dc833dccfc1d35a969832175062194fb41413241",
@@ -20,6 +119,39 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Surprising Beneficiaries of High Gas Prices: BJs and Costco",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7394efa4ea4f67924f5904b184b4028b5768051883f5041602a071c54e2305c",
+      "published_at": "2026-04-01T12:55:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.665,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "GEN Restaurant Group, Inc. Q4 2025 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bcafd0948f4624d43ce2f8a2a5f94ada7fa8c6058048a00e7e5688bf46dfe04",
+      "published_at": "2026-04-01T12:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.844,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Purple Innovation, Inc. Q4 2025 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef6d83d6447c7aaf77ed632f5314ca42d47d265928262e361e8864e00a363ea5",
+      "published_at": "2026-04-01T12:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.881,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -416,138 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These two AI-powered insurance shopping tools are worth a try",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=a82332127f9fbae137c4e7f3be9d90021484b168f9c6749bcd189aad259de6fe",
-      "published_at": "2026-03-28T07:29:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.649,
-      "sentiment_confidence": 0.649,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Celsius Stock a Buy After Falling 49% From Its 52-Week High?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e729ce33ca1c6be1d5535adbca71583aebc3ad04af644d30e9f03a7430447fdf",
-      "published_at": "2026-03-28T03:21:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.853,
-      "sentiment_confidence": 0.853,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Costco Expands Winnipeg Business Centre To Deepen Business Member Spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ddb2102db937a444c1f068bfd7d3c96f08c9ad511698457ad4f4b33c9c393da4",
-      "published_at": "2026-03-27T20:06:40",
-      "sentiment": "positive",
-      "sentiment_score": 0.908,
-      "sentiment_confidence": 0.908,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Get 'defensive' with consumer staple stocks as Iran war drags",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c5b4e2cb429c6df0cd8eb2c4a17fcc7da0521c231aabfd3dd19fa32c2730bbe",
-      "published_at": "2026-03-27T17:30:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.921,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The 2 Best Consumer Staples Stocks to Buy and Hold for Decades",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89574dfe122041a8d3345211372355a825bd71663d573b07b3599bdab595b702",
-      "published_at": "2026-03-27T17:04:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.793,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Walmart or Costco: Who's Winning the Modern Retail Game Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f96a93e339f702fb9a44b098accad7e5f3cbb154792de354a06cc6a0355941b9",
-      "published_at": "2026-03-27T16:55:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix, Tripadvisor, Vital Farms: Top Analyst Calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2e3c78cc10eaab169a86f70fe0121db5fd86c4beea13fa9621ed17fc6cdc77f",
-      "published_at": "2026-03-27T15:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Canada\u2019s Eleventh Costco Business Centre is now open in Winnipeg",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7003209e9556d39533986921058bf7eabb1d80684cd71c7b3606eda3a3e17a0d",
-      "published_at": "2026-03-27T12:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.836,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trump's Iran extension, DHS funding deal, Anthropic's injunction and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=513ecba42b8e21f8e857716445e4438a3e6a0f90c7b4a95a892ae8b223100a8c",
-      "published_at": "2026-03-27T08:14:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.698,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Freshpet (FRPT) Upgraded to Outperform by Oppenheimer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb2533e87a64a9a112ed36593cf30c00397f880361f5a3fa1db7b3dace1ed0bf",
-      "published_at": "2026-03-27T04:15:53",
-      "sentiment": "positive",
-      "sentiment_score": 0.944,
-      "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Costco Is Launching Standalone Gas Stations. Why the Heck Does Wall Street Care?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ae072e908c64562e2e62494609b3a2c2448cc8a0760cff66c54356b28f524a7",
-      "published_at": "2026-03-26T19:49:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "VDC Is Up Nearly 6% While the S&P 500 Sinks, and That Gap Is No Accident",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85f47bfec8739d6b9c3e7d8408e4b5f14a0fb1c96a2449b6e1a275686abf6da8",
-      "published_at": "2026-03-26T18:32:18",
-      "sentiment": "positive",
-      "sentiment_score": 0.944,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }

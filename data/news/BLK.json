@@ -2,6 +2,116 @@
   "ticker": "BLK",
   "articles": [
     {
+      "headline": "BlackRock Fund Expands Shorts, Sees German Yields Above 3.13%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e4128302685617ee603bc4f99e2726597cc71c09f20e136c7874991552e678b",
+      "published_at": "2026-04-02T20:35:42",
+      "sentiment": "positive",
+      "sentiment_score": 0.797,
+      "sentiment_confidence": 0.797,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top takeaways from Trump's address on Iran war, Strait of Hormuz",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=686b5af1a93074736dc649c08713788e7b378fe4d02f07c567b638601ca074d7",
+      "published_at": "2026-04-02T14:51:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.888,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Blue Owl Limits Redemptions on Private Credit Funds After Massive Exit Requests",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b5bf148ad14382c0e7b34abedf3597642b76364ef4b0463884bb3038abde1ac",
+      "published_at": "2026-04-02T14:20:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.877,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sector Update: Financial Stocks Fall Pre-Bell Thursday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddaffe84c7f312d8c50b88f0366bd55053aca481c95f216c0d5990577ff58409",
+      "published_at": "2026-04-02T13:24:41",
+      "sentiment": "negative",
+      "sentiment_score": -0.965,
+      "sentiment_confidence": 0.965,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of private credit-related companies are trading lower following reports that Blue Owl Capital will limit redemptions from two of its largest funds.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0487e982d859da0573960b3c98d3505b524ded76ca1da0c0e0036e6c58aa9666",
+      "published_at": "2026-04-02T10:24:42",
+      "sentiment": "negative",
+      "sentiment_score": -0.97,
+      "sentiment_confidence": 0.97,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "T. Rowe Price: Dividend Aristocrat At A Discount",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31e8b7c89093cbb8fba95ca3dd30384b4666dd8d3c6ef92060eca7854c7692a2",
+      "published_at": "2026-04-02T09:59:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.929,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hard To Imagine A Retirement Income Portfolio Without These 2 BDCs",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5127fb43ec1f6741dedc8c6a6eb1fc7711f899b549c9cc6374c4bb0e262930be",
+      "published_at": "2026-04-02T09:15:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.898,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A Look At BlackRock (BLK) Valuation As Regulatory Scrutiny And Governance Questions Intensify",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=641109fa7e5d5a9eb1e690132968b547aa5361482a8b68aec064ac80ce6714c8",
+      "published_at": "2026-04-02T09:11:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.906,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Meet the Next Generation of Dividend Aristocrats",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=956918dfd2560240a8b4cba4ef764b1151480d5c16bc3513f74e989acea0c770",
+      "published_at": "2026-04-02T05:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Inside India newsletter: The worst might not be over for Indian equities",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=de45a3bb29d7fda46b641b3c8d917511433c44598e04bd7060bcbcf3f036dbe3",
+      "published_at": "2026-04-01T20:10:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.878,
+      "sentiment_confidence": 0.878,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Sector Update: Financial Stocks Rise Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e62cca4c5578dcfb148f930da846453591dcec5eade378e21bbaf0e2d0ccf758",
@@ -24,13 +134,35 @@
       "event_type": null
     },
     {
+      "headline": "Trading Trump's 9 P.M. Address: Nuclear, Epic Fury And The $2M Word Market",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=37a5c25af26d2363f8fcb1b50cb7ea2a4ce033e417730edaac07431b1aef9a2b",
+      "published_at": "2026-04-01T16:05:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BEN or BLK: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6abf8c43abf9e4085fcc861929f938f5bcc07e69228d2c315b6293a1c6140e15",
+      "url": "https://finnhub.io/api/news?id=e7a662cb6d9c0161b32741e173b2018ec7c42a2190c2d780850e0d76e445cef6",
       "published_at": "2026-04-01T15:40:02",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Apollo, KKR, BlackRock, Carlyle: Private Credit Leaders Face Washington's Scrutiny",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8cc2e422909e40f9752cfd1a5c499a7cc16b5bccde377cc377ff67e2fa6b790c",
+      "published_at": "2026-04-01T15:08:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.882,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -416,138 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.661,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Reported Earlier: 'BlackRock funds provide about $57 million to IQM Quantum Computers ahead of US IPO' - Reuters",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=26fba8d136a01566d94c44fa4632c435cc7993ac7541bb3614d8a609cfd5fba9",
-      "published_at": "2026-03-30T08:44:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks Drop, Oil Rises as Iran Conflict Widens: Markets Wrap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c02d15c66f42c35d2ee59c4e592944e2a9deba4da540a4c7eadb905d761d8225",
-      "published_at": "2026-03-29T23:30:59",
-      "sentiment": "negative",
-      "sentiment_score": -0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley Undercuts Rivals with New Bitcoin ETF",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3ffc5a02a840a56012f58b475a72ebf3e9127355ea13b8da61ed354d9223ded",
-      "published_at": "2026-03-29T23:28:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.912,
-      "sentiment_confidence": 0.912,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "JPMorgan, Pimco say bond market is underestimating slowdown risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8f566aaf5d8291c80966c60f93546ec16b07ab9e69fdd097a33d2a164be76c9",
-      "published_at": "2026-03-29T19:00:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Schiff Warns Of Financial Crisis, Trump Bill May Add $5 Trillion Deficit, Bitcoin Outlook And More: This Week In Economy",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6ba7e0887617d09b1f891661ddbfbf5c65f4b29213c14012605185190c4288a5",
-      "published_at": "2026-03-29T06:01:24",
-      "sentiment": "negative",
-      "sentiment_score": -0.816,
-      "sentiment_confidence": 0.816,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Analysts Bullish on BlackRock\u00a0(BLK) Following Strong Fourth-Quarter Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52f2683489fda9857e5a847fcbce50101dfca7776eb7876d892827dfefab6db7",
-      "published_at": "2026-03-28T20:50:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Inside \u2018Project Eagle,\u2019 JPMorgan\u2019s High-Wire Act to Fund EA Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=080a2fd22af214f60cfb409ba370666e61002c65f288eb92cc14e3a703b9f67e",
-      "published_at": "2026-03-28T19:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock's Larry Fink says oil could drop to $40 if the Iran war ends right \u2014 or stay near $150 for years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2f375a2c8452565ad23ebf3a31864950bc32e4aa6edc06f8b39cf304b6aaf0d",
-      "published_at": "2026-03-28T13:25:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=7ee4084c3d5bdf4a9b0c30e3d5826d20c156bf07aec4ab708ac53d0a11707e41",
-      "published_at": "2026-03-28T08:00:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.467,
-      "sentiment_confidence": 0.467,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock CEO Larry Fink's Pay Jumps To $37.7 Million In 2025 As Managed Assets Hit Record $14 Trillion",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f2f361b50376d52601d1d5481e171ed4ad446992dee8f7221da0ed33ec748f8a",
-      "published_at": "2026-03-28T03:22:56",
-      "sentiment": "negative",
-      "sentiment_score": -0.531,
-      "sentiment_confidence": 0.531,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Blue Owl, HPS Join Private Credit Funds Stung by February Losses",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6cf29d9aaf082a8f8b4d3c2db2be1ebc9f7157d559a7e4a896670811664ec9e",
-      "published_at": "2026-03-27T21:37:54",
-      "sentiment": "negative",
-      "sentiment_score": -0.948,
-      "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oaktree To Fulfill All Redemption Requests In Its Private Credit Fund",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=252ef27009a89a488b362f0dea2aaf0ae3bd4076011fbaa802059329b4af63f4",
-      "published_at": "2026-03-27T16:40:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.862,
       "relevance_score": 1.0,
       "event_type": null
     }
