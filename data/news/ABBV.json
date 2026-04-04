@@ -2,6 +2,39 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf81c188a66167c47969f435773db2463fab8da9c86e2b113ed13c8720aa9eda",
+      "published_at": "2026-04-03T07:30:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.903,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Potential US Drug Tariffs Test AbbVie Margins And Growth Narrative",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=916713d69dd072f51bc3dc0ff67967884941af4fe939b593b1a6bc3f9971d66e",
+      "published_at": "2026-04-03T03:12:42",
+      "sentiment": "positive",
+      "sentiment_score": 0.937,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AMN Healthcare Services, DaVita, Bristol-Myers Squibb, Novavax, and AbbVie Shares Plummet, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=937f075f064802405b8c85d84c76c8cc522c4b59d2a05cf01b5da0f9761d07be",
+      "published_at": "2026-04-03T00:40:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.851,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "2 Healthcare Dividend Stocks to Buy as the Tech-Heavy Nasdaq Dips Below Correction Territory",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f216ddfcee7d9d1f4094d8b096457054d9037a6df89a321ca55c52a3572f5244",
@@ -31,6 +64,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.784,
       "sentiment_confidence": 0.784,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie shares are trading lower after reports suggesting that the Trump administration is preparing to invoke Section 232 tariffs on pharmaceutical producers that don't already have a pricing agreement with the U.S. government.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=12ec8a0e6b17643c4ca528e1e4d4b7f6a2df4c666aae0965bf56ec0e39348f33",
+      "published_at": "2026-04-02T14:14:09",
+      "sentiment": "negative",
+      "sentiment_score": -0.971,
+      "sentiment_confidence": 0.971,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -90,6 +134,17 @@
       "event_type": null
     },
     {
+      "headline": "AbbVie Inc. stock underperforms Wednesday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1c05284cef7291f232657b69a134c305ddb7b2c6f5c550794b0ed0b72bc2afdc",
+      "published_at": "2026-04-01T16:31:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "US Corporate Taxes Drop $65 Billion After Trump's $3.4 Trillion Tax Law",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=15ef4efd0843fc5936de0804f8f8c1385bc6da1e98b466d6ed4f65a8e6290ae2",
@@ -108,6 +163,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie Inc. stock rises Tuesday, still underperforms market",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bcbe5575fa5926ba7c38d35290303775474ff701c7b35a1d6c522b4ababb303b",
+      "published_at": "2026-03-31T16:31:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.76,
+      "sentiment_confidence": 0.76,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -218,6 +284,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.8,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie Inc. stock outperforms competitors on strong trading day",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f4bcc9ab16b5bc7999578e1c8cee0ed51f27aac6e6e52fe07f0e191361359e5f",
+      "published_at": "2026-03-30T16:31:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.942,
+      "sentiment_confidence": 0.942,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "sentiment_confidence": 0.5,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "VIG Returned 223% Over 10 Years and Still Costs Almost Nothing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=525d813e46a06a7feccbacf88efbd9f9a44917ce50d3a758ce70b6a0456703a7",
-      "published_at": "2026-03-25T17:30:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.587,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Investors Heavily Search AbbVie Inc. (ABBV): Here is What You Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c4f53f37c1ae0e4f0b2063de02e5da63556272720df030c3580f5facc208f9b",
-      "published_at": "2026-03-25T13:00:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "LLY or ABBV: Which Drugmaker is Likely to Offer Better Upside in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b9d43668d5a2eb6c2176aeb41254d82577fadefc76769b8bc191df4b49fb88c",
-      "published_at": "2026-03-25T12:55:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.526,
-      "sentiment_confidence": 0.526,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's How Much $100 Invested In AbbVie 10 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=458a8dc5a5b1b19b0eadfdea1e4ffc795ff5cc4e9fad388bfd15dd09a657a96b",
-      "published_at": "2026-03-25T12:00:34",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is AbbVie (ABBV) one of the Best Psychedelic Stocks to Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d1f67af1bc5133ce50fce9de6cd4467c1440968f0b8bd2c170db2b4ad6f044d",
-      "published_at": "2026-03-25T05:34:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.823,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Gilgamesh Pharma Closes Oversubscribed $60 Million Series A to Develop Next Generation Neuropsychiatric Therapies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98a7432ad9b8dd1ba1871da5df817e07c48fada58820e8a2224bae6d82e55d60",
-      "published_at": "2026-03-24T16:01:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.583,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Google partners with Agile Robots, growing its AI robotics footprint",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=0bcb51c8ec11b150963e5d824442722fa7228826304ad5f8ba9718566435f5eb",
-      "published_at": "2026-03-24T15:44:28",
-      "sentiment": "positive",
-      "sentiment_score": 0.889,
-      "sentiment_confidence": 0.889,
       "relevance_score": 1.0,
       "event_type": null
     }

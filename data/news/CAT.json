@@ -2,6 +2,28 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2c474590ba718d4ce295ed4e1936bf0c9b06bff791b2f84fcd00e91e13e1cf1e",
+      "published_at": "2026-04-03T08:30:37",
+      "sentiment": "positive",
+      "sentiment_score": 0.679,
+      "sentiment_confidence": 0.679,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Atlas Energy Solutions: The Shift To Power Production Is In Top Gear (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5476c3848230f5e50c0251d9fc4fc6bf7684b689f63f7162b04edec57a0a9170",
+      "published_at": "2026-04-03T08:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.679,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Caterpillar CEO Joe Creed takes over added role as board chairman",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=199a55b9218266223a7de1fd2dc2daaa66b59bb9800deaf35b31abe4e2962129",
@@ -24,6 +46,28 @@
       "event_type": null
     },
     {
+      "headline": "Dow falls 131 points on losses for shares of Sherwin-Williams Co., Home Depot",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=69da7ee459b1077a5b1833ff8a523398654bb09e7524692d85a0bfbdd330f4f7",
+      "published_at": "2026-04-02T13:21:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sherwin-Williams Co., Home Depot share losses lead Dow's 250-point fall",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7dea4d81411c3e1015253440c65bd4e5fc6523f73671e8ef2b4777d749ed89e4",
+      "published_at": "2026-04-02T12:20:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.853,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a98e14c60e400c7b0d8ecd9954081b9293873ac5ee76725aef9d1c2f4692a04a",
@@ -35,6 +79,17 @@
       "event_type": null
     },
     {
+      "headline": "Dow's 125-point fall led by losses in Nike, Sherwin-Williams Co. stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9908a790ac25e062a6ef5992cea02c7e9269991ede840c3c1ceecd8319579a14",
+      "published_at": "2026-04-02T10:50:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.961,
+      "sentiment_confidence": 0.961,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Caterpillar Faces Mexico Import Review As Supply Chain Risks Resurface",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=296ff6ce4f1adc5be6436e3721f04c6d5c819d8328091bddd8d5564fc4685e51",
@@ -42,6 +97,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.96,
       "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 667-point drop led by losses for shares of Sherwin-Williams Co., Goldman Sachs",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2c17d9dfe7e68df4d68c39c8f6842ae140b26239610e4b8cafe356b9c0747be4",
+      "published_at": "2026-04-02T09:45:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.968,
+      "sentiment_confidence": 0.968,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -134,6 +200,17 @@
       "event_type": null
     },
     {
+      "headline": "Dow rallies 238 points on gains in Boeing, Caterpillar shares",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6455c76759ed5d237e86734b9ee0743db54eec661cf3b18f78bf91fcc1413665",
+      "published_at": "2026-04-01T14:19:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.872,
+      "sentiment_confidence": 0.872,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Barclays Maintains Equal-Weight on Caterpillar, Raises Price Target to $700",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=60efb558886de1e0bc72523da3ad9c38456b1f5c37c3caea546bd556435bc0e4",
@@ -222,6 +299,28 @@
       "event_type": null
     },
     {
+      "headline": "Boeing, Caterpillar share gains contribute to Dow's 350-point jump",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=83baaddcc9f69b487f400c25555e6c1c54f2673505b694b9114bb0ab294021d6",
+      "published_at": "2026-04-01T10:46:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.827,
+      "sentiment_confidence": 0.827,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow up 233 points on gains for shares of Boeing, Caterpillar",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=597471e8d603c7ed4f1d469b5b93bbe156e79d48a9ab9a365535aba192fb6088",
+      "published_at": "2026-04-01T09:45:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.889,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=bccba857279822aff21e974a93f6e47c15a9ce8bd85f07da39f6020c3c6186e4",
@@ -277,6 +376,28 @@
       "event_type": null
     },
     {
+      "headline": "Caterpillar, NVIDIA Corp. share gains contribute to Dow's 1,063-point surge",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=474082416db72e1ae79333aec3743ce70fed40f5aa0ef7954b4ec4816e0370a9",
+      "published_at": "2026-03-31T15:16:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.894,
+      "sentiment_confidence": 0.894,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar, NVIDIA Corp. share gains lead Dow's nearly 950-point surge",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=418e664345c5cd53cc73b071bf97b335f98a20b9164c5b1a9f58312465713d11",
+      "published_at": "2026-03-31T13:54:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.798,
+      "sentiment_confidence": 0.798,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Company News for Mar 31, 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2841a208195b8653ba97fc157b74bc644f13e71f57ca4ba9d5490abef1a2556f",
@@ -288,6 +409,39 @@
       "event_type": null
     },
     {
+      "headline": "NVIDIA Corp., Caterpillar share gains contribute to Dow's nearly 800-point rally",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=76d0c9c4fe46915dcea26afd25009168a31e892d77293480bc9b1c4edd9f75b8",
+      "published_at": "2026-03-31T12:53:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.922,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow rallies nearly 500 points on gains for shares of NVIDIA Corp., Caterpillar",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ceedc9973e3070ff29ecf913a2d123f8bc5f24f8d6c87746ed9977799119e57e",
+      "published_at": "2026-03-31T11:52:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.881,
+      "sentiment_confidence": 0.881,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 335-point rally highlighted by gains for NVIDIA Corp., Caterpillar stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b3ab7559d6e0b548f64695725ecf856c63c2527082bcb79728d26dfd316a5fd4",
+      "published_at": "2026-03-31T10:51:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.877,
+      "sentiment_confidence": 0.877,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Trump\u2019s Tax Cut Delivers at Least $65 Billion Windfall to Corporations",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=da718c55815b9eba68bfc226c230b1c88d906b63cda5a550cfeee805329d2435",
@@ -295,6 +449,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.826,
       "sentiment_confidence": 0.826,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 450-point rally highlighted by gains for Caterpillar, Amazon.com Inc. stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=543a32d535beba0cd6dd5e879fb39e30ec6f30b75bb9e1d12656a2a038583595",
+      "published_at": "2026-03-31T09:45:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.882,
+      "sentiment_confidence": 0.882,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -317,6 +482,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.778,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar Inc. stock underperforms Monday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9d917e32e850dfecce995eb5cd9231820d4c482a6d13c5035b172fc2b42201c4",
+      "published_at": "2026-03-30T16:32:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.923,
+      "sentiment_confidence": 0.923,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -372,182 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.808,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is\u00a0Caterpillar Inc. (CAT)\u00a0A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a150539c621a246bba8279296e9f018c2bdc1dc20b45d640de8d375290287ffd",
-      "published_at": "2026-03-30T12:06:21",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Surprising Dow Stock That Has Outperformed Nvidia by 2-to-1",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abe6fc5bad042d1073e81c215f15f550ebc52bd4f54e89c7b078157d1d96c4ed",
-      "published_at": "2026-03-30T09:41:28",
-      "sentiment": "positive",
-      "sentiment_score": 0.95,
-      "sentiment_confidence": 0.95,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What if stability returns? Evercore names stocks to watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbc38c65d4d4c9a92d900cb6b1c37015e8943833a8cd67b7fefcfe2ff64dfb96",
-      "published_at": "2026-03-30T08:39:31",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar, Vistra, Target And A Financial Stock On CNBC's 'Final Trades'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1b89aa5ac99d88e015a6bcb00d3108427c0e56c0209cb2a683caeed6ef19f295",
-      "published_at": "2026-03-30T07:59:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Futures Fall, Oil Prices Run Past $100 Amid Latest Iran News; Market At Six-Month Lows",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4aa624651aa9cbeb016984e571ecebce3ee0abb9cde836478676a5d334e5bb9c",
-      "published_at": "2026-03-29T23:47:34",
-      "sentiment": "negative",
-      "sentiment_score": -0.951,
-      "sentiment_confidence": 0.951,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BofA Remains a Buy on Caterpillar Inc. (CAT)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=83066cfa1e638bb61844e4613d1bcd1576192a28d7c18bf92899cf557af38af4",
-      "published_at": "2026-03-29T20:16:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Futures, Oil Prices Loom As U.S. Mulls Ground Troops In Iran",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fee85990fb4c9ed3f2471516b24d5d121a88b1f696cef9805c21f4d7743132f4",
-      "published_at": "2026-03-29T13:07:32",
-      "sentiment": "negative",
-      "sentiment_score": -0.549,
-      "sentiment_confidence": 0.549,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Wil Dow Jones Futures, Oil Prices React As U.S. Mulls Ground Troops In Iran?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e1d39a33c409c0c85dde5027804b1a3cf6fd746e365931245355aa25d15ea42",
-      "published_at": "2026-03-29T03:04:51",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Futures Loom As U.S. Mulls Ground Troops In Iran; Oil Prices At $100",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd76f942482b5cceafda0c5721e0d741c9c1114f426234b687f56d0f4860e75f",
-      "published_at": "2026-03-29T01:58:33",
-      "sentiment": "negative",
-      "sentiment_score": -0.41,
-      "sentiment_confidence": 0.41,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "U.S. labor market eyes modest recovery in March following February payroll slump",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99aba93e62cfb033493ea11b720bbf88a8b2679b2b2a83fedc0ffe9c17f16469",
-      "published_at": "2026-03-28T23:59:09",
-      "sentiment": "positive",
-      "sentiment_score": 0.86,
-      "sentiment_confidence": 0.86,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar Weighs Emissions Rule Rollback Against Valuation And Growth Prospects",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=044e69313f341fc679b77d5f2f7c14ddf597031f8a23fad68a1ef4f053acd073",
-      "published_at": "2026-03-28T19:04:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.841,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Futures: Market Dives As Oil Prices Hit $100 In Iran War; What To Do Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=77fb878d6c6ceb508a5f02d1b8fc26e5163cd4ce527a90a7480dfe82190f4948",
-      "published_at": "2026-03-28T16:53:16",
-      "sentiment": "negative",
-      "sentiment_score": -0.859,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Futures: Sell-Off Breaking Hearts As Oil Prices Hit $100 In Iran War; What To Do Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bac881efed14d5c4291151cabf2bb4619e2ce134f8dd0238f245cb1ddd86e58e",
-      "published_at": "2026-03-28T15:42:52",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.644,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Market Week Ahead: Scarcity Narratives And Naval Tactics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3f2db23d6162dc90e2674abd814c06157c3ae468d79456c5b299ff9494a0788",
-      "published_at": "2026-03-28T14:57:12",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.857,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Marvell, Caterpillar Lead Five Stocks To Watch In Weak, Volatile Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b90c6c407b43a62517d39a59be27c6f746d880c7e3e3db5be1736bffe3079ff",
-      "published_at": "2026-03-28T12:00:31",
-      "sentiment": "negative",
-      "sentiment_score": -0.788,
-      "sentiment_confidence": 0.788,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Dives As Oil Prices Hit $100 Amid Iran War; Tesla Looms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de3625b45dd97b031584630fdb29a6c1cf9789bd3f2f5a9e6d76f9a40681bd06",
-      "published_at": "2026-03-28T11:31:17",
-      "sentiment": "negative",
-      "sentiment_score": -0.726,
-      "sentiment_confidence": 0.726,
       "relevance_score": 1.0,
       "event_type": null
     }

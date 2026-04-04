@@ -2,6 +2,28 @@
   "ticker": "PFE",
   "articles": [
     {
+      "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf81c188a66167c47969f435773db2463fab8da9c86e2b113ed13c8720aa9eda",
+      "published_at": "2026-04-03T07:30:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.903,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump slaps steep tariffs on patented drug imports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e694629102cd8965e6c2c539604d6f069d1158de52d3cac26bef032cbde3bec9",
+      "published_at": "2026-04-02T20:05:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.778,
+      "sentiment_confidence": 0.778,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Pfizer Site Closure Puts Cost Focus And R&D Productivity In Spotlight",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=70fce1f7537e2dbc652f39460b0fbe4ce914105bae316aa67779ad874b452ded",
@@ -156,6 +178,17 @@
       "event_type": null
     },
     {
+      "headline": "Oric Pharma Misses The 'Best-In-Class' Boat Vs. Pfizer \u2014 And Plunges",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c51e4ec17b407a07bd9e48bf92b307b778cf0cd0a38dd3adf8119ad29c02ac2b",
+      "published_at": "2026-04-01T16:16:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.964,
+      "sentiment_confidence": 0.964,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "PFE Stock Trades Above 200 & 50-Day SMA for 3 Months: How to Play",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8614fdea07f96ec7f644e9d02f71aa4fe6f80a3933ddae685435727aa83efaf5",
@@ -174,17 +207,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.95,
       "sentiment_confidence": 0.95,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oric Pharma Misses The 'Best-In-Class' Boat Vs. Pfizer \u2014 And Plunges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4cbea1d30c67b4e59b0f26850022be9f88475277e761336ba7eedcbe87e9bf8",
-      "published_at": "2026-04-01T13:59:03",
-      "sentiment": "negative",
-      "sentiment_score": -0.964,
-      "sentiment_confidence": 0.964,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -328,6 +350,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer Inc. stock rises Tuesday, still underperforms market",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f4b80bb6f5783d99afbf8eb38359606221ed60baa887236fdc57278aeb80ba7e",
+      "published_at": "2026-03-31T16:36:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.709,
+      "sentiment_confidence": 0.709,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.86,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Prediction: Buying Pfizer Stock Today Could Set You Up for Life",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12e256a8a151e5785af1835ada4a89787ecbdacf4f1abb1c961ec00e76c10b8e",
-      "published_at": "2026-03-30T00:35:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.763,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Reason This Biotech Stock Could Triple Before Year-End",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd32520e6501d76ec913c1f58efcb11fbb945acfeb8c5d6634131e1f5127cf63",
-      "published_at": "2026-03-29T04:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.733,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "PPH ETF: Drug Pricing Policy and Eli Lilly Concentration Are the Two Risks to Watch in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06a579b23d67b1b97c4ceba803df15517fb9eba19fd6e3c77ce14d34db3d9baa",
-      "published_at": "2026-03-28T11:15:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.889,
       "relevance_score": 1.0,
       "event_type": null
     }

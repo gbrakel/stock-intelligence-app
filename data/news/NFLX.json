@@ -2,6 +2,50 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Italian court rules Netflix price-hike clauses are void, orders refunds",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de65303a3534487c94fd6381153d7e0d5fccb02ac7616564cf876c160028dd74",
+      "published_at": "2026-04-03T15:17:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.502,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Derating and Acquisition Concerns Pressured Netflix (NFLX) in Q4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad8b5d1f9a96adbcb5cb8f71e8a050847262527e45970a73a26558c12955776e",
+      "published_at": "2026-04-03T13:15:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.969,
+      "sentiment_confidence": 0.969,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e53733bcc53a19bfcbea688fe9e4dcc413f057e38f6c9e112d96959ae7227893",
+      "published_at": "2026-04-03T11:00:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.703,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix (NFLX) Valuation Check After Recent Share Price Momentum Fuels Mixed Undervaluation Signals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b339e89d1e9b1747fd869464edbfa42e78a263548a422c9861a173c1353776b6",
+      "published_at": "2026-04-03T01:18:39",
+      "sentiment": "positive",
+      "sentiment_score": 0.74,
+      "sentiment_confidence": 0.74,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thursday's session: most active stock in the S&P500 index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5b0f65af7ca6e99c7be47a88aeaf3363f9e7f6dfe3cc0c4f0bf3950cc3bfb99c",
@@ -57,6 +101,17 @@
       "event_type": null
     },
     {
+      "headline": "5 Communication Services Stocks With Whale Alerts In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=db6295bc15e01cbb24dc2fe1f4cbdd7a3ef02b9dc6e9a4d21f6e7ad460e462b5",
+      "published_at": "2026-04-02T13:35:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.886,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why Investors Need to Take Advantage of These 2 Consumer Discretionary Stocks Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1d778490d0ca7a3230416b342d574fcf2f0e9ee86f43f7bdebd6d92972d9fc09",
@@ -64,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's Going On With Netflix Stock Thursday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ca8cca6bd6e441ca7934bb02df7b2bef51a5a16cc694cb5012469814551eb083",
+      "published_at": "2026-04-02T11:55:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.571,
+      "sentiment_confidence": 0.571,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.91,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Halftime Report Final Trades: Apple, Netflix, ServiceNow, Berkshire Hathaway",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e38e9fe0477e596fd19ca44d4ccdaa9fbe3604c8b41a7a3369e1dbe6a41811cd",
-      "published_at": "2026-03-31T13:04:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "XLC Is Down 8.78% Year to Date and the Catalysts That Matter Most Are Still Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad7cdddc757511cf464c7256c72676f0fab989c1f0e3c4d564e9d1bbf09fa855",
-      "published_at": "2026-03-31T11:00:24",
-      "sentiment": "negative",
-      "sentiment_score": -0.965,
-      "sentiment_confidence": 0.965,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NFXL: Leveraged Exposure To NFLX",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=42ea07f60edcc76b1179950a10796f050a7268fc4215c8fa5bdb30dd1655af0e",
-      "published_at": "2026-03-31T10:44:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Prediction: Netflix's Latest Price Increase Will Be the Ultimate Stress Test on the U.S. Economy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f20d074f9ebc39491ecc14faa3b191ff2d980cb64f3f59164566cdfba2231020",
-      "published_at": "2026-03-31T09:25:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.52,
-      "sentiment_confidence": 0.52,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Breakfast Podcast: Gold Hit Hard, Goldman Keeps $5,400 Target",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d41dc1ba97ed1d9f435dcf746f74d66164e4dc16a498169d1e6d97e72f30e5d0",
-      "published_at": "2026-03-31T06:47:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Tiger King' Fame Joe Exotic's Appeal Turned Down By Supreme Court \u2014 Here's What Happened To His Namesake TKING Crypto",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3be1e07593106876d65746784f562e4e936d06fcf2d5803efc796e577bf663ca",
-      "published_at": "2026-03-31T02:31:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.886,
       "relevance_score": 1.0,
       "event_type": null
     }

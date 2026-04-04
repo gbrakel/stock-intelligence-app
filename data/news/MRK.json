@@ -2,6 +2,39 @@
   "ticker": "MRK",
   "articles": [
     {
+      "headline": "Health Care Roundup: Market Talk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2c1a5580bd638ad12e384d4d004ad7cd16056f40775f0a025eb62c20c2c0a6f",
+      "published_at": "2026-04-03T21:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump Unveils Up to 100% Tariffs on Imported Medicines With Key Exemptions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54c4e25865e33d267f07d94dbf0db9dcaccf20f5b046985c760e40890a8e5622",
+      "published_at": "2026-04-03T17:05:03",
+      "sentiment": "positive",
+      "sentiment_score": 0.727,
+      "sentiment_confidence": 0.727,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf81c188a66167c47969f435773db2463fab8da9c86e2b113ed13c8720aa9eda",
+      "published_at": "2026-04-03T07:30:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.903,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Merck Broadens Cancer And Eye Disease Pipeline As Investors Weigh Future Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=610459f4cc772060e5f278ab62355652b9194b7ea5a5a1434670c2cf7e6474a4",
@@ -119,6 +152,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.799,
       "sentiment_confidence": 0.799,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Adagene Drug Shows Stronger Tumor Response at Higher Dose in Early Cancer Trial",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5e1025f9ba3e44f75c4492ea514f76403bb45a37c83a16b829b12fd05f70b6b1",
+      "published_at": "2026-04-02T08:27:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.948,
+      "sentiment_confidence": 0.948,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -262,6 +306,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.633,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Merck & Co. Inc. stock rises Tuesday, still underperforms market",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2ba35a113492913f595e312260011b4c31121235d9e0e5eee156d5e9086e8382",
+      "published_at": "2026-03-31T16:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.729,
+      "sentiment_confidence": 0.729,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -431,10 +486,21 @@
       "event_type": null
     },
     {
+      "headline": "Merck & Co. Inc. stock underperforms Monday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f0c8c45642f99004f65dab72d66c528155163bfe2323a67d6b35647545718c3f",
+      "published_at": "2026-03-30T16:32:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.947,
+      "sentiment_confidence": 0.947,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "How Merck's New Cholesterol Buster Will 'Move The Needle' 'By Removing The Needle'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3a6dc44c59fd09ad959848c84b05e8272e546049d22e722e866ff9480205303",
-      "published_at": "2026-03-30T15:45:38",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=13ab3127e3c12dbd7d1f20981d4bc43182662a4a8c9b715a60233b8c2a6e91fa",
+      "published_at": "2026-03-30T16:12:45",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.797,
@@ -482,72 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.605,
       "sentiment_confidence": 0.605,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Investors May Respond To Merck (MRK) WINREVAIR Phase 2 Success In Tough Heart Failure Segment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc216dfc3e407e33f6d82efabec37658f55e597e4bc810f0188e5280109bb5bf",
-      "published_at": "2026-03-30T13:08:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.809,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Immix Biopharma Announces Enrollment Completion of BLA-Enabling Relapsed/Refractory AL Amyloidosis Trial NEXICART-2, and Upcoming Milestones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=098818ee348c538519dffe1e3e1e371a0b1ad3ea3a79fe77e2bd32a293fb7501",
-      "published_at": "2026-03-30T12:45:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.874,
-      "sentiment_confidence": 0.874,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Merck Announced Results From Third Positive Phase 3 Comparative Study On Enlicitide Decanoate When Added To Background Statins In Adults With Hypercholesterolemia Who Have A History Of Or Are At Risk For Atherosclerotic Cardiovascular Disease",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=981efc6327a388ff341ec4380917d0a79a271d4b00f2acaf97b143cdcad337d3",
-      "published_at": "2026-03-30T11:48:08",
-      "sentiment": "positive",
-      "sentiment_score": 0.72,
-      "sentiment_confidence": 0.72,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Merck (MRK) Shares Up Significantly Since Jim Cramer Advised to \u201cStay the Course\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2daaf582422d6b87b1dc09c292bc6469e63c96727379119555bb8769302da890",
-      "published_at": "2026-03-30T11:07:30",
-      "sentiment": "positive",
-      "sentiment_score": 0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cutaneous Squamous Cell Carcinoma (cSCC) Market Rises to $8.33 Billion in 2026: Roche, Merck & Co., and Sanofi Leads the Industry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1edc61dd7f6b1f1136f6fad811721f735619b2ccf6a2ea7cb3fbe392eb51eb6e",
-      "published_at": "2026-03-30T09:57:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.865,
-      "sentiment_confidence": 0.865,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pancreatic Adenocarcinoma Treatment Market to Grow at 13% CAGR During 2026-2030, Led by Pfizer, Roche, Merck & Co., Sanofi, Bristol-Myers Squibb, AstraZeneca, Novartis, and GlaxoSmithKline",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed5f32b07ce82c180ea9522abbb1a22d7faa163e558b86015299650aced9b927",
-      "published_at": "2026-03-30T09:51:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.878,
-      "sentiment_confidence": 0.878,
       "relevance_score": 1.0,
       "event_type": null
     }

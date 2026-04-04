@@ -2,6 +2,28 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf81c188a66167c47969f435773db2463fab8da9c86e2b113ed13c8720aa9eda",
+      "published_at": "2026-04-03T07:30:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.903,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "49-year-old Home Depot rival closes hardware store, no bankruptcy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=235290f5bf1a30e88a3df4a7c9003a2a757ab3c9532ba5db69586afc1746e749",
+      "published_at": "2026-04-03T03:55:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.606,
+      "sentiment_confidence": 0.606,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fdf022f755c0587da96b150235ca21a2fbbab65f6da7dd2254619e06736c84ca",
@@ -53,6 +75,72 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.617,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow falls 131 points on losses for shares of Sherwin-Williams Co., Home Depot",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=69da7ee459b1077a5b1833ff8a523398654bb09e7524692d85a0bfbdd330f4f7",
+      "published_at": "2026-04-02T13:21:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of homebuilding and housing-related companies are trading lower after U.S. mortgage rates grew for the fifth straight week, with the 30-year near a 7-month high.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d49d2e3fa02ba76e78eaf11abc7d761e8c9298636d9ca38ce589eabffd36ece8",
+      "published_at": "2026-04-02T13:06:36",
+      "sentiment": "negative",
+      "sentiment_score": -0.971,
+      "sentiment_confidence": 0.971,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot Shares Hit 52-Week Low as Iran War Threatens Housing Rebound",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2132e8fdc9eb13e5ebc0d5d677cd411c4d03330ba0d28456dedac60f91885dd6",
+      "published_at": "2026-04-02T12:56:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.954,
+      "sentiment_confidence": 0.954,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sherwin-Williams Co., Home Depot share losses lead Dow's 250-point fall",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7dea4d81411c3e1015253440c65bd4e5fc6523f73671e8ef2b4777d749ed89e4",
+      "published_at": "2026-04-02T12:20:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.853,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 125-point fall led by losses in Nike, Sherwin-Williams Co. stocks",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9908a790ac25e062a6ef5992cea02c7e9269991ede840c3c1ceecd8319579a14",
+      "published_at": "2026-04-02T10:50:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.961,
+      "sentiment_confidence": 0.961,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow's 667-point drop led by losses for shares of Sherwin-Williams Co., Goldman Sachs",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2c17d9dfe7e68df4d68c39c8f6842ae140b26239610e4b8cafe356b9c0747be4",
+      "published_at": "2026-04-02T09:45:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.968,
+      "sentiment_confidence": 0.968,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -167,6 +255,17 @@
       "event_type": null
     },
     {
+      "headline": "Home Depot Inc. stock rises Tuesday, still underperforms market",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0cb617e443ed23b166fd7676e5b9fec020a8fbd5bcdbc396bcc9c54657a1387c",
+      "published_at": "2026-03-31T16:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.511,
+      "sentiment_confidence": 0.511,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "3 of Wall Street\u2019s Favorite Stocks That Fall Short",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6eda7a0c58edb6b041de1d4c8f3a51b9cda75ef5843e45fce188f1d8612e8d56",
@@ -266,6 +365,17 @@
       "event_type": null
     },
     {
+      "headline": "Walt Disney, Salesforce share gains contribute to Dow's 250-point jump",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3375abaecefb805a366d8a33c0951a013fb57c45dd331196c3c8c27f6105367d",
+      "published_at": "2026-03-30T09:45:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.902,
+      "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "3 Cash-Producing Stocks That Concern Us",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe727d32b4734072b0eb87d3642c89a3144ca4d01aa83eab32bda4aea9523b75",
@@ -354,6 +464,17 @@
       "event_type": null
     },
     {
+      "headline": "Home Depot Inc. stock outperforms competitors despite losses on the day",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5ae99c316bc7163f2bc04b3ef79a4d034b9580d843cc73263fab95160d29b87a",
+      "published_at": "2026-03-27T16:31:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.932,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=5d4f63d98932ad5e701d48954a904261f6a9ef9bba0ee1e4441f2d3ea6a53dc0",
@@ -427,127 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.944,
       "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Home Depot to Present at the J.P. Morgan Retail Round Up Forum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55d21a8cb74f1ded9f82c1c04e0f9294b8fb393cd3a53fcb6b9ecd0d0d2969e4",
-      "published_at": "2026-03-26T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Alpha Hunters - How To Navigate The Potential Recession And Position Your Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0f836736e22528e1b3832301b0c380baad9ae1845e5ae708e80ef20d12c272a4",
-      "published_at": "2026-03-26T07:45:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Family offices make opportunistic bets on real estate as investors sit on sidelines",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=1c4d398e59f6502d9fb97b2bf35350040da8924b00b2c1567a6f648c1c4329ed",
-      "published_at": "2026-03-26T07:30:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.82,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot shows it has faith in a housing market rebound",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb185f8ab88ebda36f344afa3428ee91dab43c5b922691eb670b59efad3d8dbd",
-      "published_at": "2026-03-25T22:07:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.873,
-      "sentiment_confidence": 0.873,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Inside India newsletter: Ikea has high hopes for the country as it stares at a global slowdown",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=acc8b71bcb0e35f78a7175f33b76a24b68a675fc4c674b58adee6c672c297750",
-      "published_at": "2026-03-25T20:04:35",
-      "sentiment": "positive",
-      "sentiment_score": 0.937,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's How Much $100 Invested In Home Depot 15 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8d3f4737e924d7aa9c0c64d1ce245888e79531ddef61b748d1671e19d8a7fe65",
-      "published_at": "2026-03-25T16:30:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot to Acquire Mingledorff's, Expand Into HVAC Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=400c38d860f8b34592d42852da19c6e04553449d0836576ea73ff19995073add",
-      "published_at": "2026-03-25T14:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.626,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tommy DeCarlo, Fan Who Became Lead Singer of Boston, Dies at 60",
-      "source": "DowJones",
-      "url": "https://finnhub.io/api/news?id=ddd555eed8bbcf5d3c8350afb5a9f913a351e0e5c273f912ce583d4a2a839a4b",
-      "published_at": "2026-03-25T14:41:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.805,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jefferies says Mingledorff\u2019s deal expands Home Depot-SRS\u2019 TAM by $100B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5304b41a5faa1dc40c4de32e0f9ef71310f125cb288dc52946b1aba132d999c",
-      "published_at": "2026-03-25T14:10:17",
-      "sentiment": "positive",
-      "sentiment_score": 0.94,
-      "sentiment_confidence": 0.94,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot vs. Floor & Decor: Which Home Improvement Stock Is Better?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6005675589666b071a1d231eb962797afaf4e4879d0a2db62c97347ef1be9c64",
-      "published_at": "2026-03-25T14:06:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.88,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer Notes That the Charitable Trust Holds On to Home Depot In Case the Rates Get Cut",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5324058db209e1afe5254186b076db9b9c6f51e807ac5b35a5e5e4dbccd58144",
-      "published_at": "2026-03-25T13:13:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.815,
       "relevance_score": 1.0,
       "event_type": null
     }

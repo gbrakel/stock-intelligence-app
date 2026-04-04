@@ -2,6 +2,39 @@
   "ticker": "BAC",
   "articles": [
     {
+      "headline": "How The Investment Story For Sprouts Farmers Market (SFM) Is Shifting After Recent Analyst Moves",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aea40fd596da309a9c4bddf50ff32a91e7e6384b846b30aaf7c7a9123d600ab7",
+      "published_at": "2026-04-03T15:07:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.873,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bond Traders Set Up for Jobs Data With Iran War Still Main Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b136d9e3b03391c535bc6c5721d6749f5805bec69ab49b4bff3a5bf624c0ce4",
+      "published_at": "2026-04-03T11:35:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.582,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Foiled Paris Bomb Plot and Remote-Work Shift Could Be A Game Changer For Bank of America (BAC)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f099e5ad5f3d396fad55441b45236d21fe52d5a6f08f9bb230a6b4fa50a635c",
+      "published_at": "2026-04-03T06:11:36",
+      "sentiment": "negative",
+      "sentiment_score": -0.451,
+      "sentiment_confidence": 0.451,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Sector Update: Financial Stocks Advance Thursday Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4e00ec82e577c59740e01eb00357baaa56b83609460d52b10163da4727b3f94",
@@ -90,6 +123,17 @@
       "event_type": null
     },
     {
+      "headline": "'Bank of America-Epstein Victims Deal Gets Preliminary Approval' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f492394c630e2988c2d8b8c52fd63cb529629d557c581bbc0cb998dd2d16483a",
+      "published_at": "2026-04-02T12:01:59",
+      "sentiment": "positive",
+      "sentiment_score": 0.56,
+      "sentiment_confidence": 0.56,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BoE to hike before cutting, says BofA as energy shock persists",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=399805f0b9c204c33fcf0bdf74055d6eb869ac5b8d03e7044c166d1803f8857a",
@@ -141,6 +185,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Staff at Citi told to work remotely in Paris and Frankfurt following foiled bomb attempt",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1dbc3717718e904d66095e0c5ec703ec561b40b3ecfd0e883e87e4897c017627",
+      "published_at": "2026-04-02T08:28:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.878,
+      "sentiment_confidence": 0.878,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.851,
       "sentiment_confidence": 0.851,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer: Three ways the stock market will flip if the U.S.-Iran war ends",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=00e06a50580c21a4d5dcbbf5371a5b4542a5d0dcca7e67cd1c88d56db51c5620",
-      "published_at": "2026-03-31T18:19:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.701,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=2c9c9719d4636dd435eb245f47467a5e37b15ce90633cf96c5ec7442f1abed5e",
-      "published_at": "2026-03-31T16:19:29",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CoreWeave stock gets bold call from Bank of America amid AI shortage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f51aef6a8a1b912c3df60a155d23095cad9e719a31600df1e0aaf645421f5da",
-      "published_at": "2026-03-31T16:03:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.82,
-      "sentiment_confidence": 0.82,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Shares of large banking companies are trading higher amid sympathy with JPMorgan after reports suggest the company is looking to amend its $7 billion Sealed Air deal.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6e279eb882ed8a82885958d1e31247e89a184d25c66347c6ccb0c00b7eab9075",
-      "published_at": "2026-03-31T15:54:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.897,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "$4 Gas Could Be the Breaking Point for the Economy, Inflation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8597d2c285cc3b3e551473043543f003f58dc781128eb1bb720b5b06643c1891",
-      "published_at": "2026-03-31T15:10:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.772,
-      "sentiment_confidence": 0.772,
       "relevance_score": 1.0,
       "event_type": null
     }

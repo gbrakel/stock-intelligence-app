@@ -2,6 +2,28 @@
   "ticker": "GE",
   "articles": [
     {
+      "headline": "1 Profitable Stock to Target This Week and 2 We Turn Down",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c309bcd82843916fd8386d64d15fdbe14974c9d0f79f8dd6d17d7281b4f8c83",
+      "published_at": "2026-04-03T21:48:50",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.768,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "US Stock Market Today: S&P 500 Futures Slip As Strong Jobs Data Meets Rate Pressure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86f2707559d58e44cea4002ede3b97a87bd2527836301cb8ae8fc86295bdd5a3",
+      "published_at": "2026-04-03T10:15:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.968,
+      "sentiment_confidence": 0.968,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "GE Aerospace (GE) Stock Declines While Market Improves: Some Information for Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bad265735f9bd1661e7c9df13a5a9736b22ad3416a7191deea00a6fad0e9acf1",
@@ -24,6 +46,17 @@
       "event_type": null
     },
     {
+      "headline": "GE Aerospace stock underperforms Thursday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=50b3f5beda272be08d0cc1c6a3b05b6d528b82f885b2523bbc393018e7551136",
+      "published_at": "2026-04-02T16:30:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.923,
+      "sentiment_confidence": 0.923,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Market Is Split on Palantir Stock. Should You Buy or Avoid Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a10c3e7852eb0c373ee0cb72692300066b03d7dcdc5665b94e388500ec59d4fb",
@@ -31,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.882,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "GE Aerospace shares are trading lower after Citigroup lowered its price target on the stock from $380 to $353.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0401546295a34edf74eec50efb5eb28c23949ed7dddda7cd3b619f7e67cf90cb",
+      "published_at": "2026-04-02T15:35:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -53,6 +97,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Citigroup Maintains Buy on GE Aerospace, Lowers Price Target to $353",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=320325b611b03710447fb1fb502baa512b286108c1747f6c9315b077d5caac51",
+      "published_at": "2026-04-02T12:12:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.517,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -255,6 +310,17 @@
       "event_type": null
     },
     {
+      "headline": "GE Aerospace stock outperforms competitors on strong trading day",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=20bed938bd2a8435b3fec463b6ee90c434f05809645e5564aff063ac32ad5b3a",
+      "published_at": "2026-03-31T16:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed'",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=175d13d5cf4d90890d984789806e6624cc34967e1a3af8169e17436302868657",
@@ -376,6 +442,17 @@
       "event_type": null
     },
     {
+      "headline": "GE Aerospace stock underperforms Monday when compared to competitors",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7a1c7850bc28ca1e53d6cb16d88865da00977f2ce9ca1186b82808b2d936510c",
+      "published_at": "2026-03-30T16:32:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.908,
+      "sentiment_confidence": 0.908,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "10 Recent Spin-off Companies That Hedge Funds Are Piling Into",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=986728628457b2cb37fb3edc9f6bb83e73093340f9b04841ffc0d26bdae3990a",
@@ -471,83 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lockheed Martin Stock: Is The Iran War Already Priced In?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75d8bedf8189ed0cf25b305dd786a72002b25abc3304948f37eee52316070509",
-      "published_at": "2026-03-26T11:28:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Strength Seen in Spire (SPIR): Can Its 7.1% Jump Turn into More Strength?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa7adc78a01dc2d4b3ece25b96dcdce91fe129c8f4466599c6bd471e9e16676a",
-      "published_at": "2026-03-26T10:48:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.586,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A Look At General Electric (GE) Valuation As New Energy Orders And Aerospace Investments Build Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2083efe2e15459e406607d09227e687e7abae957f31d21a17730fa5ded36836b",
-      "published_at": "2026-03-26T01:06:11",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.851,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Aerospace (GE) Laps the Stock Market: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b88694c2840308fe350ef8370b78384e1037a1aa22c4c710f208e82585f0db5a",
-      "published_at": "2026-03-25T21:45:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Equal Weight ETFs Beating the S&P 500 in 2026 as Mega-Cap Dominance Fades",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccf8bc933f11af04d02ea9b0574261570433130826d124c7e07f81d2a275645d",
-      "published_at": "2026-03-25T14:45:24",
-      "sentiment": "positive",
-      "sentiment_score": 0.897,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley Is Pounding the Table on GE Aerospace and TransDigm: Buy the Dip in These 2 Aerospace Stocks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea9a5530c1a439761d9e050029899904871b2c9a7a1a89d8f464351f99907b70",
-      "published_at": "2026-03-25T14:32:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Analysts See GE (GE) as a Buy: Should You Invest?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a8aa2e5c5dfbdf81791ac38e307ceb734da9fc95e40e2c05be777a0420e4e51",
-      "published_at": "2026-03-25T13:30:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     }
