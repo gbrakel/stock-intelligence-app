@@ -2,6 +2,105 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "MAC.BID Brings Deep Retail Discounts to El Paso, Texas with Online Auctions Starting at $1",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30ac240b6965aedd446cace09f9149faed3fc60f426c7e7b93d16dcbdc2e5ef0",
+      "published_at": "2026-04-06T16:12:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.79,
+      "sentiment_confidence": 0.79,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Zacks Analyst Blog Highlights Broadcom, Visa, Home Depot and BayFirst Financial",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02470c778f7b485323c85cf804c0886e193cce87af0e14312c1e581b628b375e",
+      "published_at": "2026-04-06T15:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot's Pro Business: Key Growth Lever Amid Slow Demand?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc6d8f9e030ef3a03ab37e9b2e3cbd38bcad099b04a6d25452c031e3e67c7244",
+      "published_at": "2026-04-06T12:44:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.599,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Optimistic on HD? This Bull Put Spread May Fit Perfectly",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=530a0055ef60ca37b453d32b8c4c4ade5d05fecfb101d3863c2a20473123f0f6",
+      "published_at": "2026-04-06T11:00:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.85,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer on Home Depot: \u201cI Regard It Now as One of the Most Problematic Positions in My Portfolio\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb1dceb0ecc5a4ff50094d0b07490545a162eeef56af6392fe6671eee27dd8fc",
+      "published_at": "2026-04-06T03:23:44",
+      "sentiment": "negative",
+      "sentiment_score": -0.919,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Meet the Next Generation of Dividend Aristocrats",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e8282935ea6134d22801c4b58e0ccf8a3f21dfde9cb195c8d9bd5e1331f57aab",
+      "published_at": "2026-04-05T13:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How The Home Depot (HD) Story Is Shifting After Q4 Rally And Mixed Macro Signals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=626310146ae6c36d03ee824c7e525e2c18c1f461950d8f04e2d3aef5ea1d82d1",
+      "published_at": "2026-04-04T23:08:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.498,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot's headquarters: Everything you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21346d4615e4b887e8a338fbd821914790b109059466e20202470a453ea35cc7",
+      "published_at": "2026-04-04T15:33:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "9 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6ac103b4902f5326f96768407f3e3684cfb810aca2c57223f1c06b47e10b28be",
+      "published_at": "2026-04-03T13:35:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.72,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=cf81c188a66167c47969f435773db2463fab8da9c86e2b113ed13c8720aa9eda",
@@ -152,17 +251,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.894,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Meet the Next Generation of Dividend Aristocrats",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=956918dfd2560240a8b4cba4ef764b1151480d5c16bc3513f74e989acea0c770",
-      "published_at": "2026-04-02T05:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.6,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot Inc. stock outperforms competitors despite losses on the day",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=5ae99c316bc7163f2bc04b3ef79a4d034b9580d843cc73263fab95160d29b87a",
-      "published_at": "2026-03-27T16:31:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.932,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5d4f63d98932ad5e701d48954a904261f6a9ef9bba0ee1e4441f2d3ea6a53dc0",
-      "published_at": "2026-03-27T13:35:21",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Weekly Closeout: Gabe\u2019s in search of top leadership and Home Depot\u2019s latest acquisition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40c92d020ed73351142ccdc5b3b430d1e58d2165f20bf2e5a8e21062a3947c62",
-      "published_at": "2026-03-27T11:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.864,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "In the age of AI, Home Depot\u2019s stores have \u2018never been more relevant\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=253b6d923d3d70730d2883ab81f4047bb097c5b3812096bf1d7541ec30c2da8c",
-      "published_at": "2026-03-27T10:56:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lowe's Or Home Depot? Former Still The Better Choice Two Quarters On",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8f5567391217e27bfcc9b89b8d4bab8ed57dd26f9370180083f4d89938cdb78e",
-      "published_at": "2026-03-27T09:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.813,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SKYX Platforms Q4 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19dc8adc863c89028ad3bda9f267061c170316ad745cacfb81cef2bf8eeab981",
-      "published_at": "2026-03-26T21:48:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot (HD) Stock Moves -1.23%: What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8120f960ea08d4b9c01101ea6332664463cc6ae98d4cc3af65be5e6e46b1dc19",
-      "published_at": "2026-03-26T21:45:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SKYX Reports Another Record Quarter with Revenue of\u00a0$25 Million in Q-4 Demonstrating 8 Consecutive Quarters of Year Over Year Growth with Annual Record Revenue of $92 Million in 2025 Compared to $86 Million in 2024 as it Continues to Grow its Market Penetration",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ef89466d946daea8bbc96e365768761d65dc36f13e7ce18b1df066552e4536e",
-      "published_at": "2026-03-26T20:05:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.944,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -1,32 +1,56 @@
 [
   {
-    "ticker": "CSCO",
+    "ticker": "AMD",
     "previous_signal": "reduce",
     "new_signal": "hold",
-    "date": "2026-04-03"
+    "date": "2026-04-07"
+  },
+  {
+    "ticker": "CRM",
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-04-07"
+  },
+  {
+    "ticker": "LLY",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-07"
   },
   {
     "ticker": "ABBV",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-04-03"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-07"
   },
   {
-    "ticker": "V",
+    "ticker": "BAC",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-07"
+  },
+  {
+    "ticker": "PG",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-04-03"
+    "date": "2026-04-07"
   },
   {
-    "ticker": "MCD",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-04-03"
-  },
-  {
-    "ticker": "CMCSA",
+    "ticker": "HD",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-04-03"
+    "date": "2026-04-07"
+  },
+  {
+    "ticker": "GE",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-07"
+  },
+  {
+    "ticker": "NFLX",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-07"
   }
 ]

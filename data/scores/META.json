@@ -2,6 +2,21 @@
   "ticker": "META",
   "history": [
     {
+      "date": "2026-04-07",
+      "composite": 52.9,
+      "signal": "reduce",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 70.3,
+        "growth_trend": 63.4,
+        "valuation": 81.6,
+        "sentiment": 61.0,
+        "technical": 24.7,
+        "risk_penalty": 45.7
+      }
+    },
+    {
       "date": "2026-04-03",
       "composite": 52.5,
       "signal": "reduce",

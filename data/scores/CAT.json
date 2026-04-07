@@ -2,6 +2,21 @@
   "ticker": "CAT",
   "history": [
     {
+      "date": "2026-04-07",
+      "composite": 53.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 65.8,
+        "growth_trend": 62.2,
+        "valuation": 60.2,
+        "sentiment": 58.1,
+        "technical": 72.4,
+        "risk_penalty": 45.2
+      }
+    },
+    {
       "date": "2026-04-03",
       "composite": 54.3,
       "signal": "exit_watch",
