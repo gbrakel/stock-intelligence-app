@@ -2,6 +2,50 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef252dbe26ce6778b1a4a73c5ef0739746020a8ba7a6823da51e5febe0a3a003",
+      "published_at": "2026-04-07T23:46:50",
+      "sentiment": "negative",
+      "sentiment_score": -0.678,
+      "sentiment_confidence": 0.678,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures: Stocks Whipsaw Into Trump's Iran War Deadline; Apple, Tesla Slump",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77559a735a5a984bce9aac4dbdcf0bdf26211d83b3469fc9815d311b829af078",
+      "published_at": "2026-04-07T21:44:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.725,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is It Too Late To Consider Caterpillar (CAT) After Its 161% One Year Surge?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92fddb156ce3db4d0fa1b72f4c16b8c1d1ae43d6462714828934feddf5c61270",
+      "published_at": "2026-04-07T19:11:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.743,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Zacks Industry Outlook Highlights Caterpillar, Komatsu and Astec Industries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ace2f77df9656e633a7045530cbf3a4dff4470d3eff90c36adba935d569a62cb",
+      "published_at": "2026-04-07T12:56:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Leaderboard Trimmed, But Cloudflare, Caterpillar Among 5 Stocks To Watch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c551230084fe324b9957e2799c7b141a715010e54b002151c4d2833bbb87c13e",
@@ -9,6 +53,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.732,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Industrials Stocks With Whale Alerts In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4095fdc3873f1cd943611b1553d1b05b61c50ab8154788b0b062996bce013250",
+      "published_at": "2026-04-06T13:36:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.864,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.894,
       "sentiment_confidence": 0.894,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar, NVIDIA Corp. share gains lead Dow's nearly 950-point surge",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=418e664345c5cd53cc73b071bf97b335f98a20b9164c5b1a9f58312465713d11",
-      "published_at": "2026-03-31T13:54:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.798,
-      "sentiment_confidence": 0.798,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Company News for Mar 31, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2841a208195b8653ba97fc157b74bc644f13e71f57ca4ba9d5490abef1a2556f",
-      "published_at": "2026-03-31T13:21:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NVIDIA Corp., Caterpillar share gains contribute to Dow's nearly 800-point rally",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=76d0c9c4fe46915dcea26afd25009168a31e892d77293480bc9b1c4edd9f75b8",
-      "published_at": "2026-03-31T12:53:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.922,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow rallies nearly 500 points on gains for shares of NVIDIA Corp., Caterpillar",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=ceedc9973e3070ff29ecf913a2d123f8bc5f24f8d6c87746ed9977799119e57e",
-      "published_at": "2026-03-31T11:52:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.881,
-      "sentiment_confidence": 0.881,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow's 335-point rally highlighted by gains for NVIDIA Corp., Caterpillar stocks",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=b3ab7559d6e0b548f64695725ecf856c63c2527082bcb79728d26dfd316a5fd4",
-      "published_at": "2026-03-31T10:51:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.877,
-      "sentiment_confidence": 0.877,
       "relevance_score": 1.0,
       "event_type": null
     }
