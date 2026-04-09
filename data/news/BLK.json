@@ -2,6 +2,83 @@
   "ticker": "BLK",
   "articles": [
     {
+      "headline": "Sector Update: Financial Stocks Higher Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f1bcbaa2053626f1a57ce21bb34ebe3fbeacfdb885b1c0e1f6a51d4c77b382f",
+      "published_at": "2026-04-08T19:59:27",
+      "sentiment": "positive",
+      "sentiment_score": 0.909,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sector Update: Financial Stocks Gain Wednesday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=569d255c4d51318c9e01deaabfc1e207e0020c6803442d61ad7aade287c73f0e",
+      "published_at": "2026-04-08T18:03:47",
+      "sentiment": "positive",
+      "sentiment_score": 0.517,
+      "sentiment_confidence": 0.517,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What BlackRock, State Street's rival QQQ ETFs mean for investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb1cedccb85f7aa36296136c38eab613e1c48725da7b817df26fb83723b769a3",
+      "published_at": "2026-04-08T15:52:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BLK & STT Enter Nasdaq 100 Index ETFs, Challenge Invesco QQQ Fund",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bef7cfd6e1488579389368843bf0f92d5f15b230e36cf7d010e6ecb57793af9",
+      "published_at": "2026-04-08T15:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.693,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BlackRock Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=979ef80e0e41d58e98e634d0de7181990382150365dc347108f58e0c86059ff8",
+      "published_at": "2026-04-08T08:22:07",
+      "sentiment": "positive",
+      "sentiment_score": 0.853,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BlackRock, State Street Challenge Invesco's Nasdaq-100 ETF Dominance",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e27fbbdcbe66b4968070afe6b3c55f5ad849b70589bcf3bcc79de094137f4497",
+      "published_at": "2026-04-08T03:29:03",
+      "sentiment": "positive",
+      "sentiment_score": 0.689,
+      "sentiment_confidence": 0.689,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI Giants Go on Charm Offensive to Avert Public Backlash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1412ef81811775b1f42c6f2b66c2c7ab830868196874ffca5802d132662d9204",
+      "published_at": "2026-04-08T01:55:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.685,
+      "sentiment_confidence": 0.685,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Billions Flow Out of BlackRock\u2019s India ETF as Iran War Escalates",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b70ac076defdccb34d675994b494dabbfb31e2bb444fe4c1255a845e9b79d88d",
@@ -20,6 +97,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.736,
       "sentiment_confidence": 0.736,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Goldman Sachs Maintains Buy on BlackRock, Lowers Price Target to $1181",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b4a0399a01283c3f697849946b1e506e00580a321abf629c9fa138b5124bd8fb",
+      "published_at": "2026-04-07T14:08:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.772,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley Maintains Overweight on BlackRock, Lowers Price Target to $1368",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3ebecf80e9b987d1918be063ed5c488d12f41a75ddd8cbcb5ad6a89a8958935c",
-      "published_at": "2026-04-01T08:48:55",
-      "sentiment": "negative",
-      "sentiment_score": -0.525,
-      "sentiment_confidence": 0.525,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Iran's Foreign Minister Araghchi Accuses Pete Hegseth Of Launching A 'War Of Choice' While 'Trying To Profit'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=45b727a0b812d94003cb47fffea2c6cf0ff520df58db5e5fda20d46dbc7a6272",
-      "published_at": "2026-04-01T03:32:45",
-      "sentiment": "negative",
-      "sentiment_score": -0.795,
-      "sentiment_confidence": 0.795,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock Faces Insider Access Questions And Valuation Focus After ETF Trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95f11eeff4b0b4f3e401dd21a4ee70052839688f1a7324c58026e81e4cc5fc50",
-      "published_at": "2026-04-01T03:18:17",
-      "sentiment": "negative",
-      "sentiment_score": -0.614,
-      "sentiment_confidence": 0.614,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock (BLK) Outperforms Broader Market: What You Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=617491a32c2cad4e5a6074cf4e42673f5e8b6a6e5d25baa7ff67919c8c72d756",
-      "published_at": "2026-03-31T22:15:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Financial Stocks Advance Tuesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=005bc3543b8d8ce8a3498e0a0f888f7aeecae46eefd2a093452784d330cc2a02",
-      "published_at": "2026-03-31T20:03:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.758,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Visa Is Down 14% This Year While Analysts See 33% Upside From Here",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b58e9da98843fe32afea02fedf40453cac7d0b9a593996b855950c63994a1d8e",
-      "published_at": "2026-03-31T18:39:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.973,
-      "sentiment_confidence": 0.973,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Crypto asset manager CoinShares to begin trading on Nasdaq through SPAC merger",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=99706ddfe8bd6303631cc561aa600edcea022fa58517b216259793e0659bff4c",
-      "published_at": "2026-03-31T18:24:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Financial Stocks Rise Tuesday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b9d16b6b202f9e967ebd7a0fea79f5583eb24842e8f708e50679054c649c058",
-      "published_at": "2026-03-31T17:52:15",
-      "sentiment": "positive",
-      "sentiment_score": 0.684,
-      "sentiment_confidence": 0.684,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,21 @@
   "ticker": "GOOGL",
   "history": [
     {
+      "date": "2026-04-09",
+      "composite": 53.7,
+      "signal": "exit",
+      "signal_confidence": 0.79,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 70.3,
+        "growth_trend": 52.1,
+        "valuation": 47.0,
+        "sentiment": 64.8,
+        "technical": 67.4,
+        "risk_penalty": 32.2
+      }
+    },
+    {
       "date": "2026-04-08",
       "composite": 53.0,
       "signal": "exit",
