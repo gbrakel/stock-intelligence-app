@@ -2,6 +2,28 @@
   "ticker": "NEE",
   "articles": [
     {
+      "headline": "Maine set to become first state with data center ban",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=72c1c08c978f829bc396d7e029ee7cecfb183f99f6018abc5fe5ea6d621766d6",
+      "published_at": "2026-04-09T11:01:11",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.701,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra Energy announces date for release of first-quarter 2026 financial results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9215af3b615af9d667105f45927616a1f1ebb38dc5c2d1338768f062f8e56d05",
+      "published_at": "2026-04-09T10:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why A Modest Move To $24 For CRK Could Still Matter",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e39b11e0292f4fa69cac5fa4163251dd47d22a408ac99e35fa9e8ce481ef49fa",
@@ -31,6 +53,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.702,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Barclays Maintains Equal-Weight on NextEra Energy, Raises Price Target to $89",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9ae13bae1501830a6d9ce3f5c34ad725a2d3945f283dcb9a683bea5ffcd889d5",
+      "published_at": "2026-04-08T12:23:31",
+      "sentiment": "positive",
+      "sentiment_score": 0.867,
+      "sentiment_confidence": 0.867,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NVIDIA\u2019s Monday Rebound: What Energy Partnerships and BioNeMo Mean for NVDA Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cac26a2347e84dd8c9d2051aa70a79b76b76a67854ffd5fae5c9a327323655ca",
-      "published_at": "2026-03-23T13:34:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Anew Climate Joins Carbon Measures to Advance Global Carbon Accounting Standards and Policies Supporting Market-Based Solutions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cdea4a908483b2cb40e26e444b3999885ba8af8a74127df677d87b8dd69938b",
-      "published_at": "2026-03-23T13:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.622,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia Partners With 6 US Energy Giants To Unlock 100 Gigawatts For AI",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=75f13a6b0b441b5fab25b7270e8785358283f8c7ea5a2fa7bffa7ab02906c064",
-      "published_at": "2026-03-23T12:18:45",
-      "sentiment": "positive",
-      "sentiment_score": 0.842,
-      "sentiment_confidence": 0.842,
       "relevance_score": 1.0,
       "event_type": null
     }

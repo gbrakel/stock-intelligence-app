@@ -2,6 +2,39 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Buy These 3 Cybersecurity Stocks to Protect Your Portfolio in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d07016170fc3d83719a7f2885efc21b19b28f52377c476f9a3edbca300defc65",
+      "published_at": "2026-04-09T13:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.916,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Google expands partnership with Intel for AI chips",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2509e5536084c116fb251d49cf0c4075a19a839a1b09efd829c82488f20ad555",
+      "published_at": "2026-04-09T09:00:01",
+      "sentiment": "positive",
+      "sentiment_score": 0.912,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI's Hidden Choke Point: Why US-Made Chips Still Depend On Taiwan",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6a9e7e52354294a139bbaedfc99f5829186eb91ed43a4755f6ae90c78a4427e2",
+      "published_at": "2026-04-09T07:10:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.864,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Anthropic's Mythos raises questions for cybersecurity startup valuations",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d6834c81c8566aecf01c701e67cf8445a95973381ccd44c2046bdf3b607f71b3",
@@ -53,6 +86,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.953,
       "sentiment_confidence": 0.953,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shares of companies within the broader tech sector are trading higher amid overall market gain and easing energy costs after a ceasefire consensus was reached between the U.S. and Iran. Also, President Trump's social media post over the proposed 15-point agenda further lifted overall sentiment in the sector.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=04151c6514f6bc1ec373e0e67667efd8195dbef69b6757b53f1998b86a8227ee",
+      "published_at": "2026-04-08T15:44:29",
+      "sentiment": "positive",
+      "sentiment_score": 0.948,
+      "sentiment_confidence": 0.948,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.686,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Report: Strategic Wireless Investments are Driving Higher ROI for Enterprises in the AI Era",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92ae10e5b258191178081666b0eda6d2f0ad82086f6162a7b52533cc7d60d9df",
-      "published_at": "2026-04-02T15:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Final Trades: Cisco, Digital Realty and Ciena",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=21fee6c73a0e9dff8fe11566d5eca68e746c4a7ac2d80f4760edcc48da0b4d24",
-      "published_at": "2026-04-02T13:07:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Halftime Report Final Trades: Ciena, Digital Realty Trust, Cisco Systems",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e0cca7d5d982f03193e54c504bbdca3c20be6c98441c9c5cd9ab295a7b931fd7",
-      "published_at": "2026-04-02T13:01:21",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Court Square Capital Partners Announces Acquisition of CallTower",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e63c4a6a8b55653cf9b327e44c71f657bc180411348be534aaf4c5fe1c47bb66",
-      "published_at": "2026-04-02T13:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
       "relevance_score": 1.0,
       "event_type": null
     }

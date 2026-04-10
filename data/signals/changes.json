@@ -1,26 +1,38 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-04-09"
-  },
-  {
-    "ticker": "MCD",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-04-09"
-  },
-  {
-    "ticker": "HD",
+    "ticker": "MSFT",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-04-09"
+    "date": "2026-04-10"
   },
   {
-    "ticker": "CAT",
-    "previous_signal": "exit_watch",
+    "ticker": "AMD",
+    "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-04-09"
+    "date": "2026-04-10"
+  },
+  {
+    "ticker": "CRM",
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-04-10"
+  },
+  {
+    "ticker": "CSCO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-04-10"
+  },
+  {
+    "ticker": "LLY",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-04-10"
+  },
+  {
+    "ticker": "BA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-10"
   }
 ]
