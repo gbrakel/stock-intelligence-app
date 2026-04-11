@@ -2,6 +2,21 @@
   "ticker": "TMO",
   "history": [
     {
+      "date": "2026-04-11",
+      "composite": 52.4,
+      "signal": "reduce",
+      "signal_confidence": 0.75,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 63.5,
+        "growth_trend": 69.4,
+        "valuation": 52.3,
+        "sentiment": 69.6,
+        "technical": 30.9,
+        "risk_penalty": 41.6
+      }
+    },
+    {
       "date": "2026-04-10",
       "composite": 52.2,
       "signal": "reduce",
