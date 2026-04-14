@@ -2,6 +2,21 @@
   "ticker": "GS",
   "history": [
     {
+      "date": "2026-04-14",
+      "composite": 44.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.51,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 51.1,
+        "growth_trend": 48.9,
+        "valuation": 74.7,
+        "sentiment": 56.5,
+        "technical": 61.0,
+        "risk_penalty": 51.8
+      }
+    },
+    {
       "date": "2026-04-11",
       "composite": 45.8,
       "signal": "exit_watch",

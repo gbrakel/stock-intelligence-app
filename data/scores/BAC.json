@@ -2,6 +2,21 @@
   "ticker": "BAC",
   "history": [
     {
+      "date": "2026-04-14",
+      "composite": 50.8,
+      "signal": "exit_watch",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 54.3,
+        "growth_trend": 50.7,
+        "valuation": 100.0,
+        "sentiment": 58.8,
+        "technical": 55.3,
+        "risk_penalty": 36.7
+      }
+    },
+    {
       "date": "2026-04-11",
       "composite": 52.0,
       "signal": "exit_watch",

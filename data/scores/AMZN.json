@@ -2,6 +2,21 @@
   "ticker": "AMZN",
   "history": [
     {
+      "date": "2026-04-14",
+      "composite": 50.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.68,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 50.3,
+        "growth_trend": 64.3,
+        "valuation": 57.2,
+        "sentiment": 61.8,
+        "technical": 65.6,
+        "risk_penalty": 36.1
+      }
+    },
+    {
       "date": "2026-04-11",
       "composite": 50.6,
       "signal": "exit_watch",
