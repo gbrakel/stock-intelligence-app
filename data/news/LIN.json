@@ -2,6 +2,17 @@
   "ticker": "LIN",
   "articles": [
     {
+      "headline": "Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73042079f0a85a4acc6af5affca3be369a45c641bf587053c7e09b261e1322a2",
+      "published_at": "2026-04-14T19:36:45",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.885,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "UBS Boosts Linde (LIN) Target, Sees Continued Upside in Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e3cd252c87af18587662c28c71d5ca35903b088aa9ab0acacfa08c2aac7ee067",
@@ -31,6 +42,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.952,
       "sentiment_confidence": 0.952,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Citigroup Maintains Buy on Linde, Raises Price Target to $580",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=888e8eee514cfad4953ba45cf913d5a750d70de9befb3580cd75bcb4560f67a2",
+      "published_at": "2026-04-13T12:54:09",
+      "sentiment": "positive",
+      "sentiment_score": 0.797,
+      "sentiment_confidence": 0.797,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.802,
       "sentiment_confidence": 0.802,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "MXI: Materials Dashboard For March",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ab666ef40ad21562d3d510be2d5f272b9f6483b88f17afd079a7269040929591",
-      "published_at": "2026-03-17T05:45:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Movers and shakers in today's after-hours session for S&P500 stocks?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d7f90f0b9c550f0b7633906eb8e2bf91cc009dc386f8d72a83f906bd45952215",
-      "published_at": "2026-03-16T22:05:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.807,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,17 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Steady Margins, Slow Gains: Is Home Depot's Strategy Working?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6d87e9e3bfc61e09a76b417fad2cae98dce3f0fef2ae517ee819dea622a0c67",
+      "published_at": "2026-04-14T19:34:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.648,
+      "sentiment_confidence": 0.648,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "How much does Home Depot pay in dividends? Yield & payouts explained",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d618a051c47a79b9c42f16e857f5c637bbe7f9b6d4dd837752fbd9412be53f92",
@@ -537,17 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.853,
       "sentiment_confidence": 0.853,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow's 125-point fall led by losses in Nike, Sherwin-Williams Co. stocks",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=9908a790ac25e062a6ef5992cea02c7e9269991ede840c3c1ceecd8319579a14",
-      "published_at": "2026-04-02T10:50:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
       "relevance_score": 1.0,
       "event_type": null
     }

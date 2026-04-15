@@ -1,44 +1,38 @@
 [
   {
-    "ticker": "ADBE",
+    "ticker": "ORCL",
     "previous_signal": "exit",
     "new_signal": "reduce",
-    "date": "2026-04-14"
+    "date": "2026-04-15"
   },
   {
-    "ticker": "CSCO",
+    "ticker": "ABBV",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-04-15"
+  },
+  {
+    "ticker": "TMO",
     "previous_signal": "reduce",
     "new_signal": "hold",
-    "date": "2026-04-14"
+    "date": "2026-04-15"
   },
   {
-    "ticker": "UNH",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-14"
-  },
-  {
-    "ticker": "LLY",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-04-14"
-  },
-  {
-    "ticker": "PG",
+    "ticker": "KO",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-04-14"
+    "date": "2026-04-15"
+  },
+  {
+    "ticker": "COST",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-04-15"
   },
   {
     "ticker": "BA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-14"
-  },
-  {
-    "ticker": "CMCSA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-14"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-15"
   }
 ]

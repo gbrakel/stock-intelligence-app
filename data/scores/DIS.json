@@ -2,6 +2,21 @@
   "ticker": "DIS",
   "history": [
     {
+      "date": "2026-04-15",
+      "composite": 51.6,
+      "signal": "reduce",
+      "signal_confidence": 0.72,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 71.2,
+        "growth_trend": 59.4,
+        "valuation": 75.0,
+        "sentiment": 51.6,
+        "technical": 37.2,
+        "risk_penalty": 41.0
+      }
+    },
+    {
       "date": "2026-04-14",
       "composite": 51.9,
       "signal": "reduce",
