@@ -2,6 +2,22 @@
   "ticker": "BAC",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.12,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 7256100000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 31180000000.0,
       "net_income": 7528000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 25347000000.0,
       "net_income": 6665000000.0,
-      "eps": 0.83,
+      "eps": null,
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": 0.2629502505227443,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 296486000000.0,
       "roe": 0.02267292142208373,
       "roa": 0.0020436641963830974,
-      "shares_outstanding": 7738400000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 14.257218,
-    "forward_pe": 10.901479,
+    "pe_ratio": 13.310945,
+    "forward_pe": 10.626847,
     "ev_ebitda": null,
-    "price_to_sales": 3.6290271,
+    "price_to_sales": 3.489067,
     "peg_ratio": null,
-    "market_cap": 389837357056,
-    "enterprise_value": 405776990208
+    "market_cap": 382366875648,
+    "enterprise_value": 141404372992
   }
 }

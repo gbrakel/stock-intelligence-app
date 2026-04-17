@@ -1,38 +1,62 @@
 [
   {
-    "ticker": "AVGO",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-04-16"
+    "ticker": "AAPL",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-04-17"
   },
   {
-    "ticker": "LLY",
+    "ticker": "AVGO",
     "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "ticker": "PG",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-16"
-  },
-  {
-    "ticker": "HD",
+    "ticker": "UNH",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "ticker": "CAT",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-04-16"
+    "ticker": "ABBV",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-17"
   },
   {
-    "ticker": "NFLX",
+    "ticker": "MA",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-17"
+  },
+  {
+    "ticker": "BAC",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-17"
+  },
+  {
+    "ticker": "KO",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
+  },
+  {
+    "ticker": "PEP",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-17"
+  },
+  {
+    "ticker": "COST",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-17"
+  },
+  {
+    "ticker": "XOM",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-17"
   }
 ]
