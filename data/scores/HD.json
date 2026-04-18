@@ -2,6 +2,21 @@
   "ticker": "HD",
   "history": [
     {
+      "date": "2026-04-18",
+      "composite": 52.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.74,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 80.0,
+        "growth_trend": 41.0,
+        "valuation": 86.2,
+        "sentiment": 62.0,
+        "technical": 36.9,
+        "risk_penalty": 44.3
+      }
+    },
+    {
       "date": "2026-04-17",
       "composite": 51.6,
       "signal": "exit",

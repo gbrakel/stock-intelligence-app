@@ -2,6 +2,61 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7748680a5edede3e9a017bf2a485772e0c5295de9c8cc7ad4524ee99c71471ea",
+      "published_at": "2026-04-17T20:11:20",
+      "sentiment": "positive",
+      "sentiment_score": 0.664,
+      "sentiment_confidence": 0.664,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot Weighs SIMPL Automation Deal Against Valuation And Debt Concerns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de115c368e92c6af7243bc91581c0bda66ae2800f689fcad77150f6b71a3297",
+      "published_at": "2026-04-17T20:02:58",
+      "sentiment": "positive",
+      "sentiment_score": 0.786,
+      "sentiment_confidence": 0.786,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "United States Residential Remodeling Industry Report 2025-2033: Modernization Trends, Energy-efficient Upgrades, and Demand for Aesthetic Improvements Driving Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14df752e413840512864d568a93fcdb558337e356f30b784f0ff9dd54f9ca6c3",
+      "published_at": "2026-04-17T15:51:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.639,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot eyes same-day, next-day delivery site in New York",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4639fd8071ab0ec0d600129d614c3b4fa2d5d2ec7848961bf62be1a7d1315762",
+      "published_at": "2026-04-17T09:40:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How many stores does Home Depot have?\u00a0How big are they?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5196e2dbb29118319125d4ca6f8a9126be925da654ed2c6ea8ba5112e13a30d",
+      "published_at": "2026-04-17T00:28:37",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.913,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Home Depot\u2019s stock split history: What you need to know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f2efdaedf43d69327d66253df769ec80df02c41df466d0ef25cc981d8fc267d9",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot's Pro Business: Key Growth Lever Amid Slow Demand?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc6d8f9e030ef3a03ab37e9b2e3cbd38bcad099b04a6d25452c031e3e67c7244",
-      "published_at": "2026-04-06T12:44:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.599,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Optimistic on HD? This Bull Put Spread May Fit Perfectly",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=530a0055ef60ca37b453d32b8c4c4ade5d05fecfb101d3863c2a20473123f0f6",
-      "published_at": "2026-04-06T11:00:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.85,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer on Home Depot: \u201cI Regard It Now as One of the Most Problematic Positions in My Portfolio\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb1dceb0ecc5a4ff50094d0b07490545a162eeef56af6392fe6671eee27dd8fc",
-      "published_at": "2026-04-06T03:23:44",
-      "sentiment": "negative",
-      "sentiment_score": -0.919,
-      "sentiment_confidence": 0.919,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Meet the Next Generation of Dividend Aristocrats",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=e8282935ea6134d22801c4b58e0ccf8a3f21dfde9cb195c8d9bd5e1331f57aab",
-      "published_at": "2026-04-05T13:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How The Home Depot (HD) Story Is Shifting After Q4 Rally And Mixed Macro Signals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=626310146ae6c36d03ee824c7e525e2c18c1f461950d8f04e2d3aef5ea1d82d1",
-      "published_at": "2026-04-04T23:08:19",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.498,
       "relevance_score": 1.0,
       "event_type": null
     }

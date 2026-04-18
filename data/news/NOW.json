@@ -2,6 +2,116 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Software Stocks Just Had Their Best Week Since 2001. The Narrative Might Be Changing.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac9324a5549f814fd87a489cbbeabf583bd5d16ecf97e9d29cc3ed54d72263a6",
+      "published_at": "2026-04-17T18:34:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.578,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Billionaire Chase Coleman Is Betting Big on These 4 Growth Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d710d45f0b3eed32362a82d3553f699cf8622683a3587647c9d2143ead84262b",
+      "published_at": "2026-04-17T18:05:37",
+      "sentiment": "positive",
+      "sentiment_score": 0.564,
+      "sentiment_confidence": 0.564,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ServiceNow : 2025 Annual Report 2026 Proxy Statement",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f077dbdf9364f03fa8c939ec8b375218b3422ab6f44d090d2cf34317e595b4cf",
+      "published_at": "2026-04-17T16:28:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ServiceNow price target lowered to $140 from $185 at TD Cowen",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33a0237f9ec3131b55a4093275f8dae7bca06d845cf27c0e400075512f33d5f5",
+      "published_at": "2026-04-17T14:27:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.836,
+      "sentiment_confidence": 0.836,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Countdown to ServiceNow (NOW) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b627ed09737bf81f53aea5d4603e626b116f933824a65c38c0ee46424609db0",
+      "published_at": "2026-04-17T13:15:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.913,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The 3 forces quietly dismantling the business model that made enterprise software fabulously profitable",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9070b877a632fa246279e7edc30f079948fa45addaa6000a9521f5a84bb907",
+      "published_at": "2026-04-17T12:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.633,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7fe0df62cb9526fff64f6b4ff9c9a34f435b34576f85c578d59e01ae7cc0b707",
+      "published_at": "2026-04-17T12:09:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.832,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves premarket: Netflix, Oracle, Affirm and more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4af4124a5a52b1e0e2a5a6eb1407c28c1824d0b90733bc69fa58f67c999a6cf7",
+      "published_at": "2026-04-17T07:35:35",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Brown Advisory Large-Cap Growth Strategy Q1 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d76129574b317a0a66c8e8f12fb70bd627984415214fc6e650edcc216ab0cee1",
+      "published_at": "2026-04-17T06:45:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Automation Software Stocks Q4 In Review: ServiceNow (NYSE:NOW) Vs Peers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41c50ca3c1de0b1da7f64483b5ae509ffffd665f002a551002d738eb88a342d0",
+      "published_at": "2026-04-17T01:54:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.717,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ComplianceCow Announces Integration with ServiceNow Integrated Risk Management to Automate Continuous Control Monitoring for Enterprises",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e72c0002369d74073870372dd69eb9ad6be4b75922569927d94596b1e3e8b98c",
@@ -438,116 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.958,
       "sentiment_confidence": 0.958,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Maintains Outperform Rating on ServiceNow (NOW)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43784f8d0c12d321c4fe6fcda55103349d5e2443a4b9db9d63db1db3d9859d16",
-      "published_at": "2026-04-15T13:59:52",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.56,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Should you buy the dip in the AI-hit ServiceNow stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c35f8b6cd6ba9f113ec14ab7c24167d5af0c370365362c8e59f1cef57e91b933",
-      "published_at": "2026-04-15T13:58:16",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.799,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Shares of software-related companies are trading higher as the sector rebounds from a recent selloff, with investors stepping back in after sharp declines. The uptick is supported by dip-buying and a reassessment of earlier concerns around valuations and the impact of emerging technologies like artificial intelligence.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=58b7c15f0b69208dc2287a134884886aefc55c4faaa90b88cd7651071572e22d",
-      "published_at": "2026-04-15T13:42:28",
-      "sentiment": "positive",
-      "sentiment_score": 0.923,
-      "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "PATH's Agentic AI Solutions Could Accelerate Enterprise Adoption",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ec0ffc58b5b1c86215d0ed2735639739597592e67b45d69bfe34775c012582d",
-      "published_at": "2026-04-15T13:21:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.795,
-      "sentiment_confidence": 0.795,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oppenheimer Maintains Outperform on ServiceNow, Lowers Price Target to $130",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8f13107e64c8b6da5ea7b1712eb06ee83116866fd2a4aee35b3370fad685c2ed",
-      "published_at": "2026-04-15T12:50:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.723,
-      "sentiment_confidence": 0.723,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trade Tracker: Bill Baruch buys more ServiceNow, Meta, Microsoft and Tesla",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=4c6c2e9fee4bcaae856e82a446a0732b5ff45681c6980bb88f2909c8a87b79e9",
-      "published_at": "2026-04-15T12:40:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.67,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Live On CNBC, Bill Baruch Announces Bought More Microsoft; Bought More ServiceNow; Bought More Meta Platforms; Bought More Tesla",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=517bc3443031d4bfb78523464c6080f6fdb85f87e6b5f148165496a786bf58e6",
-      "published_at": "2026-04-15T12:16:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.895,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Brazilian Firms Adopt ServiceNow for AI-enabled Workflows",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53c007b94d450415251ab06eae0f53d16a36678d8a471a0b7efb97776d8d811f",
-      "published_at": "2026-04-15T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.818,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "48% of Indian Customers Cite Lack of Empathy in CX, But Only 19% of Leaders Address It with AI - Reports ServiceNow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=410bcf0bccedecbd96bec2556189ee471b6746b888368c40b42bcf2e6b90c7ab",
-      "published_at": "2026-04-15T07:41:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.66,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cadena Co. Named #1 ServiceNow SAM Partner for 2026, Recognized for AI-Augmented Delivery",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=b1488fa475d54975dd36de06659553b97f8844d70bafe80c02bd481888ca3b80",
-      "published_at": "2026-04-15T04:20:09",
-      "sentiment": "positive",
-      "sentiment_score": 0.857,
-      "sentiment_confidence": 0.857,
       "relevance_score": 1.0,
       "event_type": null
     }
