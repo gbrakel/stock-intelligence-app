@@ -1,62 +1,62 @@
 [
   {
-    "ticker": "AAPL",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-04-18"
-  },
-  {
     "ticker": "GOOGL",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-18"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-21"
   },
   {
     "ticker": "META",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-04-18"
-  },
-  {
-    "ticker": "CRM",
-    "previous_signal": "exit",
+    "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-04-18"
+    "date": "2026-04-21"
   },
   {
     "ticker": "ADBE",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-04-18"
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-04-21"
   },
   {
     "ticker": "UNH",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-18"
-  },
-  {
-    "ticker": "HD",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-18"
-  },
-  {
-    "ticker": "XOM",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-04-18"
+    "date": "2026-04-21"
   },
   {
-    "ticker": "CAT",
+    "ticker": "LLY",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-04-18"
+    "date": "2026-04-21"
   },
   {
-    "ticker": "NFLX",
+    "ticker": "MA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-21"
+  },
+  {
+    "ticker": "BLK",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-04-21"
+  },
+  {
+    "ticker": "PG",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-04-18"
+    "date": "2026-04-21"
+  },
+  {
+    "ticker": "PEP",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-21"
+  },
+  {
+    "ticker": "COST",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-04-21"
   }
 ]
