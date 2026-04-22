@@ -2,6 +2,83 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24c6d14c05a2bfce647e8daa532713b0da64fb06ddcaf7e3659a75f1d3c21dc5",
+      "published_at": "2026-04-21T21:53:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.863,
+      "sentiment_confidence": 0.863,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar, IBD Stock Of The Day, Rises In Buy Zone Amid Data Center Strength",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c243e87a206388d9f751c2a4a305cb17553a13d093c8d93536e2c5ea18d352d",
+      "published_at": "2026-04-21T17:52:01",
+      "sentiment": "positive",
+      "sentiment_score": 0.656,
+      "sentiment_confidence": 0.656,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Does United Rentals Stock Qualify As A Top-Tier Capital Compounder?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea2584f679ef3fd858717d972b2a442fde01eae7f4a6f9813387b54d022da141",
+      "published_at": "2026-04-21T16:27:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.883,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar Stock Can Gain 20%, Analyst Says. How Meta Might Give Shares a Boost.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe91c0bf06704e3bbc92350b1c30962b55ed2283ad29da2524664b904af9ef75",
+      "published_at": "2026-04-21T14:08:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.931,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e6ad53157b84e1096794790180b74d0554b1f301a72a3a9aa9cd8330db88016c",
+      "published_at": "2026-04-21T08:46:48",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on Caterpillar, Raises Price Target to $960",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=55c90e04d102c69db361b565a055f321b3914466a30265f78f0e171c90076d65",
+      "published_at": "2026-04-21T08:37:32",
+      "sentiment": "positive",
+      "sentiment_score": 0.912,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer talks key market drivers that are separate from the Iran war",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=48155e71e78f25378fe2742026a45824ac93f92af676621a80091a52af007f12",
+      "published_at": "2026-04-20T19:19:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Truist Securities Maintains Buy on Caterpillar, Raises Price Target to $920",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=63ab74d7c9d2601f09fd714d8768a6915904809144d197ce2bef5fec6c28c719",
@@ -471,83 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.814,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks making the biggest moves midday: DoorDash, Robinhood, Broadcom, Sandisk & more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=a2aa60502adb80a8b6e3a1da0f968cbe6c2b1c7ae0586f005a8569182f5bcffa",
-      "published_at": "2026-04-15T12:58:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.863,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Calls of the Day: Caterpillar, S&P Global, UnitedHealth, Amphenol, Uber and First Solar",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=8a643b439f248a35bcb69111549acdda30e02cb5079eda51def40d356a091555",
-      "published_at": "2026-04-15T12:47:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nasdaq and Dow Jones set for flat start as Trump hails 'amazing' Iran talks in two days",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=984d7bdfdff8444ec084cece851f0c29186877c6cdb957432a66c9fed019dca7",
-      "published_at": "2026-04-15T07:29:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.521,
-      "sentiment_confidence": 0.521,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FTSE 100 Live: Shares mixed as Iran talks awaited, Ceres and Rank jump",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8db57df66b4567552de2c688cbfaf8c5c2f0da7f65445827be7dbd020b1684d",
-      "published_at": "2026-04-15T07:17:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.861,
-      "sentiment_confidence": 0.861,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Breakfast Podcast: CAT Powers Up Ag Automation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5311546f3e5a0ec1246c15ceab0a1d751b90a0532d8e643c0247907356c360bd",
-      "published_at": "2026-04-15T07:03:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.904,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "$1000 Invested In Caterpillar 5 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6d99b0b398e09e7e299dec615b0973a5282e6f2180c16c50c5f9196b28daf36b",
-      "published_at": "2026-04-14T17:30:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.916,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar (CAT) Q4 2024 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2bfb9f437c825262242329230e55495e91a4934842f6b9257fc270667f70db7f",
-      "published_at": "2026-04-14T15:36:43",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.927,
       "relevance_score": 1.0,
       "event_type": null
     }
