@@ -2,6 +2,72 @@
   "ticker": "MA",
   "articles": [
     {
+      "headline": "Xylem Gears Up to Report Q1 Earnings: What's in the Offing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb06935e4517760a268e38924b49661a5ee9ace408d80d9943f3b9cbbecff4e4",
+      "published_at": "2026-04-23T15:36:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "MasterCard (MA) Reports Next Week: Wall Street Expects Earnings Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d18db39761c6a5c4f6174cd240bb54e9498355249a82df845e9b235066991eec",
+      "published_at": "2026-04-23T14:00:20",
+      "sentiment": "positive",
+      "sentiment_score": 0.904,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How to Boost Your Portfolio with Top Business Services Stocks Set to Beat Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c22d5d866d3fe5254b20886bdc411a76852e60927460064345595ec95d5009c4",
+      "published_at": "2026-04-23T13:00:10",
+      "sentiment": "positive",
+      "sentiment_score": 0.806,
+      "sentiment_confidence": 0.806,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Our Tech Ambition: Scaling the Digital Economy Without Scaling Emissions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b86e4279ee91aef47c7cab6b019b0680be02fe328bb4c123a032f0f0891401f",
+      "published_at": "2026-04-23T13:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.818,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mastercard grows revenue, reduces emissions for third straight year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6c42a319395209cd4a7a688b501cd488546d53f39e9a3555ecb9aa1cf9c795e",
+      "published_at": "2026-04-23T12:31:06",
+      "sentiment": "positive",
+      "sentiment_score": 0.946,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Visa, Mastercard face new suit over card fees",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=086220433cbaeb35db032b35743153d6ad2c8c08775fb886e077d9380a28c1de",
+      "published_at": "2026-04-23T10:15:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.868,
+      "sentiment_confidence": 0.868,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BMO Capital Initiates Coverage of Mastercard (MA) with Outperform Recommendation",
       "source": "Fintel",
       "url": "https://finnhub.io/api/news?id=118993651d168220e030973e07496224457086583e4295070e3e6fdf86c86a6c",
@@ -24,9 +90,20 @@
       "event_type": null
     },
     {
+      "headline": "Conventum Alluvium Global Fund: Q1 2026 Leaders And Laggards",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5774dfcb18119fa6f82d4ed6572a61c2238ccef81025f5ce956faa339771fd5f",
+      "published_at": "2026-04-22T21:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Visa's Q2 Earnings Countdown: Buy the Dip or Wait for the Print?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23f36cc92ea44a78df4739b02d1eca5d88c3467adb7cd1bc5471d55d2002d69d",
+      "url": "https://finnhub.io/api/news?id=52434b3b07a4b13535106d394f8902e8f61b4510e8778456f3dfdd015e68a3a6",
       "published_at": "2026-04-22T17:31:00",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -42,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.431,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BMO Capital Initiates Coverage On Mastercard with Outperform Rating, Announces Price Target of $605",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f227c9cd534e64ea71faa717a8c335ae800e3031d9d04f51eee4c19f988bb0df",
+      "published_at": "2026-04-22T10:45:59",
+      "sentiment": "positive",
+      "sentiment_score": 0.844,
+      "sentiment_confidence": 0.844,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.57,
       "sentiment_confidence": 0.57,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Visa Expands Blockchain Payment With Tempo Validator Node Launch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=766879196565d7640d2442e1b4ac8046d711cc272c3514e021f8bda11941d332",
-      "published_at": "2026-04-15T18:59:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.679,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can American Express Build Trust in the Age of AI Commerce?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71c944f9b5ad0646b22973ed30bc31f9a568301e1b4347c7ce6a66dc1b2caf8d",
-      "published_at": "2026-04-15T16:46:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.758,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tether Joins $134 Million SDEV Financing as Stablecoin Infrastructure Expands",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=138f6992b63bf1da4b14c454915d2f9391cd1c533a220efdb551ae4bb26ac0b6",
-      "published_at": "2026-04-15T16:08:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.708,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard and 16 More Stocks for a Market Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e323807a8f48f8bc4c34a59842b9a4bee91e9150859cb1e50812f655048f79cd",
-      "published_at": "2026-04-15T15:46:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Rezolve Ai Appoints James House to Lead Reward, Strengthening Its Global AI-Powered Banking and Commerce Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=105b226d14de9a67394ba882ae70c1e9fdaccab2763f78acb8092f05755ee82d",
-      "published_at": "2026-04-15T12:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.777,
-      "sentiment_confidence": 0.777,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 Mega-Cap Stocks to Target This Week and 1 We Turn Down",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6ea944f3acedfe79dfb4d6a35825d55c8d8e1341b6dbd11a4780e5f3a071740",
-      "published_at": "2026-04-15T11:30:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.475,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "American Express Stock: 2 Reasons this 175-Year-Old Giant Still Has Room to Grow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6827d6b0545d157af244f00089ef79235d8526b86c73c690a525f38ef2f26b8f",
-      "published_at": "2026-04-14T17:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.632,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Will Visa's Neat Partnership Help Boost Engagement and Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb98f6252b371760162c46942da6ce569cdecd8accf530619bb2407fe47c7cb6",
-      "published_at": "2026-04-14T16:59:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.56,
-      "sentiment_confidence": 0.56,
       "relevance_score": 1.0,
       "event_type": null
     }

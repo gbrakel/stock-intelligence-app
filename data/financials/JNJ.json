@@ -2,6 +2,22 @@
   "ticker": "JNJ",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 24062000000.0,
+      "net_income": 5235000000.0,
+      "eps": 2.17,
+      "gross_margin": 0.6631202726290416,
+      "operating_margin": 0.26577175629623473,
+      "net_margin": 0.21756296234726955,
+      "free_cash_flow": 1465000000.0,
+      "total_debt": 54987000000.0,
+      "total_equity": 81186000000.0,
+      "cash_and_equivalents": 21688000000.0,
+      "roe": 0.06448156086024684,
+      "roa": 0.02605851842265075,
+      "shares_outstanding": 2408700000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 24564000000.0,
       "net_income": 5116000000.0,
@@ -21,7 +37,7 @@
       "period_end": "2025-09-30",
       "revenue": 23993000000.0,
       "net_income": 5152000000.0,
-      "eps": 2.14114,
+      "eps": 2.14,
       "gross_margin": 0.6956195557037469,
       "operating_margin": 0.29575292793731506,
       "net_margin": 0.2147292960446797,
@@ -31,13 +47,13 @@
       "cash_and_equivalents": 18231000000.0,
       "roe": 0.06498732293098881,
       "roa": 0.026719774292589826,
-      "shares_outstanding": 2406195000.0
+      "shares_outstanding": 2408300000.0
     },
     {
       "period_end": "2025-06-30",
       "revenue": 23743000000.0,
       "net_income": 5537000000.0,
-      "eps": 2.300585,
+      "eps": 2.3,
       "gross_margin": 0.6787263614539022,
       "operating_margin": 0.28260961125384326,
       "net_margin": 0.23320557638040687,
@@ -47,13 +63,13 @@
       "cash_and_equivalents": 18577000000.0,
       "roe": 0.07055930065117938,
       "roa": 0.02863141130053933,
-      "shares_outstanding": 2406779000.0
+      "shares_outstanding": 2406300000.0
     },
     {
       "period_end": "2025-03-31",
       "revenue": 21893000000.0,
       "net_income": 10999000000.0,
-      "eps": 4.572201,
+      "eps": 4.57,
       "gross_margin": 0.6639565157813,
       "operating_margin": 0.2831498652537341,
       "net_margin": 0.5023980267665464,
@@ -63,23 +79,23 @@
       "cash_and_equivalents": 38474000000.0,
       "roe": 0.14081603912481278,
       "roa": 0.05679218881505233,
-      "shares_outstanding": 2405625000.0
+      "shares_outstanding": 2407200000.0
     },
     {
       "period_end": "2024-12-31",
-      "revenue": 22520000000.0,
-      "net_income": 3431000000.0,
-      "eps": 1.425472,
-      "gross_margin": 0.68348134991119,
-      "operating_margin": 0.1616785079928952,
-      "net_margin": 0.15235346358792184,
-      "free_cash_flow": 4838000000.0,
-      "total_debt": 36634000000.0,
-      "total_equity": 71490000000.0,
-      "cash_and_equivalents": 24105000000.0,
-      "roe": 0.04799272625542034,
-      "roa": 0.019050104384133612,
-      "shares_outstanding": 2406922000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -103,7 +119,7 @@
       "period_end": "2025-12-31",
       "revenue": 94193000000.0,
       "net_income": 26804000000.0,
-      "eps": 11.131511,
+      "eps": 11.13,
       "gross_margin": 0.6787871710212011,
       "operating_margin": 0.27173993821196907,
       "net_margin": 0.2845646704107524,
@@ -113,7 +129,7 @@
       "cash_and_equivalents": 19709000000.0,
       "roe": 0.3287059746885117,
       "roa": 0.13455147833944078,
-      "shares_outstanding": 2407939000.0
+      "shares_outstanding": 2407400000.0
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 20.480074,
-    "forward_pe": 17.793022,
-    "ev_ebitda": 16.834,
-    "price_to_sales": 5.6544924,
-    "peg_ratio": 3.01,
-    "market_cap": 544878166016,
-    "enterprise_value": 574109122560
+    "pe_ratio": 20.911152,
+    "forward_pe": 18.1465,
+    "ev_ebitda": 17.155,
+    "price_to_sales": 5.765204,
+    "peg_ratio": 2.95,
+    "market_cap": 555546574848,
+    "enterprise_value": 585074212864
   }
 }

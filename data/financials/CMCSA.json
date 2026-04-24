@@ -2,6 +2,22 @@
   "ticker": "CMCSA",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.60425,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 3597845994.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 32310000000.0,
       "net_income": 2168000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 31914000000.0,
       "net_income": 4777000000.0,
-      "eps": 1.261436,
+      "eps": null,
       "gross_margin": 0.6858432036097011,
       "operating_margin": 0.15648304819201606,
       "net_margin": 0.14968352447201855,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 7322000000.0,
       "roe": 0.05537009991422676,
       "roa": 0.017944412514884808,
-      "shares_outstanding": 3787746392.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 5.44898,
-    "forward_pe": 7.657631,
+    "pe_ratio": 5.87013,
+    "forward_pe": 8.249487,
     "ev_ebitda": 5.469,
-    "price_to_sales": 0.8651183,
+    "price_to_sales": 0.93198305,
     "peg_ratio": 142.98,
-    "market_cap": 107021189120,
+    "market_cap": 115292823552,
     "enterprise_value": 201693741056
   }
 }

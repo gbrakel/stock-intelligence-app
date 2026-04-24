@@ -2,6 +2,39 @@
   "ticker": "DIS",
   "articles": [
     {
+      "headline": "Former Disney CEO Bob Iger returns to Thrive Capital",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3a6bc85a59402088fc4494fdd5bcfc45ba290b063fd18e552345c88f49fb9807",
+      "published_at": "2026-04-23T17:39:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Walt Disney Company (DIS) PT Reduced to $130 as Barclays Reassesses Media Sector Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9433f78e5f4891b81a08222eaefb72817975c4c7ef95dfc355536598d1655f48",
+      "published_at": "2026-04-23T08:40:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Comcast beats revenue, earnings expectations as broadband losses improve",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2e6c97290b7c6356869af75e5b3ba45e72691f28f380580bd1c81e62724ba2b1",
+      "published_at": "2026-04-23T07:04:04",
+      "sentiment": "positive",
+      "sentiment_score": 0.63,
+      "sentiment_confidence": 0.63,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "3 of Wall Street\u2019s Favorite Stocks with Open Questions",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=774edba282263d75c9fe0cec1aa568f0a4e0d471b763387f013afbb9a1053bfe",
@@ -48,7 +81,7 @@
     {
       "headline": "Netflix's Engagement Momentum Builds: Is Growth Sustainable?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dfb8519c8bf84bcae5f3feaa63eaba50993f08c373a6c4bfb2ead5a168bc0729",
+      "url": "https://finnhub.io/api/news?id=76ffa3d1c2475a815a84e95668bbfc92b837460faa3b2938d96f70a96ba28979",
       "published_at": "2026-04-22T16:20:00",
       "sentiment": "positive",
       "sentiment_score": 0.644,
@@ -64,6 +97,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.818,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "White House, UAE financial deal talk: Damage done by war to Mideast economy extends well beyond energy",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b60cb938f7ad1e2dd3bc00db96d36545bcdd8520abe43d6d5fed9b4d009bd45b",
+      "published_at": "2026-04-22T14:21:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.432,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Paramount\u2019s New Streaming Pitch: More Shows, Better Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=299ebed4a505a700921497a1413a984abe7516b1c7ec7f676bab1ceef8647391",
-      "published_at": "2026-04-15T13:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.69,
-      "sentiment_confidence": 0.69,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's Everything Disney Investors Need to Know About the Entertainment Giant's Massive Investment in Epic Games",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a43e3784644aca7535b4e043d4807d321685867f946efe0625cc632b9630c4d",
-      "published_at": "2026-04-15T11:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Snap To Slash 1,000 Jobs As AI Productivity Picks Up\u2014 Stock Climbs 11%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7ef7b09987cf5c9682fe60277d464ee3d6b3918b744f71bf87bceb255cfe4b56",
-      "published_at": "2026-04-15T07:15:11",
-      "sentiment": "negative",
-      "sentiment_score": -0.962,
-      "sentiment_confidence": 0.962,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney Cuts 1,000 Jobs, Marvel Studios Among Worst Affected",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e4fbf39dafcd3b9f2472dd1430b1c3ca4a7c869e1c17b5c7756d1affffeeb58b",
-      "published_at": "2026-04-15T06:34:56",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
       "relevance_score": 1.0,
       "event_type": null
     }

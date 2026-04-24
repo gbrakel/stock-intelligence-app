@@ -2,6 +2,22 @@
   "ticker": "BA",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 22217000000.0,
+      "net_income": -4000000.0,
+      "eps": -0.11,
+      "gross_margin": 0.11459693027861548,
+      "operating_margin": 0.020074717558626276,
+      "net_margin": -0.00018004230994283655,
+      "free_cash_flow": -1454000000.0,
+      "total_debt": 47209000000.0,
+      "total_equity": 5987000000.0,
+      "cash_and_equivalents": 9441000000.0,
+      "roe": -0.0006681142475363287,
+      "roa": -2.427375945918064e-05,
+      "shares_outstanding": 788000000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 23948000000.0,
       "net_income": 8220000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.011127819548872181,
       "roa": -0.00023643078967883752,
       "shares_outstanding": 768750000.0
-    },
-    {
-      "period_end": "2024-12-31",
-      "revenue": 15242000000.0,
-      "net_income": -3865000000.0,
-      "eps": -5.46,
-      "gross_margin": -0.10425141057603989,
-      "operating_margin": -0.2508201023487731,
-      "net_margin": -0.2535756462406508,
-      "free_cash_flow": -4098000000.0,
-      "total_debt": 54188000000.0,
-      "total_equity": -3914000000.0,
-      "cash_and_equivalents": 13801000000.0,
-      "roe": 0.9874808380173735,
-      "roa": -0.024718123852829635,
-      "shares_outstanding": 707875458.0
     }
   ],
   "annual": [
@@ -149,12 +149,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 93.258064,
-    "forward_pe": 52.891323,
-    "ev_ebitda": -61.715,
-    "price_to_sales": 2.0315666,
-    "peg_ratio": null,
-    "market_cap": 181750038528,
-    "enterprise_value": 199832666112
+    "pe_ratio": 92.916664,
+    "forward_pe": 53.43475,
+    "ev_ebitda": -67.77,
+    "price_to_sales": 2.001331,
+    "peg_ratio": 13.82,
+    "market_cap": 184490721280,
+    "enterprise_value": 213205729280
   }
 }
