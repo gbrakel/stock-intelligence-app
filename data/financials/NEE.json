@@ -2,6 +2,22 @@
   "ticker": "NEE",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 6701000000.0,
+      "net_income": 2182000000.0,
+      "eps": 1.05,
+      "gross_margin": 0.5894642590658111,
+      "operating_margin": 0.29115057454111326,
+      "net_margin": 0.32562304133711384,
+      "free_cash_flow": -580000000.0,
+      "total_debt": 104403000000.0,
+      "total_equity": 66632000000.0,
+      "cash_and_equivalents": 1998000000.0,
+      "roe": 0.0327470284547965,
+      "roa": 0.009854396994002456,
+      "shares_outstanding": 2082500000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 6500000000.0,
       "net_income": 1535000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.013799158466686546,
       "roa": 0.004287979244739118,
       "shares_outstanding": 2058631107.0
-    },
-    {
-      "period_end": "2024-12-31",
-      "revenue": 5385000000.0,
-      "net_income": 1203000000.0,
-      "eps": 0.584832,
-      "gross_margin": 0.5528319405756732,
-      "operating_margin": 0.16843082636954504,
-      "net_margin": 0.2233983286908078,
-      "free_cash_flow": 139000000.0,
-      "total_debt": 82333000000.0,
-      "total_equity": 60861000000.0,
-      "cash_and_equivalents": 1487000000.0,
-      "roe": 0.019766352836792036,
-      "roa": 0.00632678391114103,
-      "shares_outstanding": 2057000000.0
     }
   ],
   "annual": [
@@ -165,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 29.166668,
-    "forward_pe": 21.963453,
-    "ev_ebitda": 20.781,
-    "price_to_sales": 7.3219905,
+    "pe_ratio": 24.182741,
+    "forward_pe": 21.742107,
+    "ev_ebitda": 22.116,
+    "price_to_sales": 7.1302423,
     "peg_ratio": 1.98,
-    "market_cap": 200710406144,
-    "enterprise_value": 293795987456
+    "market_cap": 198691323904,
+    "enterprise_value": 313140772864
   }
 }

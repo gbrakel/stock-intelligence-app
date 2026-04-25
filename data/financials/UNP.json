@@ -2,6 +2,22 @@
   "ticker": "UNP",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 6217000000.0,
+      "net_income": 1701000000.0,
+      "eps": 2.87,
+      "gross_margin": 0.4539166800707737,
+      "operating_margin": 0.3953675406144443,
+      "net_margin": 0.27360463245938554,
+      "free_cash_flow": 1503000000.0,
+      "total_debt": 31505000000.0,
+      "total_equity": 19418000000.0,
+      "cash_and_equivalents": 735000000.0,
+      "roe": 0.08759913482335976,
+      "roa": 0.02442421457699156,
+      "shares_outstanding": 593000000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 6085000000.0,
       "net_income": 1848000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2024-12-31",
-      "revenue": 6121000000.0,
-      "net_income": 1762000000.0,
-      "eps": 2.92,
-      "gross_margin": 0.4584218264989381,
-      "operating_margin": 0.41251429504982845,
-      "net_margin": 0.2878614605456625,
-      "free_cash_flow": 1740000000.0,
-      "total_debt": 32463000000.0,
-      "total_equity": 16890000000.0,
-      "cash_and_equivalents": 1016000000.0,
-      "roe": 0.10432208407341623,
-      "roa": 0.026020822565162815,
-      "shares_outstanding": 604200000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.661654,
-    "forward_pe": 19.980024,
-    "ev_ebitda": 14.415,
-    "price_to_sales": 6.5704274,
+    "pe_ratio": 22.115229,
+    "forward_pe": 19.657461,
+    "ev_ebitda": 15.151,
+    "price_to_sales": 6.4587345,
     "peg_ratio": 2.81,
-    "market_cap": 161041170432,
-    "enterprise_value": 179297828864
+    "market_cap": 159530745856,
+    "enterprise_value": 190109106176
   }
 }

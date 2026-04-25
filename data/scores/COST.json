@@ -2,6 +2,21 @@
   "ticker": "COST",
   "history": [
     {
+      "date": "2026-04-25",
+      "composite": 51.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.72,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 67.5,
+        "growth_trend": 56.2,
+        "valuation": 42.2,
+        "sentiment": 59.1,
+        "technical": 58.0,
+        "risk_penalty": 29.7
+      }
+    },
+    {
       "date": "2026-04-24",
       "composite": 51.9,
       "signal": "reduce",

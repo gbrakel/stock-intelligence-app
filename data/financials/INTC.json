@@ -2,6 +2,22 @@
   "ticker": "INTC",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 13577000000.0,
+      "net_income": -3728000000.0,
+      "eps": -0.73,
+      "gross_margin": 0.39382779700964865,
+      "operating_margin": 0.06879281137217352,
+      "net_margin": -0.2745820136996391,
+      "free_cash_flow": -2540000000.0,
+      "total_debt": 45031000000.0,
+      "total_equity": 124989000000.0,
+      "cash_and_equivalents": 17247000000.0,
+      "roe": -0.02982662474297738,
+      "roa": -0.018155962051701634,
+      "shares_outstanding": 5083000000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 13674000000.0,
       "net_income": -591000000.0,
@@ -64,22 +80,6 @@
       "roe": -0.007715222764135961,
       "roa": -0.004270658857065574,
       "shares_outstanding": 4343000000.0
-    },
-    {
-      "period_end": "2024-12-31",
-      "revenue": 14260000000.0,
-      "net_income": -126000000.0,
-      "eps": -0.03,
-      "gross_margin": 0.3915848527349229,
-      "operating_margin": 0.032889200561009815,
-      "net_margin": -0.008835904628330995,
-      "free_cash_flow": -2669000000.0,
-      "total_debt": 50011000000.0,
-      "total_equity": 105032000000.0,
-      "cash_and_equivalents": 8249000000.0,
-      "roe": -0.0011996343971361109,
-      "roa": -0.0006412703259790824,
-      "shares_outstanding": 4319000000.0
     }
   ],
   "annual": [
@@ -150,11 +150,11 @@
   ],
   "valuation": {
     "pe_ratio": null,
-    "forward_pe": 59.714573,
-    "ev_ebitda": 27.531,
-    "price_to_sales": 6.3440695,
+    "forward_pe": 60.42327,
+    "ev_ebitda": 28.128,
+    "price_to_sales": 7.849054,
     "peg_ratio": null,
-    "market_cap": 335303081984,
-    "enterprise_value": 347795652608
+    "market_cap": 414846025728,
+    "enterprise_value": 355338092544
   }
 }
