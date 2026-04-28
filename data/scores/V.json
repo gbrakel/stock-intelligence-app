@@ -2,6 +2,21 @@
   "ticker": "V",
   "history": [
     {
+      "date": "2026-04-28",
+      "composite": 58.1,
+      "signal": "exit",
+      "signal_confidence": 0.73,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 91.7,
+        "growth_trend": 58.4,
+        "valuation": 42.7,
+        "sentiment": 62.8,
+        "technical": 37.5,
+        "risk_penalty": 30.5
+      }
+    },
+    {
       "date": "2026-04-25",
       "composite": 58.4,
       "signal": "exit",

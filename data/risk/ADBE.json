@@ -1,20 +1,19 @@
 {
   "ticker": "ADBE",
   "risk_level": "medium",
-  "overall_risk_score": 48.1,
+  "overall_risk_score": 46.8,
   "factors": {
-    "volatility": 76.6,
+    "volatility": 68.7,
     "debt_burden": 30.0,
     "earnings_consistency": 3.2,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 54.7,
+    "sentiment_stability": 53.3,
     "liquidity": 93.8,
     "drawdown": 92.9,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
     "Low relative trading volume",
     "Significant drawdown in last 12 months"
   ]

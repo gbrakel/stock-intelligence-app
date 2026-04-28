@@ -2,6 +2,105 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Stock Market Today, April 27: Nokia Rises After Analyst Upgrade Highlights Optical and IP Demand from Data Center Buildouts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcab8b8b57929eb7336f4ad04439ad52405152e88baf2223d22f479a1d45d20a",
+      "published_at": "2026-04-27T23:17:33",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Argus Upgrades Nokia to Buy: Can AI Network Demand Wake Up the Sleeping Giant?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6262c3adb5bed641449236b7ceb912516a95d0e8a2701584db9d62c94180d4c",
+      "published_at": "2026-04-27T15:34:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Investors Heavily Search Cisco Systems, Inc. (CSCO): Here is What You Need to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ebfccfc7a7f0d3d988650d8268ab51128a77d4e1b2247111c4513a4dea1b2f9",
+      "published_at": "2026-04-27T13:00:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Ties Qmulos To Splunk To Deepen Software And Security Reach",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbf4542e7064402ec69177ecda5a4bc418bdb29b3a469e19dcf711f0008349c3",
+      "published_at": "2026-04-27T10:02:48",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.695,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia: The $31 Billion Footnote Nobody's Talking About",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b29725225cd1420656c3129b1be936185206c596506f3eba150e577670bce111",
+      "published_at": "2026-04-27T08:30:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco, Amazon And A Financial Stock On CNBC's 'Final Trades'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1cb201ced89f0ef678b3a5b4f69fe10a0fc5c45a45923920a1cf2f3ae07b0845",
+      "published_at": "2026-04-27T08:02:41",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BWG Global Downgrades Cisco Systems (CSCO), Cites Checks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=067d2ed7b3a9346638cf2eeb820ca7a52f8d04c429897557e5e81fda69e57b14",
+      "published_at": "2026-04-27T05:28:35",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.513,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Companies with Mythos access urge joint defence of infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c89f0bf4c95ab32e6cbd018d55d2bb9d8b9993c8e5fcb61d4fd9b5d0993e3ea5",
+      "published_at": "2026-04-25T11:00:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Congresswoman Discloses Hundreds Of Thousands In Stock Trades, Here's What She Bought",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=180b6a909796daf54ee9649f01e143be4808ab280cab89fe2acebad325722652",
+      "published_at": "2026-04-25T10:47:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AI Meets Quantum: Best Pick-and-Shovel Stocks for a Multi-Year Shift",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1cb4445777c6a0608cc6e42aa065baf284b2cf56981976223dc89d8d2397031a",
@@ -101,17 +200,6 @@
       "event_type": null
     },
     {
-      "headline": "Congresswoman Discloses Hundreds Of Thousands In Stock Trades, Here's What She Bought",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f02272094e6d62a07f4e06f7b5b15200747778486a5f258194d2aa76b53d25c2",
-      "published_at": "2026-04-24T07:49:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Dan Ives: AI trade is in the third inning and that is bullish",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=d761ced9a55ae321366b6f0c2b9ea80e411f24f0acb9d6881b17b16ef192e41c",
@@ -130,6 +218,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.592,
       "sentiment_confidence": 0.592,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jeetu Patel, Cisco President: A Fortt Knox Deep Dive",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=033265c2191603f16f9d00ea5a8cfea401d84f7384479459b6eea80f86f55b39",
+      "published_at": "2026-04-23T22:24:33",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.899,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.934,
       "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "\u2018Old\u2019 Tech Back in Vogue as Dell, Cisco, eBay Regain Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a60ad561704a5b1f7be5956d8b6e85e649487c68e94945f0c0446953c81130de",
-      "published_at": "2026-04-20T14:47:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.766,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Cisco (CSCO) a Buy as Wall Street Analysts Look Optimistic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c56ec3ff4ae059ba372decac1e355331463b3fa7e0d05f180670a2956f4eb60",
-      "published_at": "2026-04-20T13:30:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.831,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco\u2019s John Chambers lived through the dot-com crash. He says the AI bubble is harder to navigate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c7d58e5eb18a9c23eccedcd96774f8025cab9d8cf1a24b59d3018e52d43f03d",
-      "published_at": "2026-04-20T10:04:10",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.806,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Marvell: An AI Winner Tackling The Biggest Bottleneck With Data Transfer Optics",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=14021075c97c1ec2662c05bb9337b6db6a3bc3fc2dff5692a12dbedafb44ba02",
-      "published_at": "2026-04-20T04:47:16",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.757,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=bb7a0298004f813fecc4bab2472f810293b8ea7d1dba81dc6260a6f8eca7fb5c",
-      "published_at": "2026-04-19T11:52:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.882,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Did Cisco\u2019s (CSCO) Astrix Deal and Project Glasswing Push Deeper into AI Security Just Shift Its Investment Narrative?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dec82892738ad91f7134c8977f2167ea8f6092faedccc61d05456a4857dd634c",
-      "published_at": "2026-04-19T03:08:12",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.875,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer on Cisco (CSCO): \u201cChuck Robbins Is Doing a Terrific Job There\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d8e1483e0d98e89aab555310f8408a8b7af00cc67ee4e29dd4d18747fb4c669",
-      "published_at": "2026-04-18T21:18:45",
-      "sentiment": "positive",
-      "sentiment_score": 0.878,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Momentum  Stock to Consider Right Now and 2 We Ignore",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d92e2cd97c6fc7b3602a63b5039706f27d3fee86fa211534f2c9f25996e0c3d8",
-      "published_at": "2026-04-18T09:28:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Inc. (CSCO) Price Target Raised to $96 by JPMorgan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5261a475bf2352cc82b9573f35bcf9aa2a1205ab68d2d712d5e222585af7cb01",
-      "published_at": "2026-04-18T09:09:44",
-      "sentiment": "positive",
-      "sentiment_score": 0.908,
-      "sentiment_confidence": 0.908,
       "relevance_score": 1.0,
       "event_type": null
     }
