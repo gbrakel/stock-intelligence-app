@@ -2,6 +2,17 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Honeywell Announces Board of Directors for Honeywell Aerospace",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14ec01aa6c92d0051b5b05f2da249e78390a35cd3ca229ea20be5ce6c6e34bc5",
+      "published_at": "2026-04-28T11:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "HONEYWELL ANNOUNCES QUARTERLY DIVIDEND",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=816bc830a1a6025fc62bda1fad56c36ba88c7f1dd33c307ca9255e72517b09ff",
@@ -53,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.835,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "RBC Capital Reiterates Outperform on Honeywell Intl, Maintains $268 Price Target",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=eb6c55fa22ef120012fa7e0a3a134da0aee0dcfa40c3e59ed5eb55b79f633493",
+      "published_at": "2026-04-27T11:00:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.789,
+      "sentiment_confidence": 0.789,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.955,
       "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=24d31d9d8596ac46e7dfb5f409912c41267708a9dc7875eed453eeeb95b3c3d8",
-      "published_at": "2026-04-23T08:46:51",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell International Inc. Updates Earning Guidance for the Year Ending December 31, 2026",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=4ae2f6a8e99f6321f47e1dc3becce5577f152faf63a5a5c0325088a529e8bea7",
-      "published_at": "2026-04-23T08:24:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.916,
       "relevance_score": 1.0,
       "event_type": null
     }

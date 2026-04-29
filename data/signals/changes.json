@@ -1,56 +1,50 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-04-28"
-  },
-  {
-    "ticker": "ABBV",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-04-28"
-  },
-  {
-    "ticker": "MRK",
+    "ticker": "MSFT",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-04-28"
+    "date": "2026-04-29"
   },
   {
-    "ticker": "BAC",
+    "ticker": "ORCL",
     "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-04-28"
+    "new_signal": "exit",
+    "date": "2026-04-29"
   },
   {
-    "ticker": "BLK",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-04-28"
-  },
-  {
-    "ticker": "COST",
+    "ticker": "UNH",
     "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-04-28"
+    "new_signal": "exit",
+    "date": "2026-04-29"
+  },
+  {
+    "ticker": "MA",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-29"
+  },
+  {
+    "ticker": "PG",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-04-29"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-29"
   },
   {
     "ticker": "HD",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-28"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-29"
   },
   {
-    "ticker": "UNP",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-28"
-  },
-  {
-    "ticker": "HON",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-04-28"
+    "ticker": "XOM",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-04-29"
   }
 ]
