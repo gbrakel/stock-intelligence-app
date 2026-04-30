@@ -2,6 +2,21 @@
   "ticker": "MCD",
   "history": [
     {
+      "date": "2026-04-30",
+      "composite": 53.9,
+      "signal": "exit_watch",
+      "signal_confidence": 0.8,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 79.4,
+        "growth_trend": 49.6,
+        "valuation": 67.5,
+        "sentiment": 59.6,
+        "technical": 42.6,
+        "risk_penalty": 34.7
+      }
+    },
+    {
       "date": "2026-04-29",
       "composite": 53.1,
       "signal": "exit_watch",

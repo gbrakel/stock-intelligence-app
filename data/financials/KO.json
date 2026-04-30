@@ -2,6 +2,22 @@
   "ticker": "KO",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.91,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 4302000000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 11822000000.0,
       "net_income": 2271000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 11544000000.0,
       "net_income": 2195000000.0,
-      "eps": 0.51,
+      "eps": null,
       "gross_margin": 0.6003984753984754,
       "operating_margin": 0.24818087318087317,
       "net_margin": 0.19014206514206514,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 10828000000.0,
       "roe": 0.08323221598665251,
       "roa": 0.021830152462978248,
-      "shares_outstanding": 4306000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 24.794302,
-    "forward_pe": 22.696987,
-    "ev_ebitda": 22.308,
-    "price_to_sales": 7.0342793,
-    "peg_ratio": null,
-    "market_cap": 337230397440,
-    "enterprise_value": 358660538368
+    "pe_ratio": 24.801888,
+    "forward_pe": 22.707708,
+    "ev_ebitda": 22.016,
+    "price_to_sales": 6.8841186,
+    "peg_ratio": 4.04,
+    "market_cap": 339276922880,
+    "enterprise_value": 369311055872
   }
 }

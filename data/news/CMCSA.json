@@ -2,6 +2,39 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "T-Mobile Shoots Down Cable TV Acquisition On Q1 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c9ea080eed4d24dbdb7450959752449c6d5ee3b1dec372b665a1da06ddcf7a1",
+      "published_at": "2026-04-29T13:34:52",
+      "sentiment": "negative",
+      "sentiment_score": -0.926,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Structural Threat AT&T Didn't See Coming",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=848e221fc8e5854f83491766272cecd3c776e27c9ed2466c3b1483ca91e3873d",
+      "published_at": "2026-04-29T13:22:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Citi, RBC Capital See Improving Broadband Trends at Comcast (CMCSA)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a7d84450461ba4643a210b32ff46d71f88b331d54050dd108264438d7599a37",
+      "published_at": "2026-04-29T01:26:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.921,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Comcast drops 2 new phone plans for customers, with a catch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ba6f7609fc854c52958d9c1b55cbe75151bef1f491b9dc4bbac574746dafdd3b",
@@ -31,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "FCC launches review of Disney broadcast licenses years ahead of schedule",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b8f5a9003eb4b9c6a6aa69c169730969413aa6af1e90e2da6d7544bad99b5cd1",
+      "published_at": "2026-04-28T15:16:52",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.949,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Comcast Stock Boomed Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ae9c6e6cc178025cdeb270f94290dacb3dcf0b40a45883242037e2054097964",
-      "published_at": "2026-04-23T16:54:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.696,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Comcast Corporation Q1 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=653933f4a1036de103892c495ff3a3e84576439d6ce4e8c381b4cf4b84c67ebb",
-      "published_at": "2026-04-23T16:48:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.899,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=045c7b48b65007e164a85ff803fd33eecc2fc353fcd25256a546df5c8edcf0d2",
-      "published_at": "2026-04-23T16:35:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.86,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Comcast broadband and wireless gains drive earnings beat, shares jump",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a4f1ecf6de34fff778e0444d7652b3757fbbdc60b84889971773c6e81bfe458",
-      "published_at": "2026-04-23T15:49:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.91,
-      "sentiment_confidence": 0.91,
       "relevance_score": 1.0,
       "event_type": null
     }
