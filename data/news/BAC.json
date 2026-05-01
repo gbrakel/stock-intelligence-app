@@ -2,6 +2,94 @@
   "ticker": "BAC",
   "articles": [
     {
+      "headline": "Jim Cramer Believes \u201cBank of America\u2019s Way Too Cheap, It Should Be Bought\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7c68d471210f44fb4b71def2334ca8fb7b8d906db7e204c24791c5f4fe8d378",
+      "published_at": "2026-04-30T19:17:52",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Gasoline Hits 4-Year High of $4.30. Americans Simply Won\u2019t Stop Driving.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e7746262415ddb2fb1c17e10ecbbc2b4a100ba128f325504a3595c2ba9d53e9",
+      "published_at": "2026-04-30T15:52:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.706,
+      "sentiment_confidence": 0.706,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BAC Stock In Focus After Multi-Year Alaska Air Extension",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c28205a4e02a7098782a492fccd2ae298ac24688239cb80c5fcd233450893968",
+      "published_at": "2026-04-30T09:14:58",
+      "sentiment": "positive",
+      "sentiment_score": 0.552,
+      "sentiment_confidence": 0.552,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sterling edges up as markets await BoE signals on rate outlook",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ee0832f25249e789cef29376b4b3679b884413e90de318e49c90f54a4036e6e0",
+      "published_at": "2026-04-30T08:57:50",
+      "sentiment": "positive",
+      "sentiment_score": 0.894,
+      "sentiment_confidence": 0.894,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The catalyst for Microsoft's stock will be continued AI growth, says BofA's Tal Liani",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7f190cfa46943e8a19756cf656613c979059fd11a283a5560ebe26645ff81002",
+      "published_at": "2026-04-30T07:16:31",
+      "sentiment": "positive",
+      "sentiment_score": 0.911,
+      "sentiment_confidence": 0.911,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How The Apple (AAPL) Narrative Is Shifting On Services Strength, New Hardware And CEO Change",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91a6ed8730de3a939f13164cfb45c887b9ba18b00bcf98f337b7338f3ae82466",
+      "published_at": "2026-04-30T05:05:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.924,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Private credit fears loom large over Europe\u2019s banks this earnings season",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c197baaec292772947a37d872d3ad04608df301dee729674fcd650a555f2971c",
+      "published_at": "2026-04-30T03:49:13",
+      "sentiment": "negative",
+      "sentiment_score": -0.935,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This major bank is going on a branch-opening spree",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d181525437c222e496f9522d4fb73fbc4d7044e85589c9bda3d40746592e750f",
+      "published_at": "2026-04-30T03:33:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.874,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "How The Narrative On McKesson (MCK) Is Shifting Around Biosimilars And Valuation Premium",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b61c17366af39254d1c932c894f6656319c7c7802cc4478c672cfca13cdcc2a",
@@ -31,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.751,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bank of America Just Gave HP Enterprise Stock a New Street-High Price Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=622af337693f55fda032fb62dc81f443c1e94ee37b69e081b3eca21ff4859a3d",
+      "published_at": "2026-04-29T19:53:57",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.674,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A Look At Bank Of America (BAC) Valuation After Recent Share Price Swings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8faba4d80c5e48e7d9fcbb03a989f22160473d68ac2e912beeb5c516a0b32c9c",
-      "published_at": "2026-04-27T10:06:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Better Buy Right Now: American Express vs. Bank of America",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a595110896096c7c15df049114334cce08c2b3f3214b51aea8217c8b31b8dd61",
-      "published_at": "2026-04-27T09:20:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.852,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wells Fargo Says \u201cWe\u2019ve Clearly Missed Sandisk Corporation (SNDK)\u201d, Lifts PT",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e52a3d3a24fa51de6ec6fd74dcdeb4120b1199d786908f9617c23949038204ef",
-      "published_at": "2026-04-27T05:53:54",
-      "sentiment": "positive",
-      "sentiment_score": 0.572,
-      "sentiment_confidence": 0.572,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19a4aeb6155cb269735918e25e83b2a8fc2ea252598a747c6591a783d73c65aa",
-      "published_at": "2026-04-27T05:53:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Record-Setting Momentum Rally Is Drawing Doubters",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a882d70ee2c493fd68bcbc33030a5db55bda5cbfad0b6ad1cfe463f3d4996e9",
-      "published_at": "2026-04-26T20:50:14",
-      "sentiment": "negative",
-      "sentiment_score": -0.466,
-      "sentiment_confidence": 0.466,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bank Of America Backs US$16b AI Data Center And Fee Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aecf9b9c3d7926c46f6de5d8939ef50bc34792e97097dcdb5af106a05e2869f6",
-      "published_at": "2026-04-26T18:05:31",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.782,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bank of America Lifts ED Target Ahead of Q1, Maintains Bearish View",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c369323bd2c8a72fb30052b34628fbcaa6ae66b135d2e306aaf4622bfd693e51",
-      "published_at": "2026-04-26T16:45:50",
-      "sentiment": "positive",
-      "sentiment_score": 0.774,
-      "sentiment_confidence": 0.774,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Capricorn Fund Makes a Huge Bet on Nerve Repair With 687,000 Share Axogen (AXGN) Investment Worth $22.4 Million",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1f4f558975849fb4d0b38bebc67257ec7970d986130ec59567ed6a0dfee0dcc",
-      "published_at": "2026-04-26T14:58:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.823,
-      "sentiment_confidence": 0.823,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Investors Protecting Stocks at Record Eye Bets on Higher Rates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0d87d4834df22cde13911b27c48601e479ac8c56231dfef3b609821ba112039",
-      "published_at": "2026-04-26T14:00:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.726,
-      "sentiment_confidence": 0.726,
       "relevance_score": 1.0,
       "event_type": null
     }

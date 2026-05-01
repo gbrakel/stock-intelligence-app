@@ -2,6 +2,22 @@
   "ticker": "LLY",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 8.26536,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 894818881.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 19292000000.0,
       "net_income": 6637700000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 13532800000.0,
       "net_income": 4409800000.0,
-      "eps": 4.913218,
+      "eps": null,
       "gross_margin": 0.8223723102388272,
       "operating_margin": 0.4198687633010168,
       "net_margin": 0.32586013241901157,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 3268000000.0,
       "roe": 0.30898262331838566,
       "roa": 0.056022359143746425,
-      "shares_outstanding": 897538000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 37.02523,
-    "forward_pe": 20.221546,
+    "pe_ratio": 40.670147,
+    "forward_pe": 22.202578,
     "ev_ebitda": 25.15,
-    "price_to_sales": 11.666868,
-    "peg_ratio": 1.29,
-    "market_cap": 760434786304,
+    "price_to_sales": 12.809829,
+    "peg_ratio": null,
+    "market_cap": 834931851264,
     "enterprise_value": 797089267712
   }
 }

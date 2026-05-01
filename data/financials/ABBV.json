@@ -2,6 +2,22 @@
   "ticker": "ABBV",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.39293,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1768762377.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 16618000000.0,
       "net_income": 1816000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 15102000000.0,
       "net_income": -22000000.0,
-      "eps": -0.012463,
+      "eps": null,
       "gross_margin": 0.7089127267911535,
       "operating_margin": 0.0055621771950735005,
       "net_margin": -0.0014567606939478214,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 5524000000.0,
       "roe": -0.006539833531510107,
       "roa": -0.0001627688460428674,
-      "shares_outstanding": 1765256986.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 86.02954,
-    "forward_pe": 12.683553,
-    "ev_ebitda": 14.109,
-    "price_to_sales": 5.8965487,
+    "pe_ratio": 103.58824,
+    "forward_pe": 13.090334,
+    "ev_ebitda": null,
+    "price_to_sales": 5.950029,
     "peg_ratio": 0.46,
-    "market_cap": 360632942592,
-    "enterprise_value": 412734324736
+    "market_cap": 373774876672,
+    "enterprise_value": null
   }
 }

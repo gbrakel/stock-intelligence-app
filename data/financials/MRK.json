@@ -2,6 +2,22 @@
   "ticker": "MRK",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": -1.716683,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 2469879206.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 16400000000.0,
       "net_income": 2963000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 15624000000.0,
       "net_income": 3743000000.0,
-      "eps": 1.48083,
+      "eps": null,
       "gross_margin": 0.7549923195084486,
       "operating_margin": 0.27828981054787505,
       "net_margin": 0.2395673323092678,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 13242000000.0,
       "roe": 0.08071681186923144,
       "roa": 0.03196249551688214,
-      "shares_outstanding": 2527637335.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 15.240384,
-    "forward_pe": 11.421542,
-    "ev_ebitda": 10.585,
-    "price_to_sales": 4.2151804,
-    "peg_ratio": 3.36,
-    "market_cap": 274033098752,
-    "enterprise_value": 308062289920
+    "pe_ratio": 14.997252,
+    "forward_pe": 11.239333,
+    "ev_ebitda": 10.663,
+    "price_to_sales": 4.1479354,
+    "peg_ratio": null,
+    "market_cap": 269661421568,
+    "enterprise_value": 310336880640
   }
 }
