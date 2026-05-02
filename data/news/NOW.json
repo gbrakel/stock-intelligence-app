@@ -2,6 +2,83 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "ServiceNow Drops 13.4% in a Month: Buy, Sell or Hold the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8140a3e41e63d8c55db331a55be7101a5ebb5e4db79c593e3f9c89be31229683",
+      "published_at": "2026-05-01T17:21:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.695,
+      "sentiment_confidence": 0.695,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "inMorphis Accelerates the AI-Native Enterprise: Unveiling a High-Velocity Implementation Framework for ServiceNow AI at Knowledge 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e0637feb6ba1bb19088d4df91524bbf37af30f4d11c39d484ca78ff2878ce0d9",
+      "published_at": "2026-05-01T14:59:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.646,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Steve Eisman Says Equity Value In Private Credit Software Companies Has Been 'Obliterated'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3302a69d6654407e14241a98be5aa2658345ff83e5cba8ed787bb3400d3b9906",
+      "published_at": "2026-05-01T14:56:28",
+      "sentiment": "negative",
+      "sentiment_score": -0.956,
+      "sentiment_confidence": 0.956,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Evercore ISI Maintains Buy Rating on ServiceNow Inc. (NOW)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b311337b2c26ef1f533d3b5ab4811f8df0b7a17982fbe96c7fe727e247e76917",
+      "published_at": "2026-05-01T14:35:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow and Louisiana-Pacific have been highlighted as Zacks Bull and Bear of the Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31369f1a481724a5895a6200c75db13920ac07cf7562bbaf06e6183dfa0cff83",
+      "published_at": "2026-05-01T13:14:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.739,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Analysts Push Back on SaaSpocalypse: Is ServiceNow a Screaming Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4da4eb5a41c2c533f479f4db8b4dd94090536ccb605c97911128f41fe6cec09d",
+      "published_at": "2026-05-01T10:16:59",
+      "sentiment": "negative",
+      "sentiment_score": -0.597,
+      "sentiment_confidence": 0.597,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ELuminous Drives 65% Reduction in Onboarding Time for European Pharma Firm Using ServiceNow",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7ca186c58e1773ffa2cc5b821637870469c21324823fdf7edf3cea09aba5af0d",
+      "published_at": "2026-05-01T04:46:13",
+      "sentiment": "positive",
+      "sentiment_score": 0.833,
+      "sentiment_confidence": 0.833,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ServiceNow And Simplify Alpha Target Health Plan Costs With AI Workflows",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=66eb224b098885a1de3dfa3d645fa8e9bcb8b190e455202800508d3861611cdc",
@@ -42,6 +119,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.695,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Citigroup Maintains Buy on ServiceNow, Raises Price Target to $158",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ba6044ac6980180a08013f04b8bc56a2407f89460ab9754658a0ff1ebadcfd53",
+      "published_at": "2026-04-30T14:31:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.76,
+      "sentiment_confidence": 0.76,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Big Short' Legend Steve Eisman Is Short The Stock That 'Ticked Off Literally Everybody'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7004146dd228ea8291a4bd89d21ddc2e02e71a5657fc210a202b5376d0a9518b",
+      "published_at": "2026-04-30T13:34:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.85,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.856,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Have software stocks reached an extreme washout yet?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=253108c055224f9c223b12f2ed7aec40522632ad01446a3848180be99eaa98c5",
-      "published_at": "2026-04-27T14:19:14",
-      "sentiment": "negative",
-      "sentiment_score": -0.922,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer Discusses Hidden Factor For ServiceNow (NOW) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=745d664342cef6d503cc19c4b84d9b6065720196679c9bdf34a54c9ae1cd4fbb",
-      "published_at": "2026-04-27T14:01:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Zacks.com featured highlights include H World, NVIDIA, FTI Consulting, HSBC and Stantec",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faa33df96fefa22e88058452c3d45f1093e734dc9826cadd40d05be84716cb1d",
-      "published_at": "2026-04-27T13:23:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Market Chatter: Software Companies Begin Charging Customers Based on AI Usage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d9cea7b8d370ba340bb79f980678798194fcf8cb77a980b49299694ea9be5d2",
-      "published_at": "2026-04-27T12:18:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.665,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bell Integration Selects NiCE CXone to Lead AI-Driven Service Desk Transformation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c3bd8a8cb46d2c9f7b06cfb2712ddf978404b2c4d98f7336dd442ec9a691177",
-      "published_at": "2026-04-27T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.821,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Amazon: The 'Berkshire Hathaway' Of Our Time, But Wait For A Potential Post-Earnings Pullback",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a4e364aeeb56648393faf4dd9062e66aa33274a296b7a1f252ccd7a67b540640",
-      "published_at": "2026-04-27T11:36:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.747,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow: The Selloff Looks Ugly Enough To Be Interesting (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=40a194a6b832fdb4fe4f76075545501b18db30aa9ebcfd2d7f22072fc08c493f",
-      "published_at": "2026-04-27T08:04:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.7,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is NOW (PSE:NOW) Pricing In Too Much After Recent Share Price Volatility?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b1f6914a2e46c3b33fd3f47f38c56a5883b91a420f6e2ce49d1cb858d97fa89",
-      "published_at": "2026-04-26T18:04:23",
-      "sentiment": "negative",
-      "sentiment_score": -0.843,
-      "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cdaaaaefbae76c15a3d4809e855017cee1175c18c187002dae0c5d2f57ad791",
-      "published_at": "2026-04-26T16:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.938,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,22 @@
   "ticker": "APD",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": 3171800000.0,
+      "net_income": 710400000.0,
+      "eps": 3.19,
+      "gross_margin": 0.3113058830947727,
+      "operating_margin": 0.2373100447695315,
+      "net_margin": 0.22397376883788386,
+      "free_cash_flow": -3900000.0,
+      "total_debt": 18357900000.0,
+      "total_equity": 18149800000.0,
+      "cash_and_equivalents": 951000000.0,
+      "roe": 0.039140927172751215,
+      "roa": 0.01705859329038269,
+      "shares_outstanding": 222800000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 3102500000.0,
       "net_income": 678200000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2024-12-31",
-      "revenue": 2931500000.0,
-      "net_income": 617400000.0,
-      "eps": 2.77,
-      "gross_margin": 0.31212689749275113,
-      "operating_margin": 0.22974586389220536,
-      "net_margin": 0.21060890329183013,
-      "free_cash_flow": -1305900000.0,
-      "total_debt": 15125600000.0,
-      "total_equity": 18738700000.0,
-      "cash_and_equivalents": 1845500000.0,
-      "roe": 0.0329478565748958,
-      "roa": 0.015428365802704836,
-      "shares_outstanding": 222700000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": null,
-    "forward_pe": 21.238493,
+    "pe_ratio": 31.758442,
+    "forward_pe": 21.310692,
     "ev_ebitda": 102.306,
-    "price_to_sales": 5.472337,
-    "peg_ratio": null,
-    "market_cap": 66807930880,
+    "price_to_sales": 5.49094,
+    "peg_ratio": 6.41,
+    "market_cap": 67035041792,
     "enterprise_value": 86939639808
   }
 }

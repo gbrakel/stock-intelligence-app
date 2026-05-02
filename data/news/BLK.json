@@ -2,6 +2,83 @@
   "ticker": "BLK",
   "articles": [
     {
+      "headline": "OWL Q1 Earnings Meet on Revenue & AUM Growth, Stock Gains 9.8%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42b6a63dec0a57971ddfb692984fcf133eab7f473d13aaf970baf594b1b7efcc",
+      "published_at": "2026-05-01T16:18:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.941,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Federated Hermes Q1 Earnings Beat Estimates, AUM Reaches Record Level",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaa5044021aee491f7c946df61fa92f48d4e0ec79c55d5a71a5a64a162dcb128",
+      "published_at": "2026-05-01T16:11:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.936,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "JPMorgan Is Betting On Tokenization, But ETF Exec Says 'Good Use Cases' Are Years Away",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=398e273f2952407ad7340e2c78cc7afdddda2ff61de1b3a3d3c586791e45a588",
+      "published_at": "2026-05-01T16:02:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.896,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why BlackRock\u2019s Rick Rieder Thinks the U.S. Economy Is Basically Recession-Proof",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79f233db04cddda6ab632ed4275dd8cce1cb26b401682346e5858784f3722e03",
+      "published_at": "2026-05-01T13:11:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.577,
+      "sentiment_confidence": 0.577,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Not So Fast, Texas. This City Manages Far More Money\u2014and It\u2019s Not New York.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ba433c8d23090a64eb1744e9511b45489c4693745c52a6b5d61f72ceb15f486",
+      "published_at": "2026-05-01T13:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sorry, Wall Street South. Wall Street North Has the Big Bucks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8131b590f05ed151c47fe3bd1c6c2ab25a45fae339de2401e83ddc6cdd86a54",
+      "published_at": "2026-05-01T13:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.866,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BLACKROCK INC (NYSE:BLK) Shows Strong Growth Fundamentals and a Breakout Technical Setup",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b3027c5238c5ed426f6357719a14efae2bbb666bed2e698b59ef2684417f80f1",
+      "published_at": "2026-05-01T12:50:47",
+      "sentiment": "positive",
+      "sentiment_score": 0.954,
+      "sentiment_confidence": 0.954,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BlackRock\u2019s Rob Goldstein: \u2018Convenience-Layer\u2019 SaaS Companies Are \u2018In Trouble\u2019 From AI",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d68647c3dfd7df8958fb54f09abbf7e87a423e3b7dbd39dab1c7115601615081",
@@ -471,83 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.798,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Morgan Stanley's stablecoin bet could reshape finance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad11c6ae4885a6e2b21758a42a66f5e3305e73e90260facbe0e948316687bb55",
-      "published_at": "2026-04-24T17:02:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bitcoin ETFs rake in $1.9 billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ec186e9fb8762a7c22d41bb1ad8850c832f625da7397947ef0990eca9306fb3",
-      "published_at": "2026-04-24T16:34:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bitcoin ETF inflows draw in $1.9B as crypto asset hovers near $80K",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1177566bb699faaf3f28cce09f5c0b14c524bb0886291cdc88858f0629dd1f0",
-      "published_at": "2026-04-24T16:29:49",
-      "sentiment": "positive",
-      "sentiment_score": 0.597,
-      "sentiment_confidence": 0.597,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ameriprise Q1 Earnings Beat Estimates as Revenues & AUM Grow Y/Y",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c8093e42c5e0b58d5a8b415dd6b7a901d41317139928798dd8ecb4526e81840",
-      "published_at": "2026-04-24T14:23:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.943,
-      "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60e96b5b6f110c44122d183b4c2097a95040897be82512bd700aec18cfb80c32",
-      "published_at": "2026-04-24T11:31:49",
-      "sentiment": "negative",
-      "sentiment_score": -0.947,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock Likes Chips, Hardware in Overweight AI Stance",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=956e1699f3433a2a68f647ebaa70faffac88b0ecc55ceab1a7a9e70322a14241",
-      "published_at": "2026-04-24T09:57:15",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Insurers Are Lending to the Same Private-Credit Funds That Investors Are Rushing to Exit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=614e1a3f0c1e74636fce24c03102d23465cf9eb968cbc99509376e08d9c37fb3",
-      "published_at": "2026-04-24T06:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
       "relevance_score": 1.0,
       "event_type": null
     }

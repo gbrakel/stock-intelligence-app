@@ -2,10 +2,21 @@
   "ticker": "HD",
   "articles": [
     {
-      "headline": "Hershey, Wayfair, Molson Coors: Earnings roundup",
+      "headline": "The Dow's Early Gains Slipped Away. The S&P 500 and Nasdaq are Still at Records.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=348462116f706f25708573d83ff562981a15ebd995a5427e71f027dbb39786cb",
-      "published_at": "2026-04-30T20:04:17",
+      "url": "https://finnhub.io/api/news?id=8095a2b845746c15eabbe8e366bb03f73754a15a2d88612c0941cbeb7a19ce90",
+      "published_at": "2026-05-01T16:20:26",
+      "sentiment": "negative",
+      "sentiment_score": -0.887,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Floor & Decor Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58c8a8b2db6bc79761ccbe43ec929df6d5797cc970055d7416c98efa6695bdee",
+      "published_at": "2026-05-01T12:42:49",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
@@ -15,11 +26,22 @@
     {
       "headline": "TEMCO TEAMSTERS TO RALLY AT HOME DEPOT HEADQUARTERS",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d2be1d9af951bff46f3846e9fc2205803253971b834be194f78bf4748bc807f",
-      "published_at": "2026-04-30T19:00:00",
+      "url": "https://finnhub.io/api/news?id=58722ee980b35d1497c1371da7ba7a94f9848819680f23fb87b41f26400e76e4",
+      "published_at": "2026-05-01T11:00:00",
       "sentiment": "positive",
       "sentiment_score": 0.449,
       "sentiment_confidence": 0.449,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hershey, Wayfair, Molson Coors: Earnings roundup",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=348462116f706f25708573d83ff562981a15ebd995a5427e71f027dbb39786cb",
+      "published_at": "2026-04-30T20:04:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.873,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot (HD) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be98da891667fb67319971db8ce5f97fec1c197611b6e9075ec4124daca0d42d",
-      "published_at": "2026-04-21T21:45:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.725,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot adds tech and infrastructure to fix customer friction",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63ba96013daabc4566f0838d9c0907446021e23e69e5415d69d9014eefc7eaaa",
-      "published_at": "2026-04-21T21:17:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.646,
       "relevance_score": 1.0,
       "event_type": null
     }
