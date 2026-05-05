@@ -1,62 +1,50 @@
 [
   {
-    "ticker": "AMZN",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-05-02"
+    "ticker": "CRM",
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-05-05"
   },
   {
     "ticker": "AVGO",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-02"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-05-05"
   },
   {
-    "ticker": "ABBV",
+    "ticker": "MRK",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-05-02"
+    "date": "2026-05-05"
   },
   {
-    "ticker": "KO",
+    "ticker": "V",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-05-02"
+    "date": "2026-05-05"
   },
   {
-    "ticker": "PEP",
+    "ticker": "MA",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-05-02"
-  },
-  {
-    "ticker": "COST",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-02"
+    "date": "2026-05-05"
   },
   {
     "ticker": "CAT",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-05-05"
+  },
+  {
+    "ticker": "HON",
     "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-02"
+    "new_signal": "exit",
+    "date": "2026-05-05"
   },
   {
-    "ticker": "GE",
-    "previous_signal": "exit",
+    "ticker": "LIN",
+    "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-05-02"
-  },
-  {
-    "ticker": "AMT",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-05-02"
-  },
-  {
-    "ticker": "APD",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-05-02"
+    "date": "2026-05-05"
   }
 ]
