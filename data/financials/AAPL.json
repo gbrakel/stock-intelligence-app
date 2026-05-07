@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-03-31",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 111184000000.0,
+      "net_income": 29578000000.0,
       "eps": 2.02,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.4927057850050367,
+      "operating_margin": 0.32275327385235286,
+      "net_margin": 0.2660274859692042,
+      "free_cash_flow": 26731000000.0,
+      "total_debt": 84711000000.0,
+      "total_equity": 106491000000.0,
+      "cash_and_equivalents": 45572000000.0,
+      "roe": 0.277751171460499,
+      "roa": 0.07970745010536755,
       "shares_outstanding": 14673278000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.3709802982214504,
       "roa": 0.07481138654663032,
       "shares_outstanding": 14994082000.0
-    },
-    {
-      "period_end": "2024-12-31",
-      "revenue": 124300000000.0,
-      "net_income": 36330000000.0,
-      "eps": null,
-      "gross_margin": 0.4688254223652454,
-      "operating_margin": 0.34458567980691873,
-      "net_margin": 0.2922767497988737,
-      "free_cash_flow": 26995000000.0,
-      "total_debt": 96799000000.0,
-      "total_equity": 66758000000.0,
-      "cash_and_equivalents": 30299000000.0,
-      "roe": 0.5442044399173133,
-      "roa": 0.10558437595361611,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -181,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 34.44606,
-    "forward_pe": 29.736174,
-    "ev_ebitda": 26.192,
-    "price_to_sales": 9.245601,
+    "pe_ratio": 34.765415,
+    "forward_pe": 30.039297,
+    "ev_ebitda": 26.493,
+    "price_to_sales": 9.353941,
     "peg_ratio": 2.49,
-    "market_cap": 4173852573696,
-    "enterprise_value": 4190056742912
+    "market_cap": 4222761828352,
+    "enterprise_value": 4238275510272
   }
 }

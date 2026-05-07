@@ -2,6 +2,83 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Warner Bros. Posts Wider-Than-Expected Loss. The Stock Slides.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=966decc93b78520c014e9c64a01da96de796ca4e88b556e96367439043cfa0d9",
+      "published_at": "2026-05-06T20:43:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.958,
+      "sentiment_confidence": 0.958,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Analyst Downgrades Netflix (NFLX)\u00a0From \u2018Buy\u2019 to \u2018Hold\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25c0eb9dc9cba34b03ba9de441db6c1a3da5c5689e651d02a9b0b0afebc56c61",
+      "published_at": "2026-05-06T18:54:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.9,
+      "sentiment_confidence": 0.9,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Warner Bros. Earnings Are on Deck. How Disney Turned Up the Heat.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05cfa1e6e21477d342131ba7caef1f3cdda6050b883ab67c8d70b0781f9d6aa3",
+      "published_at": "2026-05-06T17:58:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Disney Stock Is Up 8% Today: Is It Outperforming Other Streaming Stocks Like Netflix and Warner Bros. Discovery?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d957249769bfe958ea9a4c7de7df695cbc81edbf9a9b379c032e0d489f1888d",
+      "published_at": "2026-05-06T14:38:38",
+      "sentiment": "positive",
+      "sentiment_score": 0.949,
+      "sentiment_confidence": 0.949,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "McDonald's Earnings Prediction Market Preview: What Will Chris Kempczinski Say?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e168e45def7efe5f5f6982252498ea30638bbc1fc5be36ac9f3c2e720a8722fa",
+      "published_at": "2026-05-06T14:06:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Rosenblatt's Barton Crockett on Disney earnings: CEO Josh D'Amaro is 'off to a great start'",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c934fdd63c245ee4eea2b134481cae91032329440d2c3373b53dd87f1833522b",
+      "published_at": "2026-05-06T10:29:06",
+      "sentiment": "positive",
+      "sentiment_score": 0.869,
+      "sentiment_confidence": 0.869,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Morning Call Sheet: AI boom and easing oil fears lift markets",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3ef7a0f85844ff20583b5b20dee6d831bab1766ab80d8e8bc2e07484a0a57384",
+      "published_at": "2026-05-06T07:51:32",
+      "sentiment": "positive",
+      "sentiment_score": 0.887,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Dealmaking 3: LIV Golf Funding, UFC in Australia, ESPN & Disney Take Back Sports",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d87a44876ffd92e787c8dd956b1e6db0e1501873d971b2a163eb93dd316b80ba",
@@ -31,6 +108,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5fa4e52ad6df16d8b63f592c5e9ba237f0d0da786d6d111a1f4f958a7c485900",
+      "published_at": "2026-05-05T18:05:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's Going On With Netflix Stock Tuesday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=25c4ddbf770b968cc96374a8573b60c0a91f7e76399ae8c45ef4f2b6a9def98e",
+      "published_at": "2026-05-05T14:30:28",
+      "sentiment": "negative",
+      "sentiment_score": -0.514,
+      "sentiment_confidence": 0.514,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jennifer Lopez falls for Brett Goldstein in 'Office Romance' trailer",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=51328cd59da173253f08b8e18cc3afe2b2108a760f45e00530673fca9c4c2385",
-      "published_at": "2026-04-30T10:24:09",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.824,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix, Inc. (NFLX) Expands Buyback Capacity with New $25B Authorization",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98eef15ebd804db74bf08db44d588f6d15d4023fac7cf530801288f934278cc7",
-      "published_at": "2026-04-30T09:53:36",
-      "sentiment": "positive",
-      "sentiment_score": 0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Introduces 'Clips,' A New Vertical Video Feed Designed For The Way You Actually Use Your Phone; In Future, We'll Expand 'Clips' To Include Podcasts, Live Programming And Collections Based On Genres",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c5abbac692f467c1b50e15ad092decc1cbf44932291de833bca7c16bf87306bd",
-      "published_at": "2026-04-30T09:06:48",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.845,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Shareholder Activism Puts Governance And Valuation In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7919677593f0ff1eba0cf8e7778457b428e6e6fcc241fb2c138c77298f1fbd0c",
-      "published_at": "2026-04-30T09:06:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.86,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Amazon: The Bull Case Survived Earnings, The Strong Buy Did Not",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a08451f5f3156764506ba636e4565aa73ddf32d922ef92aec35869454f907c7d",
-      "published_at": "2026-04-30T08:44:21",
-      "sentiment": "positive",
-      "sentiment_score": 0.557,
-      "sentiment_confidence": 0.557,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Could Live Sports Be the Winning Play for Netflix's Future Revenue?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfa993bb8d6aaa98243d8e80ee4cf21ba0f1b97123e3711186037049084b7d96",
-      "published_at": "2026-04-30T06:51:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.815,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Netflix (NFLX) One of the Best Fundamental Stocks to Invest in According to Billionaires?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48e5436602cc319d9dcaf02f9c9890fed150b96f4b9ddb7611b111e11b626121",
-      "published_at": "2026-04-29T20:20:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.842,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "25 Billion Reasons to Buy Netflix Stock Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f275f04f5fb1d5d000d860128dc075b4c2751a223741fc25c41db698c8a96cc3",
-      "published_at": "2026-04-29T19:18:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Sport: F1 Academy's Susie Wolff says a woman reaching Formula 1 is inevitable, 'if we do a good job'",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=9c55b1929f456bc5fe19a564d0c89c7e4f327f51d42d5bf367d3ea7b34d90bc1",
-      "published_at": "2026-04-29T18:00:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.655,
-      "sentiment_confidence": 0.655,
       "relevance_score": 1.0,
       "event_type": null
     }
