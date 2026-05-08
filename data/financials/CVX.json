@@ -2,6 +2,22 @@
   "ticker": "CVX",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.12,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1980146000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 45787000000.0,
       "net_income": 2770000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 48334000000.0,
       "net_income": 3239000000.0,
-      "eps": 1.85,
+      "eps": null,
       "gross_margin": 0.2733686431911284,
       "operating_margin": 0.049985517441138744,
       "net_margin": 0.06701286878801671,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 6781000000.0,
       "roe": 0.02114823351201708,
       "roa": 0.012606154013808778,
-      "shares_outstanding": 1770310000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 32.257843,
-    "forward_pe": 15.422815,
-    "ev_ebitda": 11.271,
-    "price_to_sales": 1.9709752,
-    "peg_ratio": 1.1,
-    "market_cap": 366061322240,
-    "enterprise_value": 427021271040
+    "pe_ratio": 31.794426,
+    "forward_pe": 15.201252,
+    "ev_ebitda": 10.881,
+    "price_to_sales": 1.9426601,
+    "peg_ratio": 0.86,
+    "market_cap": 360802484224,
+    "enterprise_value": 412233334784
   }
 }

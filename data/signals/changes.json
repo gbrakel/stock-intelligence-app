@@ -1,44 +1,50 @@
 [
   {
     "ticker": "ADBE",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-05-07"
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-05-08"
   },
   {
-    "ticker": "ABBV",
+    "ticker": "CSCO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-05-08"
+  },
+  {
+    "ticker": "UNH",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-08"
+  },
+  {
+    "ticker": "GS",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
   },
   {
-    "ticker": "V",
+    "ticker": "COST",
     "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-07"
+    "new_signal": "reduce",
+    "date": "2026-05-08"
   },
   {
-    "ticker": "MA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-07"
-  },
-  {
-    "ticker": "MCD",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-07"
-  },
-  {
-    "ticker": "HON",
+    "ticker": "HD",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
   },
   {
-    "ticker": "GE",
+    "ticker": "XOM",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
+  },
+  {
+    "ticker": "DIS",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-05-08"
   }
 ]

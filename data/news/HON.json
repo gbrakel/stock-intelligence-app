@@ -2,6 +2,17 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Jim Cramer talks the record rally in semi stocks",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8579aece4c60ffe1d5a10a5e0d186d4bf67d099b4cdfa86df044a45567bd9d1e",
+      "published_at": "2026-05-06T19:28:29",
+      "sentiment": "positive",
+      "sentiment_score": 0.518,
+      "sentiment_confidence": 0.518,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "This Nuclear AI Stock Is Dropping. Here\u2019s Why.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1590c5bb00c9adc33ad3acb98adff257a5d8586fcfbb185979c9fd418f182ae4",
@@ -537,17 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.976,
       "sentiment_confidence": 0.976,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Beat Earnings Expectations. Why the Stock Is Sliding.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98a32cc9f48fe341b325cc61881bc85316728c35661cc06b8d6b92f3700bc5b3",
-      "published_at": "2026-04-23T11:09:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.819,
-      "sentiment_confidence": 0.819,
       "relevance_score": 1.0,
       "event_type": null
     }

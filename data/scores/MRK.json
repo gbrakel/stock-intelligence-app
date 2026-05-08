@@ -2,6 +2,21 @@
   "ticker": "MRK",
   "history": [
     {
+      "date": "2026-05-08",
+      "composite": 43.6,
+      "signal": "exit_watch",
+      "signal_confidence": 0.55,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 42.9,
+        "growth_trend": 49.0,
+        "valuation": 64.4,
+        "sentiment": 69.6,
+        "technical": 45.8,
+        "risk_penalty": 42.9
+      }
+    },
+    {
       "date": "2026-05-07",
       "composite": 44.4,
       "signal": "exit_watch",

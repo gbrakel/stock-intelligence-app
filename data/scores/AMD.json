@@ -2,6 +2,21 @@
   "ticker": "AMD",
   "history": [
     {
+      "date": "2026-05-08",
+      "composite": 52.0,
+      "signal": "reduce",
+      "signal_confidence": 0.73,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 50.6,
+        "growth_trend": 77.2,
+        "valuation": 29.1,
+        "sentiment": 59.3,
+        "technical": 91.6,
+        "risk_penalty": 42.9
+      }
+    },
+    {
       "date": "2026-05-07",
       "composite": 53.7,
       "signal": "reduce",

@@ -2,6 +2,22 @@
   "ticker": "DIS",
   "quarterly": [
     {
+      "period_end": "2026-03-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.27,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1766000000.0
+    },
+    {
       "period_end": "2025-12-31",
       "revenue": 25981000000.0,
       "net_income": 2402000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2024-12-31",
       "revenue": 24690000000.0,
       "net_income": 2554000000.0,
-      "eps": 1.41,
+      "eps": null,
       "gross_margin": 0.3760226812474686,
       "operating_margin": 0.16516808424463345,
       "net_margin": 0.10344268934791413,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 5486000000.0,
       "roe": 0.02392752414768735,
       "roa": 0.012961440475827979,
-      "shares_outstanding": 1812000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-09-30",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 15.91458,
-    "forward_pe": 14.739441,
-    "ev_ebitda": 11.628,
-    "price_to_sales": 1.9604604,
-    "peg_ratio": null,
-    "market_cap": 187647426560,
-    "enterprise_value": 224496320512
+    "pe_ratio": 17.385601,
+    "forward_pe": 14.582338,
+    "ev_ebitda": 12.078,
+    "price_to_sales": 1.939991,
+    "peg_ratio": 3.08,
+    "market_cap": 188689350656,
+    "enterprise_value": 236969328640
   }
 }
