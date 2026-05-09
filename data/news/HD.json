@@ -2,6 +2,50 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Home Improvement Spending Is, Well, Improving. Lowe\u2019s Stock Looks Cheap.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b68391d94c3f137ba186008be3dd051eb6149db4b58e04e92c9f4422aa7aee0c",
+      "published_at": "2026-05-08T12:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.93,
+      "sentiment_confidence": 0.93,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot Hertz Military Campaign Aims To Deepen Long Term Loyalty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73c1b7b72548172351795bca5acfb3335b2d0c053bf671417f4af18449f3a56d",
+      "published_at": "2026-05-08T07:18:34",
+      "sentiment": "positive",
+      "sentiment_score": 0.634,
+      "sentiment_confidence": 0.634,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Chart Of The Day: Should You Worry About Whirlpool?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ef0c97de9405d3923dc7dc5effbdc1c59defd5aa1aa31aa55accb5f620c2c47",
+      "published_at": "2026-05-08T06:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.836,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "124-year-old Home Depot rival hardware chain closes its last location",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85cd65e7206e86808ba0ac3ccea99ec6cefdfb85763285d6f89a2a0951b74cb2",
+      "published_at": "2026-05-08T03:48:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.734,
+      "sentiment_confidence": 0.734,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BofA sees more room for Home Depot shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5d7b2aa46ac2068e78c36baacd3f329c1653c3aedb9394b8d7a8a71d447b4423",
@@ -9,6 +53,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.777,
       "sentiment_confidence": 0.777,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Companies say the consumer trade is flagging as high gas prices endure",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=61b85aa579d6c1ca9a0ddef13cf0382af20864a39568ae1a0c3218f32eab82dd",
+      "published_at": "2026-05-07T17:39:45",
+      "sentiment": "negative",
+      "sentiment_score": -0.938,
+      "sentiment_confidence": 0.938,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.948,
       "sentiment_confidence": 0.948,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Couple launched a burrito spot in a Home Depot parking lot\u2014their two restaurants brought in $2.3 million in sales in 2025",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=29da7de85b994f21cb692e44fe8cd69c276bba778b81e70e500ef3134a2390b3",
-      "published_at": "2026-04-28T12:20:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.617,
-      "sentiment_confidence": 0.617,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "We started a burrito spot in a Home Depot parking lot \u2013 it brings in $2.3 million/year",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=d0031bccf1105cdcf813b96cffb0e1a768acea950adca6cb1e317c81f41f21c3",
-      "published_at": "2026-04-28T12:15:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.771,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wren Kitchens ceases operations in the US, files for bankruptcy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6fa688edb8e8a3f90ecb2818fdf37fd3d5c3540cc5264909151dfb7456160d9d",
-      "published_at": "2026-04-28T00:20:55",
-      "sentiment": "negative",
-      "sentiment_score": -0.648,
-      "sentiment_confidence": 0.648,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot (HD) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dcb93cd3c17d874e12f5094d0d72fc64b5fda11ec277be69482bfd579e4b0856",
-      "published_at": "2026-04-27T21:45:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.676,
-      "sentiment_confidence": 0.676,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Justifies Home Depot\u2019s 23x Multiple?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=004674908b327d4cefe01216399edaa3430f23aabba08bf6f68cf192ecbdc749",
-      "published_at": "2026-04-27T17:03:56",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
       "relevance_score": 1.0,
       "event_type": null
     }

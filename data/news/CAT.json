@@ -2,6 +2,61 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Jim Cramer Highlights Caterpillar As One of the Backup Power Plays",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4235c30663d56316e2ba09b8da73ba10425cb6082701b71068f4f426552929c9",
+      "published_at": "2026-05-08T15:07:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.865,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "2 Home Run Stocks I\u2019d Buy With $1,000 Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd8281d229a271bb6740c313afb23641b49956ffb56eb7b4eae38a52d46b8467",
+      "published_at": "2026-05-08T13:31:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer Discusses Caterpillar (CAT) & Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d11c68a9ad439926feace847dd031e7d8ee61a14dae0a541d17d91de343ba01",
+      "published_at": "2026-05-08T12:24:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Google, Broadcom Drive Delirious Demand. So Do 16 More Stocks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bc62a8f73ce37794b2229bd5dffc90529d303d7146329b1c7237960100e3470",
+      "published_at": "2026-05-08T12:00:44",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.732,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Chart Of The Day: Should You Worry About Whirlpool?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ef0c97de9405d3923dc7dc5effbdc1c59defd5aa1aa31aa55accb5f620c2c47",
+      "published_at": "2026-05-08T06:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.836,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "OAG360 Past Prologue Series: Nation building is an energy business",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=721f30a8b038988422a68fd6515869f44691a3ab4d6dbbcb90ebf38b85ad321f",
@@ -9,6 +64,50 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Friday's big stock stories: What\u2019s likely to move the market in the next trading session",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2770644685bb0c38d7dd1db4c2c2c9f2c3dca6b6ff5b9c69ec8b46931dfa4944",
+      "published_at": "2026-05-07T19:25:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "We currently don't have enough power to light up the data centers, says Jim Cramer",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=53a4ae11a69a392853630b952871fdd009d4b57eb01115907debaf3ec7531767",
+      "published_at": "2026-05-07T19:09:04",
+      "sentiment": "negative",
+      "sentiment_score": -0.585,
+      "sentiment_confidence": 0.585,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer believes the strength of the AI rally will power the economy",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0c5aa05bca5cd9dfcf95ecb94bbc64704160a76f49d3a1fcc2b50c0dcba2c263",
+      "published_at": "2026-05-07T19:08:22",
+      "sentiment": "positive",
+      "sentiment_score": 0.805,
+      "sentiment_confidence": 0.805,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "U.S. is entering largest capital investment cycle world has ever seen, says TCW senior fund manager",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7b80e031f7d8978ef48fd71722def96c003e70377defe4e2d3ff1dc88c94d9ba",
+      "published_at": "2026-05-07T17:58:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.702,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.717,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Benzinga Bulls And Bears: Apple, Intel, Tesla \u2014 And Markets Extend April Rally",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ea0d771c868ad84ea49725306be88ac5f8630e8b36141ef4f62f2c8a8296512b",
-      "published_at": "2026-05-02T09:02:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.898,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer Shares Big Data Center Catalyst For Caterpillar (CAT)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=192b92900d031f616b9e74ba3009b99b1ee624193bb9611330bcf46bf0f366df",
-      "published_at": "2026-05-02T06:12:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley Upgrades Caterpillar (CAT)",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=be782f2dcdf69de952ac4f5d4c0d8d88ea7b5dac634f54e0ac110c05e1eeb4d1",
-      "published_at": "2026-05-01T18:40:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Fast Money' traders share their charts of the week",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=169ac4a8f1bf69d15b8454810d863b64d3f447b5440afa1f50afb560ce33d60b",
-      "published_at": "2026-05-01T18:17:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.916,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Leading Machinery Stock Caterpillar's Composite Rating Surges To 98 On Q1 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a72b472d213031819378bd1afbfa56c17009ce9bebcd8eb915a63ae5ed6eaa7",
-      "published_at": "2026-05-01T17:30:36",
-      "sentiment": "positive",
-      "sentiment_score": 0.937,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley Doubles Caterpillar Price Target to $915: Is This the Most Underrated Industrial of 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af5f9504dd888615df81e18566bf08137cbc9323fd04ddcfdc72775cbcf67adc",
-      "published_at": "2026-05-01T16:16:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.865,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Rallies To New Highs; Apple, Google, Amazon, Sandisk, Powell In Focus: Weekly Review",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d62bb3377cc0c375c834e199b0e510ab097ea4f5861347dba39e53ab29cb69d",
-      "published_at": "2026-05-01T15:51:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.87,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar's Execution Amid Headwinds, Solid Backlog Support Longer Term Growth, Morgan Stanley Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=609dea80378819b7458ca0fb767b0b26cf491c54646530c95d1e51e50c60f3c1",
-      "published_at": "2026-05-01T15:33:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.952,
-      "sentiment_confidence": 0.952,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "This Caterpillar Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d3207555f18d7fdfa688975d316f4610b7ba0888ba4fd68995636fec75d8d3b4",
-      "published_at": "2026-05-01T14:43:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.873,
       "relevance_score": 1.0,
       "event_type": null
     }
