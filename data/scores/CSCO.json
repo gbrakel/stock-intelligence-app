@@ -2,6 +2,21 @@
   "ticker": "CSCO",
   "history": [
     {
+      "date": "2026-05-12",
+      "composite": 49.7,
+      "signal": "reduce",
+      "signal_confidence": 0.66,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 42.5,
+        "growth_trend": 62.8,
+        "valuation": 57.3,
+        "sentiment": 61.4,
+        "technical": 85.8,
+        "risk_penalty": 35.3
+      }
+    },
+    {
       "date": "2026-05-09",
       "composite": 51.4,
       "signal": "reduce",
