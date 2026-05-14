@@ -2,6 +2,94 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Blue-Chip Stock Seeing a Pre-Earnings Pullback",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=035a33026096d4a7358ba4718d593925347af445dd2c170dc98fae699d1fa301",
+      "published_at": "2026-05-13T17:16:16",
+      "sentiment": "negative",
+      "sentiment_score": -0.954,
+      "sentiment_confidence": 0.954,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Housing Stocks Are in Depression Mode. Whirlpool Down 81%, Lennar Crashed 54% While the S&P 500 Soars.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ded333d7b4e5ed10dba38dcc680b3a55e3839abe0d2353c33bf7e972273cd3b",
+      "published_at": "2026-05-13T16:21:26",
+      "sentiment": "negative",
+      "sentiment_score": -0.963,
+      "sentiment_confidence": 0.963,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot: The Bull Case Could Hardly Survive After The Print (Q1 Earnings Preview)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8aee34917756d473c4b2dfaaf81202c46ed13e3c0d43a29642a38f866fcb5a76",
+      "published_at": "2026-05-13T14:30:47",
+      "sentiment": "negative",
+      "sentiment_score": -0.712,
+      "sentiment_confidence": 0.712,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nasdaq back in positive territory but Dow still red as Trump arrives in China",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b5f4766a6a30940d0ac01a604f0f8ae1af6fd301b24993100f9ade4e007192c",
+      "published_at": "2026-05-13T11:48:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.467,
+      "sentiment_confidence": 0.467,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Truist Securities Maintains Buy on Home Depot, Lowers Price Target to $394",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a0c9715900ec44c637031c4132ad84669685be0a2c982d04993f742e7be3158b",
+      "published_at": "2026-05-13T11:21:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.424,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mitch Gould's Retail Playbook: How Brands Get Into Major U.S. Retailers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e2464644e86c77c1b1d00e77d239cd155e4b522a43909daef6d45b00f544985",
+      "published_at": "2026-05-13T09:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is It Time To Revisit Home Depot (HD) After Recent Share Price Weakness?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a51c08cab5a212a19f200df629e2a4676526f1f107ebfbf6fabcba96ee732d9",
+      "published_at": "2026-05-13T01:13:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.472,
+      "sentiment_confidence": 0.472,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This economy is bigger than just the data center trade, says Jim Cramer",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=61e36f635ca7d39fa34363da25f1245318e8db146bb9055ef13b6c688fb4e25d",
+      "published_at": "2026-05-12T19:33:11",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.896,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Home Depot (HD) \u2013 Among the 12 Best Blue Chip Dividend Stocks to Buy Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e14f4f1e8cc076033731b3201b0088defd50f09a373d041156caffbf5b2ce96a",
@@ -31,6 +119,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.481,
       "sentiment_confidence": 0.481,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "S&P 500 hits another record driven by tech alone as most stocks decline on the day: Live updates",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=20d9baeba8c031369f7e25be30fc3be5ff7cc1de843cf96fbc044c7500636ce6",
+      "published_at": "2026-05-12T18:01:16",
+      "sentiment": "negative",
+      "sentiment_score": -0.924,
+      "sentiment_confidence": 0.924,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A Congress Member Sold Up To $50K In JPMorgan Chase Stock: Here's What You Need To Know",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=abc3aaabef475d69e5e05124f1f99f14dc3a30f393468a04f581aea224c7f957",
-      "published_at": "2026-05-05T11:00:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot (HD) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a8507f32ee9f57523df440603427a17a0294f107dee623b7c4c425829ab01a0",
-      "published_at": "2026-05-04T21:45:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.725,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Dives As Trump Calls On Key Ally; Warren Buffett Gives This Warning (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86b168ce02ab15259e5efdd60f335cd868663dfa0897490eb12ce525e54a1752",
-      "published_at": "2026-05-04T20:44:32",
-      "sentiment": "negative",
-      "sentiment_score": -0.846,
-      "sentiment_confidence": 0.846,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Oil Squeeze Is Hitting Consumers Harder Than Investors. What That Means for Home Depot and Other Discretionary Stocks.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b9f2f5eff48b50c7c1118082d8083dbbe0bb4ded8f541d604c7e59070519b1d",
-      "published_at": "2026-05-04T20:21:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.631,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Zevin Asset Management Files an Exempt Solicitation Statement to The Home Depot",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=bd590c016cb2e4b58ad157244ceac613a9889a188bd47dc6d08aa0e742c54fe4",
-      "published_at": "2026-05-04T15:50:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.949,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "6 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=37c85eac1b9feb48635e885739ee6d8846b3c53c7393af4031531f5edcf4808b",
-      "published_at": "2026-05-04T13:35:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=551017350ae493ab065644b1631a518a89545c3212c9f6e7565d00c03dcf41be",
-      "published_at": "2026-05-04T13:00:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Drops On U.S.-Iran News; Oil Prices Continue To Rally (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84f3b474cbc0dc4c87671fb0af7f113a2d06009aaafe63b32c6c171c99a5e0fd",
-      "published_at": "2026-05-04T12:05:36",
-      "sentiment": "negative",
-      "sentiment_score": -0.949,
-      "sentiment_confidence": 0.949,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Hertz and The Home Depot Partner to Honor Military Heroes",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=f696b5bdcbf5e36f240a86bca097b1b5a1c50d8204309e37b9aec5273325e419",
-      "published_at": "2026-05-04T07:33:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.744,
       "relevance_score": 1.0,
       "event_type": null
     }

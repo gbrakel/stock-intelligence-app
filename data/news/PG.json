@@ -2,6 +2,28 @@
   "ticker": "PG",
   "articles": [
     {
+      "headline": "Procter And Gamble Showcases Zevo Kitchen Push And Investor Considerations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4297ab81571b56577174c010308182d3e0980f35fd0d1a2fcf983d87fe0bd0d0",
+      "published_at": "2026-05-13T16:11:42",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.916,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Russell 1000 Dividend ETF Hits $125 as Johnson & Johnson Leads The Safety Test",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4b0a8b55616d8b4be277e6b5afec062d9909578d9f800d4966d760d56be9581",
+      "published_at": "2026-05-13T13:01:08",
+      "sentiment": "positive",
+      "sentiment_score": 0.783,
+      "sentiment_confidence": 0.783,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Amazon and Walmart\u2019s fight for revenue beyond retail",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=78d72f20c4d0ac7ff81043650121d67fc82849d77f693ac19cae46b086e86dfe",
@@ -9,6 +31,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.517,
       "sentiment_confidence": 0.517,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "FedEx CEO Raj Subramaniam goes one-on-one with Jim Cramer",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=95f5c5c75ea780547e554ddc1a20d9625ca892597c501146852220994540ccdd",
+      "published_at": "2026-05-12T19:36:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FedEx Stock Rebounds After Drop As Amazon Push Raises Competition Concerns",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6a18ea53d5da4d44001a2e6c257dd607bd54e25560cb494afecb02c27cb27f46",
-      "published_at": "2026-05-05T10:25:49",
-      "sentiment": "negative",
-      "sentiment_score": -0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Olay Redefines Skin Longevity With \u201cSkinsurance\u201d Spotlighting the Super Collection as a Long-Term Investment to Future-Proof Your Glow",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=9d8ff4d4f462ad24ce64efe6b107257dca8b33cd4b44add426f349a5709c00d1",
-      "published_at": "2026-05-05T09:07:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.714,
-      "sentiment_confidence": 0.714,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Iran tensions, Palantir earnings, Musk's SEC settlement and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=cb0615ffe404e834b2a22566fc4d655775822f5a8916cc38817d72e3259349ae",
-      "published_at": "2026-05-05T08:07:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.546,
       "relevance_score": 1.0,
       "event_type": null
     }
