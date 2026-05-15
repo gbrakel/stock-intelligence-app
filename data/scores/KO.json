@@ -2,6 +2,21 @@
   "ticker": "KO",
   "history": [
     {
+      "date": "2026-05-15",
+      "composite": 54.3,
+      "signal": "exit",
+      "signal_confidence": 0.81,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 77.5,
+        "growth_trend": 47.2,
+        "valuation": 61.7,
+        "sentiment": 55.3,
+        "technical": 66.6,
+        "risk_penalty": 30.7
+      }
+    },
+    {
       "date": "2026-05-14",
       "composite": 54.6,
       "signal": "exit",

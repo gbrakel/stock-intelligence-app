@@ -2,6 +2,28 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "Jim Cramer Reveals AbbVie\u2019s (ABBV) \u201cGood Stuff\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c229218e76e283c8d99f6f42f94ccf2c355c7b13d08ff24f240412c8d41626e9",
+      "published_at": "2026-05-14T19:42:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.543,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Piper Sandler Maintains Overweight on AbbVie, Raises Price Target to $298",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ef7de0a2de7066433e87513f354f7c2648f1ed11bade5e5f4c494a3e4cfc4383",
+      "published_at": "2026-05-14T11:12:35",
+      "sentiment": "positive",
+      "sentiment_score": 0.926,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "2 Cash-Producing Stocks to Research Further and 1 We Find Risky",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f04a2fa2250d900cbe5eb95cbe1051d67f4e03a4d0710ecc9d4343c1c8b4acaa",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.823,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ABBV Stock Up 5% on Robust Q1 Performance: Time to Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ede09d30c5444f3bbb6f1cca827eeeb0c6446b5dec3ed484dbcb13e898f0571",
-      "published_at": "2026-05-04T17:51:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.702,
-      "sentiment_confidence": 0.702,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "MercadoLibre And 2 Other Stocks That May Be Priced Below Their Estimated Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b5b393b42c8884fc6c0fe4abec3f3ffeea40ad7877a110965d8aaa459f4580b",
-      "published_at": "2026-05-04T17:38:07",
-      "sentiment": "negative",
-      "sentiment_score": -0.65,
-      "sentiment_confidence": 0.65,
       "relevance_score": 1.0,
       "event_type": null
     }
