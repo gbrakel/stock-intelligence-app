@@ -2,6 +2,21 @@
   "ticker": "MA",
   "history": [
     {
+      "date": "2026-05-16",
+      "composite": 51.5,
+      "signal": "exit",
+      "signal_confidence": 0.72,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 75.0,
+        "growth_trend": 55.4,
+        "valuation": 43.2,
+        "sentiment": 67.4,
+        "technical": 32.3,
+        "risk_penalty": 39.2
+      }
+    },
+    {
       "date": "2026-05-15",
       "composite": 51.8,
       "signal": "exit",
