@@ -2,6 +2,105 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "McDonald\u2019s has a new plan for a more cautious customer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6915fc4e79a067bed187a9da63ad01028716c78f0c0a5b91d2cfb0c08b75e79a",
+      "published_at": "2026-05-19T23:31:25",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.787,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "1 S&P 500 Stock to Research Further and 2 Facing Challenges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d701a1c278fc0c05bfdc319172aeec350da7780b2e3e365bb4a98f2014aa7d3",
+      "published_at": "2026-05-19T21:56:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.866,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "McDonald's U.S. Comps Jump 3.9%: What's Driving Momentum?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aaa2117c146664a890dcd3c08adee0e868783ebf748df38fefc70c495a13e8b",
+      "published_at": "2026-05-19T15:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.707,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI Job Destruction Is Coming, Another CEO Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=939d143e6bddcc35b9390bd2b82b94357d288f5cfb6c52df809b42912dffa542",
+      "published_at": "2026-05-19T15:48:19",
+      "sentiment": "negative",
+      "sentiment_score": -0.961,
+      "sentiment_confidence": 0.961,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Amazon, McDonald Surge Into Jefferies Top Picks Broadcom as Gets Cut",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da8b97f01fe9e58ffa44992b7a5c9b4fe0c3f7a3adddf0f32849016dcce86bad",
+      "published_at": "2026-05-19T14:47:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.807,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4a6af67c390f9348e54fb7d9c8250d38dd83e0b6f5f028d58190812876149e4e",
+      "published_at": "2026-05-19T13:35:37",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.818,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Q1 Earnings Highs And Lows: McDonald's (NYSE:MCD) Vs The Rest Of The Traditional Fast Food Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97953f65f89f288c8203b2fedb278ced118f4ae49dc25ec3902a85c56fb2fbe9",
+      "published_at": "2026-05-19T04:44:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.938,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Retail Earnings Likely to Spotlight Inflation\u2019s Bruising Grip on Low-Income Consumers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a842f5b4da5c19a8a862d7d23b07e444ccc347f41da607bacc5598073f17f02d",
+      "published_at": "2026-05-19T04:01:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.755,
+      "sentiment_confidence": 0.755,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Here's How Much $1000 Invested In McDonald's 20 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=036a9734bd6db4cc4a93894b86584b0e93e2f021c0598feaa1f7795e49e067dd",
+      "published_at": "2026-05-18T19:45:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "McDonald's: GPUs Are Great, But The Big Mac Is Forever",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=88ae3799bc69e9341b293e8eb25a2ba0b6c5239ae0581ad53874c17ab479102d",
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.862,
       "sentiment_confidence": 0.862,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Americans still feel pessimistic about the economy. When will it get better?",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=d75c5dafaf0f5dd6dded1c7db33df66d9376457560bebf2619ac9966ea73fc08",
-      "published_at": "2026-05-14T06:00:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.605,
-      "sentiment_confidence": 0.605,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's Lands Naming Rights Deal for $750 Million Chicago Fire Stadium",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e349b0a2491f1136a7c27202616c43b278ad101037c7e42ed0cf7cf833df8cb6",
-      "published_at": "2026-05-14T03:54:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.854,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's Stock Hits 52-Week Lows: High Gas Prices Could Make Things Worse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13f9c16d161094c795c4ebef8b43bd0b791abed0ea674a7c62cfbdab95fc25b7",
-      "published_at": "2026-05-13T20:04:45",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's Park Deal Links Stadium Branding To Long Term Investor Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7dc2fe3fc2bedc7b43faf51c40c2e67670eba9373dcd18fcb058953912ac29fb",
-      "published_at": "2026-05-13T17:25:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Project Fresh Save The Wendy's Company?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bb4f168be8b785ebf372a6c905d514de74b27a04c0f0993d2223d3505fbaf24",
-      "published_at": "2026-05-13T16:30:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.888,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Chipotle's Global Expansion Become a Bigger Growth Lever?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1fee89a9a00e0f647b3bccc1bea2a4c5490675d440f6a4d8a2a664a0b66311a",
-      "published_at": "2026-05-13T15:12:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.731,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Forget McDonald\u2019s. The Value Menu Isn\u2019t Working and This Steakhouse Chain Is Taking Its Customers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb1dd36bf505eec8755d503083985284fe86f4087384067c19567b8e075d0c9d",
-      "published_at": "2026-05-13T14:43:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.841,
-      "sentiment_confidence": 0.841,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer on Restaurant Brands: \u201cThey Reported a Pretty Solid Quarter\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffd79dc86c04fb346c42893aa4dfac9c2845fa6bb82a938e96543eb32c498f30",
-      "published_at": "2026-05-13T14:28:25",
-      "sentiment": "positive",
-      "sentiment_score": 0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mcdonald's and Chicago Fire Football Club Enter Naming Rights Partnership for Mcdonald's Park",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=23c2a14d260c08c8b37be56bd65ca489d0ffb063dd296cf670b98284a020830a",
-      "published_at": "2026-05-13T13:35:28",
-      "sentiment": "positive",
-      "sentiment_score": 0.591,
-      "sentiment_confidence": 0.591,
       "relevance_score": 1.0,
       "event_type": null
     }

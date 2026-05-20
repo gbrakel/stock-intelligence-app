@@ -2,6 +2,22 @@
   "ticker": "CSCO",
   "quarterly": [
     {
+      "period_end": "2026-04-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.85,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 3952000000.0
+    },
+    {
       "period_end": "2026-01-31",
       "revenue": 15349000000.0,
       "net_income": 3175000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-01-31",
       "revenue": 13991000000.0,
       "net_income": 2428000000.0,
-      "eps": 0.61,
+      "eps": null,
       "gross_margin": 0.6512043456507755,
       "operating_margin": 0.2232149238796369,
       "net_margin": 0.17354013294260595,
@@ -79,7 +95,23 @@
       "cash_and_equivalents": 8556000000.0,
       "roe": 0.05332747638919394,
       "roa": 0.02000411946446962,
-      "shares_outstanding": 3981000000.0
+      "shares_outstanding": null
+    },
+    {
+      "period_end": "2024-10-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 39.626667,
-    "forward_pe": 25.0425,
-    "ev_ebitda": 28.539,
-    "price_to_sales": 7.7299457,
-    "peg_ratio": 1.69,
-    "market_cap": 469563277312,
-    "enterprise_value": 484476747776
+    "pe_ratio": 38.46,
+    "forward_pe": 24.305212,
+    "ev_ebitda": 27.724,
+    "price_to_sales": 7.502365,
+    "peg_ratio": 1.7,
+    "market_cap": 455738654720,
+    "enterprise_value": 470644752384
   }
 }
