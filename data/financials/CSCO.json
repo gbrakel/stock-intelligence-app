@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-04-30",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 15841000000.0,
+      "net_income": 3373000000.0,
       "eps": 0.85,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.6363234644277508,
+      "operating_margin": 0.24992109084022474,
+      "net_margin": 0.2129284767375797,
+      "free_cash_flow": 3343000000.0,
+      "total_debt": 31303000000.0,
+      "total_equity": 48861000000.0,
+      "cash_and_equivalents": 7083000000.0,
+      "roe": 0.06903256175682036,
+      "roa": 0.026866646488139804,
       "shares_outstanding": 3952000000.0
     },
     {
@@ -83,22 +83,6 @@
     },
     {
       "period_end": "2025-01-31",
-      "revenue": 13991000000.0,
-      "net_income": 2428000000.0,
-      "eps": null,
-      "gross_margin": 0.6512043456507755,
-      "operating_margin": 0.2232149238796369,
-      "net_margin": 0.17354013294260595,
-      "free_cash_flow": 2031000000.0,
-      "total_debt": 31037000000.0,
-      "total_equity": 45530000000.0,
-      "cash_and_equivalents": 8556000000.0,
-      "roe": 0.05332747638919394,
-      "roa": 0.02000411946446962,
-      "shares_outstanding": null
-    },
-    {
-      "period_end": "2024-10-31",
       "revenue": null,
       "net_income": null,
       "eps": null,
@@ -119,7 +103,7 @@
       "period_end": "2025-07-31",
       "revenue": 56654000000.0,
       "net_income": 10180000000.0,
-      "eps": 2.63,
+      "eps": 2.56,
       "gross_margin": 0.6493804497475907,
       "operating_margin": 0.22070815829420695,
       "net_margin": 0.17968722420305716,
@@ -181,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 38.46,
-    "forward_pe": 24.305212,
-    "ev_ebitda": 27.724,
-    "price_to_sales": 7.502365,
-    "peg_ratio": 1.7,
-    "market_cap": 455738654720,
-    "enterprise_value": 470644752384
+    "pe_ratio": 38.116665,
+    "forward_pe": 23.981495,
+    "ev_ebitda": 27.484,
+    "price_to_sales": 7.419469,
+    "peg_ratio": 1.59,
+    "market_cap": 450703032320,
+    "enterprise_value": 466574213120
   }
 }
