@@ -2,6 +2,21 @@
   "ticker": "LIN",
   "history": [
     {
+      "date": "2026-05-22",
+      "composite": 63.1,
+      "signal": "exit_watch",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 95.0,
+        "growth_trend": 52.5,
+        "valuation": 78.3,
+        "sentiment": 60.3,
+        "technical": 58.3,
+        "risk_penalty": 28.0
+      }
+    },
+    {
       "date": "2026-05-21",
       "composite": 62.3,
       "signal": "exit_watch",
