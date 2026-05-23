@@ -2,6 +2,105 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Intuit Drops 63%: Are Software Stocks Deep Value or a Trap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b204146b78f6564a8615ebe1fa885f2b312371b6efec2b217aaed2f1fff8c328",
+      "published_at": "2026-05-22T17:15:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.758,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Is ServiceNow (NOW) Up 17.6% Since Last Earnings Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5b2e80713880cb8de0f4bafaa6ccf3005d698079dd84b40cceb2ab3d4c105df",
+      "published_at": "2026-05-22T15:30:08",
+      "sentiment": "positive",
+      "sentiment_score": 0.842,
+      "sentiment_confidence": 0.842,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks Climb on US-Iran Peace Hopes and Strength in Chipmakers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b687f3e3f3a668e1301d328fa61d83315f02e8f251b13ade07a67c1eb526129",
+      "published_at": "2026-05-22T15:20:05",
+      "sentiment": "positive",
+      "sentiment_score": 0.854,
+      "sentiment_confidence": 0.854,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Don't Miss This Rare Opportunity To Invest In Intuit",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2d4f9b3734179b772f3cb06d13e6d2281e2d5053c085435be123b2003ae3ecdc",
+      "published_at": "2026-05-22T15:10:48",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.875,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks Supported by US-Iran Peace Deal Optimism",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8656a8c40a6c90519598ff346ec154e5a14aed21c498b174d8e7c4d8e64684d2",
+      "published_at": "2026-05-22T14:13:46",
+      "sentiment": "positive",
+      "sentiment_score": 0.814,
+      "sentiment_confidence": 0.814,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cloud AI Update - CAI Boosts Multicloud Integration With AWS And Microsoft Partnerships",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=094fee2a89b784ee3c5c67805e1da66c00008ff5cbf8237663cd98b0f8833499",
+      "published_at": "2026-05-22T12:38:53",
+      "sentiment": "positive",
+      "sentiment_score": 0.948,
+      "sentiment_confidence": 0.948,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Discover the top S&P500 movers in Friday's pre-market session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=e1b60caaf25f14e9324421e91b22c02b7df45d31ee4b6c042994d3d09bc8aa4b",
+      "published_at": "2026-05-22T12:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "IBM, ServiceNow, Netflix And A Basic Materials Stock: CNBC's 'Final Trades'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ed4f32fb4436fa5668ef569fe9dfd0b12e60225e96b8c99767f177da7a2f06b1",
+      "published_at": "2026-05-22T08:29:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ServiceNow: The Big Mispriced Tollbooth For Agentic AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31192f90301ebf85724b4dcc7e170140e136c0c6a26e8e40d8ee5abc9838c5fe",
+      "published_at": "2026-05-22T05:44:35",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.907,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why ServiceNow (NOW) Is Still an AI Workflow Recovery Bet",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=85dec3636daec7d3d08617b3a47f1cf485ee9d08cab0d200158cb38932cf4795",
@@ -70,7 +169,7 @@
     {
       "headline": "Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades \u2014 here's what's in the president's portfolio",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6bf0b1b750a1b675a026fdadee801374caafa027510924b99c6138545d28b887",
+      "url": "https://finnhub.io/api/news?id=a5ba53c414946869ee32f3c022ada152666f78c1cc97cbfa414392f6ac800f99",
       "published_at": "2026-05-21T14:00:00",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.852,
       "sentiment_confidence": 0.852,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Most active S&P500 stocks in Tuesday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e592b65c2e13840efb0ef053aac4e0c113c47348c6f939f72c8ccc4c50680940",
-      "published_at": "2026-05-19T18:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.906,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Is Atlassian (TEAM) Stock Rocketing Higher Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc5a6194cb4b066039092a9d9153b882918444f10a0ec1d19dea5b3698e79671",
-      "published_at": "2026-05-19T18:04:55",
-      "sentiment": "positive",
-      "sentiment_score": 0.752,
-      "sentiment_confidence": 0.752,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "In today's session, there are S&P500 stocks with remarkable trading volume.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c5cb9b9d27ddd4f4fb04aa033dc0021b647f74bd023422cd6d6ed7dbdf32378e",
-      "published_at": "2026-05-19T17:05:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.933,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Software Rally May Still Have Legs. Buy ServiceNow and Adobe.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df391cef2b1dbd7747fb76a4165e50fb1f3cdc0832ec2f38222b6f49028b6951",
-      "published_at": "2026-05-19T16:10:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Rising Bond Yields Weigh on Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a58c1e79877e7fb4a4ecbea3f836aee84a1b7ffbd6f6f98f2bf3455932ae9a72",
-      "published_at": "2026-05-19T15:21:52",
-      "sentiment": "negative",
-      "sentiment_score": -0.777,
-      "sentiment_confidence": 0.777,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Autodesk vs. ServiceNow: Which Software Stock Has Stronger Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28c751f390b84445caaab89e298e00f3fcc5e7587b151d7730d4dde69ee3b001",
-      "published_at": "2026-05-19T15:09:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.61,
-      "sentiment_confidence": 0.61,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "US software stocks rebound, seeking to loosen AI's grip",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b27e8ef45706ea4dbb8894d66d67130525dea1bdbe7a9790e4d6ceaa39dfd55b",
-      "published_at": "2026-05-19T14:59:47",
-      "sentiment": "positive",
-      "sentiment_score": 0.523,
-      "sentiment_confidence": 0.523,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow and Other Software Stocks Are Leading the Sector Out of the Abyss",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=208d71409e5954983ee5428f915a581af14ca31f7f06e09a8fa904a2e3621539",
-      "published_at": "2026-05-19T14:49:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.792,
-      "sentiment_confidence": 0.792,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trimming Google to take some profits, says Laffer Tengler Investments' Tengler",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=38ad65430a335365f5d1cc391ea5b8ff3c594e0cd9dc0802ca30aaf037e5ea13",
-      "published_at": "2026-05-19T14:39:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.491,
       "relevance_score": 1.0,
       "event_type": null
     }

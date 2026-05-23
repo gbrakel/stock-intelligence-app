@@ -2,6 +2,83 @@
   "ticker": "XOM",
   "articles": [
     {
+      "headline": "Trump Says 'I Want Kevin To Be Totally Independent,' But Prediction Markets Don't Believe In Cuts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6873ad52fe86ef4e982b39c8cd9c84bf089f6854e370ead50b1905e11de07767",
+      "published_at": "2026-05-22T18:51:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "More Gas Per Barrel of Oil: A Growth Lever for Permian Operators",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4bf51bfe189ce34e259319c6e420de15ec6c0839a377ae50e45079c7fa1475b",
+      "published_at": "2026-05-22T16:40:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.808,
+      "sentiment_confidence": 0.808,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Egypt to ship Cypriot gas to Europe in QatarEnergy deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2125fa82bd55d54a6df23906483e3b41796b235104067bfef064a469cc9e00a6",
+      "published_at": "2026-05-22T13:42:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.786,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ConocoPhillips (COP) and Glenfarne\u2019s Alaska LNG Sign 30-Year Natural Gas Supply Agreement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e1a8e6d133e1531cc0d319a269c7481fa985acec398340baf0abe8ff295dcac",
+      "published_at": "2026-05-22T12:41:21",
+      "sentiment": "positive",
+      "sentiment_score": 0.846,
+      "sentiment_confidence": 0.846,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Dividend Stocks That Can Replace a $65,000 Income and What They\u2019ll Cost You",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c16446850a1d919079dd81f64d035b5516899219a43362a939fc3997912640a5",
+      "published_at": "2026-05-22T11:36:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Prediction: Alphabet Will Join the $5 Trillion Club and the Dow Jones Industrial Average in June",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0165a57defe6b3fe668a59ba14744779b7e57a7df899acdc9b6dbdaaf8a2f9e",
+      "published_at": "2026-05-22T10:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "CNBC Daily Open: Dow at all-time high as Iran reviews peace deal",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=acce385c3627556e6ba2b9e7a00b8f378f536d663b35aae917d5dc58b21a9f90",
+      "published_at": "2026-05-21T21:32:12",
+      "sentiment": "positive",
+      "sentiment_score": 0.735,
+      "sentiment_confidence": 0.735,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Exxon Mobil in talks to return to Venezuela oil fields",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8dc523fb64880efc69091fe33c10121f7d882ac6461e82e31e05a4e3a108d5f6",
@@ -130,6 +207,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.76,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Now is the best time to open a gas credit card: Earn up to 15 cents off per gallon or 3X rewards on fuel",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=224067855d7d37be526ee33307a30ee9cacd87a6ae8508a275ca0a3e8e427452",
+      "published_at": "2026-05-21T13:56:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.854,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3063882efbc9fc0bba1538ebbbbcdf11640a0472b7efc9ac1b549dcfcc38a971",
+      "published_at": "2026-05-21T13:42:13",
+      "sentiment": "positive",
+      "sentiment_score": 0.565,
+      "sentiment_confidence": 0.565,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.534,
       "sentiment_confidence": 0.534,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exxon CEO delivers blunt message on Strait of Hormuz, oil prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=664ab3fb9316550a8a59dc118ea4441551dbfa22a6e0a1d1f32849f8bb4f8d02",
-      "published_at": "2026-05-19T17:17:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.647,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Chevron at $196, ExxonMobil at $160: Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b2576e24221aded4df2fddc16f5c9e12c453e53beb1491a36267a917ae00efb",
-      "published_at": "2026-05-19T16:56:34",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ExxonMobil vs Chevron: The Better Dividend Stock in an Uncertain Oil Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a2670b6d4bd1d319b496f2b600b51affb8db81e4ef42ea509562c9ffb5d69a3",
-      "published_at": "2026-05-19T14:53:23",
-      "sentiment": "positive",
-      "sentiment_score": 0.926,
-      "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Graphene Manufacturing Group inks global distribution deal with Curran International for THERMAL-XR",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f79075d21c49ff4565e2b5ae4689ed6d88ea2aa43611d9ece0a912f54a65f43",
-      "published_at": "2026-05-19T14:45:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.91,
-      "sentiment_confidence": 0.91,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exxon Mobil: Overvalued Despite Impressive Assets",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2d5dd9cd56fd50780915a931496474fc45e0a3808aff7b735d18f7cab89161ca",
-      "published_at": "2026-05-19T13:14:09",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Zacks Analyst Blog Highlights Broadcom, Berkshire Hathaway, Exxon Mobil and Weyco",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3347a8b2ba3d3ab47d549b1b8accfd3e79127e6b6cbffe4767c64423c01bd0bb",
-      "published_at": "2026-05-19T12:56:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GMG's THERMAL-XR(R) to be Applied Exclusively & Distributed to Global Oil and Gas/LNG Industry with Curran International",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42f76c1514e6142b714684af30c57a8c72bfff210643f27b4567e6afb2e425cb",
-      "published_at": "2026-05-19T12:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.82,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra-Dominion Energy: Scaling Up The Eastern U.S. To Match Demand",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cb2ee376be5396f5b012a9d99a4138e2b95a420b90b6a439ec4c03c9e6145089",
-      "published_at": "2026-05-19T06:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.794,
-      "sentiment_confidence": 0.794,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Daily Open: Bonds sell-off, markets dip, oil worries loom \u2014 and Trump postpones Iran attack",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=0c2eecf043ac59f97c7b1a8b4ce07465e7184495d38187db224c0ef5e1856295",
-      "published_at": "2026-05-18T21:55:30",
-      "sentiment": "negative",
-      "sentiment_score": -0.913,
-      "sentiment_confidence": 0.913,
       "relevance_score": 1.0,
       "event_type": null
     }

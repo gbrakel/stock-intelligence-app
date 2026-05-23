@@ -2,6 +2,39 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "3 Out-of-Favor Stocks with Warning Signs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=997a6a06505fa417620fda2c637d65cf987af125945d5668a61b279ed5fd7659",
+      "published_at": "2026-05-22T17:16:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.879,
+      "sentiment_confidence": 0.879,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Could Apple, Amazon, Or Netflix Buy IMAX? This Analyst Sees Rising M&A Appeal For The Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e101a42bb27459e44592e7a0cd17b78ecd22f32b93c3abdd86ea13ff4c6c7f40",
+      "published_at": "2026-05-22T13:09:41",
+      "sentiment": "positive",
+      "sentiment_score": 0.937,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e1366f8f62c49efb079a8582c31c95da029ae1ab915d6b25fe25c819bc3a6d83",
+      "published_at": "2026-05-22T12:26:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "3 Cash-Producing Stocks with Questionable Fundamentals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e1f5fc85d2b8ff843480cd5fba0331ad51824b0904a5326a6035b9aa3c727d35",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "David Einhorn: Looking for misunderstood stocks like Victoria's Secret",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=a202225a663c159fc5a5ea336a7f3541538e91461ca83d94c47846944b8eed50",
-      "published_at": "2026-05-12T15:52:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A Look At Comcast (CMCSA) Valuation After Recent Share Price Weakness",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91df08932bf0d1fd3d7d312e90e5cb546bdfe9346de2469ece7a973e9f5cdc73",
-      "published_at": "2026-05-12T12:12:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The summer box office is off to a hot start as weekend ticket sales top $160 million",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=9e7549f67d65ab96aa0d515680a40f507ca9fb4c12c23cacce8c819cf7136c26",
-      "published_at": "2026-05-12T11:36:42",
-      "sentiment": "positive",
-      "sentiment_score": 0.926,
-      "sentiment_confidence": 0.926,
       "relevance_score": 1.0,
       "event_type": null
     }
