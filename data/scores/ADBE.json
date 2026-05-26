@@ -2,6 +2,21 @@
   "ticker": "ADBE",
   "history": [
     {
+      "date": "2026-05-26",
+      "composite": 54.2,
+      "signal": "reduce",
+      "signal_confidence": 0.81,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 67.5,
+        "growth_trend": 65.4,
+        "valuation": 96.9,
+        "sentiment": 59.9,
+        "technical": 29.5,
+        "risk_penalty": 46.7
+      }
+    },
+    {
       "date": "2026-05-23",
       "composite": 53.8,
       "signal": "exit",

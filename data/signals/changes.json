@@ -1,32 +1,74 @@
 [
   {
-    "ticker": "AMD",
+    "ticker": "ADBE",
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "AVGO",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-05-23"
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "CSCO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
   },
   {
     "ticker": "MRK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "JPM",
     "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-23"
+    "new_signal": "reduce",
+    "date": "2026-05-26"
   },
   {
     "ticker": "V",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "MA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "GS",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "COST",
     "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-23"
+    "new_signal": "reduce",
+    "date": "2026-05-26"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
   },
   {
     "ticker": "BA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-23"
-  },
-  {
-    "ticker": "NEE",
-    "previous_signal": "reduce",
-    "new_signal": "buy",
-    "date": "2026-05-23"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-05-26"
   }
 ]
