@@ -2,6 +2,105 @@
   "ticker": "PFE",
   "articles": [
     {
+      "headline": "Eli Lilly Stock Hits Record Highs, Becomes First Pharmaceutical Firm Worth $1 Trillion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e654e2b7965b71b747da698f0a1f70a064cb2327ae6c782a20ae10e67c86dd6e",
+      "published_at": "2026-05-27T20:39:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.614,
+      "sentiment_confidence": 0.614,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How Did AbbVie's Oncology Portfolio Perform in Q1 Despite Headwinds?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82728af272ab521cbc1b777c01f9ac28df9a94222f6a0d17b75c6647119812e4",
+      "published_at": "2026-05-27T16:21:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.545,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This Biotech Stock Is Stuck in the Red. Its Cancer Portfolio Is About to Change the Narrative.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1e73f378ad620270bfe2498656a522780a245f6448c6db3dea620c8421dcf2b",
+      "published_at": "2026-05-27T15:07:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.549,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer Invites Public to View and Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d14c673ccc3ec6e823559ae95a74a7c04f14d22345937ae6b3d524404b757e3e",
+      "published_at": "2026-05-27T14:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer Bets on New & Acquired Drugs to Offset Its LOE Pressure?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6474e7a57c8d7663d66ff9500a42c9af33430e89d39c282933b97f6997f5377d",
+      "published_at": "2026-05-27T12:51:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.558,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dividend Income Update Q1 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c55ebbfe070b582c427e7a088449649a1b6c1884f25f19e97be5752b140af5f1",
+      "published_at": "2026-05-27T10:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BofA Raises Price Target on Pfizer (PFE) Following Strong Q1 Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ad234e5c08b836c87314f687faf5e306439537f41fc8068a27dacbf31ae4471",
+      "published_at": "2026-05-27T10:27:52",
+      "sentiment": "positive",
+      "sentiment_score": 0.933,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BMO's Evan Seigerman on GLP-1 developments, state of weight-loss drug battle",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=fb9c28e77d0660aaded33365df0cd0520c2fdcd0f5964e09aeb5e529444b4a69",
+      "published_at": "2026-05-27T08:30:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Dividend Stocks Yielding Above 5% to Scoop Up Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50c8b2e292dfccbca4f94b335fa7a68203e302e00360955e6231c57c29f1e12b",
+      "published_at": "2026-05-26T23:30:02",
+      "sentiment": "positive",
+      "sentiment_score": 0.878,
+      "sentiment_confidence": 0.878,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thinning revenues: inside the $14bn Eliquis patent cliff",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cfc13150eba946e5635581e763dde1f2a48b71a71cf10e3da5bfd339df48d09b",
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.628,
       "sentiment_confidence": 0.628,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer\u2019s Broader Pneumococcal Vaccine Push Might Change The Case For Investing In Pfizer (PFE)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=305dd47cf74e4bbf846f27b131872670afc640f1ce204fe2d93cc168fe6a28b5",
-      "published_at": "2026-05-21T06:10:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.809,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer\u2019s VEPPANU License With Rigel Adds New Angle To PFE Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b44c2b1c5fd7f02e8b2c81b89ad78c7086949c95abcac0bb723b2965dda7aab",
-      "published_at": "2026-05-21T05:12:31",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.649,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer Advances Pneumonia Vaccine After 15-Fold Antibody Response Data",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a40816eefa210b8e2e7d5a8baaa2b12c90099d502e8535a4b4944f8821a038a",
-      "published_at": "2026-05-20T18:14:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.749,
-      "sentiment_confidence": 0.749,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer Builds Oncology Growth Around Padcev and Pipeline Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0bb82d08f4fca846b0401292805c245d52d24b295eac8edad781f34e649c2f56",
-      "published_at": "2026-05-20T14:43:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.887,
-      "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sarah Cannon Research Institute Announces Strategic Oncology Research Collaboration with Pfizer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6251e25e1c617a8ab99ddfcbfb1a35d73ad746413e6ca0d84850a83604d30d04",
-      "published_at": "2026-05-20T13:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.582,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FQ1 Healthcare Dividend Roundup: Johnson & Johnson Keeps Outshining Pfizer",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=730bd02940a86b07e9992d78ce3eb41fc61bf2c82f019740f9731cd5e1841c93",
-      "published_at": "2026-05-20T12:54:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.835,
-      "sentiment_confidence": 0.835,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Value Stocks With Earnings Strength Post 3,500% Run Since 2000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8215ee21d41e4a39d35e764ed38c93b7315f237bde144af42767dc415f450011",
-      "published_at": "2026-05-20T11:33:54",
-      "sentiment": "positive",
-      "sentiment_score": 0.801,
-      "sentiment_confidence": 0.801,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Immunovant\u2019s potential autoimmune \u2018blockbuster\u2019; Wave\u2019s RNA editing update",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f6a436edf44859e976067e4d01424a089743fcb1db7fee4dedcfc68684c8c44",
-      "published_at": "2026-05-20T10:43:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.772,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "4 'Safer' Dividend Buys Out Of Barron's 23 May Better Bets Than T-Bills",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5ab6de524f7201dd4ebeceb62a1e7fe66bbc84e9802a6c230a472dd2e7f691dd",
-      "published_at": "2026-05-20T10:15:08",
-      "sentiment": "positive",
-      "sentiment_score": 0.91,
-      "sentiment_confidence": 0.91,
       "relevance_score": 1.0,
       "event_type": null
     }
