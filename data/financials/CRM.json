@@ -2,6 +2,22 @@
   "ticker": "CRM",
   "quarterly": [
     {
+      "period_end": "2026-04-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 2.43,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 868000000.0
+    },
+    {
       "period_end": "2026-01-31",
       "revenue": 11201000000.0,
       "net_income": 1943000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-01-31",
       "revenue": 9993000000.0,
       "net_income": 1708000000.0,
-      "eps": 1.78,
+      "eps": null,
       "gross_margin": 0.7781447012909036,
       "operating_margin": 0.21194836385469829,
       "net_margin": 0.17091964375062543,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 8848000000.0,
       "roe": 0.027920814738528435,
       "roa": 0.016594124047878127,
-      "shares_outstanding": 959000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.728552,
-    "forward_pe": 11.842921,
+    "pe_ratio": 20.580606,
+    "forward_pe": 11.416554,
     "ev_ebitda": 13.706,
-    "price_to_sales": 3.4969952,
-    "peg_ratio": 0.97,
-    "market_cap": 145212719104,
+    "price_to_sales": 3.474611,
+    "peg_ratio": 0.96,
+    "market_cap": 144283222016,
     "enterprise_value": 171987730432
   }
 }
