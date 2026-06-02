@@ -1,62 +1,68 @@
 [
   {
-    "ticker": "ORCL",
+    "ticker": "GOOGL",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "AMZN",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "ADBE",
     "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-05-30"
+    "new_signal": "exit",
+    "date": "2026-06-02"
   },
   {
     "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-05-30"
-  },
-  {
-    "ticker": "UNH",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-30"
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-02"
   },
   {
     "ticker": "LLY",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-30"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-02"
   },
   {
     "ticker": "V",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-05-30"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-02"
   },
   {
     "ticker": "MA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "BAC",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "BLK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-02"
+  },
+  {
+    "ticker": "WMT",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-05-30"
-  },
-  {
-    "ticker": "COST",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-30"
-  },
-  {
-    "ticker": "HD",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-05-30"
-  },
-  {
-    "ticker": "CAT",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-05-30"
-  },
-  {
-    "ticker": "UNP",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-05-30"
+    "date": "2026-06-02"
   }
 ]

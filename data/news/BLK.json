@@ -2,6 +2,105 @@
   "ticker": "BLK",
   "articles": [
     {
+      "headline": "Sector Update: Financial Stocks Softer Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcc8b1c90773db75b67339f0f73edec142ac5c312707e2cfe031c84c41929a48",
+      "published_at": "2026-06-01T19:57:38",
+      "sentiment": "negative",
+      "sentiment_score": -0.74,
+      "sentiment_confidence": 0.74,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bitcoin \u2018Rage Quitting\u2019 Sends It Slumping. Where Does It Go From Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22be796a174605341cb4389aff8c347f1cd8f65cfe5193fe7108ff156d8c9307",
+      "published_at": "2026-06-01T17:19:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.753,
+      "sentiment_confidence": 0.753,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bitcoin bull Michael Saylor just sold $2.5 million worth of BTC",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9527f08853e03ce1d4393d10b3dfe66a0e817ebf2cbb213c4f5e8e2698f459f",
+      "published_at": "2026-06-01T17:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BlackRock Future Builders Launches $25 Million National RFP to Expand America\u2019s Skilled Trades Workforce",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=370273327525b564179e470a738c20dee5c3c04865582d5d884fad43949ecae5",
+      "published_at": "2026-06-01T13:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.722,
+      "sentiment_confidence": 0.722,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Franklin's Expansion in Digital Assets: Next Growth Engine?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a352afc34303c211fb1dd046efeb8a5f6df4c34f2fb972b0f349880b27e8b1ca",
+      "published_at": "2026-06-01T12:33:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.838,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Binance Ventures Into US Stocks Trading For Overseas Customers, Eyes Tokenized Shares In 'Super App' Push",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f96c31a2454154116e2a166ef1cef837c08837e583978544a7c736e68f283897",
+      "published_at": "2026-06-01T08:48:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Four Days Left To Buy BlackRock, Inc. (NYSE:BLK) Before The Ex-Dividend Date",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d639886483e2f596b7385c41d09768efe9b79c70a5e0ed1b3f986d6754496128",
+      "published_at": "2026-05-31T13:45:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.952,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Burke & Herbert Financial Services Starts 2026 With Mixed Results",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e7f6abd288147848abef16226ac7d4117d6f24e94dd9c0698737273c81e088c5",
+      "published_at": "2026-05-29T22:45:13",
+      "sentiment": "negative",
+      "sentiment_score": -0.962,
+      "sentiment_confidence": 0.962,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fc8aa598701b4ab521071a7a9d87351db004db2fa7c1d8f993723bf90f02c3fa",
+      "published_at": "2026-05-29T21:52:29",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.908,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Texas Appoints Crypto Executives To Bitcoin Reserve Committee",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9c48f6455062f4fe49f1b8049f14434564b78b7a49a1b8556c2bc3b8116e3c4d",
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.859,
       "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Elon Musk's SpaceX Picks Goldman Sachs To Lead What Could Be The Biggest IPO Ever: Report",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c46171760efd350b4c856aefd279c12f2de2f2ddd7a2b7beb71abf763292cc80",
-      "published_at": "2026-05-20T01:42:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.886,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "US 30-Year Yield Hits Highest Since 2007 as Selloff Deepens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0976b323b1781953fd3c2d272eb178178ed756572b3d8f2841b083958733dbc",
-      "published_at": "2026-05-19T20:00:39",
-      "sentiment": "positive",
-      "sentiment_score": 0.632,
-      "sentiment_confidence": 0.632,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SoftBank Just Dumped Circle Stock. Don\u2019t Panic and Keep Adding CRCL Here.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc22e9c62f47c85326edb6da98d9303a00d95d60f263a8f0967ba3ccddecdca7",
-      "published_at": "2026-05-19T19:49:51",
-      "sentiment": "negative",
-      "sentiment_score": -0.488,
-      "sentiment_confidence": 0.488,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the S&P500 index on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e35e66220e241448b8141b4cc14f11012637e904387d7e777cc67ec9e4b28c3e",
-      "published_at": "2026-05-19T19:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Investors want tokenized Apple stock on the blockchain",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81839d92f95ca1f27886530f60d03d44ac9daaaeb0df0ffda728c35f175138d8",
-      "published_at": "2026-05-19T16:44:17",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.951,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SEC proposes exemption for tokenizing stocks. What could go wrong?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb89e6c6597a3dc3ba4b0f0ba2612ea88abb2d5b07ebc3909ffa371028050335",
-      "published_at": "2026-05-19T16:23:11",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.516,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "C Partners With BlackRock's HPS: A Win for Its Private Credit Push?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14b850faeb2631983192b46df1e06faa8fd6d01063e85bcab0b30f5e79b7089a",
-      "published_at": "2026-05-19T16:22:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.803,
-      "sentiment_confidence": 0.803,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Treasury 30-Year Yield Nears 5.14% As Bond Selloff Deepens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=900cdcdd626bdf11e160d689a89a6dfaf8297bfb94b94bdde650b3f981dcaad5",
-      "published_at": "2026-05-19T15:08:59",
-      "sentiment": "negative",
-      "sentiment_score": -0.829,
-      "sentiment_confidence": 0.829,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "May's 5 Dividend Growth Stocks With Yields Up To 7.23%",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f6bbe9bace1ba58804a2c01cdaf796cefe7f156e32327ed9eebc30018454a707",
-      "published_at": "2026-05-19T08:44:16",
-      "sentiment": "positive",
-      "sentiment_score": 0.947,
-      "sentiment_confidence": 0.947,
       "relevance_score": 1.0,
       "event_type": null
     }
