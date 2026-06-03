@@ -2,6 +2,105 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Netflix (NFLX) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5070bb84236730efb20584b25645653690a7863f9f841363b3c4b3f0a3205812",
+      "published_at": "2026-06-02T21:45:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.681,
+      "sentiment_confidence": 0.681,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Did Netflix Stock Fall Even Though the Business Kept Growing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14b96735f4b07424c7f40b256083e84e271a26220b9900066a487ea9b18073d5",
+      "published_at": "2026-06-02T21:31:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.862,
+      "sentiment_confidence": 0.862,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A Look At Netflix (NFLX) Valuation As Live Content And Franchise Deals Broaden Its Business Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ad9e5c32e6a8aa63be933add284512660eb005c1774a2754b08ebaf6a039ba1",
+      "published_at": "2026-06-02T16:10:01",
+      "sentiment": "positive",
+      "sentiment_score": 0.639,
+      "sentiment_confidence": 0.639,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How Much Upside Can AMZN Stock's Growth Deliver?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2a54350c5f77b454b9aa3e78721d33478d6e6c8f4c009e82a0de86db655bea2",
+      "published_at": "2026-06-02T15:48:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.65,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Amazon Stock's Great Standoff",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ef4549e6bde3019fc0bd3cc5738d9a5d392e08355ca3a21a8b14a4a0ccb1d74",
+      "published_at": "2026-06-02T15:22:29",
+      "sentiment": "negative",
+      "sentiment_score": -0.584,
+      "sentiment_confidence": 0.584,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix Nearing 52-Week Low: Buy, Sell or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b11bd2a8159add85b846b49668709bb9213f8ae8bf46faa24dcd57601a446d0",
+      "published_at": "2026-06-02T13:59:11",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.769,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trade Tracker: Brian Belski buys American Airlines and Hyatt Hotels",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6022160d5042994999f5dca99e01785bcd43616d3cad851a51c3b710e41ac528",
+      "published_at": "2026-06-02T13:11:22",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trade Tracker: Joe Terranova sells Uber and buys Twilio and Generac",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8800042649fdf794378aaa50064146993d8782b29f2461ac19b4ce6dc88b84cf",
+      "published_at": "2026-06-02T13:04:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.905,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Has Netflix Become More of a Value Stock Than a Growth Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ba3ac7930d71befbe99f8e5f1776944382492287aebfe60fec5591e4aa0b10",
+      "published_at": "2026-06-02T10:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.883,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Netflix taps Disney's Caitlin Conant for new D.C.-based role",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=27108108c9aa1ba1ca046be6ed10d570f68d6af7ebb5e78a052169f2df94ad43",
@@ -20,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "YouTubers take over the box office with two movies, 'Backrooms' and 'Obsession'",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2622f3a32b3120c12172598e643710c203c1362f611c42edeb223c287d59435e",
+      "published_at": "2026-06-01T14:11:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.813,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -438,116 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.903,
       "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IMAX CEO Richard Gelfond on sale reports and box office outlook",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=b594464574fed318dd5aa8d3540657ed11dc3a1056ab8acdf2e9c7d8b487dc4b",
-      "published_at": "2026-05-26T11:49:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bear Call Spread Opportunities for May 26",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a05e5d16c3f59134271aeec81afcbd06506ee0610fb94d5abd8f12c79e7695e",
-      "published_at": "2026-05-26T11:00:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.907,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Does Netflix Have the Widest Moat in Streaming?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90534901e283d8f9a201c65fd2587893138a03d4fbc79b6e3c1e4ed32ff1bbb3",
-      "published_at": "2026-05-26T08:55:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.87,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Standout leadership lessons from the CNBC Changemakers Summit",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=7d04e69cc35a3a8794b2e0ebc568aa86cf6f00a00fda6790b7784587fe3b2bce",
-      "published_at": "2026-05-26T06:00:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.676,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How The Netflix (NFLX) Investment Story Is Shifting Around Ads Content And Deal Discipline",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e67394130195ae9bddaea6bf563e666de06946c2a6a5ced282a6f7431d2ddac",
-      "published_at": "2026-05-25T16:08:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NFLX Rides on Sports Content Engagement: New Revenue Growth Catalyst?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36b6471ed68f2168dcae089e6939f7d766bf8b11502fe91d63890d3fb93c4ac7",
-      "published_at": "2026-05-25T15:06:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.719,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix, Inc. (NFLX) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2e09cde6d7cda348efff73590ec7ba07d1868154d84b8483934cd423fc170a1",
-      "published_at": "2026-05-25T13:00:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix is betting big on an AI animation studio \u2014 even as 51% of people say they don't want generative AI content",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56628823055a97d576fd43a67c94a1948d8607a1e1e6f1c93366147db59af813",
-      "published_at": "2026-05-25T12:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.822,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Space rockets, satellites, data centers and Grok: What's the right S&P sector index for SpaceX?",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=e395a3dc98ff6ce53f0c42f62f2daed5586588432447e4bc8bf5496243cae1b8",
-      "published_at": "2026-05-24T16:19:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bank of America Reiterates Buy Rating on Netflix (NFLX) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67cbe7b85a70fb9e5ed1fe925ee24d750c9ff6d6f1d565595ef6586173531268",
-      "published_at": "2026-05-24T13:30:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
       "relevance_score": 1.0,
       "event_type": null
     }

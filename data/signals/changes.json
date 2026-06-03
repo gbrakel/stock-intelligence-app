@@ -1,68 +1,62 @@
 [
   {
-    "ticker": "GOOGL",
+    "ticker": "LLY",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "AMZN",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "ADBE",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "CSCO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "LLY",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-02"
+    "date": "2026-06-03"
   },
   {
     "ticker": "ABBV",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-02"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "JPM",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-06-03"
   },
   {
     "ticker": "V",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "BAC",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-06-02"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-03"
   },
   {
     "ticker": "BLK",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-02"
-  },
-  {
-    "ticker": "WMT",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-06-02"
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "CAT",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "BA",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-03"
+  },
+  {
+    "ticker": "NEE",
+    "previous_signal": "buy",
+    "new_signal": "reduce",
+    "date": "2026-06-03"
   }
 ]
