@@ -2,6 +2,28 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "TransMedics (TMDX) Down 4.4% Since Last Earnings Report: Can It Rebound?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda0a2a5411a30700d9726695cf9052b19ec0c4614d2b2053fefebaf66e3b176",
+      "published_at": "2026-06-04T15:30:29",
+      "sentiment": "negative",
+      "sentiment_score": -0.972,
+      "sentiment_confidence": 0.972,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer on Danaher: \u201cAt These Prices, It\u2019s Clearly Overvalued\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cc1d007865ddac63fce3f3def09b5c5e97ffca9d66b6392890fb181b5f8f138",
+      "published_at": "2026-06-04T10:58:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.469,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "HSBC Downgrades Thermo Fisher Scientific (TMO)",
       "source": "Fintel",
       "url": "https://finnhub.io/api/news?id=d2c6345553096af97fe8d69d363a8774b61aa3f60748bfd2a15fb75f2001d6ae",
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.973,
       "sentiment_confidence": 0.973,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Thermo Fisher Likely to Benefit From End-Market Recovery, but Structural Risks Remain, RBC Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5476d58ba675951135e2fd2bd422e53abff67b3e8160202ca796a4c6b963ea7f",
-      "published_at": "2026-05-15T16:47:54",
-      "sentiment": "positive",
-      "sentiment_score": 0.954,
-      "sentiment_confidence": 0.954,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Third Point Sells Position In Alibaba Group; Bausch Health Companies; Brookfield Corporation; Casey's General Stores; Chipotle Mexican Grill; Comfort Systems USA; Constellation Energy; CoStar Group; CSX Corporation; Danaher Corporation; Kenvue; LPL Financial; Microsoft Corporation; PG&E Corporation; Progressive Corporation; Rocket Companies; Spotify Technology; Taiwan Semiconductor Manufacturing Company; Thermo Fisher Scientific; Vistra Corp.; Wix.com.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=13277be65360541362f586b4af8bec54fdf98ff6584bcee98dc465fa8f856e9e",
-      "published_at": "2026-05-15T16:32:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.938,
       "relevance_score": 1.0,
       "event_type": null
     }

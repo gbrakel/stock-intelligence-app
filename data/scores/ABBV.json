@@ -2,6 +2,21 @@
   "ticker": "ABBV",
   "history": [
     {
+      "date": "2026-06-05",
+      "composite": 42.7,
+      "signal": "exit",
+      "signal_confidence": 0.58,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 51.5,
+        "growth_trend": 41.1,
+        "valuation": 61.9,
+        "sentiment": 59.8,
+        "technical": 50.5,
+        "risk_penalty": 41.7
+      }
+    },
+    {
       "date": "2026-06-04",
       "composite": 42.3,
       "signal": "exit",
