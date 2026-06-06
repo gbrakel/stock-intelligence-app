@@ -2,6 +2,94 @@
   "ticker": "BLK",
   "articles": [
     {
+      "headline": "Bad News for XRP and Bitcoin Investors. Retail Investors are Fleeing Crypto.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ea87a0dcdb06a0debdaff0cfb9207af5d3d8caf0494cc3f6e86d52c99691ec",
+      "published_at": "2026-06-05T18:01:29",
+      "sentiment": "negative",
+      "sentiment_score": -0.95,
+      "sentiment_confidence": 0.95,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Traders Fully Bet on Fed Rate Hike This Year After Jobs Data",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21ea72b0cb7b7b5796512ddfd5b1bd3194ddebd77e4a041baa15674632831722",
+      "published_at": "2026-06-05T13:21:10",
+      "sentiment": "positive",
+      "sentiment_score": 0.849,
+      "sentiment_confidence": 0.849,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Here's How Much You Would Have Made Owning BlackRock Stock In The Last 20 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=91e7fb7595686c80436450ee5f0d88fbb13bf1518c97702d60bca514de8b8b4f",
+      "published_at": "2026-06-05T12:45:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Assessing BlackRock (BLK) Valuation After Its $25 Million Future Builders Workforce Initiative Announcement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f877b4f05abf38111a1af73e85904be3ec0b57ccaab72de2baebfd252f48707a",
+      "published_at": "2026-06-05T08:13:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.839,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why The Narrative Around BlackRock (BLK) Is Shifting After Mixed Analyst Target Resets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=406a44c4e43ec6caa9099e05236e6ae7c657a592150080db18777e1042acdfb2",
+      "published_at": "2026-06-05T07:13:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.568,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BlackRock: Net Flows Strong In Q1, But Overvaluation In Question",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=89c25bebddea121fd232d19ee047fd8215e62f626c8db4ccb27c2011040b0df5",
+      "published_at": "2026-06-05T06:37:18",
+      "sentiment": "positive",
+      "sentiment_score": 0.904,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Elizabeth Warren Says Private Equity Wants To Profit From AI\u2014And Stick Consumers With The Bill",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=350fc10b7935fead548ef0ecc79564f0d5a29ebadc6ae59d796bfbae369bf27d",
+      "published_at": "2026-06-05T02:15:50",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.887,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks Rebound on Strength in Banks and Managed Healthcare",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e0e960c071f6f31538b06d71dd31da6c74caa2a880d2f6a84a58763783c42f0",
+      "published_at": "2026-06-04T20:32:37",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "sentiment_confidence": 0.65,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BlackRock's Bullish Case Gets Stronger",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9cbcc1f6650a4aef4b07f8e2cfbd7ff80ac4fe1c39766cdf2080fd2f8e9d5922",
@@ -9,6 +97,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.548,
       "sentiment_confidence": 0.548,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bitcoin Has Dumped Every Day Since Michael Saylor Announced He Sold: What Is Going On?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2b9d318c83463337662bfdd8a1f4c4b49d0036059350af3c4dcb9190abba1792",
+      "published_at": "2026-06-04T13:26:32",
+      "sentiment": "negative",
+      "sentiment_score": -0.773,
+      "sentiment_confidence": 0.773,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.829,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock's Bitcoin ETF Sees $1 Billion Weekly Outflow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adf002e3f76138dc61bab906d966c04f302d69a7cf416b52e6c1907f86a535e1",
-      "published_at": "2026-05-26T13:29:54",
-      "sentiment": "negative",
-      "sentiment_score": -0.822,
-      "sentiment_confidence": 0.822,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Taiwan Pushes $630 Billion Asset Managers To Compete Globally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ead5987b893ee8ca1f4b3471bec162e1bb312f8855400ee82a26afe3d6b8c14e",
-      "published_at": "2026-05-26T13:23:08",
-      "sentiment": "positive",
-      "sentiment_score": 0.84,
-      "sentiment_confidence": 0.84,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock Inc (NYSE:BLK) Strong Growth Stocks with good Technical Setup Ratings",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0c978a6c061a479f3c6c12bf48c35357b5e580e0f055ae62aa64840e45dd8807",
-      "published_at": "2026-05-26T12:20:34",
-      "sentiment": "positive",
-      "sentiment_score": 0.943,
-      "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "America's Birth Rate Is Crashing While Wall Street Soars: 'Only Asset Owners Can Afford This Economy,' Says Market Commentator",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ca50455a78c8f01cc88f926b2ed15e3f878822e9f36220a5a23e2d25bfcff182",
-      "published_at": "2026-05-26T03:32:10",
-      "sentiment": "negative",
-      "sentiment_score": -0.941,
-      "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "US Stock Futures Gain as Crude Oil Drops on Iran: Markets Wrap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b6c9c1c79c08bab28ea9e6411c78c46672147191f166933d9fffc331071557f",
-      "published_at": "2026-05-25T17:02:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.916,
-      "sentiment_confidence": 0.916,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock Stock: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f8a387b9a230993de69c11bd663287264d8476b5f21bba243a4bcc412a5fbe0",
-      "published_at": "2026-05-25T14:31:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.736,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock exec. on how Fed policy & midterms impact the market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0307ed71251cd9f3f7a35c5ec333b65c8b2b2701655b75f06fa434cb4a7258c3",
-      "published_at": "2026-05-25T10:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.906,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tesla Investor Shares How Retail Investors Can Participate In Blockbuster SpaceX IPO Via Robinhood, Sofi",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9caec6bd353662479af7a1a68e5394f1a8e719c2045e7c51cc87fc308e64eaa0",
-      "published_at": "2026-05-25T04:55:38",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.87,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BlackRock DOJ Probe Tests Private Credit Valuations And Investor Confidence",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8038873671cada67b1bf1fc9ed14babdcb3cc0ba26cfe4fec565487b45010a5f",
-      "published_at": "2026-05-24T06:09:13",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
       "relevance_score": 1.0,
       "event_type": null
     }
