@@ -1,50 +1,92 @@
 [
   {
-    "ticker": "AMZN",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-06"
-  },
-  {
-    "ticker": "ORCL",
+    "ticker": "ADBE",
     "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-06"
+    "new_signal": "exit",
+    "date": "2026-06-09"
   },
   {
-    "ticker": "TMO",
+    "ticker": "AVGO",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-06-06"
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "CSCO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "UNH",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "V",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "MA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
   },
   {
     "ticker": "BAC",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-06-06"
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "BLK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
   },
   {
     "ticker": "KO",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-06"
-  },
-  {
-    "ticker": "HD",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-06-06"
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "PEP",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-09"
+  },
+  {
+    "ticker": "CAT",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-06-09"
   },
   {
     "ticker": "DIS",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-06"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
   },
   {
     "ticker": "CMCSA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-06"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-09"
   }
 ]
