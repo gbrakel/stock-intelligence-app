@@ -1,44 +1,32 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
+    "ticker": "ORCL",
+    "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-06-10"
+    "date": "2026-06-11"
   },
   {
-    "ticker": "MRK",
+    "ticker": "UNH",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-06-10"
+    "date": "2026-06-11"
   },
   {
-    "ticker": "V",
+    "ticker": "KO",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-06-10"
+    "date": "2026-06-11"
   },
   {
-    "ticker": "BAC",
+    "ticker": "HD",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-06-11"
+  },
+  {
+    "ticker": "NEE",
     "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-06-10"
-  },
-  {
-    "ticker": "COST",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-10"
-  },
-  {
-    "ticker": "CAT",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-10"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-10"
+    "new_signal": "buy",
+    "date": "2026-06-11"
   }
 ]
