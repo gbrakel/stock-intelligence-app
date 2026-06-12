@@ -2,6 +2,21 @@
   "ticker": "APD",
   "history": [
     {
+      "date": "2026-06-12",
+      "composite": 52.5,
+      "signal": "reduce",
+      "signal_confidence": 0.75,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 71.7,
+        "growth_trend": 59.1,
+        "valuation": 95.0,
+        "sentiment": 59.4,
+        "technical": 38.5,
+        "risk_penalty": 59.9
+      }
+    },
+    {
       "date": "2026-06-11",
       "composite": 53.7,
       "signal": "reduce",
