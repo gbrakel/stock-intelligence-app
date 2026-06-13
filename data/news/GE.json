@@ -2,6 +2,28 @@
   "ticker": "GE",
   "articles": [
     {
+      "headline": "SpaceX has a 'historical analogy' in GE, market historian explains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc910d818a55c1284216ddd555fed6ed3203539b3b08472d71e052a259048902",
+      "published_at": "2026-06-12T21:15:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bayer Shares Hinge On Two Court Decisions After $60 Billion Rout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f66fd6a6391425df6f25ad72ec5dc2141b113090512e0abc5ede01ddd7161c73",
+      "published_at": "2026-06-12T05:15:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.919,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "General Electric Links AI Leadership And Space Vehicle Work At GE Aerospace",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7ec2d8f2b2e89af808623a766012f500c9c1bda954d77ca2c9e16f681b7dd9fe",
@@ -42,6 +64,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.811,
       "sentiment_confidence": 0.811,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wolfspeed Ditches EV Woes for High-Margin Defense Jets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=900724999760acc585e77397bc095581e07607624c16ceda28db36e8161079e2",
+      "published_at": "2026-06-11T12:55:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.77,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.945,
       "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer on GE HealthCare: \u201cMaybe It\u2019s Too Expensive\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e90b76d1f2f542d5be075295417be7d9831b33346df69235e27e01b68636727",
-      "published_at": "2026-06-04T10:58:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.589,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Q1 Earnings Outperformers: GE Aerospace (NYSE:GE) And The Rest Of The General Industrial Machinery Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=992152d73a24c0ac918a9235252eccad9ee643de1601a94f17b9cdc1a9145298",
-      "published_at": "2026-06-03T23:43:33",
-      "sentiment": "negative",
-      "sentiment_score": -0.935,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Vernova (GEV) Dips More Than Broader Market: What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baa20342243a12d8bfc6107df28786fdb85eeeace21a7d5712c9d705836b0f0d",
-      "published_at": "2026-06-03T21:50:03",
-      "sentiment": "negative",
-      "sentiment_score": -0.573,
-      "sentiment_confidence": 0.573,
       "relevance_score": 1.0,
       "event_type": null
     }

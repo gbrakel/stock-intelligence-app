@@ -2,6 +2,105 @@
   "ticker": "BA",
   "articles": [
     {
+      "headline": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e544d1fdb4814502215b7809219b96962413050d38d3d838d68e3159967e615",
+      "published_at": "2026-06-12T19:57:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.944,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7799b4943b4070490c4c31469f624b75e45753e95bef0bca85f5be0499429bf9",
+      "published_at": "2026-06-12T19:10:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4f7e0a42e3e4a5d3b96c169701cb97bf2e167322f0c404d40cc11162b8195566",
+      "published_at": "2026-06-12T16:40:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hexcel Gains From Strong Aerospace Demand & Defense Exposure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=161a9fc4d012e961f9bb058e5d93fa413c0d2bdd89deac96083d27453de8d3e8",
+      "published_at": "2026-06-12T13:40:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.956,
+      "sentiment_confidence": 0.956,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Acquisition Odds: How These 4 Cult Stocks Stack Up as Buyout Targets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=311ecb047905b8cacff961d6bf0a02124a539b2db6c90288d9cd473fa51f2e33",
+      "published_at": "2026-06-12T13:15:53",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Stocks That Might Be Up To 39.8% Below Their Estimated Intrinsic Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=285620556dfbbb7b6bfaa263852c867445917216c5ab514a6536f621ab625305",
+      "published_at": "2026-06-12T11:38:02",
+      "sentiment": "negative",
+      "sentiment_score": -0.957,
+      "sentiment_confidence": 0.957,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BAE Systems (LSE:BA.) Stock Valuation After Recent Pullback And Order Backlog Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97a8a9a04eb1f7d668da4ee6687b9ddc90e899084472570f970dbc5882f0bfb8",
+      "published_at": "2026-06-12T09:09:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.952,
+      "sentiment_confidence": 0.952,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Elon Musk' author Walter Isaacson on SpaceX IPO: We're seeing the beginning of a whole new economy",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=60abdc5015976f39442ed9be83b9639bf3b95456dc4f721107b40021d5650067",
+      "published_at": "2026-06-12T08:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.805,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bloomberg Reported Air India Is In Discussions With Airbus, Boeing To Slow Deliveries Of Up To 500 Previously Ordered Planes",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6b89473c19cf8bb855ca83cb2b262351a8c55962de3f75f4b844577b54753eb5",
+      "published_at": "2026-06-12T06:40:18",
+      "sentiment": "negative",
+      "sentiment_score": -0.964,
+      "sentiment_confidence": 0.964,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Hexcel vs. Loar: Which Industrials Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d93d601e9d2ec914cdf37de5134e6790ee89c2d86e99ecc58a87638551bbab7d",
@@ -152,17 +251,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.966,
       "sentiment_confidence": 0.966,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a776024e8740f6f39dbbd438ea4830713818e6353e142930f12318f6d5c2d9f5",
-      "published_at": "2026-06-10T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.848,
       "sentiment_confidence": 0.848,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Latecoere: Annual Shareholders\u2019 Meeting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42ca640476085dd18f5b7e81ebb569ad9fc14dd105d35c271ab9567772ed59e6",
-      "published_at": "2026-06-08T20:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=c1270b12c7d119377bfd7434818ba18078bc92697ad7e14a9ac5f3d2d6ebd46c",
-      "published_at": "2026-06-08T19:39:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Airbus Faces Fresh A320neo Delays Into 2027 And 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cd100a777758fb1c54f73b6fc00e38c9e8b143022043f70a97451eae526451d",
-      "published_at": "2026-06-08T17:42:25",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing Clears Key 777X Certification Hurdle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea998e24258febe89ae41997aea05fe48e7806836610253c46042e58585d6843",
-      "published_at": "2026-06-08T17:23:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.508,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Aerospace CEO Is Optimistic for More China Deals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed2144a36bae2e81666640726bd967b31f8ee152db8ac8aa0cec60205c918903",
-      "published_at": "2026-06-08T15:20:56",
-      "sentiment": "positive",
-      "sentiment_score": 0.754,
-      "sentiment_confidence": 0.754,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Etihad Airways CEO Says Carrier Is Discounting Tickets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b91e53c3a7037a84c1ef4cd96013acb4959b2d2243e2010200101eb8b03e21e",
-      "published_at": "2026-06-08T14:54:16",
-      "sentiment": "negative",
-      "sentiment_score": -0.775,
-      "sentiment_confidence": 0.775,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A $100 Billion Fuel-Price Shock Is Pushing Airlines Back Into Crisis Mode",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=53ed2912580a739d48b3451567c7750335c839a1a1ee122e4d5d0908e3a6e86e",
-      "published_at": "2026-06-08T14:20:17",
-      "sentiment": "negative",
-      "sentiment_score": -0.938,
-      "sentiment_confidence": 0.938,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Airlines find the grass isn't always greener with new engines",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=15e9bb0899dfa6ebcfc363011134a9dbc4fec7e3aa3812e6aecbaf674cf7789c",
-      "published_at": "2026-06-08T13:32:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
       "relevance_score": 1.0,
       "event_type": null
     }

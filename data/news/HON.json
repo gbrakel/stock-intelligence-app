@@ -2,6 +2,72 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7799b4943b4070490c4c31469f624b75e45753e95bef0bca85f5be0499429bf9",
+      "published_at": "2026-06-12T19:10:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4f7e0a42e3e4a5d3b96c169701cb97bf2e167322f0c404d40cc11162b8195566",
+      "published_at": "2026-06-12T16:40:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell Sharpens Its Automation M&A Plan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bed49df9df827a13696a0ae098e80ff0d5684bdc52f7af6c9df46aee6feb7b4c",
+      "published_at": "2026-06-12T12:33:22",
+      "sentiment": "positive",
+      "sentiment_score": 0.602,
+      "sentiment_confidence": 0.602,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Large-Cap Stocks That Concern Us",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f64b2483a15b14e1b3ba84406c428f12aeb447abdc8885d99e2e3f9cc23986a",
+      "published_at": "2026-06-12T08:38:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.906,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell International Inc. (HON) Analyst/Investor Day Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=973bdf8f82aed7470f33f988d47611147bdbf0049d46caad50fcf6fc1a217e28",
+      "published_at": "2026-06-12T08:12:11",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell International Inc. (HON) Analyst/Investor Day - Slideshow",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d018d96a0e8c2665d817ea736e92411fa983eb6dcccc0101d5e9d590aa73b137",
+      "published_at": "2026-06-11T22:03:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.93,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Honeywell Stock Jumps as Breakup Nears",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=92a306bdcf79b7180ba841ad492ce1058c61bfd2f606d35eedbed08f11be2b7b",
@@ -9,6 +75,39 @@
       "sentiment": "negative",
       "sentiment_score": -0.518,
       "sentiment_confidence": 0.518,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell CEO: The power of AI is going to redefine automation",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=02b53924de91c9a0049da45289fa9fb2aadaba0e35514148ca1edddfb63d4e9c",
+      "published_at": "2026-06-11T19:46:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.856,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell CEO: We are putting more of our focus on data centers, hotels",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=55844b4be91af01d1fa547defdc4ebeae562ee23240440eb49a9c2a1e7ca1afe",
+      "published_at": "2026-06-11T19:46:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.829,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SpaceX wildcard will be people who've never bought stocks before: Cramer",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=bde983c705b98c825df16f11c6b92d8ea667715b1cbc684bd42a5fe4709cfeeb",
+      "published_at": "2026-06-11T19:25:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.93,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -141,17 +240,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a776024e8740f6f39dbbd438ea4830713818e6353e142930f12318f6d5c2d9f5",
-      "published_at": "2026-06-10T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.973,
       "sentiment_confidence": 0.973,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $275",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=931bcbdb040136242f4c9fce10a9dd5558d43dcdd69e1a563b4ea44e1420f044",
-      "published_at": "2026-06-05T09:54:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.926,
-      "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Quantinuum Stock Falls After Uninspiring Quantum IPO Debut. What Went Wrong?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9edd422c9779a1bfbe4a4a7429c917940ace4017e694a8f7b1d4adc8aae49c7c",
-      "published_at": "2026-06-05T09:42:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.919,
-      "sentiment_confidence": 0.919,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "May jobs report, Quantinuum's IPO, a record-setting season on Broadway and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=1397f871e9f15314b3cb1e8bd5f604169df4b4a2fabcbd26ee11713c55395b4b",
-      "published_at": "2026-06-05T08:00:17",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.68,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef",
-      "published_at": "2026-06-05T07:16:46",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.829,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell International Inc. (HON) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d157f59db39480779f5dc8632909bb0104f84393e4fefa0a1e6a5f69ee3454cd",
-      "published_at": "2026-06-04T22:15:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.503,
-      "sentiment_confidence": 0.503,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Quantinuum Stock Fizzles in Highly Anticipated Quantum IPO Debut. What Went Wrong?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c66f1158dfed4931174216074d39e204d8aa656eddc9ccd2811017d6c47965f4",
-      "published_at": "2026-06-04T20:43:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.658,
-      "sentiment_confidence": 0.658,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer talks how to position your money amid these market swings",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=2184a93e7fccbe43494dae4217ce6b2a4a9de8f05c924e66e7db6f8d1340cc3c",
-      "published_at": "2026-06-04T19:28:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Quantum Stocks: New IPO Quantinuum Volatile In First Trading Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af8200a6e41622277b47487a39cd2a2600dbf7cfe7fbe6f4f0dd84738f439763",
-      "published_at": "2026-06-04T19:18:48",
-      "sentiment": "negative",
-      "sentiment_score": -0.893,
-      "sentiment_confidence": 0.893,
       "relevance_score": 1.0,
       "event_type": null
     }
