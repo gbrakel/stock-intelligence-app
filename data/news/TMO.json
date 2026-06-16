@@ -2,6 +2,17 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Here's How Innovation Fuels Globus Medical's Growth Momentum",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5beb2aceac9f616adf5f3bd110391c948ba4217c3094d7a33907a6ed99ef16c",
+      "published_at": "2026-06-15T14:32:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thermo Fisher Tests SpheriCal Calibration As Potential Edge In Mass Spectrometry",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3c571c8334b52e61a34ede664aab284666a40807d85e1d9b34ccc2a3a5a3f790",
@@ -42,6 +53,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.902,
       "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920",
+      "published_at": "2026-06-11T13:38:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.778,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.824,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tracking Al Gore's Generation Investment Management Portfolio - Q1 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c0b93672884a9c8d577303f3b7b5d775d80b9cd1e6d5186b2a7797cc952e220f",
-      "published_at": "2026-05-20T20:32:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Worried about Nvidia maintaining its gross margins, says GMO's Tom Hancock",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=89e16fba2f977a46765004bbc5dbdb9409f3e9b96033304028ce82e8273af2de",
-      "published_at": "2026-05-20T14:02:35",
-      "sentiment": "negative",
-      "sentiment_score": -0.913,
-      "sentiment_confidence": 0.913,
       "relevance_score": 1.0,
       "event_type": null
     }

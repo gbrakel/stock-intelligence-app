@@ -2,6 +2,61 @@
   "ticker": "MRK",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=45d96341a355eed5c643fc24508153b0829c1da5af3f88702651d3714f07b3ec",
+      "published_at": "2026-06-15T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Stocks Estimated To Be Up To 46.2% Below Fair Value Offering A 12.2% Discount Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54cebd268783a5d88980e6b1060c5d8694770c1473fe189ec6de93e2541f8544",
+      "published_at": "2026-06-15T17:39:07",
+      "sentiment": "positive",
+      "sentiment_score": 0.57,
+      "sentiment_confidence": 0.57,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "June 2026's Noteworthy Stocks Estimated Below Intrinsic Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62287e5fcdfa070b0f1a08c2fd9d9236f9f1d3ced83a1999d83ae3f16f73d20c",
+      "published_at": "2026-06-15T11:38:42",
+      "sentiment": "negative",
+      "sentiment_score": -0.891,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Immuneering Appoints Andrew Gengos as Chief Financial Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d8234b6086f8cebb6c9cafc567c20fe7dbd806bf07d14641e27ab0295510335",
+      "published_at": "2026-06-15T11:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer Explains Johnson & Johnson\u2019s (JNJ) Shares Have Gained",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a070fdd4a48facabaa8402dae777ea90b8d9c1211cdc2d234a671a39b764361",
+      "published_at": "2026-06-14T19:08:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.799,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What Could Push JNJ Stock Higher From Here?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4c1cecfc6a5b34f3242c9306a4411f15028914ca85f4742fa17b7bb6e2552a12",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.676,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Hashgraph Group and Merck Introduce EU Digital Product Passport on Hedera for Regulated Supply Chains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb2ca716869f1a55076256b91546d1689b0044ca4984a457cc65b8dc746b0081",
-      "published_at": "2026-06-09T07:44:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The space race is coming for pharma: Why drug development is heading to lower Earth orbit",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=29fb6640241ef00d234c17a64ddde86e64e6e08e878669f32eb725338aa21052",
-      "published_at": "2026-06-09T03:20:18",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q1 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=549c6fc09ced3fae09edbede24be5704c12df5c592637d520b938e288ad742f0",
-      "published_at": "2026-06-08T20:41:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.949,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5afdafc5b812f4ef2474cd8c9ad022dbecc85f0e8aa4ef3ff9b9e9dbb7493da1",
-      "published_at": "2026-06-08T20:35:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.942,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Merck and Gilead Provide Update on Phase 3 KEYNOTE-D46/EVOKE-03 Study",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9851c4588494797e9eed0a3fa704ef0999c676af4f55ba3adc97103f342c2794",
-      "published_at": "2026-06-08T20:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.938,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -1,44 +1,68 @@
 [
   {
-    "ticker": "AMZN",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-13"
+    "ticker": "ADBE",
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-06-16"
+  },
+  {
+    "ticker": "AVGO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-16"
   },
   {
     "ticker": "LLY",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-13"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-06-16"
   },
   {
     "ticker": "PFE",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-06-13"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-06-16"
   },
   {
     "ticker": "ABBV",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-13"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-16"
   },
   {
-    "ticker": "MA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-13"
+    "ticker": "V",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-16"
+  },
+  {
+    "ticker": "BAC",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-16"
+  },
+  {
+    "ticker": "GS",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-06-16"
   },
   {
     "ticker": "BLK",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-13"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-16"
   },
   {
-    "ticker": "CAT",
+    "ticker": "COST",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-06-13"
+    "date": "2026-06-16"
+  },
+  {
+    "ticker": "HON",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-06-16"
   }
 ]
