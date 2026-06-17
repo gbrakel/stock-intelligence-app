@@ -2,6 +2,21 @@
   "ticker": "NOW",
   "history": [
     {
+      "date": "2026-06-17",
+      "composite": 44.7,
+      "signal": "reduce",
+      "signal_confidence": 0.51,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 49.3,
+        "growth_trend": 63.6,
+        "valuation": 54.6,
+        "sentiment": 64.6,
+        "technical": 25.5,
+        "risk_penalty": 46.3
+      }
+    },
+    {
       "date": "2026-06-16",
       "composite": 44.4,
       "signal": "reduce",
