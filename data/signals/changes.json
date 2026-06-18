@@ -1,32 +1,44 @@
 [
   {
-    "ticker": "AMZN",
-    "previous_signal": "exit",
+    "ticker": "AVGO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-06-18"
+  },
+  {
+    "ticker": "LLY",
+    "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-06-17"
+    "date": "2026-06-18"
   },
   {
     "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-06-17"
-  },
-  {
-    "ticker": "BLK",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-06-17"
+    "date": "2026-06-18"
   },
   {
-    "ticker": "HON",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-06-17"
+    "ticker": "BAC",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-06-18"
   },
   {
-    "ticker": "DIS",
+    "ticker": "GS",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-06-18"
+  },
+  {
+    "ticker": "CMCSA",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-06-17"
+    "date": "2026-06-18"
+  },
+  {
+    "ticker": "NEE",
+    "previous_signal": "hold",
+    "new_signal": "buy",
+    "date": "2026-06-18"
   }
 ]
