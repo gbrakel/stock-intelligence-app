@@ -2,6 +2,105 @@
   "ticker": "BA",
   "articles": [
     {
+      "headline": "Stay informed with the top movers within the dow jones index on Thursday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=042c3b1b649362c19ab9ef08adc4605f661781d63c4e6cfb25d95d99a481aa76",
+      "published_at": "2026-06-18T19:10:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Overlooked Signal In GE Stock's Shipping Delays",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9afb4af045093706bdc10863adf018a92e6f47c7b3fafbaea9bb171ce0638549",
+      "published_at": "2026-06-18T16:42:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.479,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=cfd7591aeb47ea7d17a131f977bc09b5b9a674d16cce3c54f5b2ea1d24765b3d",
+      "published_at": "2026-06-18T16:40:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is GE Stock's Large Backlog Enough To Out-Fly a Slowdown?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f119f7b26b3d992635756e0f042fcbca469ec5b3918900cfe3ac15f03c5935bf",
+      "published_at": "2026-06-18T14:02:24",
+      "sentiment": "negative",
+      "sentiment_score": -0.828,
+      "sentiment_confidence": 0.828,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is Boeing (BA) a Buy as Wall Street Analysts Look Optimistic?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47f2a8e1c97484dea373b8a800c3d924e2d45ce5f77fcefda1849021e5cc4443",
+      "published_at": "2026-06-18T13:30:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.786,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Wins Air Force Repair Contract",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9a1d2c4857b0debf0ce7e6be263bfeeda0797dc4ba0302a38e72bb1b74ed593",
+      "published_at": "2026-06-18T12:25:15",
+      "sentiment": "positive",
+      "sentiment_score": 0.922,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing Announces That Its Q4S Quantum Networking Satellite System Successfully Demonstrated High-Fidelity Entanglement Swapping During Ground Testing",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=de0bf179d85ef74b3221e19b1609e6a978205dc6769b5b89c0bc88c54441746c",
+      "published_at": "2026-06-18T08:36:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing: The 737 MAX Recovery Is Accelerating, But Wide-Body Risks Remain",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cf04229beec73a60268b65f248eb14e9390cfaebacc4e0bec6cf3268ae75dfb9",
+      "published_at": "2026-06-18T04:20:51",
+      "sentiment": "positive",
+      "sentiment_score": 0.693,
+      "sentiment_confidence": 0.693,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=312aa9c3c3f06ea96f684ec85eb4784fcf6ef28428cd44cbb5357db948fe48fd",
+      "published_at": "2026-06-18T00:57:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.693,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "EVIO Inaugurates New Dorval Office, Strengthening Qu\u00e9bec Footprint and Accelerating Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=091dec9929529c3f350d720b48d79f6030b543a56110e4879e1fa4a790b39024",
@@ -97,17 +196,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.729,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=000ed306953c8e5fb64bca83018e7cfcfc0ec0fea0b65950540222ea86756a1e",
-      "published_at": "2026-06-16T16:40:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.84,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Boeing's Global Services Business Become a Bigger Growth Driver?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c167d7b8363231ca31664baa6003235280cc20dc300dfa03024535c8ea49775c",
-      "published_at": "2026-06-11T17:11:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.596,
-      "sentiment_confidence": 0.596,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=483a2b1c471e686399828835f37ce7066b4ab2b54cd1d47777945071f1502a8b",
-      "published_at": "2026-06-11T16:40:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "L3Harris Secures VAMPIRE Order to Strengthen Counter-Drone Defense",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12792b0d29fec0d0b262676ae7d440700e3fbb08fd45901a671da6fd94b37137",
-      "published_at": "2026-06-11T15:25:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.858,
-      "sentiment_confidence": 0.858,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "On brink of IPO, Musk's SpaceX already a household name, Reuters/Ipsos poll finds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9052bb9eb8cbf074c8a2a94c73b8c562c57ac82bcd59fb17dfc1d76203224f8d",
-      "published_at": "2026-06-11T10:03:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.788,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SeAH Aerospace & Defense Receives Boeing's Supplier Production Partner Award for Excellence in Aerospace Materials",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b118225df8b8c288b375f1dfd952a4810a15ece85cb2f692fbf63df7f7545e4",
-      "published_at": "2026-06-11T00:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.929,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Boeing (BA) Dipped More Than Broader Market Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b81dcdaa9539d793a60959ca23c7f7241e9f823dbd2537aa4e4e63b8b9940046",
-      "published_at": "2026-06-10T21:45:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.903,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=efbdcba965a53d21a9e6616f69d5543e6b02ac22b9788866c07fa42bbe94eb82",
-      "published_at": "2026-06-10T21:27:31",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.763,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Update: Trump Administration Reportedly to Meet Defense Companies on Ramping Up Production",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e4a007cd17c97358690da67a9b938085b250385f3582037fbdd371ab6fcef41",
-      "published_at": "2026-06-10T20:57:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.693,
       "relevance_score": 1.0,
       "event_type": null
     }
