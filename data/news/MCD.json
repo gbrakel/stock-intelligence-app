@@ -2,6 +2,17 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "13 Press Releases You Need to See This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35c23d06ca764dc627a4665a9f80acfd3a0247c58fdc49dcb35a88885e3a1fa8",
+      "published_at": "2026-06-19T10:02:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stay informed with the top movers within the dow jones index on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=042c3b1b649362c19ab9ef08adc4605f661781d63c4e6cfb25d95d99a481aa76",
@@ -20,6 +31,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.81,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Fast Money' traders talk where the markets go from here",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=12e208d552fdbd9c724819097e9b2fca5cdd74920a161d8d78c03708c779b621",
+      "published_at": "2026-06-18T17:14:42",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -75,6 +97,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Accenture CEO Julie Sweet on Q3 results: Lowered guidance due to Middle East impact",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=170cdefed305b27f89efefec2f5516df554e6db5872fa62944dd8c774ccb6d03",
+      "published_at": "2026-06-18T10:32:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.954,
+      "sentiment_confidence": 0.954,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sweetgreen, CAVA, and Portillo's Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26bd7b0c7fe2fa3d5ba92f38d4ecc7fac79ab63f38267a17bf17a4ea3044fb18",
-      "published_at": "2026-06-10T23:37:28",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.908,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Kura Sushi and Yum China Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=24a1e5bbc6277fde2d4adef6407acfb802317fc331f16c5534a3311b4fc30035",
-      "published_at": "2026-06-10T23:37:28",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.908,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which dow jones stocks are moving on Wednesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=053fea32457bdc9084abf1e7ae1bf00fdcae9db1ccd65bd722c43edaaedad38c",
-      "published_at": "2026-06-10T19:10:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
       "relevance_score": 1.0,
       "event_type": null
     }

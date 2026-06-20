@@ -2,6 +2,39 @@
   "ticker": "CVX",
   "articles": [
     {
+      "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
+      "published_at": "2026-06-19T12:46:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Chevron to Participate in a Fireside Chat at the J.P.Morgan Natural Resources Conference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9140e1d8e416ed426a7917660b85248700838f2404042f82fd061806d58f0016",
+      "published_at": "2026-06-19T12:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0553f224dfed08d97c7f9cae8d542032879de9c09d4cdc8aefcddf98b6e6a0cd",
+      "published_at": "2026-06-18T20:34:23",
+      "sentiment": "positive",
+      "sentiment_score": 0.858,
+      "sentiment_confidence": 0.858,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stay informed with the top movers within the dow jones index on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=042c3b1b649362c19ab9ef08adc4605f661781d63c4e6cfb25d95d99a481aa76",
@@ -46,6 +79,17 @@
       "event_type": null
     },
     {
+      "headline": "There is 'FOMO' all over this market, says Ariel's Charles Bobrinskoy",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7dfa57e2fb75f344a2c95c2ec79d0c206c91421ee389398b8c0f07f8f082d778",
+      "published_at": "2026-06-18T13:31:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The 14-Point US-Iran Deal Broken Down: What It Means For Oil Prices",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=5130b0fad249e8cf564517d6030a730b9404f9e3ca04d00a152a20af177f422c",
@@ -53,6 +97,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Sandisk, Intel, Enphase Energy, Accenture, Exxon Mobil & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7c53d213870ff61f259c444555ed8b6134043c19627bef7efe358a914e74002b",
+      "published_at": "2026-06-18T12:41:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.756,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -97,6 +152,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.697,
       "sentiment_confidence": 0.697,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thursday's big stock stories: What\u2019s likely to move the market in the next trading session",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=63cfbb8bf1c7767bf665747bd71f118903532887a7fb67ee87bb13fc69d4e084",
+      "published_at": "2026-06-17T19:56:45",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.677,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks Rally as US-Iran Peace Deal Sinks Oil and Bond Yields",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bec6b928ac55722d0a66cac84c2b26eeacb45065b35be5ed0f4c47179b5bc49",
-      "published_at": "2026-06-15T15:19:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.792,
-      "sentiment_confidence": 0.792,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Chevron Stock Dropped Again Monday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43049728f006ae3c6bed73f7bc26cbe4c35afffde6a340664f69f4110d219c31",
-      "published_at": "2026-06-15T15:16:57",
-      "sentiment": "negative",
-      "sentiment_score": -0.946,
-      "sentiment_confidence": 0.946,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks Soar on US-Iran Peace Agreement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc1d4018e26ff0426fde53b446f1f76f44a11f02edee11fa79147398b15426ad",
-      "published_at": "2026-06-15T14:15:30",
-      "sentiment": "positive",
-      "sentiment_score": 0.601,
-      "sentiment_confidence": 0.601,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Update: US-Iran Peace Deal Announcement Lifts US Equity Futures Pre-Bell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2167d58b15a7068145a9c29eaba94d373055baa6334ef0c03e9c27a8b28bf66",
-      "published_at": "2026-06-15T12:52:18",
-      "sentiment": "positive",
-      "sentiment_score": 0.621,
-      "sentiment_confidence": 0.621,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Will Strong Oil Prices Boost ExxonMobil's Energy Business?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18a7e014db64fcc5691a593a6372dc67ad6f5c9b91c429a08f5b3ffc082c33f2",
-      "published_at": "2026-06-15T12:45:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.788,
-      "sentiment_confidence": 0.788,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Nasdaq 100 Rallies, Oil Sinks 5% As U.S.-Iran Deal Reopens Hormuz",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3e198cb05de99bacb12024c376979c01f857d284ed998583869cdf2d88eadb63",
-      "published_at": "2026-06-15T12:34:42",
-      "sentiment": "negative",
-      "sentiment_score": -0.921,
-      "sentiment_confidence": 0.921,
       "relevance_score": 1.0,
       "event_type": null
     }

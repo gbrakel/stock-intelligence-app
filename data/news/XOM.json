@@ -2,6 +2,39 @@
   "ticker": "XOM",
   "articles": [
     {
+      "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
+      "published_at": "2026-06-19T12:46:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BALI: A Hidden Covered Call ETF That Could Be Better Than You Think",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=02a554c4616b88be08b547c300e8cfb1217b810ed5588adb0d448e868e75b690",
+      "published_at": "2026-06-19T09:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.797,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Darren Woods\u2019 Game Plan at Exxon Mobil: Produce More Oil for Less Money",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6bbb5068288f02ca3cde86ecf7800be80717d7cf82c0267d8009613fd0755fc",
+      "published_at": "2026-06-19T05:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Exxon Mobil (XOM) Stock Could Be 18.9% Undervalued Despite Recent Pullback",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=284c85672d23a51a8cff0590a4084142cc2d57af078be08a07f521977638b5d3",
@@ -24,6 +57,17 @@
       "event_type": null
     },
     {
+      "headline": "Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0553f224dfed08d97c7f9cae8d542032879de9c09d4cdc8aefcddf98b6e6a0cd",
+      "published_at": "2026-06-18T20:34:23",
+      "sentiment": "positive",
+      "sentiment_score": 0.858,
+      "sentiment_confidence": 0.858,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ExxonMobil and Occidental Petroleum Stocks Trade Down, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e23bb91e6f9ec3f0287ddade478cf4d84e4d36f82771e0450d9fd11bd127555",
@@ -42,6 +86,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.8,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Here's How Much You Would Have Made Owning Exxon Mobil Stock In The Last 5 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=50f2f6f72718442839f4656ea5de77c7411eda3171a4b8df274518f4b45b2b0e",
+      "published_at": "2026-06-18T17:00:38",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.939,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -75,6 +130,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Sandisk, Intel, Enphase Energy, Accenture, Exxon Mobil & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7c53d213870ff61f259c444555ed8b6134043c19627bef7efe358a914e74002b",
+      "published_at": "2026-06-18T12:41:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.756,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Oil markets are overshooting to the downside, says Abaxx Markets' Jeff Currie",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f29df9c68977b95f631284dc4d1d2df306abc3bf35b5c5b2cdc2ede7867064bc",
+      "published_at": "2026-06-18T11:42:04",
+      "sentiment": "negative",
+      "sentiment_score": -0.951,
+      "sentiment_confidence": 0.951,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -130,6 +207,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.697,
       "sentiment_confidence": 0.697,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thursday's big stock stories: What\u2019s likely to move the market in the next trading session",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=63cfbb8bf1c7767bf665747bd71f118903532887a7fb67ee87bb13fc69d4e084",
+      "published_at": "2026-06-17T19:56:45",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.694,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "B of A Securities Upgrades Exxon Mobil to Buy, Announces $154 Price Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7d68d9b44d0bc50f98af484091121200b6c737027b6283a83ba1cb15f9984935",
-      "published_at": "2026-06-16T05:12:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.876,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exxon Mobil Mulling Acquisition of Australia\u2019s Woodside Energy, Bloomberg Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43508d7b7ab90fa51f7add637735b74b572564132c69a27045938ea6aeb75af3",
-      "published_at": "2026-06-16T02:05:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exxon Mobil (XOM) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be6d11ab762dfcb5676e60d00b9173433acaa16862f15a68b66329625356719c",
-      "published_at": "2026-06-15T21:45:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.629,
-      "sentiment_confidence": 0.629,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks Settle Sharply Higher as US-Iran Peace Deal Spurs Optimism",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6a35dd7f12d9374eee5bcb427d0cb3af294739e9dc10587897b70c932520f7ea",
-      "published_at": "2026-06-15T20:36:56",
-      "sentiment": "positive",
-      "sentiment_score": 0.651,
-      "sentiment_confidence": 0.651,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exxon, Chevron Lead Energy Stocks Sell-off as Crude Prices Sink 5%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c5fbc1f1668a7d7ecf1a0c6a71e85326727546875ac59414c10b142c362aead",
-      "published_at": "2026-06-15T20:06:44",
-      "sentiment": "negative",
-      "sentiment_score": -0.964,
-      "sentiment_confidence": 0.964,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dcf382e7c27c907473cd8b2ac3be1ef190b279fd1693a872a6d04cf1c102d44d",
-      "published_at": "2026-06-15T19:54:25",
-      "sentiment": "positive",
-      "sentiment_score": 0.843,
-      "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=928f83adc4041d97b9dbc79397042451a201bc233c4d6e80dfb0bf2a4b59943a",
-      "published_at": "2026-06-15T19:28:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CNBC Markets Now: June 15, 2026",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=f539d9384a9599cfd7bb13001da38ba1627aa7e66fe03dd6da65e869beca49db",
-      "published_at": "2026-06-15T17:19:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.941,
       "relevance_score": 1.0,
       "event_type": null
     }
