@@ -1,20 +1,19 @@
 {
   "ticker": "CAT",
   "risk_level": "medium",
-  "overall_risk_score": 43.4,
+  "overall_risk_score": 42.8,
   "factors": {
-    "volatility": 69.2,
+    "volatility": 68.7,
     "debt_burden": 75.0,
     "earnings_consistency": 5.4,
     "cash_burn": 0.0,
     "sector_risk": 40.0,
-    "sentiment_stability": 39.1,
-    "liquidity": 83.3,
+    "sentiment_stability": 49.9,
+    "liquidity": 66.7,
     "drawdown": 27.8,
     "concentration": 40.0
   },
   "risk_flags": [
-    "Elevated debt-to-equity ratio",
-    "Low relative trading volume"
+    "Elevated debt-to-equity ratio"
   ]
 }
