@@ -2,6 +2,39 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Netflix Stock Is Trading Near a 52-Week Low. Is It Finally a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5648e806160d6f624b46e3e5b28801b3b2f6c38e1dc6efeee2c8c08d064da35",
+      "published_at": "2026-06-24T23:36:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.564,
+      "sentiment_confidence": 0.564,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "4 Broadcast Radio & TV Stocks to Watch From a Challenging Industry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4fe30646c775d950d7ad20fee4afdf33431b59f3fe5e1fbaafafdcce33c1bce",
+      "published_at": "2026-06-24T13:59:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.822,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93",
+      "published_at": "2026-06-24T03:50:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Worried About Amazon\u2019s AI Bill? What If It\u2019s Already Paid For?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e7c84be1dcb95698ef59dde151955b01f3de0ab2548d31219a9a918902e8a083",
@@ -57,6 +90,17 @@
       "event_type": null
     },
     {
+      "headline": "Wyndham overhauls its credit card portfolio, adding a new premium hotel card",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=63840910879f8962cb6726e011d09a7d79249ce64103fb15cf4e98a99555351f",
+      "published_at": "2026-06-23T15:24:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.869,
+      "sentiment_confidence": 0.869,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Citizens Upholds its Market Perform Rating for Netflix (NFLX)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7dc915a5792a72aa0ee406446a9290896f0af9f8376fd7e4146352491bfc2b5d",
@@ -97,6 +141,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.59,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix Stock Plunges To 20-Month Low: Can Live Sports Replace \u2018Stranger Things\u2019 And \u2018Squid Game\u2019?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d97f66e5d918931732ad9e5498d1ed6a757258f21038797cd449a58295f39463",
+      "published_at": "2026-06-23T11:37:09",
+      "sentiment": "negative",
+      "sentiment_score": -0.734,
+      "sentiment_confidence": 0.734,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.887,
       "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix faces fresh trouble from new lawsuit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f710594fe141d4ff21d163f7808ab39fe59e0de6bee2ea50516c651d65acca22",
-      "published_at": "2026-06-20T11:03:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.964,
-      "sentiment_confidence": 0.964,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Charter Communications (CHTR) Adds Netflix To Spectrum App Store For Easier Streaming",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76d6c4d51699e69cac954bbb91139b01d89ae2ebc026f729b108bc12c1e311c0",
-      "published_at": "2026-06-20T03:15:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.851,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Netflix Better Off Without Roku or Warner Bros., or Are Cracks Forming Beneath the Surface?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1be9f7162f32884348fc06197ba4895e70bcf628926dd3108f5646b737e635b6",
-      "published_at": "2026-06-19T23:49:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.546,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Moves On Radford Studio At $400 Million",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0e7f98befa2e46c2fbdfda21020d9f35504bc9fbfa6515eb77b47d49ac893c3",
-      "published_at": "2026-06-19T17:50:46",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.926,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lionsgate Is Likely to Eventually Become a Takeover Target. What That Means for LION Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14a7f4dc585a89692b2aa24710c682c4cee45cc356af60833ed430b3aebeef3b",
-      "published_at": "2026-06-19T14:00:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
       "relevance_score": 1.0,
       "event_type": null
     }

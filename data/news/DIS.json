@@ -2,6 +2,50 @@
   "ticker": "DIS",
   "articles": [
     {
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=913f41419cf207e070247f93f2e5c79a4c26c31d243a3316ddb8b0588887e264",
+      "published_at": "2026-06-24T19:10:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.741,
+      "sentiment_confidence": 0.741,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Discover which dow jones stocks are making waves on Wednesday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=81af79164ce06a63ce0a06232dec757f65c7e50b84c3e5329b4283aefc67f1d9",
+      "published_at": "2026-06-24T16:40:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hasbro Is So Much More Than Just A Toy Company",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=243390e29aac3a65df7690ae74c4bd17f8cba6734dba0d6056c263b469f8fbca",
+      "published_at": "2026-06-24T14:44:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "CNBC Daily Open: Trump takes on big oil",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a096f2c578dbf41e96168d088229f7198f7ace3a6d49e1b308e42aa0524f9fab",
+      "published_at": "2026-06-24T01:48:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.892,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "OMNICOM AND DISNEY ADVERTISING TEAM UP TO ENABLE SMARTER SEQUENTIAL ADVERTISING IN STREAMING",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a000e4a10593175f17db794028e435e06c66f29dd425f1ed954d741cfc51e379",
@@ -20,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.791,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wyndham overhauls its credit card portfolio, adding a new premium hotel card",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=63840910879f8962cb6726e011d09a7d79249ce64103fb15cf4e98a99555351f",
+      "published_at": "2026-06-23T15:24:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.869,
+      "sentiment_confidence": 0.869,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FOX Stock Is Attractive With Roku Deal Likely to Create Long-Term Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b640290d0ce959c8a6bd246e263567fc6c8d1b21fb4e7b61d8072a954739c771",
-      "published_at": "2026-06-18T13:00:02",
-      "sentiment": "positive",
-      "sentiment_score": 0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Lunch: Toy Story 5 Eyes $280M Global Debut",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5eeaf32e6785279352d725b5482f3d56a0675fd644f6ada9ff3f9ed3efb5249e",
-      "published_at": "2026-06-18T12:17:09",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How A Pan\u2011EU Streaming Patent Injunction Could Impact Walt Disney (DIS) Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c97cdb241c7f591ede4d13ac34f841931f32b043aa42662f701a6ababb2bf598",
-      "published_at": "2026-06-18T12:14:05",
-      "sentiment": "negative",
-      "sentiment_score": -0.569,
-      "sentiment_confidence": 0.569,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney Eyes Big Toy Story Weekend",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3654df49ec9755c8a5a29de6ca1dfb276e37dd9626bb12d6e09620963838d6ce",
-      "published_at": "2026-06-18T12:00:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Have credit card debt? You don\u2019t have to sacrifice rewards with these 5 balance transfer cards",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=05480c3db7fc74aef6b1d5d703cf7155a458c2ab43a5759ef6cfc7867bc6f30f",
-      "published_at": "2026-06-18T11:09:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     }
