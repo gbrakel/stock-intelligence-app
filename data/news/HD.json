@@ -2,6 +2,61 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Brokers Suggest Investing in Home Depot (HD): Read This Before Placing a Bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88ce0164740da9f57153a43295664ec13802adeb36cbfbef34d1ae084aa9926c",
+      "published_at": "2026-06-29T13:30:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Big Short' Star Steve Eisman Warns Middle Class Is 'Starting To Crack', Tax Refunds 'Went Into The Gas Tank'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=659eccdd7fd843ee74b00ec0c088750b02c8e96577e17c3ed77974f33df1b037",
+      "published_at": "2026-06-28T21:30:59",
+      "sentiment": "negative",
+      "sentiment_score": -0.962,
+      "sentiment_confidence": 0.962,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Home Depot, Inc. (HD) Is A Top Richard Chilton Stock Pick",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=349ca1d6b5e90ca0029e22a5c4dcf6fbcdcfb3214e12ccc775609b5a8be0e66e",
+      "published_at": "2026-06-28T10:33:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.882,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot (HD) Stock After Mixed 1-Year Returns Is Valuation Now Fairly Priced?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81ff20aafa00a9313232a44b7a71e95a25d395c68d6bc3dcc07992a29998b855",
+      "published_at": "2026-06-27T11:10:39",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.767,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "89-year-old Home Depot hardware rival forced out of business",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=443081dab90999811d956fd873e5e76a3fcc51fc8838ebcc3cd59d464c22dadb",
+      "published_at": "2026-06-27T00:18:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.946,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Home Depot (HD) Gains As Market Dips: What You Should Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a34dfc23bd3bd9245c7781e2befeea2cec2d1471ce70f7873eeb11b0d94757c9",
@@ -42,17 +97,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.885,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Big Short' Star Steve Eisman Warns Middle Class Is 'Starting To Crack', Tax Refunds 'Went Into The Gas Tank'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d50a17f5bd0b139fa3fe81dbe4e70fda3f95ada96f22884f7fdd5cbbe834b16c",
-      "published_at": "2026-06-25T10:43:36",
-      "sentiment": "negative",
-      "sentiment_score": -0.962,
-      "sentiment_confidence": 0.962,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top Analyst Reports for NVIDIA, Oracle & Home Depot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac111b5e4f2bf96b917444df9a31feb6e242a7a38f4157ba048d98108df134e9",
-      "published_at": "2026-06-17T21:02:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SecureSpace Deer Park Opens on Long Island",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1bacc9e732d72f665f740b336faa1be9998d62ddc401c9ac17d9b400467336d",
-      "published_at": "2026-06-17T17:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.845,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Summit Helps Romanoff Renovations Reduce Infrastructure Costs by 30% Through VMware-to-Hyper-V Migration",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8984b3a8cd46b15c59ac6b6f313a8b6a160505ee0963a298800fbc17bfe967ea",
-      "published_at": "2026-06-17T15:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.88,
-      "sentiment_confidence": 0.88,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "LGBTQ consumers cut spending at Target, Walmart, Amazon over DEI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c469742ff762a433518ee09540190f4c8228f01ef1a823b9dc57611ea54815c7",
-      "published_at": "2026-06-17T15:29:31",
-      "sentiment": "negative",
-      "sentiment_score": -0.946,
-      "sentiment_confidence": 0.946,
       "relevance_score": 1.0,
       "event_type": null
     }
