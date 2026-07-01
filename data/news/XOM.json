@@ -2,6 +2,105 @@
   "ticker": "XOM",
   "articles": [
     {
+      "headline": "Top Stock Reports for Microsoft, Exxon Mobil & Dell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dd90de7a85d448ae3b5938d60acb31e128c28e48f60ea34bacb69f06a23ddea",
+      "published_at": "2026-06-30T20:34:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "2.2% Yield On IYE Masks The 131% Five Year Gain Most Energy Investors Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6fae901b00aa77d2be89fdd9faaf12aa7565c29b9ce9f8a06dcca2ce3511736",
+      "published_at": "2026-06-30T17:50:42",
+      "sentiment": "positive",
+      "sentiment_score": 0.515,
+      "sentiment_confidence": 0.515,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ExxonMobil (XOM) Advances Cyprus Gas Export Plan With QatarEnergy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e605abe383013e600887036369f66d24d0fd037ce308447d05fb957c25a9e40",
+      "published_at": "2026-06-30T15:08:09",
+      "sentiment": "positive",
+      "sentiment_score": 0.901,
+      "sentiment_confidence": 0.901,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Global Performance Consultancy Launches New Sports Division Designed to Build the Infrastructure that Winning Requires",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=503227c5d56b51eb7453e250c7ebbd7224bbca10a3181cb919d7d736043fa24d",
+      "published_at": "2026-06-30T15:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.676,
+      "sentiment_confidence": 0.676,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Integrated Energy Stocks to Gain From Promising Industry Trend",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ce0b1ccdb2cf890144198c18bb239946a5f653449e8b6eeee8868c7b9f81da5",
+      "published_at": "2026-06-30T13:46:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ETG: Decent Global Equity Fund With Technology Exposure",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b4407f4766d31d24aeb0d63490c26ac3224efd02e395bd5ea611e2e62b06ec6a",
+      "published_at": "2026-06-30T12:36:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cypriot natural gas could start flowing from ExxonMobil's discoveries by 2033",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1acd2fcc5997083931c0f22a946c83b4207a2139b824b9230c240e329bb31ae8",
+      "published_at": "2026-06-30T11:34:37",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.771,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Exxon Mobil: Normalization In The Middle East Is Welcomed, Watch Q2 Production",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0bec1c081e441b436df80db13cffcf0799ae0b6d3d7f0515bc46087036fa9d20",
+      "published_at": "2026-06-30T10:47:57",
+      "sentiment": "positive",
+      "sentiment_score": 0.857,
+      "sentiment_confidence": 0.857,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "QatarEnergy, ExxonMobil Ink Collaboration With Cyprus For Glaucus, Pegasus Fields Offshore Cyprus",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6bb597eee095b3135cb5e70909faa80121a53f7b09a48cc96dd6a37d292db90e",
+      "published_at": "2026-06-30T07:46:04",
+      "sentiment": "positive",
+      "sentiment_score": 0.516,
+      "sentiment_confidence": 0.516,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Energy ETFs to Buy as Oil Price Slides to Pre-Iran War Level",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ce3c521ac3622e37b3e303cd205cb5c234720b75538fa8fb08b4118f707e21d9",
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.927,
       "sentiment_confidence": 0.927,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Permian Resources and Vitesse Energy Stocks Trade Down, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91a189975eeda1931c7750cc9b9d5029eaf876f33b0481857620d5c89eefaf81",
-      "published_at": "2026-06-24T22:56:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.733,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Liberty Energy and Seadrill Stocks Trade Down, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f4fdc9c6fc5153e5a304eb53427d10b2e5d79f6d471216305bfa2f9b2e4480c",
-      "published_at": "2026-06-24T22:48:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.716,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Peabody Energy and Crescent Energy Shares Are Falling, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04d7d0f509c32a2700e915ca39cf2e72d85e44c979db19074d63ec81051f2641",
-      "published_at": "2026-06-24T22:40:25",
-      "sentiment": "negative",
-      "sentiment_score": -0.555,
-      "sentiment_confidence": 0.555,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Noble Corporation and Patterson-UTI Shares Are Falling, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf14d8f1cf703bdbc2d42cf710a561b3d489b8722ee67fc60e36d8f5dcb79343",
-      "published_at": "2026-06-24T22:32:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.509,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Weatherford and HighPeak Energy Shares Plummet, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57d49efc9f01e9b23624d16b54ea0e314a68a0f73222c9cbfde9cb70273103cc",
-      "published_at": "2026-06-24T22:24:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Centrus Energy and Helix Energy Solutions Shares Plummet, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9de20f9b31d8a512fea3d65049e7b40bfe0db5631349c46b5ca55ea6c0950624",
-      "published_at": "2026-06-24T22:16:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Costco, Exxon, and 17 More \u2018Negative Beta\u2019 Stocks for a Market Selloff",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2bb881574821995fc75c23a0a674ab42425057bb367bfb708223c2021213a30b",
-      "published_at": "2026-06-24T22:15:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Halliburton (HAL) Shares Are Sliding Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49448dd40e5952947dd1915538d056e17cd24d0284831395eb1b57143f76d1e9",
-      "published_at": "2026-06-24T22:08:25",
-      "sentiment": "negative",
-      "sentiment_score": -0.955,
-      "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "TCW Relative Value Large Cap Fund Q1 2026 Buys And Sells",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=01dcfc8bf1f4b5374b14db8fd69d8059083f76ef475afca19bdb76d377095ff4",
-      "published_at": "2026-06-24T22:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
       "relevance_score": 1.0,
       "event_type": null
     }
