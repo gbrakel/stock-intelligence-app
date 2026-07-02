@@ -2,6 +2,61 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Top Analyst Reports for AMD, Lam Research & Cisco",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fb5bc5513aa73b2aba9a5aa44fda46076e7c925c00bfb01ab40afb66c1ae8ad",
+      "published_at": "2026-07-01T21:51:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8d8d4dbcd75e54bc1136dbce779a2713eac74a23a63c39b81cb0c347fdd45387",
+      "published_at": "2026-07-01T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=161470bf4167dae9e069f51a55a098de3224892232b90e86dd3940277418a0df",
+      "published_at": "2026-07-01T16:40:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco (CSCO) Upgraded to Strong Buy: Here's What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c88de01dd09f376fde7c0edaca0a0e8414bbc3cf3c8bac579b90ee1b4dffd8ea",
+      "published_at": "2026-07-01T16:00:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.77,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Microsoft to Announce Fresh Layoffs Impacting Thousands as AI Investment Surge Reshapes Workforce: Report (UPDATED)",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57ad3f930818e792ef77a8139cddcc0ecf3b92cc9051260bf4a6fd692d02195e",
+      "published_at": "2026-06-30T23:08:59",
+      "sentiment": "negative",
+      "sentiment_score": -0.91,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Where Arista Networks Stock Is Most Exposed",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8226d62a6fb9f6b6cae3a6d1d1c412f5884f7addfbf507e63dc1b3f4b5ddc93b",
@@ -64,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mike Santoli: A great first half, but some erratic behavior raises doubts about the rally's integrity",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4786f6bdfcddbaefb32a7fd048630c1edcfb3af3414e16f87e4ea32c4ec8a4e9",
+      "published_at": "2026-06-30T08:29:31",
+      "sentiment": "negative",
+      "sentiment_score": -0.77,
+      "sentiment_confidence": 0.77,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -185,17 +251,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.91,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=400b8fbeba786ecf7c610bc90e80c141c626af200f5bf3f8282b273c57d6e43f",
-      "published_at": "2026-06-26T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.59,
       "sentiment_confidence": 0.59,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems, Inc. (CSCO) Is a Trending Stock: Facts to Know Before Betting on It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4db97bc6e7ce25bcaa867631eec3943abb479edf55188d283b52446a5d8b44f6",
-      "published_at": "2026-06-23T13:00:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Engineering Executive Exchange Launches With 40 Founding Members as AI Pressure on Tech Leaders Reaches New High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2953335cfa7a57a78d32e32bc5aa6e4fb937c15ec102e1e4e93ddecea3105f2c",
-      "published_at": "2026-06-23T13:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.517,
-      "sentiment_confidence": 0.517,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "U.S. Supreme Court Rules In Favor Of Bid By Cisco Systems To End Lawsuit By Falun Gong Members Alleging The Company Facilitated Human Rights Abuses In China",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cce48328966b5b1d8a4b1b2170b30255cd5ed4a342041da72f551e1743994e8d",
-      "published_at": "2026-06-23T10:04:45",
-      "sentiment": "negative",
-      "sentiment_score": -0.466,
-      "sentiment_confidence": 0.466,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Inc (NASDAQ:CSCO) Technical Breakout Setup Shows Perfect ChartMill Ratings",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=53b000bc75df1dcdb3bd92818f7f9d6151dc8766cd56b076344d5b667aa166f5",
-      "published_at": "2026-06-23T09:40:32",
-      "sentiment": "positive",
-      "sentiment_score": 0.831,
-      "sentiment_confidence": 0.831,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The big questions the bull market faces right now as the S&P 500 hits some turbulence",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=04b3e667c07799fba03b27c43422eee64d16ea8bddb23badbca0dd3607723373",
-      "published_at": "2026-06-23T08:59:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.862,
       "relevance_score": 1.0,
       "event_type": null
     }

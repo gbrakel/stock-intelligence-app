@@ -2,6 +2,22 @@
   "ticker": "NKE",
   "quarterly": [
     {
+      "period_end": "2026-05-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.72,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1482600000.0
+    },
+    {
       "period_end": "2026-02-28",
       "revenue": 11279000000.0,
       "net_income": 520000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-02-28",
       "revenue": 11269000000.0,
       "net_income": 794000000.0,
-      "eps": 0.54,
+      "eps": null,
       "gross_margin": 0.41485491170467653,
       "operating_margin": 0.06992634661460644,
       "net_margin": 0.07045878072588517,
@@ -79,10 +95,26 @@
       "cash_and_equivalents": 8601000000.0,
       "roe": 0.056685942742914254,
       "roa": 0.02100918159447517,
-      "shares_outstanding": 1478100000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
+    {
+      "period_end": "2026-05-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 2.1,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1479800000.0
+    },
     {
       "period_end": "2025-05-31",
       "revenue": 46309000000.0,
@@ -135,7 +167,7 @@
       "period_end": "2022-05-31",
       "revenue": 46710000000.0,
       "net_income": 6046000000.0,
-      "eps": 3.83,
+      "eps": null,
       "gross_margin": 0.4598372939413402,
       "operating_margin": 0.14290301862556198,
       "net_margin": 0.12943695140226932,
@@ -145,16 +177,16 @@
       "cash_and_equivalents": 8574000000.0,
       "roe": 0.3956547346377855,
       "roa": 0.14994667790977406,
-      "shares_outstanding": 1578800000.0
+      "shares_outstanding": null
     }
   ],
   "valuation": {
-    "pe_ratio": 27.006578,
-    "forward_pe": 17.285448,
+    "pe_ratio": 20.504763,
+    "forward_pe": 18.636095,
     "ev_ebitda": 16.54,
-    "price_to_sales": 1.3066744,
-    "peg_ratio": 1.45,
-    "market_cap": 60790411264,
+    "price_to_sales": 1.3706554,
+    "peg_ratio": 1.43,
+    "market_cap": 63766999040,
     "enterprise_value": 63911411712
   }
 }

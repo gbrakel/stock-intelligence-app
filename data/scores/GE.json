@@ -2,6 +2,21 @@
   "ticker": "GE",
   "history": [
     {
+      "date": "2026-07-02",
+      "composite": 59.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 82.5,
+        "growth_trend": 52.1,
+        "valuation": 50.2,
+        "sentiment": 67.8,
+        "technical": 83.4,
+        "risk_penalty": 35.6
+      }
+    },
+    {
       "date": "2026-07-01",
       "composite": 60.5,
       "signal": "exit_watch",
