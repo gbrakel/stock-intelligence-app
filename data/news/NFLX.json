@@ -2,6 +2,94 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=afc6f972edca8e59c70f0dd58bf9394983a07e6f89b0020f28d80fa3ace38c75",
+      "published_at": "2026-07-02T19:05:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.863,
+      "sentiment_confidence": 0.863,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Comcast Spinoff Could Rejuvenate Its Depressed Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47de3b8f3b19ad2096a488f33e4b06d65437259b4b95e3dca33999441278a552",
+      "published_at": "2026-07-02T15:08:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.832,
+      "sentiment_confidence": 0.832,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix (NFLX) Surged on Refocusing on Fundamentals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aee3071aea513daa31ed25e2a938124aa79dc424d5288d5b671453a4be1d292",
+      "published_at": "2026-07-02T14:21:49",
+      "sentiment": "positive",
+      "sentiment_score": 0.938,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nike Shares Move Higher; Adidas Reports Quarterly Results",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c0a55f9b715c888e937ff4ac9307b4fddfe1cfafb0524a6b987a8365885c86ce",
+      "published_at": "2026-07-02T13:00:10",
+      "sentiment": "positive",
+      "sentiment_score": 0.613,
+      "sentiment_confidence": 0.613,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "New Minions film hits box office",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9a4d0b572222f529ddf1a31090043e84050de6835a2e0cba3e0460144d8a13a0",
+      "published_at": "2026-07-02T12:04:17",
+      "sentiment": "positive",
+      "sentiment_score": 0.739,
+      "sentiment_confidence": 0.739,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix: A Bull Trap?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=21f896133c4575b5a3df8a02a051b1cfec08edf4cdce57e1018f535a044f0b97",
+      "published_at": "2026-07-02T11:40:39",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.728,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix Is A Low-Risk Buying Opportunity With Upside Potential",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7f82e7454f5c7bc099c032985df4edf6cda75a728f7db86df15a056b7963c791",
+      "published_at": "2026-07-02T10:44:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.743,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Russian couple arrested after climbing the Empire State Building",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8c96cc6baca95dac2e8b38d09859548c73ff29ccece244dcb2527cbba59988b9",
+      "published_at": "2026-07-02T07:41:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.756,
+      "sentiment_confidence": 0.756,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Netflix gains over 3% as report refutes NBCUniversal acquisition speculation",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=960e9178c978c0840da7016d1bbe7278c3fba2711560ac1591ecfca32e71cf46",
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Stock Plunges 45% From Peak, Hit Worst Technical Level in Four Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d2f9754998f863df41f0fc2a84aa942d99057e39fbf44014809d07922c91b37",
-      "published_at": "2026-06-26T17:20:30",
-      "sentiment": "negative",
-      "sentiment_score": -0.969,
-      "sentiment_confidence": 0.969,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Monthly Subscriber Churn Still Best At 2%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4cf2b02d7791f3381a161badd5f90128a14392d2b783039b4fef8d619602568",
-      "published_at": "2026-06-26T15:37:51",
-      "sentiment": "negative",
-      "sentiment_score": -0.515,
-      "sentiment_confidence": 0.515,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Bets Bigger on AI Strategy: Can It Strengthen User Retention?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=289258aa3688c650b54840833c73fe22b8a94d2d27760cd8483148600fe04ea1",
-      "published_at": "2026-06-26T14:06:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.929,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What to Expect From Netflix's Next Quarterly Earnings Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1bd2285a332e23ec1b2d4c31fa8c83169120f2a61e70737377acff312f5efce",
-      "published_at": "2026-06-26T13:05:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix: WBD Termination, Buyback, Ad-Tech, Live-Event Edge, And Legacy Regression",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5e8b091a0287b7337542fe552902f014e367b4389435838ddc48119c7a13faf6",
-      "published_at": "2026-06-26T12:14:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.95,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=684fd2161cd22030b91fb2cbced74da83b4f8757c42e9a8dbdf3c9f584396821",
-      "published_at": "2026-06-26T11:26:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.906,
-      "sentiment_confidence": 0.906,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Netflix Stock Edges Higher Friday: What's Driving The Move?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e1cb64d4c9e5beb0340d826c7ed9698ce3cfcdf00aaa99b10a85454937af0c92",
-      "published_at": "2026-06-26T10:14:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.721,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 Excellent Stocks to Buy on the Dip",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d78a45a80a3bfdfd7e538bf94a2beb79c0fa0a443788ee9c7490b29faf028ef8",
-      "published_at": "2026-06-26T05:35:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.819,
       "relevance_score": 1.0,
       "event_type": null
     }
