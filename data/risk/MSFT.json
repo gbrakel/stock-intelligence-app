@@ -1,17 +1,19 @@
 {
   "ticker": "MSFT",
   "risk_level": "medium",
-  "overall_risk_score": 36.8,
+  "overall_risk_score": 38.9,
   "factors": {
-    "volatility": 66.8,
+    "volatility": 66.7,
     "debt_burden": 15.0,
     "earnings_consistency": 9.1,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 50.4,
+    "sentiment_stability": 71.1,
     "liquidity": 37.5,
     "drawdown": 69.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "Highly volatile news sentiment"
+  ]
 }
