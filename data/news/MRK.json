@@ -2,6 +2,39 @@
   "ticker": "MRK",
   "articles": [
     {
+      "headline": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8b4af97dddd3317a50c1206ecb3fecd7ad2f983ec27a7e1c72a78c4e14a73ff1",
+      "published_at": "2026-07-07T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.839,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SBIO: Biotech Breakthrough Opportunities Screened For Cash Burn",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db2174c073837831286ca2c07c1b3b00b29ddae31ee4aaebfa28b835704e34e6",
+      "published_at": "2026-07-07T10:28:30",
+      "sentiment": "positive",
+      "sentiment_score": 0.513,
+      "sentiment_confidence": 0.513,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can anyone catch up to Eli Lilly?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a525b2f107ac14ff07317a5d0fd2a984f07cf0426b0135b325b8d65da9b43696",
+      "published_at": "2026-07-07T08:42:51",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.803,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Merck (MRK) Stock Slides as Market Rises: Facts to Know Before You Trade",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3462254cc01a429463310b2473d7a1b5e4b5e87bc51e87c16d916a740ef0bc24",
@@ -64,17 +97,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.931,
       "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=705c0a2f4a216a00cce19ed452014bd2bec7b538e1145bf06f19f6e6e90e0d93",
-      "published_at": "2026-07-06T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.839,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.94,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Merck, AbbVie Hit With Congressional Probe Over China Drug Trials: Report",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e00ce0091248ea12ffc6edc03cf742025d4e18a34a9a0f800f183d3a3e993f4c",
-      "published_at": "2026-06-30T09:13:10",
-      "sentiment": "negative",
-      "sentiment_score": -0.678,
-      "sentiment_confidence": 0.678,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks making the biggest moves premarket: AeroVironment, Strategy, Merck & more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=02d91ccebaaebf5085bf9b485c8b12d7b5bd1bd29f0076b7a6472ba09dd6d4c7",
-      "published_at": "2026-06-30T07:27:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
       "relevance_score": 1.0,
       "event_type": null
     }
