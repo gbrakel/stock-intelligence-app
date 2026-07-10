@@ -2,6 +2,22 @@
   "ticker": "PEP",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 24181000000.0,
+      "net_income": 2981000000.0,
+      "eps": 2.18,
+      "gross_margin": 0.5422025557255696,
+      "operating_margin": 0.16637029072412224,
+      "net_margin": 0.12327860717091932,
+      "free_cash_flow": 1505000000.0,
+      "total_debt": 53214000000.0,
+      "total_equity": 22270000000.0,
+      "cash_and_equivalents": 10251000000.0,
+      "roe": 0.1338572070049394,
+      "roa": 0.02657123247377194,
+      "shares_outstanding": 1366000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 19443000000.0,
       "net_income": 2327000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 17919000000.0,
-      "net_income": 1834000000.0,
-      "eps": 1.34,
-      "gross_margin": 0.5576762096099113,
-      "operating_margin": 0.14414866901054746,
-      "net_margin": 0.10234946146548357,
-      "free_cash_flow": -1576000000.0,
-      "total_debt": 48518000000.0,
-      "total_equity": 18529000000.0,
-      "cash_and_equivalents": 8268000000.0,
-      "roe": 0.09897997733282962,
-      "roa": 0.01802687321230231,
-      "shares_outstanding": 1372000000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.765175,
-    "forward_pe": 15.697146,
-    "ev_ebitda": 12.666,
-    "price_to_sales": 2.0409093,
-    "peg_ratio": 1.54,
-    "market_cap": 194802745344,
-    "enterprise_value": 236810649600
+    "pe_ratio": 22.379871,
+    "forward_pe": 15.186415,
+    "ev_ebitda": 12.328,
+    "price_to_sales": 1.9729569,
+    "peg_ratio": 1.53,
+    "market_cap": 188316762112,
+    "enterprise_value": 230475677696
   }
 }
