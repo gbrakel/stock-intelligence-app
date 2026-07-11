@@ -2,6 +2,21 @@
   "ticker": "UNP",
   "history": [
     {
+      "date": "2026-07-11",
+      "composite": 59.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 77.5,
+        "growth_trend": 48.6,
+        "valuation": 82.0,
+        "sentiment": 73.1,
+        "technical": 69.4,
+        "risk_penalty": 39.7
+      }
+    },
+    {
       "date": "2026-07-10",
       "composite": 58.7,
       "signal": "exit_watch",
