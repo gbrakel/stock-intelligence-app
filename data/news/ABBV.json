@@ -2,6 +2,61 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "How Does LLY Stock Reach $2,100?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=beb87ad176efb9fdff630913987b4267d509627241251c66ccf0cea69cf5af22",
+      "published_at": "2026-07-13T13:12:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Real Case for Buying Johnson & Johnson (JNJ) Before July 15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=550549e70d592f1616b71600c3535938a693ddd64a3aa9d85eaf5bda54146da8",
+      "published_at": "2026-07-13T12:30:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "BMO Capital Maintains Outperform on AbbVie, Raises Price Target to $300",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80bb58f11c752113bb483c0cc93c6883fd66254788514bf669b767a3f96afa08",
+      "published_at": "2026-07-13T08:56:20",
+      "sentiment": "positive",
+      "sentiment_score": 0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie Is Already a Dividend King. Here's Why the $10.9 Billion Apogee Deal Could Make It a Dynasty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd3b54002ab4b2611e2f90fc6668b5c27052c504d0a61410bc750feee435ee0b",
+      "published_at": "2026-07-12T00:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.754,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Banking Heavyweights To Kick Off Earnings Next Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd79a210b72ec6a7b7f17608596f44d1a1428a0189e4d47e2cb76e5041e2722f",
+      "published_at": "2026-07-11T11:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.721,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=315cee5d906f20a8ebe04b9077af0e4d913761325438b913d799a2e7525898ac",
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.581,
       "sentiment_confidence": 0.581,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie\u2019s TEPKINLY + R2 Becomes First Bispecific Therapy Approved In Europe For Relapsed Follicular Lymphoma Following Phase 3 Success",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dd7277f1774d52e22cb90c2b9ce7af171148e6eca2ba2d877f4e4717df18a20a",
-      "published_at": "2026-07-06T13:51:17",
-      "sentiment": "positive",
-      "sentiment_score": 0.873,
-      "sentiment_confidence": 0.873,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Got the Weak Jobs Report It Wanted. Chip Stocks Wrecked the Rally Anyway.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5bb378871c4d7250110c755b530ad54ad40bcf2da5fe3ace6f349cc9076ef393",
-      "published_at": "2026-07-06T09:59:09",
-      "sentiment": "negative",
-      "sentiment_score": -0.917,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "My Top 5 Pharma Stocks Wall Street Ignores",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5d2bd20e0a76d685d7676d5181354c92bbb779edc1b0cc1076343be0a7f6da6",
-      "published_at": "2026-07-06T09:55:28",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.816,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df54ac1f1d0803a2ae3f936412cc7e5caa55e3e9d7b448d238ec0a4bee9c721c",
-      "published_at": "2026-07-06T09:22:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.913,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cantor Fitzgerald Maintains Overweight on AbbVie, Raises Price Target to $265",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=13df82dd6410a056426443863efab21b385c133c37e683b13ee800cdbe5514e2",
-      "published_at": "2026-07-06T08:49:28",
-      "sentiment": "positive",
-      "sentiment_score": 0.909,
-      "sentiment_confidence": 0.909,
       "relevance_score": 1.0,
       "event_type": null
     }

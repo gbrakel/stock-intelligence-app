@@ -1,32 +1,38 @@
 [
   {
     "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-07-11"
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-07-14"
   },
   {
-    "ticker": "MA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-11"
-  },
-  {
-    "ticker": "BAC",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-07-11"
-  },
-  {
-    "ticker": "HD",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-11"
-  },
-  {
-    "ticker": "DIS",
+    "ticker": "UNH",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-07-11"
+    "date": "2026-07-14"
+  },
+  {
+    "ticker": "LLY",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-07-14"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-14"
+  },
+  {
+    "ticker": "WMT",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-14"
+  },
+  {
+    "ticker": "PG",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-14"
   }
 ]

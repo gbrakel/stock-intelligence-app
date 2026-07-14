@@ -2,6 +2,28 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Alamar Hits A High Note On Alzheimer's Buzz",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e241c1ffe64c739ef93aa279e16d8b927df3ed6bdc10741dd02d51309b8e4eef",
+      "published_at": "2026-07-13T20:50:17",
+      "sentiment": "positive",
+      "sentiment_score": 0.647,
+      "sentiment_confidence": 0.647,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "OmniAb Names Amechi Nwachuku Chief Operating Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=476107059e36c9c3bd928f695f98309b2a569c0900ceea5cf136c1d6443a5d58",
+      "published_at": "2026-07-13T12:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thermo Fisher Scientific Announces Quarterly Dividend",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=72d6a3618c1c9b167c7e650ed0b69f647d05dc4bd4ef377f5cc12583360e10ca",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Global Fluorescent In Situ Hybridization Probe Market Size/Share Worth USD 2.27 Billion by 2035 at a 7.9% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb0ef7d99e16699207d83bd1af629a955cc977b038dbdb9e33cff98f1259b566",
-      "published_at": "2026-06-17T20:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Avantor (AVTR) Gets Underperform Rating From Wolfe Research",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7c809741f38db886c9938eddc133d7321981b390b2af9217f243a80b64a1f71",
-      "published_at": "2026-06-17T09:59:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.964,
-      "sentiment_confidence": 0.964,
       "relevance_score": 1.0,
       "event_type": null
     }
