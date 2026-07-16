@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "TSLA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-07-15"
-  },
-  {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-07-15"
-  },
-  {
-    "ticker": "LLY",
-    "previous_signal": "reduce",
+    "ticker": "AMZN",
+    "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-07-15"
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "JPM",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "BLK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-16"
   },
   {
     "ticker": "PG",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-07-15"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-16"
   },
   {
     "ticker": "CAT",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-07-15"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-07-16"
   },
   {
     "ticker": "HON",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-15"
-  },
-  {
-    "ticker": "CMCSA",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-07-15"
+    "date": "2026-07-16"
   },
   {
     "ticker": "NEE",
-    "previous_signal": "buy",
-    "new_signal": "reduce",
-    "date": "2026-07-15"
+    "previous_signal": "reduce",
+    "new_signal": "buy",
+    "date": "2026-07-16"
   }
 ]

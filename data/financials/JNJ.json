@@ -2,6 +2,22 @@
   "ticker": "JNJ",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 2.29892,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 2407216971.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 24062000000.0,
       "net_income": 5235000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 21893000000.0,
       "net_income": 10999000000.0,
-      "eps": 4.572201,
+      "eps": null,
       "gross_margin": 0.6639565157813,
       "operating_margin": 0.2831498652537341,
       "net_margin": 0.5023980267665464,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 38474000000.0,
       "roe": 0.14081603912481278,
       "roa": 0.05679218881505233,
-      "shares_outstanding": 2405625000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 29.864706,
-    "forward_pe": 19.901407,
+    "pe_ratio": 29.407145,
+    "forward_pe": 19.365948,
     "ev_ebitda": 18.762,
-    "price_to_sales": 6.341421,
-    "peg_ratio": 4.94,
-    "market_cap": 611072016384,
+    "price_to_sales": 6.170801,
+    "peg_ratio": 4.88,
+    "market_cap": 594630737920,
     "enterprise_value": 644008050688
   }
 }

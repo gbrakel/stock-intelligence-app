@@ -1,19 +1,20 @@
 {
   "ticker": "HD",
   "risk_level": "medium",
-  "overall_risk_score": 44.0,
+  "overall_risk_score": 46.5,
   "factors": {
-    "volatility": 49.0,
+    "volatility": 47.9,
     "debt_burden": 90.0,
     "earnings_consistency": 11.0,
     "cash_burn": 0.0,
     "sector_risk": 45.0,
-    "sentiment_stability": 41.9,
-    "liquidity": 50.0,
+    "sentiment_stability": 44.0,
+    "liquidity": 75.0,
     "drawdown": 57.6,
     "concentration": 40.0
   },
   "risk_flags": [
-    "Elevated debt-to-equity ratio"
+    "Elevated debt-to-equity ratio",
+    "Low relative trading volume"
   ]
 }

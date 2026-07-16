@@ -2,6 +2,22 @@
   "ticker": "JPM",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 7.71,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 2689900000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 49833000000.0,
       "net_income": 16494000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 45327000000.0,
       "net_income": 14643000000.0,
-      "eps": 5.08,
+      "eps": null,
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": 0.3230524852736779,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 425903000000.0,
       "roe": 0.04166808946559672,
       "roa": 0.0033601385635505165,
-      "shares_outstanding": 2819400000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 16.022898,
-    "forward_pe": 14.237225,
+    "pe_ratio": 14.687129,
+    "forward_pe": 14.205561,
     "ev_ebitda": null,
-    "price_to_sales": 5.2937484,
+    "price_to_sales": 4.988779,
     "peg_ratio": 1.76,
-    "market_cap": 918777692160,
-    "enterprise_value": 655280963584
+    "market_cap": 929549254656,
+    "enterprise_value": 488712241152
   }
 }

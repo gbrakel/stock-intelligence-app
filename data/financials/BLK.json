@@ -2,6 +2,22 @@
   "ticker": "BLK",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 12.34,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 155200000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 6698000000.0,
       "net_income": 2212000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 5276000000.0,
       "net_income": 1510000000.0,
-      "eps": 9.74,
+      "eps": null,
       "gross_margin": 0.47877179681576953,
       "operating_margin": 0.3385140257771039,
       "net_margin": 0.2862016679302502,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 7747000000.0,
       "roe": 0.030085674437138873,
       "roa": 0.010638147975933833,
-      "shares_outstanding": 155000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 25.973656,
-    "forward_pe": 16.51093,
+    "pe_ratio": 27.555445,
+    "forward_pe": 17.437471,
     "ev_ebitda": 16.21,
-    "price_to_sales": 6.5035853,
-    "peg_ratio": 1.18,
-    "market_cap": 166738919424,
+    "price_to_sales": 6.934604,
+    "peg_ratio": 1.17,
+    "market_cap": 177789386752,
     "enterprise_value": 167631142912
   }
 }

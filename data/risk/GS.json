@@ -1,21 +1,20 @@
 {
   "ticker": "GS",
   "risk_level": "high",
-  "overall_risk_score": 57.4,
+  "overall_risk_score": 50.2,
   "factors": {
-    "volatility": 71.3,
-    "debt_burden": 90.0,
-    "earnings_consistency": 9.7,
+    "volatility": 70.5,
+    "debt_burden": 50.0,
+    "earnings_consistency": 14.6,
     "cash_burn": 72.0,
     "sector_risk": 50.0,
-    "sentiment_stability": 64.7,
+    "sentiment_stability": 47.0,
     "liquidity": 71.4,
     "drawdown": 38.8,
     "concentration": 40.0
   },
   "risk_flags": [
     "High volatility (annualized)",
-    "Elevated debt-to-equity ratio",
     "Frequent negative free cash flow",
     "Low relative trading volume"
   ]

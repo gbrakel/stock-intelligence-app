@@ -2,6 +2,22 @@
   "ticker": "GS",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 21.27,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 300100000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 17227000000.0,
       "net_income": 5630000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 15062000000.0,
       "net_income": 4738000000.0,
-      "eps": 14.25,
+      "eps": null,
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": 0.3145664586376311,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 167408000000.0,
       "roe": 0.038117457763475464,
       "roa": 0.0026826242610468575,
-      "shares_outstanding": 320800000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 20.84095,
-    "forward_pe": 16.990545,
+    "pe_ratio": 17.792585,
+    "forward_pe": 16.28525,
     "ev_ebitda": null,
-    "price_to_sales": 5.4654975,
+    "price_to_sales": 5.029883,
     "peg_ratio": 1.57,
-    "market_cap": 336308469760,
-    "enterprise_value": 32801392640
+    "market_cap": 339869171712,
+    "enterprise_value": 175141994496
   }
 }
