@@ -2,6 +2,61 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Most Stocks Gained, but Chip Selloff Drags Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5eb769a39dde693d02d17bd1ef05fbb8943dc36c8037f16a20feeb54fa42d5b0",
+      "published_at": "2026-07-16T20:01:34",
+      "sentiment": "negative",
+      "sentiment_score": -0.94,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=0599a730d1c9c8a1c033764e0e99b20ef3fc7cc5b00c7e3e5a714468a2ea583b",
+      "published_at": "2026-07-16T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's Happening With GE Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22b2c6c9baa503f294fbfb8f78ad1379b6a3b5afa93bb6de4daa7ce3b87b51cc",
+      "published_at": "2026-07-16T13:27:30",
+      "sentiment": "negative",
+      "sentiment_score": -0.715,
+      "sentiment_confidence": 0.715,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Stocks Riding the AI Data Center Power Buildout in July",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1674bc0160602b56edb00358ded1c8fc8deede3d278c4bacff1cb54a7997727",
+      "published_at": "2026-07-16T12:00:05",
+      "sentiment": "negative",
+      "sentiment_score": -0.569,
+      "sentiment_confidence": 0.569,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Michael Burry Mocks Data Center 'Fantasy\u2019 In ORCL, NVDA, AMZN \u2014 But Trump Sees \u2018Big, Strong, Bold\u2019 Money Machines",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66b4974bee5ba3a4dfe499e55c8d182cbbd8e4a5d91ccda648f2958e799907d2",
+      "published_at": "2026-07-16T05:21:37",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.877,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Caterpillar (CAT) Stock Slides as Market Rises: Facts to Know Before You Trade",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f2716796cc5a0dd3655e5e6db28eadcf8487af5295b1ed302da6cbac760c7446",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.523,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Is Caterpillar Stock Gaining Thursday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=882e916ee13b5ea774202a470000bc6e42def4f951fbb2ea2f101de96081a4a6",
-      "published_at": "2026-07-09T07:57:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.727,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CORRECTION: Caterpillar Acquires SkyCatch; Financial Terms Not Disclosed",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=312efa4c2684761c76f79837259b796275f2377570e4ff5da1cbb0d4a993c192",
-      "published_at": "2026-07-09T06:49:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Big Short' Michael Burry Bets Against Nvidia and Tesla Again",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88bfa91d76e4fd70786c9e6f0c857d8bd06fef5d5fc8373f5750a7e0b71b91ad",
-      "published_at": "2026-07-08T18:33:57",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.817,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Caterpillar's Skycatch Deal Boost Its Mining Tech Edge?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c5b105ed754c1b58cc28a25c7be7f7275ee7b1e7c39b12edb90527c5ba24b3e",
-      "published_at": "2026-07-08T16:02:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.914,
-      "sentiment_confidence": 0.914,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Caterpillar\u2019s (CAT) Dividend Hike and Buybacks Make Capital-Return Mix Central to Its Tax Profile",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc796a53cb12c51f73cd061e9a25f9234cad6a710b0b690630956dd7984995f1",
-      "published_at": "2026-07-08T12:48:14",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.873,
       "relevance_score": 1.0,
       "event_type": null
     }
