@@ -2,6 +2,22 @@
   "ticker": "NFLX",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.81,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 4189303000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 12249757000.0,
       "net_income": 5282791000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 10542801000.0,
       "net_income": 2890351000.0,
-      "eps": 0.676,
+      "eps": null,
       "gross_margin": 0.5007828564723928,
       "operating_margin": 0.31746772039043514,
       "net_margin": 0.2741539938010781,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 7199848000.0,
       "roe": 0.1202905867649062,
       "roa": 0.05549014656911724,
-      "shares_outstanding": 4272700000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 23.983871,
-    "forward_pe": 19.397642,
-    "ev_ebitda": 22.233,
-    "price_to_sales": 6.6767526,
-    "peg_ratio": 1.44,
-    "market_cap": 313072877568,
-    "enterprise_value": 317675012096
+    "pe_ratio": 21.682388,
+    "forward_pe": 18.051626,
+    "ev_ebitda": 19.966,
+    "price_to_sales": 6.002273,
+    "peg_ratio": 1.45,
+    "market_cap": 290334539776,
+    "enterprise_value": 294033850368
   }
 }
