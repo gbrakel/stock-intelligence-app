@@ -2,6 +2,116 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Stay informed with the top movers within the dow jones index on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=02b2e30e4b5a8015da142e1b9a1f892637cc927d311f40cc472a5668f9bca33d",
+      "published_at": "2026-07-20T19:10:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=e613f9fe68ef0a1cdfe2f10691bd46234a818a12bfae7c5960dbd9c806ea565d",
+      "published_at": "2026-07-20T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cathie Wood Dumps $39 Million Worth of AMD Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f5d922695442ada9477fe2b1b6cd356fc656e836eeda21caf11fcb742630056",
+      "published_at": "2026-07-20T16:06:44",
+      "sentiment": "negative",
+      "sentiment_score": -0.541,
+      "sentiment_confidence": 0.541,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Otis to Report Q2 Earnings: Here's What to Expect This Season",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7a4eafffab5206c14d8199e70faea9b06eaf7b04a2cfc3f003325be61df0fdd",
+      "published_at": "2026-07-20T13:18:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Our Top 10 High Growth Dividend Stocks - July 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=80fc5a8e8ab67c57a31e836e926f232d8209eea2df7399f0f39be6109a2c9017",
+      "published_at": "2026-07-19T08:15:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf51b64852dab0a94535405cbe4b59e23c7f86ac1e465876becfc2562cf11bc5",
+      "published_at": "2026-07-19T01:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.723,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Should You Buy This Sneaky AI Dividend Stock Up 330% In The Last 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f78aef9ca6c00587dbe83e61246f0c6bedea204e70834691e9306ebf8199528d",
+      "published_at": "2026-07-18T16:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.787,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32a1824693ce28096d02870fe343b131c286a61a7d3581460ab0795e527e6ea0",
+      "published_at": "2026-07-18T16:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.93,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Got $1,000? Here's Why I Would Buy UPS Over Caterpillar.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa6fe2d5dbb61e48dc5f14fb58bb6027d72c9a634a9d01dfbc7e8642afdbf0c7",
+      "published_at": "2026-07-18T11:35:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Google, Tesla, Intel To Headline Earnings Next Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
+      "published_at": "2026-07-18T11:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.805,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "SpaceX vs. Caterpillar: Which Stock Is a Better Buy in 2026, the Aerospace Innovator or the Construction Giant?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5e2e72b8ac1ea18b8cc51249024f5886572032ca85fbd7be400f4c6f1ae29600",
@@ -200,17 +310,6 @@
       "event_type": null
     },
     {
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d3f52428a05de534ed0291c48948492f6aadc30b433f1701d5322f7b8d1fb595",
-      "published_at": "2026-07-15T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "What to Expect From Caterpillar's Q2 2026 Earnings Report",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=505101aff12eecf95b1d3782ef1b748f46240119a27213518cc6f6fceddfd331",
@@ -332,17 +431,6 @@
       "event_type": null
     },
     {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f13399f677cd7c71aafcdc84abe74809c39d947570bc4629e20caf0d44034b59",
-      "published_at": "2026-07-13T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Caterpillar (CAT) Bets On Recurring Revenue After 38% Construction Sales Surge",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5de372cc3d62d564d82b1c2b1172db36e2a455554e8559cda5a71ec53c73b4e9",
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.909,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f1b2c2cebd6715831501571f2e0eaa6df6e4dbd5dd50cb7f5e5c18fd5cf66369",
-      "published_at": "2026-07-10T16:40:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Jones Index Rises Ahead Of SK Hynix Stock Debut (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=204081d3b6d823b7cf8a445d4403ff6c1ffb5cc3b040574f675ef7a1a8015df0",
-      "published_at": "2026-07-10T13:43:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.634,
-      "sentiment_confidence": 0.634,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "6 Industrials Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ffa5e10a1f6ee6381a20c7a0fd0b3ac0bc74a96e20a806c4f299ebc18905e6c9",
-      "published_at": "2026-07-10T13:35:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.808,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's What Investors Must Know Ahead of Fastenal's Q2 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5002bd8ffef74747f58aa02d6ea3fc77094edc6f870328bf63972555db7df37",
-      "published_at": "2026-07-10T13:31:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.946,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "KB HOME OPENS ENCLAVES AT TUMAMOC: HOMES PRICED FROM THE LOW $300Ks IN A CENTRAL TUCSON, ARIZONA LOCATION",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f5407bc676a05ef5c00a3c7e56e2836b4861029dce80f8c75e59e1e29a3c240",
-      "published_at": "2026-07-10T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.868,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Is Finding New Winners Beyond Pure-Play AI: 2 Stocks to Watch Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bbe17a1c1bdeb9eaf28a7578fa84d40f1b86b3c88bb069870e0301a1c74fcd0",
-      "published_at": "2026-07-10T11:30:02",
-      "sentiment": "positive",
-      "sentiment_score": 0.63,
-      "sentiment_confidence": 0.63,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar (CAT) Stock Dips While Market Gains: Key Facts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81a0d46cc4d112fc42a428320530be4c794f2a758332340644b876ee9961d92e",
-      "published_at": "2026-07-09T21:45:05",
-      "sentiment": "negative",
-      "sentiment_score": -0.835,
-      "sentiment_confidence": 0.835,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These Dividend Paying Stocks Offer Strong Exposure to AI Trends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18c015d48bb9078d624a97255fa03b74098a534432de9e8cb5a4e73bd4339252",
-      "published_at": "2026-07-09T21:19:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.593,
-      "sentiment_confidence": 0.593,
       "relevance_score": 1.0,
       "event_type": null
     }
