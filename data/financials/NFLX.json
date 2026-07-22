@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-06-30",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 12559938000.0,
+      "net_income": 3401414000.0,
       "eps": 0.81,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.5193475477347101,
+      "operating_margin": 0.3338081764416353,
+      "net_margin": 0.27081455338394184,
+      "free_cash_flow": 1525168000.0,
+      "total_debt": 14309306000.0,
+      "total_equity": 30152052000.0,
+      "cash_and_equivalents": 9099232000.0,
+      "roe": 0.11280870701602663,
+      "roa": 0.058193128089486956,
       "shares_outstanding": 4189303000.0
     },
     {
@@ -69,7 +69,7 @@
       "period_end": "2025-06-30",
       "revenue": 11079166000.0,
       "net_income": 3125413000.0,
-      "eps": 0.735,
+      "eps": 0.74,
       "gross_margin": 0.5193400839016222,
       "operating_margin": 0.34070199868834894,
       "net_margin": 0.28209821930639906,
@@ -79,23 +79,7 @@
       "cash_and_equivalents": 8177405000.0,
       "roe": 0.12525752047970376,
       "roa": 0.05885937432673773,
-      "shares_outstanding": 4252110000.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 10542801000.0,
-      "net_income": 2890351000.0,
-      "eps": null,
-      "gross_margin": 0.5007828564723928,
-      "operating_margin": 0.31746772039043514,
-      "net_margin": 0.2741539938010781,
-      "free_cash_flow": 2660922000.0,
-      "total_debt": 15016918000.0,
-      "total_equity": 24028073000.0,
-      "cash_and_equivalents": 7199848000.0,
-      "roe": 0.1202905867649062,
-      "roa": 0.05549014656911724,
-      "shares_outstanding": null
+      "shares_outstanding": 4252112000.0
     }
   ],
   "annual": [
@@ -181,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 21.666666,
-    "forward_pe": 17.710058,
-    "ev_ebitda": 19.625,
-    "price_to_sales": 5.8847523,
+    "pe_ratio": 21.260061,
+    "forward_pe": 18.006607,
+    "ev_ebitda": 19.927,
+    "price_to_sales": 5.911375,
     "peg_ratio": 1.35,
-    "market_cap": 284649979904,
-    "enterprise_value": 289009074176
+    "market_cap": 285937729536,
+    "enterprise_value": 293464473600
   }
 }

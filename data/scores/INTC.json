@@ -2,6 +2,21 @@
   "ticker": "INTC",
   "history": [
     {
+      "date": "2026-07-22",
+      "composite": 36.1,
+      "signal": "exit_watch",
+      "signal_confidence": 0.7,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 28.6,
+        "growth_trend": 50.7,
+        "valuation": 32.5,
+        "sentiment": 71.1,
+        "technical": 67.8,
+        "risk_penalty": 63.0
+      }
+    },
+    {
       "date": "2026-07-21",
       "composite": 35.0,
       "signal": "exit_watch",
