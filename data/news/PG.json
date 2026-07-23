@@ -2,6 +2,39 @@
   "ticker": "PG",
   "articles": [
     {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4dd21184d1462d0068ff987aa2f82ff81b64ca5662220094fa95e645bdec6773",
+      "published_at": "2026-07-22T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "New Swiffer Lemon Duster Delivers the Fresh Scent of Clean with No Spray Required",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=070401bbdb3347d5269792661e0884764ac37eb40e5e432e5abea0376cecdb5b",
+      "published_at": "2026-07-22T14:01:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.679,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Analysts Estimate Procter & Gamble (PG) to Report a Decline in Earnings: What to Look Out for",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d767159b2e38f69e6d21801a2a7ba836595924c7c470959f5ce4c16f6ce03b89",
+      "published_at": "2026-07-22T14:00:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b5b189a7facdb320b30f5d6ee8b7c837597bd1d2e6080fedff59af810237881a",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "This Portfolio Lets You Earn More Than a Lawyer\u2026 Without Going to Law School",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ba6010589532f31957cbc01d14660bf4b1be15d94fec0bd8703f6a17977156b",
-      "published_at": "2026-07-13T10:45:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.834,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The 10 best state economies in America in 2026",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=e7bc2ada588cf2adac84f1c0501fa0221bd7ce5aaec251bb11ce57714a088ce5",
-      "published_at": "2026-07-13T10:00:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Dividend Growth Roadmap That Turns $60,000 a Year Into More Than $125,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e019bdbd696e4fd6d39936b0e69a10c9989463cd9926bd77fb582cf144e20c1",
-      "published_at": "2026-07-13T09:00:37",
-      "sentiment": "positive",
-      "sentiment_score": 0.561,
-      "sentiment_confidence": 0.561,
       "relevance_score": 1.0,
       "event_type": null
     }

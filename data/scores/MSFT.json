@@ -2,6 +2,21 @@
   "ticker": "MSFT",
   "history": [
     {
+      "date": "2026-07-23",
+      "composite": 51.8,
+      "signal": "exit",
+      "signal_confidence": 0.73,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 69.8,
+        "growth_trend": 59.5,
+        "valuation": 66.0,
+        "sentiment": 60.7,
+        "technical": 24.5,
+        "risk_penalty": 34.7
+      }
+    },
+    {
       "date": "2026-07-22",
       "composite": 53.8,
       "signal": "exit",

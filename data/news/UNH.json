@@ -2,6 +2,105 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Molina Healthcare Earnings Beat Estimates. The Medicaid Insurer Is Confronting Investor Doubts.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ba775d89d5d596fea078f6107eab7254cd233a690a07ce30fd544770c1dccd0",
+      "published_at": "2026-07-22T20:45:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.568,
+      "sentiment_confidence": 0.568,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4dd21184d1462d0068ff987aa2f82ff81b64ca5662220094fa95e645bdec6773",
+      "published_at": "2026-07-22T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Will UnitedHealth (UNH) Gain on Rising Earnings Estimates?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfbb62d78629cd35825b82b84ad68078f93e91173155471825282e445363de4c",
+      "published_at": "2026-07-22T16:20:02",
+      "sentiment": "positive",
+      "sentiment_score": 0.938,
+      "sentiment_confidence": 0.938,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trade Tracker: Steve Weiss buys more UnitedHealth",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1269487b3430f750bd538dbca5e9bff89ec921858788f17f6bb2d51f35d682fb",
+      "published_at": "2026-07-22T13:13:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.804,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hesai Says Co Selected By NVIDIA As Lidar Partner For NVIDIA DRIVE Hyperion 10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=188b4d8ee71a8e52b66809d406cc7c293d8b00b7f1c9f28a4df221dd0b53d09c",
+      "published_at": "2026-07-22T13:01:24",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.615,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fishbone Advisors Survey: Institutional Investors See Healthcare's AI Story as Overblown",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a6528725d9c46a032b9aec4860fb2d1d0620a931ee06da19f7676b4d8235c80",
+      "published_at": "2026-07-22T10:00:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.732,
+      "sentiment_confidence": 0.732,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth: Recovery Unlikely To Be Linear - Near-Term Consolidation Risks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2f23f8de245d14e66467b5ae2a0036f5c6ca5a6f6e40a2713270570d1580ec7",
+      "published_at": "2026-07-22T09:00:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.809,
+      "sentiment_confidence": 0.809,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia, Goldman Sachs, UnitedHealth and an Energy Stock on CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=afff8804649623679c8c0c3dd563f43fa9c43c3808560f43d2ba05dc95c456eb",
+      "published_at": "2026-07-22T08:32:58",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This Medicaid Insurer\u2019s Stock Has Climbed in 2026. Investors Still Have Doubts.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=507d1f1e14f5a93c108e3a09cd93471be998753c08bb42c26fec67204e31f4e8",
+      "published_at": "2026-07-22T06:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.566,
+      "sentiment_confidence": 0.566,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Hidden Engine Behind Elevance Health Stock's Next Climb",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=57236c5052f85582eb5ea0f555f013f41560f1273e2f5734bc67c62a45028091",
@@ -376,17 +475,6 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b8d366b0978045461c3e2f0f805013981ee50b4718778eb2469f0e71bb1d2514",
-      "published_at": "2026-07-17T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Top dow jones movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
@@ -460,94 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.931,
       "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Baird Upgrades UnitedHealth Group (UNH)",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=1a7c533eff5a09b86b8a74bfc04ed69e3a9036469c833348fc3591abc5637175",
-      "published_at": "2026-07-17T11:37:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oppenheimer Maintains Outperform on UnitedHealth Group, Raises Price Target to $500",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f8f853e4adee6426df6152fb1a5b1781b5b2795da299d5231ebf3a7a4de6379e",
-      "published_at": "2026-07-17T11:28:22",
-      "sentiment": "positive",
-      "sentiment_score": 0.917,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market News for July 17, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33faea986626298ee8200dbcc50b18bc256e86141a90f1a21f0d9c1c6007b135",
-      "published_at": "2026-07-17T10:52:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Circle Gets Street-Low Target as Stablecoin Competition Heats Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a9c8dd2f2d82723784acd714f4869ce828aa57a0a435974405d773d25ae00c0",
-      "published_at": "2026-07-17T10:45:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.833,
-      "sentiment_confidence": 0.833,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why UnitedHealth Can't Stop Saying One Word: 'Restless'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a18c8df849fef5a415f1bb9f0d4ced5c569c981398026d68f8f79f59c0b5f77d",
-      "published_at": "2026-07-17T10:01:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.852,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UnitedHealth Analysts Increase Their Forecasts After Better-Than-Expected Q2 Results",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4d2e6afbef6987b847ffcd53e95d07aa5459f7f87c2a8f3e00f32993e45a4f40",
-      "published_at": "2026-07-17T09:37:53",
-      "sentiment": "positive",
-      "sentiment_score": 0.867,
-      "sentiment_confidence": 0.867,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Truist Securities Maintains Buy on UnitedHealth Group, Raises Price Target to $500",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d0f7bbc8662997f120e081f94945d9cb42d7b8af23adc692d48e3a1ddd60f83f",
-      "published_at": "2026-07-17T09:33:18",
-      "sentiment": "positive",
-      "sentiment_score": 0.841,
-      "sentiment_confidence": 0.841,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Maintains Outperform on UnitedHealth Group, Raises Price Target to $478",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b05fa859facf84b07a7a3a36f4fffbd56528d68da9a578dd4a1c192f1389a9c7",
-      "published_at": "2026-07-17T09:32:43",
-      "sentiment": "positive",
-      "sentiment_score": 0.877,
-      "sentiment_confidence": 0.877,
       "relevance_score": 1.0,
       "event_type": null
     }
