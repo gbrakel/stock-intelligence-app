@@ -2,6 +2,22 @@
   "ticker": "GOOGL",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 119796000000.0,
+      "net_income": 112193000000.0,
+      "eps": 9.23,
+      "gross_margin": 0.6164896991552306,
+      "operating_margin": 0.3403285585495342,
+      "net_margin": 0.9365337740826071,
+      "free_cash_flow": -5855000000.0,
+      "total_debt": 112756000000.0,
+      "total_equity": 640480000000.0,
+      "cash_and_equivalents": 55911000000.0,
+      "roe": 0.175170184861354,
+      "roa": 0.12168662545838697,
+      "shares_outstanding": 12151000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 109896000000.0,
       "net_income": 62578000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 90234000000.0,
-      "net_income": 34540000000.0,
-      "eps": 2.84,
-      "gross_margin": 0.5970365937451515,
-      "operating_margin": 0.3391847862224882,
-      "net_margin": 0.38278254316554733,
-      "free_cash_flow": 18953000000.0,
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
       "total_debt": null,
-      "total_equity": 345267000000.0,
-      "cash_and_equivalents": 23264000000.0,
-      "roe": 0.10003852091280081,
-      "roa": 0.07265858040195719,
-      "shares_outstanding": 12183000000.0
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -90,7 +106,7 @@
       "operating_margin": null,
       "net_margin": null,
       "free_cash_flow": null,
-      "total_debt": null,
+      "total_debt": 22574000000.0,
       "total_equity": null,
       "cash_and_equivalents": null,
       "roe": null,
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 26.073933,
-    "forward_pe": 23.312311,
-    "ev_ebitda": 25.501,
-    "price_to_sales": 9.880232,
+    "pe_ratio": 15.932297,
+    "forward_pe": 21.533838,
+    "ev_ebitda": 21.83,
+    "price_to_sales": 8.714117,
     "peg_ratio": 1.37,
-    "market_cap": 4174378172416,
-    "enterprise_value": 4113798529024
+    "market_cap": 3885328236544,
+    "enterprise_value": 3773653581824
   }
 }

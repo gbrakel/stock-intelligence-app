@@ -2,6 +2,105 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Alphabet Just Revealed Its Big Stake in SpaceX",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3e9de048c7049be311ff231e2300370900224006d39dbb47e5e75fad2626bc1",
+      "published_at": "2026-07-23T22:21:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Arista Networks Stock Runs On A Different Fuel",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4877b4fedddf3b37e689931c531d19f206034d199ca67ea1355a39e155b92520",
+      "published_at": "2026-07-23T19:16:23",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bc6828dc888b16a18d4634c6b054cfddda83b8c9bd63e85c8a711b2f5a305ff4",
+      "published_at": "2026-07-23T19:10:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97f7529e65a70a0de14dfc05d97349c7843a0ac5cb858cdc897c74e4e8c1d87e",
+      "published_at": "2026-07-23T18:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.798,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2b1f0452b3a057ed6a9cc36b34e4ba342fc311f608df0b5acc4cf4ca752eee72",
+      "published_at": "2026-07-23T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.839,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Has Cisco Systems (CSCO) Run Ahead Of Fair Value Following Its Webex Contact Center Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=653c0fc37b62e08f76a7100adf4e6b7228ce02a33abc1d2cc014af4a97ec3e5a",
+      "published_at": "2026-07-23T15:15:26",
+      "sentiment": "positive",
+      "sentiment_score": 0.413,
+      "sentiment_confidence": 0.413,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Texas Instruments Q2 Earnings Beat Estimates, Revenues Rise Y/Y",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d7d0858866920632f2cb1c5b4e6f44d442e16e34d67be843af1ff21b969f191",
+      "published_at": "2026-07-23T14:19:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.943,
+      "sentiment_confidence": 0.943,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Systems' Quarterly Earnings Preview: What You Need to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f5ce601c916a0b97c6658a1c91480289094aa98b102deee0b8413a258108020",
+      "published_at": "2026-07-23T13:07:59",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.905,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Tenable Joins Cisco\u2019s SolutionsPlus Program as an Exposure Management Partner for Vulnerability Management Customers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3263f11921435a148e3b102e7339f02b9551b029b0e5a1c1b9dc2f73861d8581",
+      "published_at": "2026-07-23T13:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.757,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AXT Announces Jia-Bin Duh Appointed to AXT, Inc. Board of Directors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=857ad14ad803b7e0791c3f9f1abc53d4020f26e2cf0e98d94d50d1a2b7f88370",
@@ -299,17 +398,6 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b8d366b0978045461c3e2f0f805013981ee50b4718778eb2469f0e71bb1d2514",
-      "published_at": "2026-07-17T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Top dow jones movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.858,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Airties Strengthens Board of Directors and Executive Team with New Strategic Appointments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35f4e96c0186a1f51dbc8e27c3a1ffbffa0552730eb43d1c060d8abe71b89766",
-      "published_at": "2026-07-16T05:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.543,
-      "sentiment_confidence": 0.543,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "HPE's 42x Multiple Tells Only Half the Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f1d676d7640d05e6618a4d5e1b7d3a8992801562ecccf1593c884f8ebca36f7",
-      "published_at": "2026-07-16T00:54:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.914,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Arista's Great Problem: Too Much Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f1b9bcb568a9da3d418fbfe1e96d3fbd95d91669a3bc914f6d3da203be4fe28",
-      "published_at": "2026-07-16T00:40:55",
-      "sentiment": "negative",
-      "sentiment_score": -0.917,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Stock's Independent Streak Is Its Edge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81850ecfae4b41d3414c250776918fb09548963630bbe0781d87301ea9432653",
-      "published_at": "2026-07-15T23:56:17",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.708,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Took 25 Years to Make Investors Whole Again After Its Dot-Com Crash. Here's What That Means for Traders Buying NVIDIA Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=690e54475794dc4e1203d37a25c3d1931ee42e51969bd85856699f73ae6c81bb",
-      "published_at": "2026-07-15T20:36:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=6750508196e401c3e7147c7d16e101bbbf6a7f4a57e20206b50542adf6290ea5",
-      "published_at": "2026-07-15T19:10:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.839,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is PANW Stock A Smart Buy As AI Rewrites The Rules Of Cybersecurity?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01b0a99bfe5a06789c01005881abea81b6613742bf699d907dc0588159a47445",
-      "published_at": "2026-07-15T15:55:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Jumps 52% YTD: Is There More Room for the Stock to Rise?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=634bb2a1af12e09642f4f80978bbdef292211b8e983e1659960446b16b48582e",
-      "published_at": "2026-07-15T15:35:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.69,
-      "sentiment_confidence": 0.69,
       "relevance_score": 1.0,
       "event_type": null
     }

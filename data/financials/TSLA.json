@@ -2,6 +2,22 @@
   "ticker": "TSLA",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.34,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 3237000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 22387000000.0,
       "net_income": 477000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 19335000000.0,
       "net_income": 409000000.0,
-      "eps": 0.13,
+      "eps": null,
       "gross_margin": 0.1630721489526765,
       "operating_margin": 0.025497801913628135,
       "net_margin": 0.021153348849237134,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 16352000000.0,
       "roe": 0.005423108541727439,
       "roa": 0.003269097041826858,
-      "shares_outstanding": 3218000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 340.0091,
-    "forward_pe": 145.75206,
-    "ev_ebitda": 124.077,
-    "price_to_sales": 14.3511715,
+    "pe_ratio": 296.00925,
+    "forward_pe": 142.47514,
+    "ev_ebitda": 93.102,
+    "price_to_sales": 12.185322,
     "peg_ratio": 4.75,
-    "market_cap": 1404678307840,
-    "enterprise_value": 1376511328256
+    "market_cap": 1262630862848,
+    "enterprise_value": 1001315500032
   }
 }
