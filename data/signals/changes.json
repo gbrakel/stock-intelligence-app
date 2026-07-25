@@ -1,56 +1,44 @@
 [
   {
-    "ticker": "GOOGL",
+    "ticker": "INTC",
     "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-07-24"
+    "new_signal": "exit",
+    "date": "2026-07-25"
   },
   {
     "ticker": "NOW",
-    "previous_signal": "reduce",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-07-25"
+  },
+  {
+    "ticker": "UNH",
+    "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-07-24"
+    "date": "2026-07-25"
   },
   {
     "ticker": "JNJ",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-07-24"
-  },
-  {
-    "ticker": "ABBV",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-24"
-  },
-  {
-    "ticker": "TMO",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-07-24"
-  },
-  {
-    "ticker": "KO",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-24"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-07-25"
   },
   {
     "ticker": "UNP",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-07-24"
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-07-25"
   },
   {
-    "ticker": "CMCSA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-07-24"
+    "ticker": "HON",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-07-25"
   },
   {
-    "ticker": "NEE",
-    "previous_signal": "hold",
-    "new_signal": "buy",
-    "date": "2026-07-24"
+    "ticker": "GE",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-07-25"
   }
 ]

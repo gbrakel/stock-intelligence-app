@@ -2,10 +2,26 @@
   "ticker": "CMCSA",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 29940000000.0,
+      "net_income": 3526000000.0,
+      "eps": 0.99,
+      "gross_margin": 0.7198062792251169,
+      "operating_margin": 0.17234468937875752,
+      "net_margin": 0.1177688710754843,
+      "free_cash_flow": 4603000000.0,
+      "total_debt": 90381000000.0,
+      "total_equity": 89955000000.0,
+      "cash_and_equivalents": 7661000000.0,
+      "roe": 0.039197376466010785,
+      "roa": 0.013690651839657073,
+      "shares_outstanding": 3564000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 31457000000.0,
       "net_income": 2174000000.0,
-      "eps": 0.607794,
+      "eps": 0.6,
       "gross_margin": 0.6540038783100741,
       "operating_margin": 0.13144927996948216,
       "net_margin": 0.06911021394284261,
@@ -15,7 +31,7 @@
       "cash_and_equivalents": 9468000000.0,
       "roe": 0.024553873955274454,
       "roa": 0.008361474142506596,
-      "shares_outstanding": 3576868808.0
+      "shares_outstanding": 3597000000.0
     },
     {
       "period_end": "2025-12-31",
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 29887000000.0,
-      "net_income": 3375000000.0,
-      "eps": 0.901371,
-      "gross_margin": 0.7184394552815605,
-      "operating_margin": 0.18934653862883527,
-      "net_margin": 0.11292535215980191,
-      "free_cash_flow": 5420000000.0,
-      "total_debt": 99122000000.0,
-      "total_equity": 87300000000.0,
-      "cash_and_equivalents": 8593000000.0,
-      "roe": 0.03865979381443299,
-      "roa": 0.012604100534040407,
-      "shares_outstanding": 3744297368.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 4.614737,
-    "forward_pe": 5.947568,
+    "pe_ratio": 7.033123,
+    "forward_pe": 6.1173034,
     "ev_ebitda": 4.79,
-    "price_to_sales": 0.6250409,
+    "price_to_sales": 0.63153535,
     "peg_ratio": 142.98,
-    "market_cap": 78303248384,
+    "market_cap": 79116853248,
     "enterprise_value": 169428811776
   }
 }

@@ -2,6 +2,22 @@
   "ticker": "UNP",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 6864000000.0,
+      "net_income": 1993000000.0,
+      "eps": 3.36,
+      "gross_margin": 0.4552738927738928,
+      "operating_margin": 0.40253496503496505,
+      "net_margin": 0.29035547785547783,
+      "free_cash_flow": 2203000000.0,
+      "total_debt": 31169000000.0,
+      "total_equity": 20673000000.0,
+      "cash_and_equivalents": 1614000000.0,
+      "roe": 0.09640594011512602,
+      "roa": 0.027987249160944236,
+      "shares_outstanding": 593400000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 6217000000.0,
       "net_income": 1701000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 6027000000.0,
-      "net_income": 1626000000.0,
-      "eps": 2.71,
-      "gross_margin": 0.4529616724738676,
-      "operating_margin": 0.3933963829434213,
-      "net_margin": 0.2697859631657541,
-      "free_cash_flow": 1304000000.0,
-      "total_debt": 33904000000.0,
-      "total_equity": 16039000000.0,
-      "cash_and_equivalents": 1411000000.0,
-      "roe": 0.10137789138973752,
-      "roa": 0.02373999883198038,
-      "shares_outstanding": 601000000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 25.068367,
-    "forward_pe": 21.895441,
-    "ev_ebitda": 16.222,
-    "price_to_sales": 7.3151712,
-    "peg_ratio": 3.54,
-    "market_cap": 180684734464,
-    "enterprise_value": 204166742016
+    "pe_ratio": 24.864079,
+    "forward_pe": 22.110563,
+    "ev_ebitda": 16.524,
+    "price_to_sales": 7.185017,
+    "peg_ratio": 3.69,
+    "market_cap": 182571286528,
+    "enterprise_value": 211685687296
   }
 }

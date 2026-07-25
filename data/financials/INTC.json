@@ -2,6 +2,22 @@
   "ticker": "INTC",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 16128000000.0,
+      "net_income": -11033000000.0,
+      "eps": -2.16,
+      "gross_margin": 0.40358382936507936,
+      "operating_margin": 0.12189980158730158,
+      "net_margin": -0.6840897817460317,
+      "free_cash_flow": 4450000000.0,
+      "total_debt": 50537000000.0,
+      "total_equity": 103143000000.0,
+      "cash_and_equivalents": 12874000000.0,
+      "roe": -0.10696799588920237,
+      "roa": -0.05450036801209253,
+      "shares_outstanding": 5104000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 13577000000.0,
       "net_income": -3728000000.0,
@@ -64,22 +80,6 @@
       "roe": -0.02759311968681147,
       "roa": -0.015156866819031788,
       "shares_outstanding": 4369000000.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 12667000000.0,
-      "net_income": -821000000.0,
-      "eps": -0.19,
-      "gross_margin": 0.36883239914739085,
-      "operating_margin": -0.011447067182442568,
-      "net_margin": -0.06481408383989895,
-      "free_cash_flow": -4370000000.0,
-      "total_debt": 50151000000.0,
-      "total_equity": 106413000000.0,
-      "cash_and_equivalents": 8947000000.0,
-      "roe": -0.007715222764135961,
-      "roa": -0.004270658857065574,
-      "shares_outstanding": 4343000000.0
     }
   ],
   "annual": [
@@ -150,11 +150,11 @@
   ],
   "valuation": {
     "pe_ratio": null,
-    "forward_pe": 61.680763,
+    "forward_pe": 52.7926,
     "ev_ebitda": 37.364,
-    "price_to_sales": 9.369939,
+    "price_to_sales": 8.661386,
     "peg_ratio": 1.36,
-    "market_cap": 503755997184,
+    "market_cap": 465662050304,
     "enterprise_value": 529592975360
   }
 }

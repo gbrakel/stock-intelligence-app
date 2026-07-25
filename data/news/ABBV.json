@@ -2,6 +2,61 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "J&J's Innovative Medicine Unit Proves Its Resilience in Q2",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a4bd9a8e927b4e383f7109324d5417675ca77a48f556859be0ac2e47c6b2f72",
+      "published_at": "2026-07-24T14:35:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.952,
+      "sentiment_confidence": 0.952,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie (ABBV) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8967641ac31cb8a4821e2a74c19e7270b7c5be7a5db018c5340e01a35ad83335",
+      "published_at": "2026-07-24T14:00:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie: A Dividend Fortress At An Appealing Price Tag",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36c987ce04ee75dd31cd8b088c5db92bbebf79f032f9e455b0129572dcb17c89",
+      "published_at": "2026-07-24T10:46:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.61,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netflix, AbbVie, Cerebras Systems And An Energy Stock On CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b0eb0f2c25c6209acafa711d38d4f6710c4762d68b8d1a160f1f2a1dac515ac4",
+      "published_at": "2026-07-24T07:53:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.948,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Two Years to Build or Pay 200% \u2014 Which US Pharma Stocks Win?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=09b0ee23712127e790437bd7239e1db83cc0d6bbe776a957098f94fa4e6d192b",
+      "published_at": "2026-07-24T06:25:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.885,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Genmab and AbbVie Provide Clarification on Phase 3 EPCORE\u00ae DLBCL-1 Trial Evaluating Epcoritamab (DuoBody\u00ae-CD3xCD20) in Patients with Relapsed/Refractory Diffuse Large B-cell Lymphoma (DLBCL)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b63fe51b758812291dc983d692a3927bfad5b612f44e91146f4196fa56df4e45",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.706,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Johnson & Johnson CFO Says This Drug Is Outperforming \u2018Almost Any Launch\u2019 in Recent Memory",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f9bf71fadecdd9a92d2d7c8741a7205f9c570edb10edb3efdbbed51786a82c2",
-      "published_at": "2026-07-15T15:15:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.895,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Should You Buy, Sell or Hold ABBV Stock After Its 9% YTD Rise?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=734ecd32e0b0bb076cabb9c846905c77fbf49fb3332c67befbe8f37a58387e50",
-      "published_at": "2026-07-15T14:44:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie Inc. (ABBV) Is a Trending Stock: Facts to Know Before Betting on It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7243ee1a85b76188f94e48cf78e769302cb5be15f4954fd7c2de0ef2546b5ae3",
-      "published_at": "2026-07-15T13:00:12",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie vs Baxter: One Golden Cross Is Real, One Is a Trap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea90e871f4bebe869edd06014cb31d2873975e46465444a66adc34fbae80de5c",
-      "published_at": "2026-07-15T11:45:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.913,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Johnson & Johnson (JNJ) Q2 Earnings and Revenues Top Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3c02aed2f2d9e07701c9501ce2b08e8169b8f19ffb57cb4a98f015f765f168f",
-      "published_at": "2026-07-15T11:30:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.674,
       "relevance_score": 1.0,
       "event_type": null
     }
