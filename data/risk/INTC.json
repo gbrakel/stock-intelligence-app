@@ -1,21 +1,20 @@
 {
   "ticker": "INTC",
   "risk_level": "high",
-  "overall_risk_score": 62.1,
+  "overall_risk_score": 60.7,
   "factors": {
     "volatility": 100.0,
     "debt_burden": 30.0,
     "earnings_consistency": 100.0,
     "cash_burn": 48.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 71.4,
+    "sentiment_stability": 56.3,
     "liquidity": 12.5,
-    "drawdown": 69.0,
+    "drawdown": 69.9,
     "concentration": 40.0
   },
   "risk_flags": [
     "High volatility (annualized)",
-    "Inconsistent earnings across recent quarters",
-    "Highly volatile news sentiment"
+    "Inconsistent earnings across recent quarters"
   ]
 }
