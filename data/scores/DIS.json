@@ -2,6 +2,21 @@
   "ticker": "DIS",
   "history": [
     {
+      "date": "2026-07-30",
+      "composite": 48.1,
+      "signal": "exit_watch",
+      "signal_confidence": 0.6,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 64.7,
+        "growth_trend": 46.4,
+        "valuation": 75.0,
+        "sentiment": 58.8,
+        "technical": 40.7,
+        "risk_penalty": 41.6
+      }
+    },
+    {
       "date": "2026-07-29",
       "composite": 48.4,
       "signal": "exit_watch",

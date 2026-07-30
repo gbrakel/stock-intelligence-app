@@ -2,6 +2,28 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=3d02d113c2ecf29242a7cd994dbb635d3ad841d7d9e5ea68fc7d21924489df69",
+      "published_at": "2026-07-29T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones down over 800 points as Trump lashes out ahead of Fed decision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44c001b8eb09651befca60290bb06b4467e6a5de6f1f89228a1a7bf643fd5e53",
+      "published_at": "2026-07-29T12:13:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.92,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Honeywell upgraded by Bank of America on stronger order trends",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=215855d6c708389ce9481848a58adec256541efafa00a440e667c30361b07802",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.849,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Raises EPS Outlook, Cuts Sales Forecast After First Post-Split Earnings",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1b12586e36a97e5d3ee4caff7bbbd4a673d6801197abcf935879755f9162ef7c",
-      "published_at": "2026-07-23T13:50:33",
-      "sentiment": "negative",
-      "sentiment_score": -0.934,
-      "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell International (HON) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da77f441d5c82bea2a585748c296888b35a8f143673ff699be93a7c45f293ded",
-      "published_at": "2026-07-23T13:30:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.887,
       "relevance_score": 1.0,
       "event_type": null
     }
