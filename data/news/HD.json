@@ -2,6 +2,39 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "The Home Depot Announces Organizational Realignment to Provide a More Seamless Customer Experience, Drive Growth and Capture Market Share",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b42e1bf76884551b0288474af09fbd894989980496d50e48e2f11fca0cfe1ac",
+      "published_at": "2026-07-30T20:06:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.82,
+      "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bc6262a24c90ed0884245f425e6a54f3ade82a786763155f56cac145e7adfc5d",
+      "published_at": "2026-07-30T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=54c083ca8833104ec3bd833402396dbd380a762e69f889840dbfe2c804963dc9",
+      "published_at": "2026-07-30T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "MAC.BID Brings $1 Online Auctions & Deep Retail Discounts to the St. Louis Metro",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f92bfe1682dbd6812e9f8ff0195972456f766690b04020abe0e9c899f39018d0",
@@ -9,6 +42,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.738,
       "sentiment_confidence": 0.738,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot delivery arm laying off 71 in Dallas, closing Mountain Creek facility",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14be413f67f861f0287288be22bd0bde2d06dce14d7fdee6dbf755706363e68e",
+      "published_at": "2026-07-29T21:46:32",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -174,17 +218,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.889,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4997b4df2c1439dc08aeccb21803747beb7d511fe544df611dff9e6b9aa18a2c",
-      "published_at": "2026-07-24T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.49,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
-      "published_at": "2026-07-11T12:19:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Real Risk Inside Home Depot Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cf1644a9375e7b37b95188275e26c57e621ac7d266720b84085cd38a3d0ccac",
-      "published_at": "2026-07-10T21:21:43",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.865,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top dow jones movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=da214c6fd8d23b4dd37c80c7d483172cf970e4a98b72e72eb896b08e27b9522a",
-      "published_at": "2026-07-10T19:10:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.729,
       "relevance_score": 1.0,
       "event_type": null
     }

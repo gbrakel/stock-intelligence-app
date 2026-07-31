@@ -2,6 +2,39 @@
   "ticker": "NEE",
   "articles": [
     {
+      "headline": "Xcel Q2 Earnings Beat Estimates on Infrastructure Investment Recovery",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4e60d03be26c0df0a76b1b76f482bcce94aadaf79818dd2af67b4c2091842ef",
+      "published_at": "2026-07-30T17:27:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra Energy board declares quarterly dividend",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf76e82cc276d38c2461f226f4d47d0a471fc210d3db33b9f8b8d8c5641d371d",
+      "published_at": "2026-07-30T15:19:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.667,
+      "sentiment_confidence": 0.667,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "DOE Is Converting Its Own Cold War Uranium Sites Into $100 Billion AI Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15ebd0b2627544239823f15f49af9858ab0ac8962ef84cc90c4bf986c3778538",
+      "published_at": "2026-07-30T05:11:40",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.764,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "One Sign the AI Power Trade Is Running Out of Juice",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ee94683eefc9ff435b541c3d7ec7d08d70218a99d1c30b9e4521919727f894a9",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.774,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra Energy Affirms FY2026 Adj EPS Guidance of $3.92-$4.02 vs $4.02 Est",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6fa278284447f72c382c866f05b9691bc351f797ccb7c4a4506e65e378c577be",
-      "published_at": "2026-07-24T07:33:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.378,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Earnings Scheduled For July 24, 2026",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5c6644391afa57f244d22ea3a7b13c6ccf7d22f7134454a039cc57c7c53584e8",
-      "published_at": "2026-07-24T07:11:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.871,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Turn The VST Shares You Own Into A 16% Income Stream",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e061d0354683c6d56adb99eabc49977109edd8e18243a350b8df30ebebb0ca1e",
-      "published_at": "2026-07-23T19:05:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
       "relevance_score": 1.0,
       "event_type": null
     }

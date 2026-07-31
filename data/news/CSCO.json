@@ -2,6 +2,116 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Should You Worry? This AI Cap-Ex Boom is Bigger than 1999.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33aff6153c2673e6326c5cd53c62f9ffbf9783f88c38235bd8c838c0e60dd67a",
+      "published_at": "2026-07-30T20:33:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.855,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bc6262a24c90ed0884245f425e6a54f3ade82a786763155f56cac145e7adfc5d",
+      "published_at": "2026-07-30T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=54c083ca8833104ec3bd833402396dbd380a762e69f889840dbfe2c804963dc9",
+      "published_at": "2026-07-30T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Microsoft Q4 Earnings Beat Estimates as Cloud and AI Drive Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2394d449f9308b0bc14b3e20011f2ae9040984a0a461290264cc2856be005d7",
+      "published_at": "2026-07-30T16:01:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.942,
+      "sentiment_confidence": 0.942,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "LRCX Q4 Earnings Beat on NAND and Customer Support Strength",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64c5037c71a52f4579986ed86c5c4f83cd639fcf93218540cdd1cbc4b9313fc9",
+      "published_at": "2026-07-30T15:54:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.937,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "TENB Q2 Earnings Beat on Tenable One Momentum, Outlook Raised",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4b5a991989528fd6eeb2995cc4e6b09ea9a34265e752ecf161a5b1b06b8c9aa",
+      "published_at": "2026-07-30T13:44:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.784,
+      "sentiment_confidence": 0.784,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fortinet Q2 Earnings & Revenues Beat Estimates, Increase Y/Y",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8480a1d73f264f92c4e4bb38883e8a31d72d7ee41ee6282c0bd832b114dcee2",
+      "published_at": "2026-07-30T13:38:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.943,
+      "sentiment_confidence": 0.943,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Charles Payne: AI Is Not the Dot-Com Bubble. NVIDIA\u2019s Earnings Prove That",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceaa6331ac2712fff502d347c52d0d9f8127d0eda27ac4a3b28cc334c1b8f3af",
+      "published_at": "2026-07-30T12:00:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.757,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Growth Stocks with Open Questions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43d395adccff67fe3ec816a0df73a6b2498367359ce6dc03e68870836d210f64",
+      "published_at": "2026-07-30T06:45:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.874,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco (CSCO) Stock Fair Value Edges Higher After AI Networking Order Strength",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f37f0b69d8582e01f49a937bbc3ae43ae039e4fdfddca3ff452bc789bf558e8c",
+      "published_at": "2026-07-30T06:07:48",
+      "sentiment": "positive",
+      "sentiment_score": 0.944,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eee1906335c6ca51cd2c63667fbda1481bb224e67a7def747c0d140198778856",
@@ -438,116 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.87,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Michael Burry Sounds Caution For Nvidia Again \u2013 Says It Could Echo Cisco\u2019s Trajectory During Dot-Com Boom And Bust",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cd41c6280ea1e7da7b32162a3856ed680d1e4da772a3aa49e1029ee92bab3a6",
-      "published_at": "2026-07-27T10:02:51",
-      "sentiment": "positive",
-      "sentiment_score": 0.627,
-      "sentiment_confidence": 0.627,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sundar Pichai Backs Jensen Huang's Open-Weight AI Push as OpenAI Joins Letter, Anthropic and Amazon Remain Notably Absent",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0a61b4cbf70d6479e11330ac3d999f0004f570a657fb94fd86e7e4fe5ebbd7eb",
-      "published_at": "2026-07-27T02:02:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.625,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Earn 10-15% Potential Income: Monthly Options Series (Aug. 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2c5db92c8ab827ee6f3b90cbf33fde6ea6c56be2eb02d39168027e8407bb46f0",
-      "published_at": "2026-07-26T08:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Lays Out AI Vision Across Cloud, Client And Robotics",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2be03e514135650014e2f106b1e14c3beed4ee0b7b7b5f1a1e9a2c0adf415f2a",
-      "published_at": "2026-07-24T19:57:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.906,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Growth Stocks with Explosive Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=780eb438e5235e48509d8bc2ec97b10df32267b148162e874885e18c0aaf8607",
-      "published_at": "2026-07-24T18:01:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.545,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Growth Stock with All-Star Potential and 2 We Avoid",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd43a9970d0f354f664c4e5fe11424d98b977c2ba0b780bef191a04db4d00abf",
-      "published_at": "2026-07-24T17:53:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.776,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Critical minerals start-up threatens to quit Britain",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9c926ad67cd3e17bb0f6d48d745925afddb889f8c8fcc4b5d5cad3713ac0af7",
-      "published_at": "2026-07-24T17:22:34",
-      "sentiment": "negative",
-      "sentiment_score": -0.881,
-      "sentiment_confidence": 0.881,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 Growth Stocks with All-Star Potential and 1 We Find Risky",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81dfec8d9c6f7bbe3c0e6048052cf8c3f24ef2ed89dc98bd53986e8a719d2158",
-      "published_at": "2026-07-24T15:53:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.674,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "HEQ: Discount Remains Significant, But Some Reasons To Be Cautious",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6d7eeceb707562275c783a8d4d2ffcfa12a939cbbe40791bb84b1f041e82c99e",
-      "published_at": "2026-07-24T15:10:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.517,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tech Mahindra and Cisco Partner to Bring AI-Driven Security Service Edge to Global Enterprises",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3faddb60b8c85c3cc44754ed19354b7757a0895f439795fa4234f69b5521bfba",
-      "published_at": "2026-07-24T13:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.814,
-      "sentiment_confidence": 0.814,
       "relevance_score": 1.0,
       "event_type": null
     }

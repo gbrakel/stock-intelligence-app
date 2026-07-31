@@ -2,6 +2,21 @@
   "ticker": "GE",
   "history": [
     {
+      "date": "2026-07-31",
+      "composite": 56.5,
+      "signal": "reduce",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 70.5,
+        "growth_trend": 60.7,
+        "valuation": 47.0,
+        "sentiment": 65.5,
+        "technical": 73.8,
+        "risk_penalty": 33.5
+      }
+    },
+    {
       "date": "2026-07-30",
       "composite": 56.4,
       "signal": "reduce",

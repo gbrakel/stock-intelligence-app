@@ -2,6 +2,21 @@
   "ticker": "UNH",
   "history": [
     {
+      "date": "2026-07-31",
+      "composite": 53.5,
+      "signal": "exit",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 74.3,
+        "growth_trend": 41.8,
+        "valuation": 73.1,
+        "sentiment": 65.2,
+        "technical": 71.9,
+        "risk_penalty": 45.0
+      }
+    },
+    {
       "date": "2026-07-30",
       "composite": 53.3,
       "signal": "exit",
