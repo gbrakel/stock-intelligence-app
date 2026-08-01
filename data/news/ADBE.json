@@ -2,6 +2,61 @@
   "ticker": "ADBE",
   "articles": [
     {
+      "headline": "Leopold Aschenbrenner's AI hedge fund collapses after margin calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5485920722c950af0a3142cb4a51c162d86e22b3ee48203fcb9cd644d765c03d",
+      "published_at": "2026-07-31T17:44:26",
+      "sentiment": "negative",
+      "sentiment_score": -0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6173372bda33dd91b844806e1a56dfe77d8ecda97450c8f7167feba2f9e2f91",
+      "published_at": "2026-07-31T13:45:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Adobe: How AI Is Enhancing Its Business, Not Killing It",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f6eaa14f3b7a88157ef116a958826132283326cbcbe6617cb3ba2befbee81a75",
+      "published_at": "2026-07-31T12:29:25",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.79,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "24-Year-Old\u2019s $45 Billion Hedge Fund Blows Up Days After Cramer Warned of the Dangers of Margin Trading",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8ae67c5d87e21bc26082e9bad58c32a5165dae176b2233fb33c7d7463e2a8a2",
+      "published_at": "2026-07-31T10:56:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.918,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "CRM Upgraded Its Profit Engine. Quietly",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=035f8074ce5cab81939b9e22931d7964dd08114ae95f9dc290273b8aee2e1f16",
+      "published_at": "2026-07-31T00:03:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.956,
+      "sentiment_confidence": 0.956,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Adobe Systems (ADBE) Stock Sinks As Market Gains: What You Should Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c3686df98a75b45e4130844d4c9ca0c57b24d737270d1fac860ef1763bdb5511",
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.521,
       "sentiment_confidence": 0.521,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Transcend Unlock: A Partner Program Built for the \"Can I Use This Data?\" Era",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48ed2aff9b2eadd9d71de7179d21bb9fe7f37eb88751a7e035d0ee5107a96d08",
-      "published_at": "2026-07-23T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.877,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Manifest Launches Business Debit Mastercard to Power the Next Generation of Creator Entrepreneurs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8e0985b6650937091e418ee404e66da6b60eecb2467a28c31be4cd039931370",
-      "published_at": "2026-07-23T10:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.725,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CRM Paid Holders $63 Billion While The Stock Went Nowhere",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b5256087708f97d3f3606da67fded6fec2798542f5fad6d9cd01ec0a81e0b78",
-      "published_at": "2026-07-22T18:34:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Adobe Chief People Officer Gloria Chen Sells 1,607 Shares for Tax Withholding",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d641d8b59de3e4c9a5b69aeecb6b758b7897ab1b74157e2b54f494e511344d5a",
-      "published_at": "2026-07-22T18:20:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.546,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The One Big Bet That Could Reignite Adobe Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=683246c79816cf5aebd48cd43b07166ac0a74dbcce216baed3fa4633a4462e87",
-      "published_at": "2026-07-22T17:51:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.888,
       "relevance_score": 1.0,
       "event_type": null
     }

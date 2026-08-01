@@ -2,6 +2,22 @@
   "ticker": "META",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 60801000000.0,
+      "net_income": 15848000000.0,
+      "eps": 6.23,
+      "gross_margin": 0.8136543806845282,
+      "operating_margin": 0.3087942632522491,
+      "net_margin": 0.2606536076709265,
+      "free_cash_flow": 1746000000.0,
+      "total_debt": 112318000000.0,
+      "total_equity": 261221000000.0,
+      "cash_and_equivalents": 15462000000.0,
+      "roe": 0.06066893549906018,
+      "roa": 0.035221221630559435,
+      "shares_outstanding": 2543000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 56311000000.0,
       "net_income": 26773000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 42314000000.0,
-      "net_income": 16644000000.0,
-      "eps": 6.59,
-      "gross_margin": 0.8210521340454696,
-      "operating_margin": 0.414874509618566,
-      "net_margin": 0.39334499220116276,
-      "free_cash_flow": 11085000000.0,
-      "total_debt": 49519000000.0,
-      "total_equity": 185029000000.0,
-      "cash_and_equivalents": 28750000000.0,
-      "roe": 0.0899534667538602,
-      "roa": 0.059397672484859734,
-      "shares_outstanding": 2527000000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 20.317755,
-    "forward_pe": 14.735362,
-    "ev_ebitda": 13.651,
-    "price_to_sales": 6.3879943,
+    "pe_ratio": 20.95258,
+    "forward_pe": 15.656394,
+    "ev_ebitda": 13.112,
+    "price_to_sales": 6.213542,
     "peg_ratio": 0.85,
-    "market_cap": 1373182361600,
-    "enterprise_value": 1492115128320
+    "market_cap": 1418222239744,
+    "enterprise_value": 1437771497472
   }
 }

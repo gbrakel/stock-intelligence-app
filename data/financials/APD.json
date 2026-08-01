@@ -2,6 +2,22 @@
   "ticker": "APD",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 3161000000.0,
+      "net_income": -1440800000.0,
+      "eps": -6.47,
+      "gross_margin": 0.32774438468838973,
+      "operating_margin": 0.2563429294527048,
+      "net_margin": -0.45580512496045555,
+      "free_cash_flow": 309500000.0,
+      "total_debt": 18157300000.0,
+      "total_equity": 16596400000.0,
+      "cash_and_equivalents": 980500000.0,
+      "roe": -0.08681400785712565,
+      "roa": -0.035623158019660976,
+      "shares_outstanding": 222800000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 3171800000.0,
       "net_income": 710400000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 2916200000.0,
-      "net_income": -1730600000.0,
-      "eps": -7.77,
-      "gross_margin": 0.29569302516974144,
-      "operating_margin": 0.21648035114189698,
-      "net_margin": -0.5934435223921541,
-      "free_cash_flow": -1563400000.0,
-      "total_debt": 16495300000.0,
-      "total_equity": 16779600000.0,
-      "cash_and_equivalents": 1491400000.0,
-      "roe": -0.10313714272092303,
-      "roa": -0.04451944670966149,
-      "shares_outstanding": 222800000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 31.66667,
-    "forward_pe": 20.96984,
-    "ev_ebitda": 22.054,
-    "price_to_sales": null,
+    "pe_ratio": null,
+    "forward_pe": 20.463509,
+    "ev_ebitda": 86.508,
+    "price_to_sales": 5.2108154,
     "peg_ratio": 2.17,
-    "market_cap": null,
-    "enterprise_value": 85516148736
+    "market_cap": 65667739648,
+    "enterprise_value": 85590892544
   }
 }

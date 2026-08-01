@@ -2,6 +2,22 @@
   "ticker": "AAPL",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 109417000000.0,
+      "net_income": 29789000000.0,
+      "eps": 2.03,
+      "gross_margin": 0.500562069879452,
+      "operating_margin": 0.3262290137729969,
+      "net_margin": 0.2722520266503377,
+      "free_cash_flow": 31914000000.0,
+      "total_debt": 84344000000.0,
+      "total_equity": 107520000000.0,
+      "cash_and_equivalents": 39544000000.0,
+      "roe": 0.277055431547619,
+      "roa": 0.07772408718748859,
+      "shares_outstanding": 14656110000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 111184000000.0,
       "net_income": 29578000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.355977517849005,
       "roa": 0.07069186563899908,
       "shares_outstanding": 14902886000.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 95359000000.0,
-      "net_income": 24780000000.0,
-      "eps": 1.65,
-      "gross_margin": 0.47050619238876246,
-      "operating_margin": 0.31029058610094484,
-      "net_margin": 0.25986010759341016,
-      "free_cash_flow": 20881000000.0,
-      "total_debt": 98186000000.0,
-      "total_equity": 66796000000.0,
-      "cash_and_equivalents": 28162000000.0,
-      "roe": 0.3709802982214504,
-      "roa": 0.07481138654663032,
-      "shares_outstanding": 14994082000.0
     }
   ],
   "annual": [
@@ -165,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 40.415756,
-    "forward_pe": 34.52757,
-    "ev_ebitda": 30.713,
-    "price_to_sales": 10.847916,
+    "pe_ratio": 35.344395,
+    "forward_pe": 32.27691,
+    "ev_ebitda": 26.999,
+    "price_to_sales": 9.719039,
     "peg_ratio": 2.72,
-    "market_cap": 4897204862976,
-    "enterprise_value": 4913409032192
+    "market_cap": 4537070911488,
+    "enterprise_value": 4534799695872
   }
 }

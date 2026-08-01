@@ -2,6 +2,21 @@
   "ticker": "PG",
   "history": [
     {
+      "date": "2026-08-01",
+      "composite": 40.0,
+      "signal": "exit",
+      "signal_confidence": 0.67,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 25.9,
+        "valuation": 83.3,
+        "sentiment": 52.1,
+        "technical": 49.7,
+        "risk_penalty": 34.8
+      }
+    },
+    {
       "date": "2026-07-31",
       "composite": 54.6,
       "signal": "exit",

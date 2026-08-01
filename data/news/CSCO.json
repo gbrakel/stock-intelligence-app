@@ -2,6 +2,39 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=560ce259fabe037c0617069ec89e12eb9933307ff3acea8968eed4b2ff5dc48c",
+      "published_at": "2026-07-31T19:10:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Should You Buy, Sell, or Hold ALAB Stock Before Q2 Earnings Release?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2154f428b7fdfefd7412fa1ba9a79a95158ebf57650d7beeff70749f05a8e1d3",
+      "published_at": "2026-07-31T17:39:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=79c440092e63a2111bd265972eb04522472f3460271de9305fff46cd94397303",
+      "published_at": "2026-07-31T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Should You Worry? This AI Cap-Ex Boom is Bigger than 1999.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=33aff6153c2673e6326c5cd53c62f9ffbf9783f88c38235bd8c838c0e60dd67a",
@@ -42,6 +75,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.942,
       "sentiment_confidence": 0.942,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Garmin Tops Q2 Earnings Estimates on Fitness Growth, Ups FY26 Guidance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=716a623e22c5f43b3f8eaec90e07fbca51fed9b86e853c3d2d6222b3c4d383b2",
+      "published_at": "2026-07-30T16:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.92,
+      "sentiment_confidence": 0.92,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -141,6 +185,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.946,
       "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Arista Stock Before Q2 Earnings: Is it a Smart Buy or Risky Move?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8deffd1c4583a74d4084566e4cfbc2aa82a0ee305d1b0483ae06c5154c7d653f",
+      "published_at": "2026-07-29T14:12:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.874,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.786,
       "sentiment_confidence": 0.786,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Cisco's Big Run Actually Adds To Your Portfolio",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=143d8745aebc7584595725030eb8b8bbd5884e84ff8ebe16e2512a059e933caa",
-      "published_at": "2026-07-27T13:45:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.839,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Cash-Producing Stock for Long-Term Investors and 2 Facing Challenges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9177d642ae3cb4a2d07da93173441357c433954b3eb9f77f5555da378eb54d1b",
-      "published_at": "2026-07-27T13:25:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco (CSCO) Joins AI Cybersecurity Alliance And Teams With Tech Mahindra On SSE",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6db42022de552ebce2315f4f4b6545674b5d80128626dfd6394b807a1e7b704",
-      "published_at": "2026-07-27T13:09:03",
-      "sentiment": "positive",
-      "sentiment_score": 0.655,
-      "sentiment_confidence": 0.655,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2f55e412be34e334c6d16111214f5d6c9f05197748b571ad193dd0376380320",
-      "published_at": "2026-07-27T11:23:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.694,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense \u2013 But Meta's Missing From The List",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbdfb43e323ee753fab923aaa520888d1b269c0de48f4675c3a2470efd094420",
-      "published_at": "2026-07-27T11:07:46",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.87,
       "relevance_score": 1.0,
       "event_type": null
     }

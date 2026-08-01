@@ -2,6 +2,22 @@
   "ticker": "MA",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 9277000000.0,
+      "net_income": 4388000000.0,
+      "eps": 4.98,
+      "gross_margin": 0.7901261183572276,
+      "operating_margin": 0.6174409830764256,
+      "net_margin": 0.47299773633717795,
+      "free_cash_flow": 3295000000.0,
+      "total_debt": 24643000000.0,
+      "total_equity": 5606000000.0,
+      "cash_and_equivalents": 11291000000.0,
+      "roe": 0.7827327863003924,
+      "roa": 0.07606039070218924,
+      "shares_outstanding": 882000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 8398000000.0,
       "net_income": 3882000000.0,
@@ -67,25 +83,9 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 7250000000.0,
-      "net_income": 3280000000.0,
-      "eps": 3.6,
-      "gross_margin": 0.7671724137931034,
-      "operating_margin": 0.5932413793103448,
-      "net_margin": 0.45241379310344826,
-      "free_cash_flow": 2023000000.0,
-      "total_debt": 18802000000.0,
-      "total_equity": 6696000000.0,
-      "cash_and_equivalents": 7575000000.0,
-      "roe": 0.48984468339307047,
-      "roa": 0.06767072415927378,
-      "shares_outstanding": 912000000.0
-    },
-    {
-      "period_end": "2024-12-31",
       "revenue": null,
       "net_income": null,
-      "eps": 3.64,
+      "eps": 3.59,
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": null,
@@ -95,7 +95,7 @@
       "cash_and_equivalents": null,
       "roe": null,
       "roa": null,
-      "shares_outstanding": 919000000.0
+      "shares_outstanding": 914000000.0
     }
   ],
   "annual": [
@@ -165,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 33.39213,
-    "forward_pe": 25.282867,
+    "pe_ratio": 31.506319,
+    "forward_pe": 24.987518,
     "ev_ebitda": 23.787,
-    "price_to_sales": null,
+    "price_to_sales": 14.792459,
     "peg_ratio": 1.73,
-    "market_cap": null,
+    "market_cap": 502041247744,
     "enterprise_value": 508484452352
   }
 }

@@ -1,50 +1,44 @@
 [
   {
-    "ticker": "MSFT",
+    "ticker": "META",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-07-31"
+    "date": "2026-08-01"
   },
   {
-    "ticker": "CSCO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-07-31"
-  },
-  {
-    "ticker": "LLY",
-    "previous_signal": "reduce",
+    "ticker": "UNH",
+    "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-07-31"
+    "date": "2026-08-01"
   },
   {
-    "ticker": "BAC",
+    "ticker": "ABBV",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-08-01"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "exit_watch",
+    "new_signal": "hold",
+    "date": "2026-08-01"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-08-01"
+  },
+  {
+    "ticker": "CAT",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-07-31"
+    "date": "2026-08-01"
   },
   {
-    "ticker": "WMT",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-31"
-  },
-  {
-    "ticker": "PEP",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-07-31"
-  },
-  {
-    "ticker": "BA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-07-31"
-  },
-  {
-    "ticker": "APD",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-07-31"
+    "ticker": "DIS",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-08-01"
   }
 ]
