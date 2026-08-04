@@ -2,6 +2,22 @@
   "ticker": "LIN",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 4.17,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 462525000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 8781000000.0,
       "net_income": 1857000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-03-31",
       "revenue": 8112000000.0,
       "net_income": 1673000000.0,
-      "eps": 3.53,
+      "eps": null,
       "gross_margin": 0.4875493096646943,
       "operating_margin": 0.27379191321499013,
       "net_margin": 0.20623767258382644,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 5294000000.0,
       "roe": 0.04239414134759142,
       "roa": 0.020228767653317856,
-      "shares_outstanding": 473303000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 31.76494,
-    "forward_pe": 24.368092,
-    "ev_ebitda": 19.071,
-    "price_to_sales": 6.382274,
-    "peg_ratio": 2.15,
-    "market_cap": 221177708544,
-    "enterprise_value": 259180625920
+    "pe_ratio": 30.99742,
+    "forward_pe": 24.50824,
+    "ev_ebitda": 17.739,
+    "price_to_sales": 6.26645,
+    "peg_ratio": 2.02,
+    "market_cap": 222139383808,
+    "enterprise_value": 245187690496
   }
 }

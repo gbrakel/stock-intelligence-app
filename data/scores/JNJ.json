@@ -2,6 +2,21 @@
   "ticker": "JNJ",
   "history": [
     {
+      "date": "2026-08-04",
+      "composite": 61.0,
+      "signal": "reduce",
+      "signal_confidence": 0.64,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 86.3,
+        "growth_trend": 56.8,
+        "valuation": 60.6,
+        "sentiment": 62.7,
+        "technical": 69.1,
+        "risk_penalty": 31.0
+      }
+    },
+    {
       "date": "2026-08-01",
       "composite": 61.1,
       "signal": "reduce",

@@ -2,6 +2,50 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Home Depot accused of using customers to boost profit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd5b1733b12297d75356245c68ac50e4bd5bf59577d69d1e6c1f941f00d46d01",
+      "published_at": "2026-08-03T23:00:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.601,
+      "sentiment_confidence": 0.601,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1",
+      "published_at": "2026-08-03T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "QXO, Round Two: Time For A Pause That Refreshes?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26cdb07b470410bcb81b81ee250185f163b90efaf806ae43959560e428491f79",
+      "published_at": "2026-08-03T11:27:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.892,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "$1000 Invested In Home Depot 15 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=baa94d00e98e59eb1e8fb5385f4b37936356b00f7dcaa09217dd345b6d4c53f7",
+      "published_at": "2026-07-31T19:45:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=560ce259fabe037c0617069ec89e12eb9933307ff3acea8968eed4b2ff5dc48c",
@@ -97,17 +141,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.82,
       "sentiment_confidence": 0.82,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=bc6262a24c90ed0884245f425e6a54f3ade82a786763155f56cac145e7adfc5d",
-      "published_at": "2026-07-30T19:10:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.729,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "7 Numbers Behind The General Misery For Consumers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f0ef048e72d78edf2bdcc5dfaf128cd0820dbcb73757f4b96a2b7ddfd7a1ed65",
-      "published_at": "2026-07-14T19:08:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.637,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Lowe's Stock Is Compounding Value Without The Sales Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d40075442e0b39994afaad75dfc729b88e9680591ecf93bff7ae2544b887c53d",
-      "published_at": "2026-07-13T21:33:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.436,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Discover which dow jones stocks are making waves on Monday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=125afec3135f0eabea38274af6bc3b39ef8f893650eb6807f2ca927064936ff0",
-      "published_at": "2026-07-13T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.919,
       "relevance_score": 1.0,
       "event_type": null
     }
