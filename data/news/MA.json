@@ -2,6 +2,94 @@
   "ticker": "MA",
   "articles": [
     {
+      "headline": "Circle Faces Crypto Slump and New Competitor Ahead of Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=236660685e86986098b7d559370e95e952427cdac5ecbb472f0d1846f8e2d4dc",
+      "published_at": "2026-08-04T20:05:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.932,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "FIS Beats Q2 Earnings on Banking Solutions Strength, Cuts 2026 Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91dabb48f06d4be7ef4de404b43c32918a587b964201f6f6a3adf778744b73eb",
+      "published_at": "2026-08-04T15:51:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.778,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fiserv and Mastercard Deepen Global Partnership to Help Merchants Innovate & Expand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c044913478b79af132012dad5932dae8d6ff7cc4811b8218dda81473e2d837f3",
+      "published_at": "2026-08-04T12:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.867,
+      "sentiment_confidence": 0.867,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump backs card bill, again",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee29aeac173b960fce120957f1a62d382c6e679e6fac4122a0b9613e7fe9fc2a",
+      "published_at": "2026-08-04T10:29:49",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.779,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4886ad9f03b09da7279f69a49c8985a0598f2ff3ec690a423ee3ea4802c71af6",
+      "published_at": "2026-08-04T09:46:59",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.894,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mastercard completes BVNK acquisition to boost stablecoin infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ada8cc3b65514fe73e7e87bb174e2475387bc637cb3c19a9998fc7efa3c528b",
+      "published_at": "2026-08-04T09:33:02",
+      "sentiment": "positive",
+      "sentiment_score": 0.926,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mastercard (MA) Launches A Richer Citi AAdvantage Executive World Legend Card",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97206d186b11a2891877c5f2b4b796320b479794e31727f406c85035fe57a244",
+      "published_at": "2026-08-04T08:09:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.752,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mastercard Completes BVNK Acquisition: The Network Becomes the Bridge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a1028cb966f81c44025aa2ad4646630b18ae522d0565f6acdab2c329ba156bd",
+      "published_at": "2026-08-04T00:35:57",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.924,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Visa\u2019s Latest Deal Signals New Era in Fighting Digital Scams",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0f69106360aa1af2ee592e0d2ca87d8ec8d8e31a1a812861fc57a8dd38e73ddf",
@@ -9,6 +97,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.723,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Here's How Much $1000 Invested In Mastercard 15 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3c9c5f21851fa2dacbe99bca89ab7ac2d69873ec3b2a29be978c025fe725c90d",
+      "published_at": "2026-08-03T17:15:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.943,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.699,
       "sentiment_confidence": 0.699,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard Beats Q2 Earnings on Solid Cross-Border Volume Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=323a0823117e772e865ee8c7b9d41c870369618da1a741126dfd515550b12a05",
-      "published_at": "2026-07-30T16:23:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.947,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard Second-Quarter Results Top Street Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=669474b6ea995cb0c879be1838278e1d74a03cb18d9bc8416324cf681e5a1389",
-      "published_at": "2026-07-30T15:36:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.874,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Visa Vs. Mastercard: The Duel Just Got More Interesting",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d413b5c4245dcf25544d29e6b7e95d5d2dcee6feb689fb9ed3708950fb44723f",
-      "published_at": "2026-07-30T15:01:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.785,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "MasterCard (MA) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6dfd803716e3f6b03fe0f32f079ace7c75c074a6d807c0a9caca509799fb26f6",
-      "published_at": "2026-07-30T14:00:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "MasterCard (MA) Q2 Earnings and Revenues Surpass Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=433d860a59e96d1cafefbbe8f697f67889bbe5472dfdc3c1dbe278bdb2351a30",
-      "published_at": "2026-07-30T13:35:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.934,
-      "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Microsoft Ignites Chip Rebound as SanDisk Jumps 24%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8be639133bfa4b40177dd538e58e12d5d0b9ac1be9d1de42049ff9089bf2b839",
-      "published_at": "2026-07-30T13:29:25",
-      "sentiment": "positive",
-      "sentiment_score": 0.915,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard Incorporated (MA) Q2 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f5a4f3c3cd468ee904655475a2b47bb5befd94f4c2fe35ad5301a50818f59225",
-      "published_at": "2026-07-30T13:23:43",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard (NYSE:MA) Gains on Q2 Earnings Beat Amid Mixed Revenue",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=7860615e2399a475fbc630e56e027726cf5e980b9cbf6fe2d834ba672c64cebb",
-      "published_at": "2026-07-30T13:23:01",
-      "sentiment": "positive",
-      "sentiment_score": 0.929,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard Q2 2026 earnings beat on revenue, payment network growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ba918b7a87cb22d7c356ff6f9ba99e2728a85c611bafeb57043f12130f2e41c",
-      "published_at": "2026-07-30T13:12:20",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.866,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,21 @@
   "ticker": "AMT",
   "history": [
     {
+      "date": "2026-08-05",
+      "composite": 65.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.51,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 57.3,
+        "valuation": 100.0,
+        "sentiment": 64.9,
+        "technical": 45.7,
+        "risk_penalty": 44.2
+      }
+    },
+    {
       "date": "2026-08-04",
       "composite": 65.7,
       "signal": "exit_watch",

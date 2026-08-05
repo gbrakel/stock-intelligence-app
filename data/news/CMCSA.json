@@ -2,6 +2,28 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "Can NFLX Stock Compound Its Way Higher?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc3e9e3ce2daa8b621c925e3d2886bf4a0fbff85da45cfccce5d16409348db87",
+      "published_at": "2026-08-04T13:39:30",
+      "sentiment": "positive",
+      "sentiment_score": 0.782,
+      "sentiment_confidence": 0.782,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Comcast: Ordinary Business, Extraordinary Price",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=716cbc46f4a242b7e0915751f5cd35ab450b8e771359b3fc8b73f0e1427f2156",
+      "published_at": "2026-08-04T02:21:23",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "5 Must-Read Analyst Questions From Comcast\u2019s Q2 Earnings Call",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7d3203f57a51aafe76527f7fb6a63209e50e67eddf256b94974608b044adc2d2",
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.933,
       "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CMCSA Q2 Earnings Beat Estimates on Wireless and Peacock Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09d4d8b4eecfe398d9038ee82279a433bf8728267f98ab63070a73a90cbb154b",
-      "published_at": "2026-07-24T15:36:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.895,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Charter Communications Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=112cd4c1155a580cf79f6c4d8f43ada19a2175f60e136aa7b8f8e0c5b84fd9ea",
-      "published_at": "2026-07-24T14:03:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.847,
       "relevance_score": 1.0,
       "event_type": null
     }
