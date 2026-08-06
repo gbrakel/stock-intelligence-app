@@ -2,6 +2,17 @@
   "ticker": "APD",
   "articles": [
     {
+      "headline": "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=337001e734b2cdb17a6bd6f0c66658e9b2e49d04dd743f3bb77a6bdd77f9dc49",
+      "published_at": "2026-08-05T13:40:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.91,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Linde Stock Barely Moved While Its Order Book Hit A Record",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=21f80e7d9a4a5c4701b681dd5e421094999f0d949ef32377d9e08e7c436d9761",
@@ -482,28 +493,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which S&P500 stocks are showing activity after the closing bell on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=755bfac8086b55458ed003b38133dd776e18096e6e6946c3c4a4bc64ae17e627",
-      "published_at": "2026-07-06T21:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Air Products' Shares Surge 14% in a Month: What's Driving the Upside?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a059156c7aa27bd340ae98b3dc31c5113d6b77e0a657429ff3fe6d5ba2b5985",
-      "published_at": "2026-07-06T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.619,
       "relevance_score": 1.0,
       "event_type": null
     }
