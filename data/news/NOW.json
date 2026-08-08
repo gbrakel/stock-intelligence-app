@@ -2,6 +2,61 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=97cc30b60f13c7af214f0c0afb17997cc515ad12a36ad63fdf4d3ec954ca3f5c",
+      "published_at": "2026-08-07T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.873,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=9bdba43fcab22b2cbe6b2e92788d4e69dd55e6b163385f9dbbc531c0004beafd",
+      "published_at": "2026-08-07T16:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.566,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's going on in today's session: S&P500 gap up and gap down stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ba7e0c36628e3e622f779f9a6b4fcefb13ededca266f41f5382d1d7a360c7967",
+      "published_at": "2026-08-07T14:35:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.756,
+      "sentiment_confidence": 0.756,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=97e628054e6af7c7173d8f0b60f39bb090271da9de7d78e0870d770317658635",
+      "published_at": "2026-08-07T13:35:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.883,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
+      "published_at": "2026-08-07T12:40:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.609,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Is Accenture's AI-Focused Deal With India's Dabur a Growth Catalyst?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=049099117ac6fa8d96ca51ece85b96d12f10e931284f9c91fd443ca3c82d2a9f",
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.956,
       "sentiment_confidence": 0.956,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Exclusive: ServiceNow to cut up to 1K jobs as part of planned rightsizing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0dd1420533348a0db3fadc9866024306c464146749b999793ffaed0aa3d35ce",
-      "published_at": "2026-07-30T18:32:42",
-      "sentiment": "negative",
-      "sentiment_score": -0.847,
-      "sentiment_confidence": 0.847,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Analyzing ServiceNow\u2019s (NOW) Unique Position in Workflow Automation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09ce39766f869d5b6b90b7c1945d769df39e41c26b0c17fc0a2e33cae7e1462e",
-      "published_at": "2026-07-30T14:08:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.721,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Has ServiceNow (NOW) Fallen Far Enough To Look Cheap?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=83e74d7e06f141e53af982cced4744d8798b8cf73857634b0c9e05fc0003aaf4",
-      "published_at": "2026-07-30T14:07:37",
-      "sentiment": "negative",
-      "sentiment_score": -0.777,
-      "sentiment_confidence": 0.777,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow Showing Signs of Life But Still Down 25% YTD: 115% Returns Coming If This Analyst is Correct",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7418abdeadd22846f1d00d941c064f3571ea4791e63857b8d24be5bc8fa319bf",
-      "published_at": "2026-07-30T13:53:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.936,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Armadin Names Brian Gumbel Chief Revenue Officer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cb95fbe52e162485406ab6748a8d083db5f9db5c2894acc2c93174a43c6a06b",
-      "published_at": "2026-07-30T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.926,
       "relevance_score": 1.0,
       "event_type": null
     }

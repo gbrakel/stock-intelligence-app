@@ -2,10 +2,26 @@
   "ticker": "ABBV",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 16990000000.0,
+      "net_income": 3613000000.0,
+      "eps": 2.04,
+      "gross_margin": 0.7474396703943497,
+      "operating_margin": 0.3957033549146557,
+      "net_margin": 0.21265450264861682,
+      "free_cash_flow": 3114000000.0,
+      "total_debt": 70822000000.0,
+      "total_equity": -5888000000.0,
+      "cash_and_equivalents": 6569000000.0,
+      "roe": -0.6136209239130435,
+      "roa": 0.02674018428745883,
+      "shares_outstanding": 1769000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 15002000000.0,
       "net_income": 695000000.0,
-      "eps": 0.393382,
+      "eps": 0.39,
       "gross_margin": 0.7188374883348887,
       "operating_margin": 0.3155579256099187,
       "net_margin": 0.04632715637914945,
@@ -15,7 +31,7 @@
       "cash_and_equivalents": 9391000000.0,
       "roe": -0.10511191772534785,
       "roa": 0.005092955599686362,
-      "shares_outstanding": 1766732187.0
+      "shares_outstanding": 1770000000.0
     },
     {
       "period_end": "2025-12-31",
@@ -37,7 +53,7 @@
       "period_end": "2025-09-30",
       "revenue": 15776000000.0,
       "net_income": 186000000.0,
-      "eps": 0.105242,
+      "eps": 0.1,
       "gross_margin": 0.6637931034482759,
       "operating_margin": 0.2905679513184584,
       "net_margin": 0.011790060851926978,
@@ -47,13 +63,13 @@
       "cash_and_equivalents": 5629000000.0,
       "roe": -0.0715659869180454,
       "roa": 0.0013891170891275448,
-      "shares_outstanding": 1767349878.0
+      "shares_outstanding": 1769000000.0
     },
     {
       "period_end": "2025-06-30",
       "revenue": 15423000000.0,
       "net_income": 938000000.0,
-      "eps": 0.531005,
+      "eps": 0.52,
       "gross_margin": 0.718213058419244,
       "operating_margin": 0.37068015301821955,
       "net_margin": 0.060818258445179275,
@@ -63,23 +79,23 @@
       "cash_and_equivalents": 6467000000.0,
       "roe": -6.797101449275362,
       "roa": 0.006837631759268709,
-      "shares_outstanding": 1766461114.0
+      "shares_outstanding": 1768000000.0
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 13343000000.0,
-      "net_income": 1286000000.0,
-      "eps": 0.72808,
-      "gross_margin": 0.700067451097954,
-      "operating_margin": 0.2983586899497864,
-      "net_margin": 0.0963801244098029,
-      "free_cash_flow": 1400000000.0,
-      "total_debt": 69889000000.0,
-      "total_equity": 1462000000.0,
-      "cash_and_equivalents": 5175000000.0,
-      "roe": 0.8796169630642955,
-      "roa": 0.009444424044357948,
-      "shares_outstanding": 1766288379.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -103,7 +119,7 @@
       "period_end": "2025-12-31",
       "revenue": 61160000000.0,
       "net_income": 4226000000.0,
-      "eps": 2.390439,
+      "eps": 2.37,
       "gross_margin": 0.7023544800523218,
       "operating_margin": 0.32849901896664485,
       "net_margin": 0.06909744931327665,
@@ -113,7 +129,7 @@
       "cash_and_equivalents": 5229000000.0,
       "roe": -1.309169764560099,
       "roa": 0.03154673036727381,
-      "shares_outstanding": 1767876035.0
+      "shares_outstanding": 1769000000.0
     },
     {
       "period_end": "2024-12-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 68.69578,
-    "forward_pe": 14.92986,
+    "pe_ratio": 69.50282,
+    "forward_pe": 15.062709,
     "ev_ebitda": 16.101,
-    "price_to_sales": 6.6931767,
+    "price_to_sales": 6.7527337,
     "peg_ratio": 0.4,
-    "market_cap": 430946877440,
+    "market_cap": 434781519872,
     "enterprise_value": 495309881344
   }
 }

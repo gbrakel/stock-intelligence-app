@@ -2,6 +2,61 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "UNH Leads Its Peer Group. You Pay For That",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5797addd1addc6df73a852eee2c2cd2d23ae1c10fa4a572980ba53e8fe9de20f",
+      "published_at": "2026-08-07T20:40:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a3d83ebddc2c112fffe1432302800858660d0afdb1fc35fdbb5ae7bdc724b5ac",
+      "published_at": "2026-08-07T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
+      "published_at": "2026-08-07T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can ALHC's Raised 2026 Outlook Offset Heavier Second-Half Spending?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2c5fc5099420119934b83a9a6e73adc3e13dff50b20f53e835dbac7c6783601",
+      "published_at": "2026-08-07T15:51:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.768,
+      "sentiment_confidence": 0.768,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "4 Healthcare Stocks to Watch as Defensive Demand Strengthens",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae0638ab5d4bc0bc2e762e6e2c34a984354c842580c31c74aebc59ce4db50a3d",
+      "published_at": "2026-08-07T12:59:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.815,
+      "sentiment_confidence": 0.815,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=8a79d5859cbdfc9e73a0e1db0c3fbeb34f04abfddc35eda0009b708cdabbb329",
@@ -310,17 +365,6 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=560ce259fabe037c0617069ec89e12eb9933307ff3acea8968eed4b2ff5dc48c",
-      "published_at": "2026-07-31T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Top dow jones movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=79c440092e63a2111bd265972eb04522472f3460271de9305fff46cd94397303",
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.83,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Healthcare Stocks Softer Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7dcfe2fe96bffadb525443192a34a9ac97e51b8d93183b0230da5d85aa77588",
-      "published_at": "2026-07-29T19:46:06",
-      "sentiment": "negative",
-      "sentiment_score": -0.745,
-      "sentiment_confidence": 0.745,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Healthcare Stocks Edge Lower in Afternoon Trading",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=689226e9857ec7cac1da65efb7e5fb2d018a298a67a1cf8ffa7ff085cefe30ee",
-      "published_at": "2026-07-29T17:33:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.972,
-      "sentiment_confidence": 0.972,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UnitedHealth's Cost-Control Story is Gaining Momentum: Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7760c6e6cd9b0a4d186c693b61592f0dbf549f074e6dd691260cbcaca8576e7",
-      "published_at": "2026-07-29T15:52:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.72,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Humana Q2 Earnings Beat Estimates on Medical Membership Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53d28f66396443a157c170dee0577554538e51740747ecca6013d4ce76ae6b32",
-      "published_at": "2026-07-29T15:23:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "sentiment_confidence": 0.936,
       "relevance_score": 1.0,
       "event_type": null
     }

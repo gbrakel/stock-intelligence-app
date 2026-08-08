@@ -2,6 +2,17 @@
   "ticker": "LIN",
   "articles": [
     {
+      "headline": "Jim Cramer Called Linde plc (NASDAQ:LIN)\u2019s Share Price Movement \u201cStupid\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55b96ee538040481f8765355aca345054c013fd6f622069ea06e70ddfb522ae1",
+      "published_at": "2026-08-07T18:31:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.909,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe7a8f7f441c9c2eba358e2ba3ef7355f90d085d3eb0351b5a61e4e07e335e10",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.916,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Reported Earlier: 'Deutsche Bank and UniCredit sue Linde over Russia sanctions losses' - Financial Times",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7ece8d1e6106e1cd3de9e7d9c1058abf02154cf4d289d8599273b1c3380d5901",
-      "published_at": "2026-07-13T09:53:30",
-      "sentiment": "negative",
-      "sentiment_score": -0.945,
-      "sentiment_confidence": 0.945,
       "relevance_score": 1.0,
       "event_type": null
     }

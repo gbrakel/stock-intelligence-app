@@ -5,18 +5,17 @@
     "severity": 0.6,
     "triggers": [
       "Guidance cut detected: 'Top Midday Stories: Apollo Acquires EasyJet in Deal Valued at $7.68 Billion; Hon'",
-      "14 negative articles in last 48 hours"
+      "17 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "MSFT",
     "signal": "exit_watch",
-    "severity": 0.6,
+    "severity": 0.55,
     "triggers": [
       "Operating margin compressed for 3 consecutive quarters",
-      "Guidance cut detected: 'Top Midday Stories: Apollo Acquires EasyJet in Deal Valued at $7.68 Billion; Hon'",
-      "10 negative articles in last 48 hours"
+      "9 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -25,17 +24,16 @@
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "4 negative articles in last 48 hours"
+      "6 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "GOOGL",
-    "signal": "exit_watch",
-    "severity": 0.6,
+    "signal": "reduce",
+    "severity": 0.5,
     "triggers": [
-      "Guidance cut detected: 'Top Midday Stories: Apollo Acquires EasyJet in Deal Valued at $7.68 Billion; Hon'",
-      "11 negative articles in last 48 hours"
+      "9 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -57,7 +55,7 @@
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
       "Debt-to-equity increased 28% over recent quarters",
-      "7 negative articles in last 48 hours"
+      "11 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -68,7 +66,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 3 consecutive quarters",
-      "10 negative articles in last 48 hours",
+      "4 negative articles in last 48 hours",
       "Price below declining 200-day SMA",
       "Underperforming sector by 25% over 3 months"
     ],
@@ -80,7 +78,7 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "18 negative articles in last 48 hours"
+      "6 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -91,7 +89,7 @@
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
       "Debt-to-equity increased 559% over recent quarters",
-      "11 negative articles in last 48 hours",
+      "12 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
     "detected_at": "2026-08-07"
@@ -103,7 +101,7 @@
     "triggers": [
       "10 negative articles in last 48 hours",
       "Price below declining 200-day SMA",
-      "Underperforming sector by 29% over 3 months"
+      "Underperforming sector by 27% over 3 months"
     ],
     "detected_at": "2026-08-07"
   },
@@ -119,12 +117,13 @@
   {
     "ticker": "INTC",
     "signal": "exit",
-    "severity": 0.53,
+    "severity": 0.5,
     "triggers": [
       "EPS declined in 3 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Debt-to-equity increased 33% over recent quarters",
-      "13 negative articles in last 48 hours"
+      "11 negative articles in last 48 hours",
+      "Underperforming sector by 21% over 3 months"
     ],
     "detected_at": "2026-08-07"
   },
@@ -133,32 +132,30 @@
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "11 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "NOW",
     "signal": "exit",
-    "severity": 0.52,
+    "severity": 0.55,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
       "Debt-to-equity increased 264% over recent quarters",
-      "7 negative articles in last 48 hours",
-      "Price below declining 200-day SMA"
+      "4 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "UNH",
-    "signal": "exit",
-    "severity": 0.55,
+    "signal": "exit_watch",
+    "severity": 0.57,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 3 consecutive periods",
-      "Operating margin compressed for 2 consecutive quarters",
-      "3 negative articles in last 48 hours"
+      "Operating margin compressed for 2 consecutive quarters"
     ],
     "detected_at": "2026-08-07"
   },
@@ -168,7 +165,7 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 3 consecutive periods",
-      "11 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -180,18 +177,16 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
-      "7 negative articles in last 48 hours"
+      "3 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "ABBV",
-    "signal": "exit_watch",
-    "severity": 0.57,
+    "signal": "reduce",
+    "severity": 0.5,
     "triggers": [
-      "EPS declined in 2 of last 3 quarters",
-      "Revenue growth decelerating for 2 consecutive periods",
-      "Operating margin compressed for 2 consecutive quarters"
+      "3 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -202,7 +197,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
-      "7 negative articles in last 48 hours"
+      "5 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -211,7 +206,7 @@
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "15 negative articles in last 48 hours"
+      "11 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -233,7 +228,7 @@
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
       "Debt-to-equity increased 79% over recent quarters",
-      "5 negative articles in last 48 hours"
+      "3 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -242,7 +237,7 @@
     "signal": "reduce",
     "severity": 0.5,
     "triggers": [
-      "5 negative articles in last 48 hours"
+      "4 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -252,7 +247,8 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "Debt-to-equity increased 25% over recent quarters"
+      "Debt-to-equity increased 25% over recent quarters",
+      "5 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -263,7 +259,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "6 negative articles in last 48 hours"
+      "3 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -275,18 +271,19 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
-      "3 negative articles in last 48 hours"
+      "6 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
   {
     "ticker": "PG",
-    "signal": "exit_watch",
-    "severity": 0.57,
+    "signal": "exit",
+    "severity": 0.55,
     "triggers": [
       "EPS declined in 3 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "Operating margin compressed for 3 consecutive quarters"
+      "Operating margin compressed for 3 consecutive quarters",
+      "3 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -305,7 +302,7 @@
     "severity": 0.5,
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
-      "4 negative articles in last 48 hours",
+      "6 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
     "detected_at": "2026-08-07"
@@ -327,7 +324,7 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 3 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
-      "8 negative articles in last 48 hours",
+      "5 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
     "detected_at": "2026-08-07"
@@ -335,9 +332,8 @@
   {
     "ticker": "NKE",
     "signal": "reduce",
-    "severity": 0.45,
+    "severity": 0.4,
     "triggers": [
-      "5 negative articles in last 48 hours",
       "Price below declining 200-day SMA"
     ],
     "detected_at": "2026-08-07"
@@ -359,7 +355,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 3 consecutive quarters",
-      "6 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -370,7 +366,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Operating margin compressed for 2 consecutive quarters",
-      "6 negative articles in last 48 hours"
+      "7 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -380,7 +376,7 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "12 negative articles in last 48 hours"
+      "8 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -391,7 +387,7 @@
     "triggers": [
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
-      "4 negative articles in last 48 hours"
+      "5 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -402,7 +398,7 @@
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
       "Operating margin compressed for 2 consecutive quarters",
-      "3 negative articles in last 48 hours"
+      "6 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -421,7 +417,7 @@
     "severity": 0.5,
     "triggers": [
       "Revenue growth decelerating for 2 consecutive periods",
-      "8 negative articles in last 48 hours"
+      "4 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },
@@ -443,6 +439,15 @@
       "EPS declined in 2 of last 3 quarters",
       "Revenue growth decelerating for 2 consecutive periods",
       "Price below declining 200-day SMA"
+    ],
+    "detected_at": "2026-08-07"
+  },
+  {
+    "ticker": "NEE",
+    "signal": "reduce",
+    "severity": 0.5,
+    "triggers": [
+      "4 negative articles in last 48 hours"
     ],
     "detected_at": "2026-08-07"
   },

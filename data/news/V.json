@@ -2,6 +2,116 @@
   "ticker": "V",
   "articles": [
     {
+      "headline": "PYPL Showered Owners With Cash. The Stock Still Lagged The Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddcb30f298debd89dea0dc39865d7a6086c47df0c1b4b26f06df1cd60b991dc9",
+      "published_at": "2026-08-07T21:31:47",
+      "sentiment": "negative",
+      "sentiment_score": -0.815,
+      "sentiment_confidence": 0.815,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a3d83ebddc2c112fffe1432302800858660d0afdb1fc35fdbb5ae7bdc724b5ac",
+      "published_at": "2026-08-07T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Reading Between The Lines Of V's Latest Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc72bf3f9cff029763142a585bfbc8f3c5a6c19639ed681f7e1415b8f6a099cc",
+      "published_at": "2026-08-07T18:18:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of August 9",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=af72a397d825898b459a1a054ad11e152f22a3d67f610472c2aab599efe41d41",
+      "published_at": "2026-08-07T17:54:38",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
+      "published_at": "2026-08-07T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street Raises Visa Outlook After Strong Q3: Buy, Hold or Sell?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4af5694be6f7d8f909eebd1be39f5495550d94b85de2e94f44ee6036f014c6b",
+      "published_at": "2026-08-07T14:56:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.638,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Deal Dispatch: Bending Spoons Acquires Airtable, Bain Capital Buys Gong Cha Global, Salad and Go Bankruptcy",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f4bd05269df5af57a2ec004e1350f544d1225dee7a33df64bdce39071182d6d1",
+      "published_at": "2026-08-07T13:12:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity   and WEX",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04aff17cc212d2188c43d0541ebaabe9644bac072aa6e736c0ef8d8dc181c562",
+      "published_at": "2026-08-07T10:06:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Visa: Recent Performance Shows Stablecoin Threat Was Overstated",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4479304401d002f17c609d9842e83bc27c2d7f39b77f99b08ce6f0009d6cd95d",
+      "published_at": "2026-08-07T07:15:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.856,
+      "sentiment_confidence": 0.856,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SoFi and Visa Earnings Point to Consumer Confidence",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ddca5573b122f6669e59ab9dbf741f76510ee77c0befe170e41d8f5c8dadd19",
+      "published_at": "2026-08-07T05:00:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.789,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3da0007fedbdeb74e29f4bd023aa5b197f3f3942310e6a6bb382c0c141625677",
@@ -15,7 +125,7 @@
     {
       "headline": "Bercor Pay launches with one intelligent payment experience",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40ae1540a8446daa4119445c8ad5e559e585b12bee1660b6f7e39e37d3c2799e",
+      "url": "https://finnhub.io/api/news?id=815926d6b5bf932a5d9ea643e9e853d830af2751898d0ba554dc3ba1d4612801",
       "published_at": "2026-08-06T22:22:00",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -438,116 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
-      "published_at": "2026-08-05T08:24:44",
-      "sentiment": "positive",
-      "sentiment_score": 0.872,
-      "sentiment_confidence": 0.872,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SEC Is 'Ready, Willing And Able' To Replace CLARITY Act If It Fails, Bitwise's Matt Hougan Says",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=61c21d3ba0ea9b9ce929c734d69f33c84eb3724ac6a45ccbcdd053336f36df4e",
-      "published_at": "2026-08-05T07:22:20",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.738,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Circle names BlackRock, Visa and others as initial Arc partners, signaling early institutional backing",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=260a642a8a849ab72e75cc6619b0766df0337fae0b9c3289c938411e4283c75c",
-      "published_at": "2026-08-05T06:00:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stablecorp CEO went from 'ridiculed' to running half of Canada's stablecoin market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6d96963cfaca36af6777bdcce30c9c132bcc9841bf64ef380224cd23d69b046",
-      "published_at": "2026-08-05T00:59:12",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Central Bancompany Inc (CBC) (Q2 2026) Earnings Call Highlights: Strong Net Income Growth and ...",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a4ec8203cb4f2bbd5aa2598707e1ecddf9485629bdb0e484c9bdb6bdfe908f5e",
-      "published_at": "2026-08-04T21:06:27",
-      "sentiment": "positive",
-      "sentiment_score": 0.955,
-      "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Circle Faces Crypto Slump and New Competitor Ahead of Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=236660685e86986098b7d559370e95e952427cdac5ecbb472f0d1846f8e2d4dc",
-      "published_at": "2026-08-04T20:05:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.932,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The list of companies laying off staff this year includes Angi and Tailwind, with dozens of others like Meta warning of job cuts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a8dd1d876ef010de08bff1e8524c0107a45982c31c2fba74d7172caf66c297e",
-      "published_at": "2026-08-04T18:53:22",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Every Bank Needs A Stablecoin Strategy: Sheffield",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40f8f060d2db383d13ae1dc6665abbe5be821db16630d364db04aa606ace60eb",
-      "published_at": "2026-08-04T18:14:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=30905f0760c72cb9500a521fd9bc31fde32949ac88ad843d045fab1c8fb20a6c",
-      "published_at": "2026-08-04T16:40:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.726,
-      "sentiment_confidence": 0.726,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FIS Beats Q2 Earnings on Banking Solutions Strength, Cuts 2026 Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91dabb48f06d4be7ef4de404b43c32918a587b964201f6f6a3adf778744b73eb",
-      "published_at": "2026-08-04T15:51:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.778,
       "relevance_score": 1.0,
       "event_type": null
     }
