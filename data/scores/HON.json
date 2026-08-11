@@ -2,6 +2,21 @@
   "ticker": "HON",
   "history": [
     {
+      "date": "2026-08-11",
+      "composite": 54.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.81,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 79.0,
+        "growth_trend": 46.0,
+        "valuation": 86.7,
+        "sentiment": 58.7,
+        "technical": 62.3,
+        "risk_penalty": 49.8
+      }
+    },
+    {
       "date": "2026-08-07",
       "composite": 54.1,
       "signal": "exit_watch",

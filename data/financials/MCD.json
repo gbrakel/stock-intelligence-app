@@ -3,19 +3,19 @@
   "quarterly": [
     {
       "period_end": "2026-06-30",
-      "revenue": null,
-      "net_income": null,
-      "eps": 3.324392,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
-      "shares_outstanding": 710505859.0
+      "revenue": 7100000000.0,
+      "net_income": 2362000000.0,
+      "eps": 3.337848,
+      "gross_margin": 0.5801408450704225,
+      "operating_margin": 0.46507042253521125,
+      "net_margin": 0.33267605633802816,
+      "free_cash_flow": 1976000000.0,
+      "total_debt": 54592000000.0,
+      "total_equity": -1023000000.0,
+      "cash_and_equivalents": 822000000.0,
+      "roe": -2.3088954056695994,
+      "roa": 0.039419225634178906,
+      "shares_outstanding": 707641531.0
     },
     {
       "period_end": "2026-03-31",
@@ -80,22 +80,6 @@
       "roe": -0.816304347826087,
       "roa": 0.03783057677776845,
       "shares_outstanding": 713604434.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 5955000000.0,
-      "net_income": 1868000000.0,
-      "eps": null,
-      "gross_margin": 0.5602015113350126,
-      "operating_margin": 0.4456759026028547,
-      "net_margin": 0.31368597816960536,
-      "free_cash_flow": 1877000000.0,
-      "total_debt": 52763000000.0,
-      "total_equity": -3454000000.0,
-      "cash_and_equivalents": 1238000000.0,
-      "roe": -0.540822235089751,
-      "roa": 0.033162314260860304,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +149,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.279222,
-    "forward_pe": 19.618929,
-    "ev_ebitda": 16.66,
+    "pe_ratio": 22.253658,
+    "forward_pe": 19.559393,
+    "ev_ebitda": 16.612,
     "price_to_sales": null,
-    "peg_ratio": 2.57,
+    "peg_ratio": 2.55,
     "market_cap": null,
-    "enterprise_value": 248744640512
+    "enterprise_value": 248015454208
   }
 }

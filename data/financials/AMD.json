@@ -2,6 +2,22 @@
   "ticker": "AMD",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 11536000000.0,
+      "net_income": 2297000000.0,
+      "eps": 1.4,
+      "gross_margin": 0.5377080443828016,
+      "operating_margin": 0.17250346740638003,
+      "net_margin": 0.19911581137309292,
+      "free_cash_flow": 1558000000.0,
+      "total_debt": 4276000000.0,
+      "total_equity": 67224000000.0,
+      "cash_and_equivalents": 5086000000.0,
+      "roe": 0.03416934428180412,
+      "roa": 0.027195017995832543,
+      "shares_outstanding": 1632000000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 10253000000.0,
       "net_income": 1383000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.01461493337802732,
       "roa": 0.01165463779738038,
       "shares_outstanding": 1623000000.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 7438000000.0,
-      "net_income": 709000000.0,
-      "eps": 0.44,
-      "gross_margin": 0.5022855606345792,
-      "operating_margin": 0.10836246302769562,
-      "net_margin": 0.0953213229362732,
-      "free_cash_flow": 727000000.0,
-      "total_debt": 4731000000.0,
-      "total_equity": 57881000000.0,
-      "cash_and_equivalents": 6049000000.0,
-      "roe": 0.012249270054076467,
-      "roa": 0.009909154437456325,
-      "shares_outstanding": 1620000000.0
     },
     {
       "period_end": "2024-12-31",
@@ -181,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 123.621475,
-    "forward_pe": 31.265461,
-    "ev_ebitda": 82.608,
-    "price_to_sales": 19.103573,
-    "peg_ratio": 1.13,
-    "market_cap": 789073100800,
-    "enterprise_value": 789902393344
+    "pe_ratio": 119.78571,
+    "forward_pe": 30.37283,
+    "ev_ebitda": 79.242,
+    "price_to_sales": 18.558163,
+    "peg_ratio": 1.04,
+    "market_cap": 766544969728,
+    "enterprise_value": 757709996032
   }
 }

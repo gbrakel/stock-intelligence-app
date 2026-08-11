@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-06-30",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 25248000000.0,
+      "net_income": 2638000000.0,
       "eps": 1.52,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.4016951837769328,
+      "operating_margin": 0.1885297845373891,
+      "net_margin": 0.10448352344740178,
+      "free_cash_flow": 3072000000.0,
+      "total_debt": 46041000000.0,
+      "total_equity": 116842000000.0,
+      "cash_and_equivalents": 5185000000.0,
+      "roe": 0.0225774978175656,
+      "roa": 0.012884634170167041,
       "shares_outstanding": 1738000000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.04625690073490629,
       "roa": 0.026763371513437634,
       "shares_outstanding": 1799000000.0
-    },
-    {
-      "period_end": "2025-03-31",
-      "revenue": 23621000000.0,
-      "net_income": 3275000000.0,
-      "eps": null,
-      "gross_margin": 0.3730155370221413,
-      "operating_margin": 0.14842724694128107,
-      "net_margin": 0.13864781338639345,
-      "free_cash_flow": 4891000000.0,
-      "total_debt": 42889000000.0,
-      "total_equity": 108766000000.0,
-      "cash_and_equivalents": 5852000000.0,
-      "roe": 0.030110512476325322,
-      "roa": 0.016723432720736547,
-      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -197,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 21.63093,
-    "forward_pe": 14.062871,
-    "ev_ebitda": 10.896,
-    "price_to_sales": 1.8323376,
-    "peg_ratio": 2.46,
-    "market_cap": 181146730496,
-    "enterprise_value": 228415586304
+    "pe_ratio": 21.274227,
+    "forward_pe": 13.826503,
+    "ev_ebitda": 10.773,
+    "price_to_sales": 1.8021216,
+    "peg_ratio": 2.6,
+    "market_cap": 178159550464,
+    "enterprise_value": 225825554432
   }
 }
