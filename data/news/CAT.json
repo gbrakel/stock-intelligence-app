@@ -2,6 +2,39 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "published_at": "2026-08-11T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=512cb5e3c45f8dd23e0f741191a2f85925d30cb818018ad7e2e80ee8846b5488",
+      "published_at": "2026-08-11T11:49:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Evercore ISI Group Maintains Outperform on Caterpillar, Lowers Price Target to $1045",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=70f70eb761ec3ad45d929044323bf18b34b9d6a1a14cc654cf97a67c6019bfdd",
+      "published_at": "2026-08-11T08:40:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.716,
+      "sentiment_confidence": 0.716,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=127c3702d339fdef4a1bdfe0b989e5a3c934143c6ea05b9b617a89f06cb6b00e",
@@ -431,17 +464,6 @@
       "event_type": null
     },
     {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c3f017020e693632ac5d4d9c9d82b142c56fb9d2d174d424bd80f10b75f07988",
-      "published_at": "2026-08-05T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Caterpillar Stock Surges 12% as AI Demand Powers Huge Beat",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e776e9526dd7359f047df9dc18446104f40b26b06bd7c230ab2bc4e9a762be2e",
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.666,
       "sentiment_confidence": 0.666,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "QUICK SPARK: Michael Burry Pegs Palantir, Nvidia as 'Future Ghost Towns'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=efa86e2fbd362a967bf80611610b690597813ef7d9bbc1597aeba3eb1ef46f3f",
-      "published_at": "2026-08-05T11:04:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.851,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Major Indexes Mixed; Dow Extends Rally; SpaceX, AMD Shares Weigh on Nasdaq",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cc285a1ff5894c6a65d4b2d2a0384e6482c2181df2b71af39b4ed35be716c2f",
-      "published_at": "2026-08-05T10:56:35",
-      "sentiment": "negative",
-      "sentiment_score": -0.849,
-      "sentiment_confidence": 0.849,
       "relevance_score": 1.0,
       "event_type": null
     }

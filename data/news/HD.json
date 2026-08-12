@@ -2,6 +2,50 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "published_at": "2026-08-11T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on Home Depot, Raises Price Target to $400",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b65ecd807489f764632ecd0481d02c74c8caec769e6d7bdebb86372e8590b465",
+      "published_at": "2026-08-11T08:55:35",
+      "sentiment": "positive",
+      "sentiment_score": 0.897,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Earnings Signals And Labor Slowdowns: Testing The Limits Of Consumer Resilience",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4128b4381d1c85d9d3549a233a9223815aa6395ab02a46a14c9f7772febba179",
+      "published_at": "2026-08-11T03:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.815,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot (HD) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e14a3f48531ab78b2c1a629c8521f4a6185c606c776b16ecbdd459d373e8cac",
+      "published_at": "2026-08-10T21:45:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.535,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Top Analyst Reports for Costco, Chevron & Home Depot",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a9307eb5f139be61f14b0044d0814a9fce869365a42e0a4a51fc84dc992886b8",
@@ -504,50 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.815,
       "sentiment_confidence": 0.815,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Profitable Stock on Our Buy List and 2 Facing Challenges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14a646d9cb70e3b64102c08964cb6da51d7e694458498351c9f3a17f167addd5",
-      "published_at": "2026-07-31T13:47:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.912,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=065f85cd79d607151512dd8496fae8a93a95993efa42b8346eecd8e9c28bda83",
-      "published_at": "2026-07-31T13:35:15",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.868,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot (HD) Recast Its Leadership, Is The Stock Still Below Fair Value?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aaa268a837d4bc45611ddce340848fe1752f782dc4d2dd6179c08836c468511b",
-      "published_at": "2026-07-31T13:09:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.595,
-      "sentiment_confidence": 0.595,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Floor & Decor Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=055584c4189479a7b18d1053b2611deab4d75041f9f91178229b35d5f3500cdc",
-      "published_at": "2026-07-31T08:04:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.879,
       "relevance_score": 1.0,
       "event_type": null
     }

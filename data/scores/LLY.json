@@ -2,6 +2,21 @@
   "ticker": "LLY",
   "history": [
     {
+      "date": "2026-08-12",
+      "composite": 59.2,
+      "signal": "reduce",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 74.9,
+        "growth_trend": 69.9,
+        "valuation": 41.2,
+        "sentiment": 68.3,
+        "technical": 82.2,
+        "risk_penalty": 44.7
+      }
+    },
+    {
       "date": "2026-08-11",
       "composite": 59.4,
       "signal": "reduce",

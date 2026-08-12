@@ -1,86 +1,20 @@
 [
   {
-    "ticker": "AAPL",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "NOW",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "LLY",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
     "ticker": "PFE",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "ABBV",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "JPM",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "BAC",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-08-11"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-08-12"
   },
   {
     "ticker": "GS",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "PG",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "KO",
     "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-08-11"
+    "new_signal": "exit_watch",
+    "date": "2026-08-12"
   },
   {
     "ticker": "CAT",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-11"
-  },
-  {
-    "ticker": "NEE",
     "previous_signal": "reduce",
-    "new_signal": "buy",
-    "date": "2026-08-11"
+    "new_signal": "hold",
+    "date": "2026-08-12"
   }
 ]

@@ -2,6 +2,61 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "published_at": "2026-08-11T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Netskope: Not Compelling Yet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b51caef25b330455fb7821b89033bc051d10659f22bf7d920c40b2a62ee9ac4c",
+      "published_at": "2026-08-11T12:22:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.871,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Q4 Preview: Stock Up 60% in 2026, Market Expert Sees 64% More Upside After Earnings",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fef8b69b1e76711ef82ed316fd6e6dd0f9490cb98b4b563a3e5acafea4f347f",
+      "published_at": "2026-08-11T12:21:50",
+      "sentiment": "positive",
+      "sentiment_score": 0.948,
+      "sentiment_confidence": 0.948,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=512cb5e3c45f8dd23e0f741191a2f85925d30cb818018ad7e2e80ee8846b5488",
+      "published_at": "2026-08-11T11:49:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A 14% Yield On ANET Stock, And A Shot At Buying It 40% Lower",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a59a55005b3743e0643a7ac8b8b90a7c031f891e4babe9ca4f5b392eb6a5b39f",
+      "published_at": "2026-08-11T01:24:41",
+      "sentiment": "positive",
+      "sentiment_score": 0.739,
+      "sentiment_confidence": 0.739,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Update: S&P 500 Retreats From Record, Oil Jumps as Hormuz Reopening Hopes Fade",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7cc080134ad30d6b34e5403fc9b3d4f6201561fee09c85606f76f7eae1e44ca7",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Should Investors Hold on to Astera Labs Stock Post Q2 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ad0aa2494e81855104d9b404da1185e13bef34be006fed280a0d112bb3255d3",
-      "published_at": "2026-08-06T17:51:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.837,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stop Calling It A Bubble",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=65ae62070ff8720d61850f89035d5a2fb8825f0b4a968e62621e093feb56edfd",
-      "published_at": "2026-08-06T15:57:20",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.863,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's in Store for These 3 Networking Stocks This Earnings Season?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65f8ef6094b5a8feeb7d0e4e48c1cc8b4d6633a0171055e7bc30512a1027cbb0",
-      "published_at": "2026-08-06T15:13:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.9,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UPDATE - Apiiro Joins Chainguard's Athena Coalition, Makes AutoFix Free for Open Source Maintainers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8b5e2fd4c742ddd0ad64d142a0eaf86cbe5ee7998c36c196fb1155397061a9c",
-      "published_at": "2026-08-06T15:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.799,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Digi International (DGII) Q3 Earnings and Revenues Top Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c91da1bac17928ad76d043f29367571f1160bfdfdbb63a99146cd3fbbea8697b",
-      "published_at": "2026-08-06T00:35:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.605,
       "relevance_score": 1.0,
       "event_type": null
     }

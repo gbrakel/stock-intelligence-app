@@ -2,6 +2,17 @@
   "ticker": "MA",
   "articles": [
     {
+      "headline": "Cloudflare Wants to Control the Identity and Money Layer for Agent Commerce",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cd6d0cb18a0a4fe691f1f4798303e5d327a04e9ae62f42f200a1ce189183a1d",
+      "published_at": "2026-08-11T06:10:21",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.95,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What Wall Street Pushed MA To Explain",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=73d3d072157488534c8c3ca457a861a6a12a2b849318c3ddb6daefbafe64b9d7",
@@ -9,6 +20,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dallas-Fort Worth Business Datebook for Aug. 17: CIOs gather and discounted lunch options",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4fdc8ed51dc4839b8d7619a1d9b06ade3501d41fc5067601d0c26ef9e010fe3",
+      "published_at": "2026-08-10T18:54:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Fiserv-Mastercard Deal Comes As Investors Brace For Q2 Earnings: FISV Retail Sentiment Softens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68d7ac4457df99e98dee7dcbc83454ab3d8ee4288901cfa6a428d770f7203175",
-      "published_at": "2026-08-05T05:21:17",
-      "sentiment": "negative",
-      "sentiment_score": -0.635,
-      "sentiment_confidence": 0.635,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mastercard elevates premium travel with Asia Pacific's first Taste by Priceless dining club at Hong Kong International Airport",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2591278cbe8c7c8a9b08770cce5c48500d3160ec76371b04132d8f0604be64a1",
-      "published_at": "2026-08-05T03:34:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.627,
-      "sentiment_confidence": 0.627,
       "relevance_score": 1.0,
       "event_type": null
     }

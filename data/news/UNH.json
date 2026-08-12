@@ -2,6 +2,50 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "published_at": "2026-08-11T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth's Medicare Recovery Is Accelerating And Has More Room To Run",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=229e107e91057c8ef52a260f2db7213bc7b7197d36fdeb834c715a6897784ecd",
+      "published_at": "2026-08-11T13:43:18",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "sentiment_confidence": 0.95,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mark Cuban Urges Investors to Pressure Health Insurers Over Healthcare Costs: \u2018You Can Make a Difference\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ae2bb843f1f9e99dca127f357933c6c758b8933eb937c5bfa96078361b9984de",
+      "published_at": "2026-08-11T04:28:31",
+      "sentiment": "positive",
+      "sentiment_score": 0.651,
+      "sentiment_confidence": 0.651,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Elizabeth Warren Says UnitedHealth, CVS Have Too Much Control Over US Healthcare\u2014Now She Wants to Break Up the Vertical Integration",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78119848561ce7369f5cba2df29a3ebb77e140eea9fe1fb2ef88f4f16214a154",
+      "published_at": "2026-08-10T22:31:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.494,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Stay informed with the top movers within the dow jones index on Monday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2f75049ab7be9065daa72677147eb7c5f80eb38c8674a895383a372bc4e3f887",
@@ -31,17 +75,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.838,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Elizabeth Warren Says UnitedHealth, CVS Have Too Much Control Over US Healthcare\u2014Now She Wants to Break Up the Vertical Integration",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8547d062e78366917ebac21ccb59fde983a5e615af87b2c2912909d27b990ae7",
-      "published_at": "2026-08-10T08:19:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.494,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -207,17 +240,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.839,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c3f017020e693632ac5d4d9c9d82b142c56fb9d2d174d424bd80f10b75f07988",
-      "published_at": "2026-08-05T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Teladoc Health Q2 Earnings Beat Estimates on Integrated Care Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01d6763ce934e579edee76faaa73d11c8377810d730f83b9c9aa255f49a3fd96",
-      "published_at": "2026-07-30T16:33:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.929,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ENSG Q2 Earnings Beat Estimates on Growing Occupancy, '26 View Raised",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be4487e42e129d9ffc5f6a14953fc4852542dee3cf7a1687ff7e881645b57622",
-      "published_at": "2026-07-30T16:24:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.948,
-      "sentiment_confidence": 0.948,
       "relevance_score": 1.0,
       "event_type": null
     }
