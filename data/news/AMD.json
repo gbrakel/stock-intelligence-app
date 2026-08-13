@@ -2,6 +2,61 @@
   "ticker": "AMD",
   "articles": [
     {
+      "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+      "published_at": "2026-08-12T13:29:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.758,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What's Going On With AMD Stock Wednesday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=807f1784406bc9f1ff5459af41094ab3dd69b8b2991a8e6688e01171a8ab0c60",
+      "published_at": "2026-08-12T11:49:12",
+      "sentiment": "negative",
+      "sentiment_score": -0.514,
+      "sentiment_confidence": 0.514,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
+      "published_at": "2026-08-12T11:41:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Tech Veteran Warns Nvidia Is Playing Intel\u2019s Old Game Against AMD \u2014 and It Could Become a Dangerous Trap",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6",
+      "published_at": "2026-08-12T08:55:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.934,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
+      "published_at": "2026-08-12T08:50:48",
+      "sentiment": "negative",
+      "sentiment_score": -0.574,
+      "sentiment_confidence": 0.574,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.788,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What TSMC\u2019s Surging Sales Growth Means for Apple and Nvidia Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=978f32088d979b9d0c84ed650ff818a961bad2e598bee12cf5be28da367ae770",
-      "published_at": "2026-08-10T13:49:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.9,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Advanced Micro (AMD) a Buy as Wall Street Analysts Look Optimistic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=204fbab39b7789951d82c6bad6651c8c9c7c32cd79b3de315bbf5283a357c3d3",
-      "published_at": "2026-08-10T13:30:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.814,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=927f79fb8197c08718fbf9047d543896d51722a6794ed50f2089efd239681b44",
-      "published_at": "2026-08-10T13:19:20",
-      "sentiment": "negative",
-      "sentiment_score": -0.952,
-      "sentiment_confidence": 0.952,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c60cadc436eabc9263ab721f8b08f898c97e7c343aa5688551daf44df448fee4",
-      "published_at": "2026-08-10T12:19:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.912,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Intel plans $15 billion share sale as turnaround rally lifts stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8c839c9b77aabdbb756887955589c552ff8d98b6cf296f1a59cdabe45da02f3",
-      "published_at": "2026-08-10T12:05:06",
-      "sentiment": "positive",
-      "sentiment_score": 0.827,
-      "sentiment_confidence": 0.827,
       "relevance_score": 1.0,
       "event_type": null
     }
