@@ -2,6 +2,61 @@
   "ticker": "NEE",
   "articles": [
     {
+      "headline": "Sector Update: Energy Stocks Edge Lower Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93ae5de1d86423e049e11fd52a50540e269d20a951986bea25e28085894bc5a0",
+      "published_at": "2026-08-13T19:49:12",
+      "sentiment": "negative",
+      "sentiment_score": -0.967,
+      "sentiment_confidence": 0.967,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "July CPI Inflation - Not Low Enough",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=959dd45659e7dc8922c9670ded18586506fdbc03d9c047436f20cebae52917c9",
+      "published_at": "2026-08-13T08:35:57",
+      "sentiment": "negative",
+      "sentiment_score": -0.834,
+      "sentiment_confidence": 0.834,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer: These Utilities Stocks Are 'Oversold,' Fastly 'Back From The Abyss'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=daad1bd4278321e67454a4069a9e2340d9ee6d4c5842f654343bb39877995660",
+      "published_at": "2026-08-13T08:00:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra Energy, U.S. Department of Commerce and Government of Japan finalize commercial terms; reach funding milestone for up to 10 GW of gas-powered generation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a620ddccaae6cb636c81c1305cd0fcdc8a60a42c904d8e648e50bbfceaea0fdf",
+      "published_at": "2026-08-12T20:15:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.882,
+      "sentiment_confidence": 0.882,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra Energy Executes Definitive Agreements With The U.S. Department Of Commerce And The Government Of Japan To Fund The Development And Operation Of Up To 10 Gigawatts Of Natural Gas-Powered Generation In Texas And Pennsylvania",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2708cd9d7df6a89406be68a3f8ea14022f42e14624cc403f873457f987bf633f",
+      "published_at": "2026-08-12T16:38:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.918,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "NextEra Energy: Paducah Adds Upside, But Dominion Adds Risk",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9299ff27ec375c0c1736c16221df42acde9c92103f819678f6b786654cbb83c6",
@@ -9,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.667,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 of the Best Dividend Stocks to Buy for Under $100 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a9f6542565f50d1465817e79cba3bb863f4f757d05ead34ead63eb15f84b240",
+      "published_at": "2026-08-11T18:59:08",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.864,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.972,
       "sentiment_confidence": 0.972,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dominion Energy Says AI Boom Is Fueling Unprecedented Power Demand Across Virginia",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a3c886156923fafa0f881568aed9767fd0b4c427d7d3faff180d0d1edc5617f7",
-      "published_at": "2026-07-31T13:27:46",
-      "sentiment": "negative",
-      "sentiment_score": -0.647,
-      "sentiment_confidence": 0.647,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dominion Energy: Take Profits Ahead Of The Potential NextEra Merger (Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=767657399d07bb0ef10c29c852353839289d6a082fbfac4f96fbd7ee33b418bb",
-      "published_at": "2026-07-31T11:12:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.893,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SC House, Senate leaders intervene in proposed NextEra utility megamerger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56de8d4fd1603cb8ed83663eea7f3347dee76bf8dbd90ca66f8071ff194bfe05",
-      "published_at": "2026-07-30T23:12:50",
-      "sentiment": "negative",
-      "sentiment_score": -0.806,
-      "sentiment_confidence": 0.806,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Xcel Q2 Earnings Beat Estimates on Infrastructure Investment Recovery",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4e60d03be26c0df0a76b1b76f482bcce94aadaf79818dd2af67b4c2091842ef",
-      "published_at": "2026-07-30T17:27:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra Energy board declares quarterly dividend",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf76e82cc276d38c2461f226f4d47d0a471fc210d3db33b9f8b8d8c5641d371d",
-      "published_at": "2026-07-30T15:19:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.667,
-      "sentiment_confidence": 0.667,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "DOE Is Converting Its Own Cold War Uranium Sites Into $100 Billion AI Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15ebd0b2627544239823f15f49af9858ab0ac8962ef84cc90c4bf986c3778538",
-      "published_at": "2026-07-30T05:11:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.764,
       "relevance_score": 1.0,
       "event_type": null
     }
