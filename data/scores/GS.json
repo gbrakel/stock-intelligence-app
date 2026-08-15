@@ -3,17 +3,17 @@
   "history": [
     {
       "date": "2026-08-14",
-      "composite": 49.9,
-      "signal": "reduce",
-      "signal_confidence": 0.66,
+      "composite": 51.1,
+      "signal": "exit_watch",
+      "signal_confidence": 0.7,
       "risk_level": "high",
       "scores": {
-        "fundamentals": 50.0,
-        "growth_trend": 63.5,
+        "fundamentals": 58.3,
+        "growth_trend": 60.1,
         "valuation": 78.2,
-        "sentiment": 63.8,
-        "technical": 60.3,
-        "risk_penalty": 50.6
+        "sentiment": 64.0,
+        "technical": 60.4,
+        "risk_penalty": 53.9
       }
     },
     {

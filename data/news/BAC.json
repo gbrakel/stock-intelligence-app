@@ -2,6 +2,61 @@
   "ticker": "BAC",
   "articles": [
     {
+      "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
+      "published_at": "2026-08-14T16:44:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.607,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Preferred Stocks Can Turbocharge Your Portfolio's Yield, But Beware Of Middlemen And Hidden Risks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bbc2dc17e2661a25726ac8f5cd34b774333deaed3647db7b6b5773434d13bd7d",
+      "published_at": "2026-08-14T08:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.788,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "JPMorgan Debanked Polymarket Over Regulatory Concerns, But Eyes Role in Potential IPO: Report",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ccefce8420b71331ffaeee855a1781c5fb181e625f4b115693512279c3351768",
+      "published_at": "2026-08-14T06:25:42",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fast Money Bets on November RBA Hike in Fight Against Inflation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=698c0cd31953bb3cd2597d2e7f09f26ae9f7122eaabf29ee9b0050cccc98dc1e",
+      "published_at": "2026-08-14T03:23:20",
+      "sentiment": "positive",
+      "sentiment_score": 0.75,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bank of America reveals Rocket Lab stock outlook after earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=613b08c71c4cb2ae4e5b63815e927ab0b13744ed6117746aaf592a796c3e8984",
+      "published_at": "2026-08-14T00:03:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.877,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AMD Gets a Bigger AI Opportunity as CPU Market Expands",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=07721310f465080790be9c004101546f78d08f283720949bd232be4fc1476950",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.454,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "1 Mega-Cap Stock with Impressive Fundamentals and 2 We Brush Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4dca4469d754521c88d8c239ad15f3fcf4f0ee0c3664fa456559e330897c0a5",
-      "published_at": "2026-08-10T18:53:22",
-      "sentiment": "positive",
-      "sentiment_score": 0.928,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f1227783f08dcda5a80cf42f389d3f46dfcecd185ae446768b762c9c6d55f05",
-      "published_at": "2026-08-10T18:31:06",
-      "sentiment": "negative",
-      "sentiment_score": -0.441,
-      "sentiment_confidence": 0.441,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\"",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4737cf1b9324a6689dec78e5d3b9e01143f455fc3f99ea8ecfafde57ce78bdd",
-      "published_at": "2026-08-10T17:51:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.911,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a54806881242c72cbe1e64b18eef12d075553447c1069e141af1d0f725b43fa",
-      "published_at": "2026-08-10T17:35:07",
-      "sentiment": "positive",
-      "sentiment_score": 0.918,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot to Benefit From Professional Demand More than Lowe's in Q2, BofA Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab2180cd12e27e4471c67d9ffd1fdce679ef8f47e82fa247282530a52d6cf3c8",
-      "published_at": "2026-08-10T16:01:12",
-      "sentiment": "positive",
-      "sentiment_score": 0.947,
-      "sentiment_confidence": 0.947,
       "relevance_score": 1.0,
       "event_type": null
     }
