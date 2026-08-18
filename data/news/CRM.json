@@ -2,6 +2,28 @@
   "ticker": "CRM",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "published_at": "2026-08-17T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
+      "published_at": "2026-08-17T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d4dda3373c4983a5dd7479b3d8440550dc2ade68937fd177531c3dfdb331d43f",
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.719,
       "sentiment_confidence": 0.719,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AvePoint Sees AI Governance Demand Surge as AgentPulse Tackles Shadow AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9530e7a0a037b399a79d353c511be3db5bcf02df43fab32e99db6687b6339ec3",
-      "published_at": "2026-08-11T18:05:14",
-      "sentiment": "positive",
-      "sentiment_score": 0.867,
-      "sentiment_confidence": 0.867,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bandwidth Q2 Results Raise the Stakes for Its AI Growth Strategy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c86501d40bedee64dfb10320ebc7d37e4b65af9fd2deff6897a4d256d97a50a",
-      "published_at": "2026-08-11T17:34:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.95,
-      "sentiment_confidence": 0.95,
       "relevance_score": 1.0,
       "event_type": null
     }

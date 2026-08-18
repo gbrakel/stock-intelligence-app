@@ -2,6 +2,72 @@
   "ticker": "GS",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "published_at": "2026-08-17T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
+      "published_at": "2026-08-17T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'General Atlantic Is Working With JPMorgan to Lead Fresh IPO Push' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=92d834502551059187a1ceadf47cb381e7eaf2f7728b898b27cbd11fc4a3eb95",
+      "published_at": "2026-08-17T10:59:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.583,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bitcoin ETFs See Largest Outflow in Six Weeks: What's Going On?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=732cc1bdfa6e77754eb44e1295fbb51afd7b917c560340e77fe81d02be55f510",
+      "published_at": "2026-08-17T08:11:12",
+      "sentiment": "negative",
+      "sentiment_score": -0.804,
+      "sentiment_confidence": 0.804,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73",
+      "published_at": "2026-08-15T12:51:20",
+      "sentiment": "positive",
+      "sentiment_score": 0.734,
+      "sentiment_confidence": 0.734,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+      "published_at": "2026-08-15T09:51:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.705,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "GPIQ: Collect High-Yield Income From Technology Stocks",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=94ac6542a76bc3e365e6d07ac52210d5e3ba88c40679af49c928cd10099c4054",
@@ -482,72 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.83,
       "sentiment_confidence": 0.83,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Michael Burry Sends Chilling Warning on Nvidia's $500 Billion AI Plan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74b381791347d40e53266723b3ab7e239be2f79a050efab54d03d5599c942e82",
-      "published_at": "2026-08-12T15:39:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.836,
-      "sentiment_confidence": 0.836,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Goldman Sachs to Buy Neos Investments for $2.25 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b884ceaa46cc497c5d24f9b2b2985cdef4de8df060216d5e368f7b8c0cd6d197",
-      "published_at": "2026-08-12T15:30:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Goldman Sachs acquiring NEOS Investments ETF provider for $2.25B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d44d6291c3d352ecbc89df8273a39a121a0cd4eb55a9b63e0673165d75e124dc",
-      "published_at": "2026-08-12T14:07:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.883,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on with the state of consumer prices?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2acc05001747dfef6bd45da0b99ebe34540b1f9304c9a9a9c60aa35990fe570",
-      "published_at": "2026-08-12T13:58:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.664,
-      "sentiment_confidence": 0.664,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wolfspeed 13G Shows Goldman Sachs Reports 6.8% Stake In Co, With 3.56M Shares Owned As Of June 30, 2026",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=29ee2036a90e263d87c78ad987b52c26f6210915132e5bab17c99543726178b2",
-      "published_at": "2026-08-12T13:29:11",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal' - Bloomberg",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=be051e960a8280c464e78c5715f3ed526349a9331252fdae8df8f82eaec8c46a",
-      "published_at": "2026-08-12T08:00:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.832,
       "relevance_score": 1.0,
       "event_type": null
     }

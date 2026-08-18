@@ -2,6 +2,39 @@
   "ticker": "DIS",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "published_at": "2026-08-17T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
+      "published_at": "2026-08-17T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d87c1209bd51e442bd21ed072bc75d40d6d801f2e8905190c99c87d49b83bc80",
+      "published_at": "2026-08-15T10:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d4dda3373c4983a5dd7479b3d8440550dc2ade68937fd177531c3dfdb331d43f",
@@ -9,6 +42,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.839,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Fast Money' traders reacts to CNBC's interview with Disney's new CEO",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d53d355e5167f9030cf2fd48035e3ddf84859203c5463a0362dd4f53a25201d5",
+      "published_at": "2026-08-14T17:52:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.91,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -218,17 +262,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.717,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=dc7b678c7dd4cd6a3402643873b5496c8607351731d4b73f311288116d81b5e8",
-      "published_at": "2026-08-11T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.856,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney may give streaming away for a surprisingly profitable reason",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92d4a329c0baf854e6b2c918bbc911439d78d8b45ab707b4d88a02f14fa67d75",
-      "published_at": "2026-08-08T21:03:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.671,
-      "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney May Be Taking a Page Out of Tubi\u2019s and Pluto TV Playbook: \u2018We\u2019re Exploring a Free Product For Consumers,\u2019 Says Josh D'Amaro",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0418bbfe9dd8e21cc6d6d99431f3d7e60134e1d5f194816e2d02066eea65fe3",
-      "published_at": "2026-08-08T17:00:21",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.652,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney World Has More Treats Than Tricks This Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e243ee81a32bd97be88e824d476f775a9ad2e9f0e6044feacfb80289eccc9efb",
-      "published_at": "2026-08-08T12:33:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
       "relevance_score": 1.0,
       "event_type": null
     }

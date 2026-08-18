@@ -2,6 +2,17 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "Wells Fargo Maintains Overweight on AbbVie, Raises Price Target to $300",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=292ccba92e495cfc2bc773b240ec1429bff79de77dddc692c061eca0a3ebad65",
+      "published_at": "2026-08-17T09:04:29",
+      "sentiment": "positive",
+      "sentiment_score": 0.916,
+      "sentiment_confidence": 0.916,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Wolfe Research Upgrades AbbVie (ABBV)",
       "source": "Fintel",
       "url": "https://finnhub.io/api/news?id=e0bfe2d8f1befab153ba143c71be4362c346fc315cdcd21e2c0c3bf657df1d57",
@@ -537,17 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.867,
       "sentiment_confidence": 0.867,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Prediction: AbbVie Will End The Year at This Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e27cb2755c5c26998a75d4cb2de83f1f6b0204bab0546d82cb0ec6f2e4beebbb",
-      "published_at": "2026-08-05T14:00:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.762,
       "relevance_score": 1.0,
       "event_type": null
     }

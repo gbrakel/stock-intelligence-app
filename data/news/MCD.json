@@ -2,6 +2,39 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "published_at": "2026-08-17T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
+      "published_at": "2026-08-17T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=856f50db1b08b71463c96c56a4403068cae8d2c80f7a7deb5fc7bf43353d1c68",
+      "published_at": "2026-08-17T11:35:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.883,
+      "sentiment_confidence": 0.883,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d4dda3373c4983a5dd7479b3d8440550dc2ade68937fd177531c3dfdb331d43f",
@@ -515,39 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.955,
       "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
-      "published_at": "2026-08-09T03:11:49",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.767,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Does McDonald's (MCD) Have A US Menu Problem After Weak Same Store Sales?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=811b9939efa8a2e4fe461bbec0d610d117a11c4d5e0d0fa514762f3ba06da0da",
-      "published_at": "2026-08-09T00:20:25",
-      "sentiment": "negative",
-      "sentiment_score": -0.965,
-      "sentiment_confidence": 0.965,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's says it alienated its most loyal customers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a04f9c05549077618cb5045cbc862370a39da1fa70c8e186943f270d702e9852",
-      "published_at": "2026-08-08T14:17:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.963,
-      "sentiment_confidence": 0.963,
       "relevance_score": 1.0,
       "event_type": null
     }

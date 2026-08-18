@@ -2,6 +2,39 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Which S&P500 stocks are moving on Monday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f3b05a15d3587a3e698d248c4e9bedeb3e073fabc491252708026a8fe6182d12",
+      "published_at": "2026-08-17T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.901,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=982102dcb4a89920288ff6d002b987dc6c7f3b6fc5c8d224bc8ff8e9265d9af4",
+      "published_at": "2026-08-17T16:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.847,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9a2f50b6d5bb1ed91d81965853662c1b14114e6a9fce1fe4d4fa3050312439fc",
+      "published_at": "2026-08-17T13:04:32",
+      "sentiment": "positive",
+      "sentiment_score": 0.48,
+      "sentiment_confidence": 0.48,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ServiceNow: Great Company At A Fair Price, But I Need More Margin Of Safety",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=707ab9a9665c7a8e16969cf2eae1d5e7f3f83eebd915dfc885a12abf3e8fb919",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.609,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Accenture's AI-Focused Deal With India's Dabur a Growth Catalyst?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=049099117ac6fa8d96ca51ece85b96d12f10e931284f9c91fd443ca3c82d2a9f",
-      "published_at": "2026-08-06T15:09:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.689,
-      "sentiment_confidence": 0.689,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Software stocks sink, led by declines from Figma, Datadog",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f711c08be417d0ddfac697148a75a089669a2e6460a0ae66bacd33cd33508a8c",
-      "published_at": "2026-08-06T14:41:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e5d467ef4e3143d3571d50448ff9f4cfd955c2fb2f2a997269ba53ab3a72999",
-      "published_at": "2026-08-06T14:20:08",
-      "sentiment": "negative",
-      "sentiment_score": -0.959,
-      "sentiment_confidence": 0.959,
       "relevance_score": 1.0,
       "event_type": null
     }

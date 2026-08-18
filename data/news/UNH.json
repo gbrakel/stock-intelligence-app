@@ -2,6 +2,105 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "published_at": "2026-08-17T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
+      "published_at": "2026-08-17T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "4 Health Care Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ccd2ea8851c0b4b01e6bcf4847b75690ef0993697f38657d9476c66c127a9022",
+      "published_at": "2026-08-17T13:35:16",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.838,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Visa, Lockheed Martin And A Health Care Stock On CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3fedcb8fbe55fb9db8f535ac172b2b49583be4667844baaa7767d2e7f6ab046a",
+      "published_at": "2026-08-17T11:38:24",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "David Tepper's Latest AI Bet Is CoreWeave",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9c4d75270a303776b3ed5c20d30209deccf4a080d295bf8f989e05cad1ba22b9",
+      "published_at": "2026-08-17T09:43:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bernie Sanders Says 'Our Current Healthcare System Is Broken,' Demands Medicare for All as 64% Back Universal Coverage",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=95feca9532a6ac734c396215b71426a388600d67065b5456e2b32d6e09c26d25",
+      "published_at": "2026-08-17T03:35:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.566,
+      "sentiment_confidence": 0.566,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth: Margin Recovery Is Priced In, Growth Is The Next Test",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=656ef774d86632baec26bd2846f96815b1fd5b6279b0bcb592c4f75f9a4e7891",
+      "published_at": "2026-08-17T01:20:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.565,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "IHF: Healthcare Dashboard For August",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20166a2b2acd2263cfdbcc99fc419c59e514054bea615fc73fdbae8d84095aeb",
+      "published_at": "2026-08-16T08:06:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.931,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Luigi Mangione Says \u2018I Shot Mr. Thompson\u2019 in Court as He Pleads Guilty Over UnitedHealthcare CEO\u2019s Killing",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8fbb8db6ee21ccf0fec49de85b28bc3ae52f08ba164ddadaf16bab4950a79692",
+      "published_at": "2026-08-14T22:36:26",
+      "sentiment": "negative",
+      "sentiment_score": -0.507,
+      "sentiment_confidence": 0.507,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d4dda3373c4983a5dd7479b3d8440550dc2ade68937fd177531c3dfdb331d43f",
@@ -233,17 +332,6 @@
       "event_type": null
     },
     {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
-      "published_at": "2026-08-11T19:10:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "UnitedHealth's Medicare Recovery Is Accelerating And Has More Room To Run",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=229e107e91057c8ef52a260f2db7213bc7b7197d36fdeb834c715a6897784ecd",
@@ -284,17 +372,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "4 Health Care Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=18a7c460615800209677a6dae1df97a66c8cd1bc78b57220c149c4cd0c51a23b",
-      "published_at": "2026-08-10T13:35:10",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.838,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.938,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ca035af56beda0d6c99392b7b7fec70c023883da92857f33ebd9fda702f3039",
-      "published_at": "2026-08-05T14:37:29",
-      "sentiment": "negative",
-      "sentiment_score": -0.939,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CVS Falls After Preliminary 2027 Guidance Disappoints",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12db69f9cdafe0ff2686b26b189d80dad081635d4359a46491954e6398f22fb1",
-      "published_at": "2026-08-05T13:41:48",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Could UnitedHealth Group (UNH) See Substantial Upside as Medicare Profits Recover?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=625cc227c00a69f55676331c5881226d79e19ae5ba4f3c818047cceb24f85ea5",
-      "published_at": "2026-08-05T12:32:22",
-      "sentiment": "positive",
-      "sentiment_score": 0.935,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Brown Advisory Flexible Equity Strategy Q2 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=73b55282df1e30c21b0484c36bafd51d47b492ab49aa8791eecf2504d2e86788",
-      "published_at": "2026-08-05T12:14:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UnitedHealth Group (UNH) Price Target Increased by 15.52% to 482.64",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=82fc28b6c72a237b983431ed5de66da9fabc707f8bcfec87273179249d25cdb7",
-      "published_at": "2026-08-05T01:08:41",
-      "sentiment": "positive",
-      "sentiment_score": 0.954,
-      "sentiment_confidence": 0.954,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=483f966e3fec03d644b725993e1e9c6afeda8b616f07640dda8da731c09bf0d0",
-      "published_at": "2026-08-04T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=30905f0760c72cb9500a521fd9bc31fde32949ac88ad843d045fab1c8fb20a6c",
-      "published_at": "2026-08-04T16:40:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.726,
-      "sentiment_confidence": 0.726,
       "relevance_score": 1.0,
       "event_type": null
     }
