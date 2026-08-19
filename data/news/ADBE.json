@@ -2,6 +2,39 @@
   "ticker": "ADBE",
   "articles": [
     {
+      "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=0c34c0b3b03ebf33b5cdb2e2aa62df9dea0c5b400ba5098836973b6aae6b94b7",
+      "published_at": "2026-08-18T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stay informed with the top movers within the S&P500 index on Tuesday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fca39c0b151eec8262878ba40ac18260199ffcf7927c70595271e1c7c746f5ee",
+      "published_at": "2026-08-18T16:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.879,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a1e896aa71ebecc79b309653ec4b85bc10559029986ca2b2de4dd3a0e243df93",
+      "published_at": "2026-08-18T12:40:18",
+      "sentiment": "negative",
+      "sentiment_score": -0.946,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Adobe: Even If It Wins With AI, The Market May Take Years To Forgive",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6458bab8eadc1cf4d964edd03bde56c0a5eaf068236dbb3b9175a3829f5c5f42",
@@ -515,39 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.959,
       "sentiment_confidence": 0.959,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why ADSK Stock Hands You So Much Cash Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=428eb0d6dbf55cb7b49474c833c3b71ae4868227779483a2ad523874568e2365",
-      "published_at": "2026-08-01T16:22:53",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.907,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79e77c460a159b12b5fdb784f7c44efc0b1aefa6cfa1fa600377134cf99ef33f",
-      "published_at": "2026-07-31T21:10:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.883,
-      "sentiment_confidence": 0.883,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Leopold Aschenbrenner's AI hedge fund collapses after margin calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5485920722c950af0a3142cb4a51c162d86e22b3ee48203fcb9cd644d765c03d",
-      "published_at": "2026-07-31T17:44:26",
-      "sentiment": "negative",
-      "sentiment_score": -0.945,
-      "sentiment_confidence": 0.945,
       "relevance_score": 1.0,
       "event_type": null
     }

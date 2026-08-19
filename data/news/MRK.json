@@ -2,6 +2,61 @@
   "ticker": "MRK",
   "articles": [
     {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
+      "published_at": "2026-08-18T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
+      "published_at": "2026-08-18T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco, Merck, Cheniere Energy And More: CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b1f4f9103ba4ea73808da7ba801f781b9c6bab74333c738278cbe9332470efae",
+      "published_at": "2026-08-18T08:14:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf",
+      "published_at": "2026-08-18T02:34:40",
+      "sentiment": "positive",
+      "sentiment_score": 0.819,
+      "sentiment_confidence": 0.819,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Hidden Winners Inside SCHD - August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c674bf3153c4c112b1c368a5a3d8d5c53ce0cb6ca09bafc6aeb63dd260d5f92",
+      "published_at": "2026-08-17T19:55:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.943,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.493,
       "sentiment_confidence": 0.493,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "S&P 500 Companies' Quarterly Earnings Growth Eases Amid Healthcare Drop, Oppenheimer Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9ab38df8af26d3add068cf197e186a40197b59868e7b5f443f4d751abbc8790",
-      "published_at": "2026-08-10T18:02:06",
-      "sentiment": "negative",
-      "sentiment_score": -0.806,
-      "sentiment_confidence": 0.806,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
-      "published_at": "2026-08-10T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IMCR Jumps 21.2% in 3 Months as Kimmtrak Growth Fuels More Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=77d0f1024328637c151599be0b272a6addb56f2ed7b3e349eb12fcc8e0d06e42",
-      "published_at": "2026-08-10T16:16:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.949,
-      "sentiment_confidence": 0.949,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Eli Lilly Stock's Next Climb Runs Through A Pill, Not Just An Injection",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9619ef377aa37b3295cafc7d2a4686061b76f5c87f4c8df7da46959859930693",
-      "published_at": "2026-08-10T16:01:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IMCR Q2 Revenues Climb 18.3% as Kimmtrak Demand Helps Offset EPS Miss",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15062565284559b65b0013b5f44da47ba796975750ba9e1d3a654f592610ee6a",
-      "published_at": "2026-08-10T15:39:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.947,
-      "sentiment_confidence": 0.947,
       "relevance_score": 1.0,
       "event_type": null
     }

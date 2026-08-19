@@ -2,6 +2,39 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
+      "published_at": "2026-08-18T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
+      "published_at": "2026-08-18T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Palmer Luckey Fires Back at Former Taco Bell CEO Greg Creed Over McDonald\u2019s Drinks Criticism: \u2018What a Loser\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a79732bcf1ddd02d3482d032dbb1e75365fcab8fc2d669e13bf2de242bfde307",
+      "published_at": "2026-08-18T05:05:05",
+      "sentiment": "negative",
+      "sentiment_score": -0.949,
+      "sentiment_confidence": 0.949,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
@@ -515,39 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.862,
       "sentiment_confidence": 0.862,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Airbnb vs. McDonald's: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4022937e06bfd5f5ae717583ec3badbc8d65094ff80ff3d6644f4eb3ade6f2f",
-      "published_at": "2026-08-10T00:15:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.869,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's making some big changes to its menu",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d88133dfb71997ac7694f2f638dd3f25ec43dbabe2d2b7d2136d858b1381da34",
-      "published_at": "2026-08-09T23:37:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.751,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wendy's loses status as second-largest burger chain after 6-year run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa262e5ba77496ff5aac367ace8bb7e120d4ca1ad9d042d0a08027e7b9b14d2f",
-      "published_at": "2026-08-09T18:27:33",
-      "sentiment": "negative",
-      "sentiment_score": -0.955,
-      "sentiment_confidence": 0.955,
       "relevance_score": 1.0,
       "event_type": null
     }

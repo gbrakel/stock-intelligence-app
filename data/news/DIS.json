@@ -2,6 +2,39 @@
   "ticker": "DIS",
   "articles": [
     {
+      "headline": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
+      "published_at": "2026-08-18T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street Lunch: Meta Faces High-Stakes Federal Trial Over Child Safety",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=069dcaa59f8d9b58211f0ace2cb2a20b41ee5c27991f7c110010c37daa93981c",
+      "published_at": "2026-08-18T14:00:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.746,
+      "sentiment_confidence": 0.746,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Disney-owned ABC files First Amendment lawsuit against FCC",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0e3dc793643d4caca653987c634afd1012efbe4940a1a097d5ac384d81360f8f",
+      "published_at": "2026-08-18T09:11:30",
+      "sentiment": "negative",
+      "sentiment_score": -0.792,
+      "sentiment_confidence": 0.792,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
@@ -20,6 +53,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7ac5a31e344fa577c1fde7126872496bd3b782e13d04b6404e8701df7df37ff0",
+      "published_at": "2026-08-17T14:50:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.929,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Consumer Tech (Aug 3-7): SpaceX Released Strong First Earnings, Meta Sued For Harming Children's Mental Health & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=98725731faf784bae01f148cffd10a14c8982e97b378e9b9dcfb095998ca9a45",
-      "published_at": "2026-08-09T10:40:24",
-      "sentiment": "positive",
-      "sentiment_score": 0.592,
-      "sentiment_confidence": 0.592,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc5b1f3df9fd34ca061fc97816b99d46bbe40b24e9d6e0a40ed048a5e17c8ca4",
-      "published_at": "2026-08-09T07:08:20",
-      "sentiment": "positive",
-      "sentiment_score": 0.538,
-      "sentiment_confidence": 0.538,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney (DIS) Stock May Be 4% Below Fair Value As Disney+ Expansion Builds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a94497aa65e8b6fee196fdea32f3492ed6edc09679a4367315625171e8aa599",
-      "published_at": "2026-08-09T04:25:44",
-      "sentiment": "negative",
-      "sentiment_score": -0.865,
-      "sentiment_confidence": 0.865,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Chipotle Mexican Grill vs. Walt Disney: Comparing Revenue Trends Between These Consumer Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5868e592f9f84d38abc6fe5a8f8325185b02919f2496133fe449e35213f76e9f",
-      "published_at": "2026-08-08T23:23:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.856,
       "relevance_score": 1.0,
       "event_type": null
     }
