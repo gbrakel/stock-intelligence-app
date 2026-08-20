@@ -2,6 +2,61 @@
   "ticker": "PFE",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=06bc9619bf53a11a041c1a94ae5eb97fa03663fcef161e2b5f6c6836998b06d4",
+      "published_at": "2026-08-19T18:05:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.874,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Merck Just Raised the Stakes for Pfizer's Cancer Vaccine Ambitions",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8a923a2aeedb4a03f6cfb97eb0cbbceddf7628f540dbe08c20e1ddf7577c5e35",
+      "published_at": "2026-08-19T14:31:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.636,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer Stock Rises Wednesday: What's Going On?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2b286492921519f765948c500cb6a5dbb1095b7ae86a0c930813419698ce748e",
+      "published_at": "2026-08-19T13:56:14",
+      "sentiment": "negative",
+      "sentiment_score": -0.665,
+      "sentiment_confidence": 0.665,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ImmunityBio Expands Commercial Access For ANKTIVA Bladder And Lung Cancer Treatment To Saudi Arabia",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=987aa0ba24b74bed168e38bd5d8117088eb5cd2a1d0eaeb67de7b61cd2be93c4",
+      "published_at": "2026-08-19T12:15:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.933,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AstraZeneca Vs. Bristol-Myers Squibb: Who's The Better Bargain For Investors?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e1130e90380ab9807504bf240b0038a51a19924cdacc932dd13f4834b335bfb",
+      "published_at": "2026-08-19T09:22:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.871,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
@@ -141,17 +196,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.905,
       "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
-      "published_at": "2026-08-13T18:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.874,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Most active S&P500 stocks in Monday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e70d1226589f0903ccae81f7dfc28a84486a4791d7a36b439ddaadc5b167af77",
-      "published_at": "2026-08-10T18:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "S&P 500 Companies' Quarterly Earnings Growth Eases Amid Healthcare Drop, Oppenheimer Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9ab38df8af26d3add068cf197e186a40197b59868e7b5f443f4d751abbc8790",
-      "published_at": "2026-08-10T18:02:06",
-      "sentiment": "negative",
-      "sentiment_score": -0.806,
-      "sentiment_confidence": 0.806,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pfizer's Earnings Have Declined 58% This Year. Is a Dividend Cut Around the Corner?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28e832f5a6e4398933394573412212cf04f3b2c413af4e7b449fca4c0aee2461",
-      "published_at": "2026-08-10T18:00:59",
-      "sentiment": "negative",
-      "sentiment_score": -0.957,
-      "sentiment_confidence": 0.957,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Eli Lilly Stock's Next Climb Runs Through A Pill, Not Just An Injection",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9619ef377aa37b3295cafc7d2a4686061b76f5c87f4c8df7da46959859930693",
-      "published_at": "2026-08-10T16:01:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.93,
       "relevance_score": 1.0,
       "event_type": null
     }

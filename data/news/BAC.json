@@ -2,6 +2,28 @@
   "ticker": "BAC",
   "articles": [
     {
+      "headline": "The Iran War Sent Gas Prices Skyrocketing, but the US Now Faces a Diesel Problem",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=91f4b92a67874212363303aa473914357eb120c9352cd795f55f7965a5023782",
+      "published_at": "2026-08-19T06:34:44",
+      "sentiment": "negative",
+      "sentiment_score": -0.917,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bank of America: Current Price Already Requires A 16% Terminal ROTCE, Hold",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2f98b014963a86255f19c5298d56158edc16823eb02095cda2adb2b7a2921399",
+      "published_at": "2026-08-19T01:02:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.89,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Bank of America: Don't Chase Short-Term Momentum From The Global Bond Rout",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=44537f2c3573bcfef6d5b6d3209ae6d94ffae7adc2a4805d9e0e198916ce6c4d",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.517,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The mega-bucks infrastructure buildout gains steam",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19e97074be3a7a87b0803becb3409302b7d3fb6d7f58b77f26991b4e9fdc719c",
-      "published_at": "2026-08-12T09:01:04",
-      "sentiment": "positive",
-      "sentiment_score": 0.912,
-      "sentiment_confidence": 0.912,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bank of America unveils $250B initiative to modernize US infrastructure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6afc6ffaa61d9c82c3368e50ca2aeb77f023e24fa2d55248ec274562c80a586",
-      "published_at": "2026-08-12T09:00:55",
-      "sentiment": "positive",
-      "sentiment_score": 0.824,
-      "sentiment_confidence": 0.824,
       "relevance_score": 1.0,
       "event_type": null
     }

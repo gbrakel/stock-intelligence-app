@@ -2,6 +2,28 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=9d113a09f48670d436e6f2252bf1887b5a026dfadda5e1b78c4e9f01efe715bf",
+      "published_at": "2026-08-19T16:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.86,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Semiconductors Are Collapsing While ServiceNow May Be Bottoming (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2ce5cf60d26bd60d45145c15318b980956a407b77e99e4ef79544d204d12ba79",
+      "published_at": "2026-08-19T08:18:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.927,
+      "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Salesforce's and ServiceNow\u2019s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=0ec6ccc31a21442974170482fd7a9ba42b24496d0c757b178775ce03d7041e3a",
@@ -526,28 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.751,
       "sentiment_confidence": 0.751,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=97cc30b60f13c7af214f0c0afb17997cc515ad12a36ad63fdf4d3ec954ca3f5c",
-      "published_at": "2026-08-07T19:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.873,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9bdba43fcab22b2cbe6b2e92788d4e69dd55e6b163385f9dbbc531c0004beafd",
-      "published_at": "2026-08-07T16:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.566,
       "relevance_score": 1.0,
       "event_type": null
     }

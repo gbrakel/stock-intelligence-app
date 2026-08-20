@@ -2,6 +2,17 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
+      "published_at": "2026-08-19T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
@@ -537,17 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.932,
       "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Tech Stocks Gain Thursday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ddd660f945e74470783317468eeb7c09134410a6b8a251437fd690e77fd0ea5",
-      "published_at": "2026-08-13T17:32:36",
-      "sentiment": "positive",
-      "sentiment_score": 0.574,
-      "sentiment_confidence": 0.574,
       "relevance_score": 1.0,
       "event_type": null
     }

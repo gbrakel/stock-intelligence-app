@@ -2,6 +2,83 @@
   "ticker": "INTC",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=06bc9619bf53a11a041c1a94ae5eb97fa03663fcef161e2b5f6c6836998b06d4",
+      "published_at": "2026-08-19T18:05:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.874,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which stocks are most active on Wednesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=709907e313da67eb9297d61718e239cfbac798b8fcaa3222f3077e4bb4eb234f",
+      "published_at": "2026-08-19T18:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Amtech Systems shares are trading lower after the company reported worse-than-expected Q1 financial results.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fe19d8d82b011548d036955326e9eec94c792a8eb80183da6279cfc3441aa8f",
+      "published_at": "2026-08-19T15:23:44",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Taiwan Semiconductor\u2019s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d3e68ad50cd62bb2eda41d53822a55b0ed049f85c81afb4a03b02db6193e0b92",
+      "published_at": "2026-08-19T10:01:22",
+      "sentiment": "positive",
+      "sentiment_score": 0.937,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Gov\u2019t stakes in private companies mean a less dynamic U.S. economy in the long term: Scott Lincicome",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7d9239f3225b9c9ce71feeee64e348b5bd31d52d64ce9e2a2e4aa8d443a5d884",
+      "published_at": "2026-08-19T08:16:51",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.798,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=62931e0861f4d587e501c84a06cf467fff02e73396bc22fd37f2c5a19c943e4b",
+      "published_at": "2026-08-19T08:07:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Intel Eyes an Opening in Taiwan Semiconductor\u2019s AI Packaging Fortress",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d7b8d9a8df655952f22aceb3fbb26d322a316cb314383e7106c8660a73a44372",
+      "published_at": "2026-08-19T05:25:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.471,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
@@ -471,83 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ade1a93d5b44a0c93c9e1b2ab6f8519431cbe1ea3208da6b583482a0c2f0086c",
-      "published_at": "2026-08-13T20:07:53",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.813,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=956eaff712938785b1bf441f8d4a23fd997ec4649ae35ca48ae3658aff488df6",
-      "published_at": "2026-08-13T18:17:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.481,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
-      "published_at": "2026-08-13T18:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.874,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=310a10ba2298e2e85ac0362b9b37f2a21b4387b1c7880ee0fa5dbb0fbf61c17f",
-      "published_at": "2026-08-13T17:35:40",
-      "sentiment": "positive",
-      "sentiment_score": 0.878,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Intel Stock Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1544cb6f1046c3e4db9ec2ce582b25c46a07bced1d88d76ff77eec32e814c213",
-      "published_at": "2026-08-13T17:04:28",
-      "sentiment": "negative",
-      "sentiment_score": -0.472,
-      "sentiment_confidence": 0.472,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "BofA Reveals Its AI Stocks To Buy List",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0ab7cc8a184275199ec78fcaeb8b01909d5b43b5fecf585f4a98a3c27e3e611",
-      "published_at": "2026-08-13T17:03:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Living Larger and Larger: Inside the AI Financing Scramble",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dcdf788df9f78f98136f5addb1b21e3f1b16e4a971a5780d158a817173552140",
-      "published_at": "2026-08-13T16:51:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.888,
       "relevance_score": 1.0,
       "event_type": null
     }

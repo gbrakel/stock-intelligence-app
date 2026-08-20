@@ -2,6 +2,50 @@
   "ticker": "CRM",
   "articles": [
     {
+      "headline": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=40115c3c3464e83a2660ead2dc4dec4295ca940e8503f339c0e49581f3b5cef4",
+      "published_at": "2026-08-19T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
+      "published_at": "2026-08-19T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Intuit: Taxes And AI Are A Perfect Match",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c5f03c446604a90852167710201500fbd7f4c517e9547ced845212e806131aab",
+      "published_at": "2026-08-19T11:04:34",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Salesforce: The Market Is Not Understanding Its Agentic AI Strategy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e094f4704782523202940de08014e1ba9161bdc01cbae8a434ac65e3294dfd90",
+      "published_at": "2026-08-19T08:05:39",
+      "sentiment": "negative",
+      "sentiment_score": -0.898,
+      "sentiment_confidence": 0.898,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
@@ -20,6 +64,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Citigroup Maintains Neutral on Salesforce, Raises Price Target to $204",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bfea905ceee3460c5eed6627fb613f7f45a913d4b61051099d02972fdc7b7655",
+      "published_at": "2026-08-18T11:54:03",
+      "sentiment": "positive",
+      "sentiment_score": 0.756,
+      "sentiment_confidence": 0.756,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -398,17 +453,6 @@
       "event_type": null
     },
     {
-      "headline": "Which dow jones stocks are moving on Wednesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
-      "published_at": "2026-08-12T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 Profitable Stocks with Competitive Advantages and 1 We Brush Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5d11e503476c30c101fcab45f88d510b7341d83fddb16d797d937b0e840ba92",
-      "published_at": "2026-08-12T01:49:22",
-      "sentiment": "positive",
-      "sentiment_score": 0.888,
-      "sentiment_confidence": 0.888,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93d77e5de243b172f99a493fe965aac212fb786b894b501d6446ffdcb7eeef39",
-      "published_at": "2026-08-11T22:27:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Wreckage And The Cash Register At ADBE",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa090962d9c2cfdea36507a26d006443e91d5805f9faf2d4af61e9931c4b1f72",
-      "published_at": "2026-08-11T22:18:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "[Latest] Global AI SDR Market Size/Share Worth USD 47.12 Billion by 2034 at a 30.23% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=626729d81a1c87c00e9f78295439852c510d5b0bedac41684b83909bbee97cca",
-      "published_at": "2026-08-11T21:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.899,
       "relevance_score": 1.0,
       "event_type": null
     }

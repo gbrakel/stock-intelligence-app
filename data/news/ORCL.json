@@ -2,6 +2,28 @@
   "ticker": "ORCL",
   "articles": [
     {
+      "headline": "What's Going On With Oracle Stock Wednesday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=929e6ef72946a44476b63598842c7240540655af5e5e01da299978348b5c4d84",
+      "published_at": "2026-08-19T13:18:17",
+      "sentiment": "negative",
+      "sentiment_score": -0.566,
+      "sentiment_confidence": 0.566,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top S&P500 movers in Wednesday's pre-market session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c58a9c33229815012952c86e761766a0666280beddf95bea50271904dede2ca4",
+      "published_at": "2026-08-19T12:35:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.701,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=500c10a1c96bef92e5179f17a2b87f82403829553ea1ccc071ecef97cabdb7eb",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.853,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's How Much You'd Have If You Invested $1000 in Oracle a Decade Ago",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc6d25d7b4ffbcdcf46018ac51153331e1177bc9e19e4d21889316a4be8fb396",
-      "published_at": "2026-08-13T12:30:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10fafe7d13477f21f6ab347fbec2b32e3b9a3ff55b7d8df2db2043444044a36d",
-      "published_at": "2026-08-13T12:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.94,
-      "sentiment_confidence": 0.94,
       "relevance_score": 1.0,
       "event_type": null
     }
