@@ -2,6 +2,21 @@
   "ticker": "AMD",
   "history": [
     {
+      "date": "2026-08-20",
+      "composite": 46.7,
+      "signal": "exit_watch",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 53.4,
+        "growth_trend": 69.9,
+        "valuation": 30.9,
+        "sentiment": 57.9,
+        "technical": 50.9,
+        "risk_penalty": 43.7
+      }
+    },
+    {
       "date": "2026-08-19",
       "composite": 48.7,
       "signal": "exit_watch",

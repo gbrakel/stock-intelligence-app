@@ -2,6 +2,28 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=1d8363aabcf751eaf84d1590e0e4b66548c336e4febf069797c0fb58279fa25d",
+      "published_at": "2026-08-20T16:40:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Hewlett-Packard Enterprise: The Surprising Top Choice In Networking",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b7a44971b4d353cafe12025af87453d68e0e2196b9712f4cfdacdc955bd9caa",
+      "published_at": "2026-08-20T09:16:35",
+      "sentiment": "positive",
+      "sentiment_score": 0.757,
+      "sentiment_confidence": 0.757,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Stock Tumbles 8.8% as AI Hardware Squeezes Margins",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18ce780c595076ce2657ca0693a02db65cc087f0dd2a7c2564ebeb4b6c78cc99",
-      "published_at": "2026-08-13T17:39:34",
-      "sentiment": "negative",
-      "sentiment_score": -0.969,
-      "sentiment_confidence": 0.969,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Update: Equity Markets Mostly Higher Intraday Following Wholesale Inflation Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c1524a6b3c6ad6d57186ed43d0b7187c68ae719d6ab2339ac998c9db3ce2d8c",
-      "published_at": "2026-08-13T17:34:36",
-      "sentiment": "positive",
-      "sentiment_score": 0.932,
-      "sentiment_confidence": 0.932,
       "relevance_score": 1.0,
       "event_type": null
     }

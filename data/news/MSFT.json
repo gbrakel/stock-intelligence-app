@@ -2,6 +2,105 @@
   "ticker": "MSFT",
   "articles": [
     {
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
+      "published_at": "2026-08-20T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX\u2019s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f477a5bc0781fb216fec7a42849e6c182bdeec9bc55aacf1dd553561957290fe",
+      "published_at": "2026-08-20T14:13:09",
+      "sentiment": "positive",
+      "sentiment_score": 0.866,
+      "sentiment_confidence": 0.866,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
+      "published_at": "2026-08-20T14:04:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.899,
+      "sentiment_confidence": 0.899,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia: The Greatest Company At A Fair Price",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e13ecf41fadd7f9e572dadd5e3bdc5317777a408234248d7e28300b61060f4d3",
+      "published_at": "2026-08-20T09:45:08",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.847,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mark Cuban Fires Back At Jensen Huang\u2019s AI Warning \u2014 \u2018No Chance Radiologists Get Replaced\u2019 Despite Nvidia CEO\u2019s Prediction",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3ac9c3207f51e92ea0364fc2e7837bba884d8b2386c7140ed0aa60f39d838428",
+      "published_at": "2026-08-20T08:40:29",
+      "sentiment": "negative",
+      "sentiment_score": -0.919,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bernie Sanders Warns AI Billionaires Could \u2018Obliterate\u2019 Jobs and \u2018Destroy the Environment,\u2019 Calls for Data Center Moratorium",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3173843e66bc2a2ef26b9c1b0268a76babdedda14d642e241f1834a44a04fcdb",
+      "published_at": "2026-08-20T07:04:41",
+      "sentiment": "negative",
+      "sentiment_score": -0.94,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=26fe8dc2843306f5383df391e9e6c30c8b590a4ba4815c3bc267ab5ca5ffbd72",
+      "published_at": "2026-08-20T05:50:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.972,
+      "sentiment_confidence": 0.972,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c428a052165e5e16a23a033ad3ff80ad7ebab797dbad4f6e17d9de2d797e4d40",
+      "published_at": "2026-08-20T05:48:16",
+      "sentiment": "negative",
+      "sentiment_score": -0.975,
+      "sentiment_confidence": 0.975,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0a9059597d4c9f40795ff4e81be1cf28f0b85d0670c0ef4010d328885cff120f",
+      "published_at": "2026-08-20T01:32:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.593,
+      "sentiment_confidence": 0.593,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3d43c746f0dbb97241e734fe4bda17e4e10a8f572faa86b8719fb158727659c3",
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Big Short' Investor Steve Eisman Says AI Has an 'Achilles' Heel' \u2014 But It's Too Early to Short the Boom",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=fd07bc5991a2162e3e503d1b25479f7022f6933d6eccb386cea63e4085cfa95c",
-      "published_at": "2026-08-17T09:39:19",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.616,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Viking Global Bets Big On SpaceX While Ditching CoreWeave, Alphabet in Q2",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=31e00e0962040c9e9d7d492ae297c775be784775d38b27fadf366f6e067e881b",
-      "published_at": "2026-08-17T09:04:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.629,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ETFs to Watch July 12, 2012 (HYD, SOXS, XLE)",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3f594b36bf82b7eea4837ce7b2e306ac868e84018f2842866dc0903c82fd1e7d",
-      "published_at": "2026-08-17T08:53:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia Secures Land, Power And Shell Capacity To Host Compute Capacity Via Partnership With SB Energy At The PORTS-Pike Technology Campus In Ohio For Customer OpenAI",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=27329d9b1b51153a6a8a2fc34a32d04bcf13a29cc8155070b7dac8174abc150f",
-      "published_at": "2026-08-17T08:39:32",
-      "sentiment": "positive",
-      "sentiment_score": 0.734,
-      "sentiment_confidence": 0.734,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bill Gates\u2019 Foundation Cut $800 Million in Q2 From Warren Buffett\u2019s Berkshire Hathaway \u2014 Here\u2019s Where It Put the Money Instead",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2d5fe64da6ffe161a10706eeeb46e74779f8597052c8e3c88b4e91c13050c309",
-      "published_at": "2026-08-17T07:34:34",
-      "sentiment": "negative",
-      "sentiment_score": -0.834,
-      "sentiment_confidence": 0.834,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GDV: Deep Discount And Stable Monthly Payout Make This Attractive",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e775368ce28c9ec70d0165cccadd07b521e48a057697289840be033cdd754c2e",
-      "published_at": "2026-08-17T07:29:03",
-      "sentiment": "positive",
-      "sentiment_score": 0.822,
-      "sentiment_confidence": 0.822,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Michael Burry Takes Victory Lap as Big Tech\u2019s $3 Trillion AI Spending Tab Comes Into Focus",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e5e4ab899fa54eacafa1f6adb1c56ed17ba4a21a3fc3baf48fe9a3b7850fe06a",
-      "published_at": "2026-08-17T07:01:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.78,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Consumer Data Trips Up Wall Street's Rally as MDxHealth Snatches a Lifeline and Anthropic Redraws the AI Ceiling",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fc98510322e387155cbbc6a2eb405984bb79a57cc4f550402ec0d3960db217a3",
-      "published_at": "2026-08-17T06:58:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.447,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Makes the AI Music Stop: a $1.5 Trillion Mountain of Hidden Leverage",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=807aebf174a4e5dcdabb22f00e6ed30c03e6d60c3b0b4689431d39f6d5fc5ae0",
-      "published_at": "2026-08-17T06:54:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.819,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,17 @@
   "ticker": "BAC",
   "articles": [
     {
+      "headline": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c977df283f75118f30469340d3a00164dca1c2b21f067b1afc9e07c475ce6201",
+      "published_at": "2026-08-19T20:12:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.917,
+      "sentiment_confidence": 0.917,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Iran War Sent Gas Prices Skyrocketing, but the US Now Faces a Diesel Problem",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=91f4b92a67874212363303aa473914357eb120c9352cd795f55f7965a5023782",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.555,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Bank of America pledges $250 billion for US infrastructure financing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a81858c3e4ea1b787e6fac10624390b997b92ccbc042db75cf4ba8043cb37f3a",
-      "published_at": "2026-08-12T09:02:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.517,
       "relevance_score": 1.0,
       "event_type": null
     }

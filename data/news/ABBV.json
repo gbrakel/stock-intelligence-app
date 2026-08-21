@@ -2,6 +2,17 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "Piper Sandler Maintains Overweight on AbbVie, Raises Price Target to $303",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a1b2cbf52cdcac69f367a4c5d8d777f76a215fe0fbbd1c88e4f1ed7fe19ee1df",
+      "published_at": "2026-08-20T12:15:14",
+      "sentiment": "positive",
+      "sentiment_score": 0.922,
+      "sentiment_confidence": 0.922,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Novo Nordisk: The Best Value In Pharma",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=e89c64709ddd6a7995aae1754791a3f6d88481af9be88c0efb732c183203d1e2",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Kathy Hochul Slams Trump Over Medicare Cut, Says 1.3 Million New Yorkers Will Pay More for Prescriptions: 'A New Assault on Seniors...'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=61b54d952a72f4dae3b74529ad2a238f7f8fa29b096a0fde8d3c13db7000a809",
-      "published_at": "2026-08-06T03:41:05",
-      "sentiment": "negative",
-      "sentiment_score": -0.886,
-      "sentiment_confidence": 0.886,
       "relevance_score": 1.0,
       "event_type": null
     }
