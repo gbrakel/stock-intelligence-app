@@ -2,6 +2,61 @@
   "ticker": "INTC",
   "articles": [
     {
+      "headline": "Which S&P500 stocks are the most active on Friday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c44337b50efe0da34e7f47d53a781801f081fdbdc9b1b80bf495179c51b14ae9",
+      "published_at": "2026-08-21T18:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Friday's session: most active stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b62b5a1624ff2850df9325358f0ff808fb927cb74bae610bd929dc9712420e38",
+      "published_at": "2026-08-21T18:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Gapping S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f94d15727706d55a828bd7d5b086fb07632bdb7c50289291e884e38e3051b0c3",
+      "published_at": "2026-08-21T14:35:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.935,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=389571a61c544b9ab404b5772ede85abe1dc3388aa5cab3e96ab9099759802b8",
+      "published_at": "2026-08-21T13:03:32",
+      "sentiment": "positive",
+      "sentiment_score": 0.822,
+      "sentiment_confidence": 0.822,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump\u2019s \u2018Do Magnets\u2019 Push Could Spark the Next Intel-Style Rally \u2014 2 Stocks to Watch (UPDATED)",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=da10ec0c73db248e17e5e46b7b27f64f173aafaa355b079fe841ccafc4145b9c",
+      "published_at": "2026-08-21T08:51:28",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.849,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Looking for the most active stocks in the S&P500 index on Thursday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=de80fd99b19d51b1c063dd5d4eb7830387e2c641e2ad3bda312e7bbd5d6af86f",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Friday's session: most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5813b167e221b41671fdfc14ca09ecd09f1592dcf525026662fa00ec5d8e0920",
-      "published_at": "2026-08-14T18:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Intel Form4 Filing Shows CEO Lip-Bu Tan Buys 105,263 Shares At $95/Share, Increasing Indirect Holdings To 1.31M Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7a27ae549afc2b25112618d0ab0bbfa3b5fc027b4ff05d9f4c05d4acda124d71",
-      "published_at": "2026-08-14T16:46:05",
-      "sentiment": "positive",
-      "sentiment_score": 0.942,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Soros Fund Management Reports Share Stake Of 100,000 Shares In Intel Corp",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=89036374607ba9050be08914fcf41202c4113228987ce8d9a1193e58c5b43874",
-      "published_at": "2026-08-14T16:42:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coatue Management Reports Share Stake Of 12.1M Shares In Intel",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=73cbcb31fc6475d3df26cce83d252ab0028a436c64b63a2169dbac65e3f9330a",
-      "published_at": "2026-08-14T16:39:38",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4ce3c10265cab9c90514ca3a5d75c3c02b385b12adc19b2dedb50ca4479d5f07",
-      "published_at": "2026-08-14T13:35:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.883,
       "relevance_score": 1.0,
       "event_type": null
     }

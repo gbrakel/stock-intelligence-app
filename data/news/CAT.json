@@ -2,6 +2,28 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
+      "published_at": "2026-08-21T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.923,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Philadelphia Factory Optimism Hits 43-Year Highs: Investors 'MADE' This Trade",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b564c7f6ae2e9cbb7af89b77515d3656e6a16b116a6dc2c72b68827e02270b89",
+      "published_at": "2026-08-21T10:20:27",
+      "sentiment": "positive",
+      "sentiment_score": 0.819,
+      "sentiment_confidence": 0.819,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.794,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "A $72 Billion Reason to Buy Caterpillar Stock Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ec504070a341b455fed0ae0af12aae2e6c702a574dfb868c66bf68669e88843",
-      "published_at": "2026-08-09T16:00:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc5b1f3df9fd34ca061fc97816b99d46bbe40b24e9d6e0a40ed048a5e17c8ca4",
-      "published_at": "2026-08-09T07:08:20",
-      "sentiment": "positive",
-      "sentiment_score": 0.538,
-      "sentiment_confidence": 0.538,
       "relevance_score": 1.0,
       "event_type": null
     }

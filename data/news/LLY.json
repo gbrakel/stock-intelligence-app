@@ -2,6 +2,61 @@
   "ticker": "LLY",
   "articles": [
     {
+      "headline": "Novo Nordisk: The Pill That Could Close The Gap With Lilly",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2cd709299f25f69105efbea24e9a2b1361432293aa3542628ad0a84d35c6541b",
+      "published_at": "2026-08-21T18:50:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.745,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ProQR Therapeutics: Buy For Axiomer RNA Tech Validation And Other Catalysts",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3391283ffa748b939e5d09f2e48386c5cd2beb9505dded9bccf4b7d8d1fe5ce3",
+      "published_at": "2026-08-21T16:48:52",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.698,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=852d8a6f9219f4009d3146ea143a2d4f2e5355f1700e8eae88e15c543d5ec590",
+      "published_at": "2026-08-21T13:35:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.792,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Eli Lilly (NYSE:LLY) Shows Strong Growth and a Compelling Technical Setup",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=04f4d7d2c6e06ef35b8e6baebfcc823c2f41adff8f518297db85e6996f89b8d0",
+      "published_at": "2026-08-21T11:21:19",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25595542c954f854dc850eb0078ca0894ab39750efa9c25c5000303b15e24f4d",
+      "published_at": "2026-08-21T08:30:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Amplitude Therapeutics Partners With Eli Lilly Over Discovery, Development Of taRNA Vaccine Candidates For Infectious Diseases",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=d209f8d1cd473fe3476d9967700e9a22635d6821755b8f5784f3c87ab02146b9",
@@ -64,17 +119,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.486,
       "sentiment_confidence": 0.486,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a607edaa23bb540143fdfe73de9dde5d38de54822e9469632d272690e461761a",
-      "published_at": "2026-08-18T13:35:20",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.792,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.666,
       "sentiment_confidence": 0.666,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Eli Lilly Escalates Retatrutide Fight, Reports 200-Plus Illegal Sellers to Authorities",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=74fc4253cb1300007f3b3a3e8fc709b87c799a119423afd9f0d478a8546069a2",
-      "published_at": "2026-08-12T11:34:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.952,
-      "sentiment_confidence": 0.952,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "InduPro Closes $77 Million Series B Financing and Doses First Patient in Phase 1 Study of Lead Oncology Program IDP-001",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b8f8107bde991f7a80cff65fcbd12be32036742104e7e26d544ba8eb994a039e",
-      "published_at": "2026-08-12T11:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.603,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lilly files six lawsuits in bid to shut down \u2018black market\u2019 for retatrutide",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49cae688322586f945775a9167cbd06c95c05e8567ac9e52f5455e76eb2aaca4",
-      "published_at": "2026-08-12T11:19:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.915,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lilly calls on online platforms, payment companies and regulators to shut down the illegal retatrutide black market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=991c6105345e5fd5042d249de0a63d4b3a0b06b1a9f6c8fe626021fda396019b",
-      "published_at": "2026-08-12T09:30:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.593,
-      "sentiment_confidence": 0.593,
       "relevance_score": 1.0,
       "event_type": null
     }

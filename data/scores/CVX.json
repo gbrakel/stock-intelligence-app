@@ -2,6 +2,21 @@
   "ticker": "CVX",
   "history": [
     {
+      "date": "2026-08-21",
+      "composite": 65.2,
+      "signal": "exit_watch",
+      "signal_confidence": 0.51,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 88.3,
+        "growth_trend": 62.6,
+        "valuation": 86.7,
+        "sentiment": 62.6,
+        "technical": 78.7,
+        "risk_penalty": 40.2
+      }
+    },
+    {
       "date": "2026-08-20",
       "composite": 66.4,
       "signal": "exit_watch",

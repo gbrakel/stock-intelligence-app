@@ -2,6 +2,28 @@
   "ticker": "KO",
   "articles": [
     {
+      "headline": "SCHD: We Were Horribly Wrong",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=116c11c87c38da79036c16efcd11562a853d9083eec117f66078dbf626d0cc71",
+      "published_at": "2026-08-21T11:28:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.878,
+      "sentiment_confidence": 0.878,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Buy Bitcoin, Not This Surging Crypto Stock: Cramer",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ba8185c7a529ba7a826a9bdb7af887645db11c22611915c812823cd482d0a315",
+      "published_at": "2026-08-21T08:10:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.613,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coca-Cola (KO) Stock Looks Near Fair Value While Earnings Sit Above Fair Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e0a2b13bcae7295225356f0a0f2f85909b6e05be1880bf198d06d80e0c97aca1",
-      "published_at": "2026-08-10T15:14:47",
-      "sentiment": "positive",
-      "sentiment_score": 0.905,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coca-Cola's Revenue Growth: Organic Strength or Pricing-Led?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=211f134abcd8b556ff24c67e90e6c18109a0a1aeff7dce5c16f45e2e0af19be5",
-      "published_at": "2026-08-10T14:45:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.818,
       "relevance_score": 1.0,
       "event_type": null
     }

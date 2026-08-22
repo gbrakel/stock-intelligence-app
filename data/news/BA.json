@@ -2,6 +2,50 @@
   "ticker": "BA",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
+      "published_at": "2026-08-21T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.923,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8f9d28002ee9400803c1bc65f23e8d2596ad9b71d181614b5198d194aed28983",
+      "published_at": "2026-08-21T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Fluor Corp.: The Turnaround Is Gaining Traction, But Execution Remains The Test",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dc4b317b1307cc18a72426f2b1ff3a59d9101e24a9f23534d1166c9132426c5c",
+      "published_at": "2026-08-21T15:38:30",
+      "sentiment": "positive",
+      "sentiment_score": 0.832,
+      "sentiment_confidence": 0.832,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump Signs New National Space Transportation Policy That Aims for 1,000 Launches by 2030, Outlines Plans for 'Americans to the Moon' by 2028",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2d1088dab6bb5dc264c010f969b11f465e4725f9beb7500860c4df3e15454323",
+      "published_at": "2026-08-20T23:42:14",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.802,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
@@ -299,17 +343,6 @@
       "event_type": null
     },
     {
-      "headline": "Stay informed with the top movers within the dow jones index on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d809f45966630d8a19facd36d00cdb710b4ed6f03d04f981ead22bea0fe9d02d",
-      "published_at": "2026-08-13T19:10:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "BofA sees Boeing's puzzling deal clearing path for bigger move",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=daab49371c73ef5fc7ad11c9900017c21516c02f90aabddf3b93dfee318c7bf5",
@@ -515,39 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.937,
       "sentiment_confidence": 0.937,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Zacks Investment Ideas feature highlights: Archer Aviation, Boeing, Palantir, NVIDIA, SpaceX and United Airlines",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c82491cb8435fc6cb1feb373613b6ebb117ae211a71c5fdd97cc6a22e6ec007b",
-      "published_at": "2026-08-12T14:07:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ACHR Stock Gains 49.2% in a Month: Is There More Upside Ahead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f9e8db485d6f75d8eb9fe9984c55caa26a05624654b588c60fabd110ac1f091",
-      "published_at": "2026-08-12T14:04:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.507,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing Stock Rises 7.4% YTD: Can the Turnaround Gain Momentum?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8014f0b1e6028937e958848c4cd87b59c0b5d7de0219f34b194af1ee8c7ea65e",
-      "published_at": "2026-08-12T13:02:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.918,
-      "sentiment_confidence": 0.918,
       "relevance_score": 1.0,
       "event_type": null
     }
