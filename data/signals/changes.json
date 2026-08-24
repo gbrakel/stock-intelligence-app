@@ -1,14 +1,26 @@
 [
   {
-    "ticker": "DIS",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-08-21"
+    "ticker": "AMD",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-08-24"
   },
   {
-    "ticker": "NEE",
-    "previous_signal": "hold",
-    "new_signal": "buy",
-    "date": "2026-08-21"
+    "ticker": "AVGO",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-08-24"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-08-24"
+  },
+  {
+    "ticker": "GS",
+    "previous_signal": "exit_watch",
+    "new_signal": "hold",
+    "date": "2026-08-24"
   }
 ]

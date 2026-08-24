@@ -2,6 +2,21 @@
   "ticker": "TSLA",
   "history": [
     {
+      "date": "2026-08-24",
+      "composite": 35.7,
+      "signal": "exit",
+      "signal_confidence": 0.69,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 39.7,
+        "growth_trend": 52.0,
+        "valuation": 15.5,
+        "sentiment": 62.5,
+        "technical": 35.6,
+        "risk_penalty": 45.4
+      }
+    },
+    {
       "date": "2026-08-21",
       "composite": 34.0,
       "signal": "exit",
