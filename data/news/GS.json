@@ -2,6 +2,39 @@
   "ticker": "GS",
   "articles": [
     {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
+      "published_at": "2026-08-25T19:10:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a8858e98310f85462059e252bd76fc3444519de43c88f68833ab57142ce4739b",
+      "published_at": "2026-08-25T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=42b62ae2d3fa8d9d39927fc79b738e0324090d83d473980fe048b6cea6e6acde",
+      "published_at": "2026-08-25T05:35:30",
+      "sentiment": "negative",
+      "sentiment_score": -0.951,
+      "sentiment_confidence": 0.951,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
@@ -343,17 +376,6 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
-      "published_at": "2026-08-19T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "4 Financials Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=989d1915e6a1c1ef9dc343dab5e80d01aa4d2eedb980d4f44aa22065566ae01d",
@@ -526,28 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.804,
       "sentiment_confidence": 0.804,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73",
-      "published_at": "2026-08-15T12:51:20",
-      "sentiment": "positive",
-      "sentiment_score": 0.734,
-      "sentiment_confidence": 0.734,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-      "published_at": "2026-08-15T09:51:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.705,
       "relevance_score": 1.0,
       "event_type": null
     }

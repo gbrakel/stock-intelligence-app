@@ -2,6 +2,17 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Bloom Energy: I Underestimated How Fast This Scales",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=327854cadef4a09d22b0ff4e5a9bf03e82a40168220f5ec8381189eecc15f78b",
+      "published_at": "2026-08-25T18:40:45",
+      "sentiment": "positive",
+      "sentiment_score": 0.538,
+      "sentiment_confidence": 0.538,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
@@ -537,17 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.697,
       "sentiment_confidence": 0.697,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
-      "published_at": "2026-08-12T19:10:05",
-      "sentiment": "negative",
-      "sentiment_score": -0.741,
-      "sentiment_confidence": 0.741,
       "relevance_score": 1.0,
       "event_type": null
     }

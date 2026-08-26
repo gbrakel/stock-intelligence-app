@@ -2,6 +2,39 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a8858e98310f85462059e252bd76fc3444519de43c88f68833ab57142ce4739b",
+      "published_at": "2026-08-25T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.729,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=799bda8ba7607bb1234fee475ff06760dfb4b433c67857889d5c54ae450a716c",
+      "published_at": "2026-08-25T13:35:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.797,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42d9a7113f1655a274f2dec825fe848131dba114b7685b01a9c3cd5dfdd1fcb2",
+      "published_at": "2026-08-25T13:23:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Trump Bought Dividend Stocks And Dumped AI (The Real Story)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=e04988931136a24c3c0c73e63ae859a7199eaaad6bf968af6e2a93a6548b2ef5",
@@ -515,39 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.922,
       "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Home Depot, Inc. (HD) Q2 2027 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=419f165b7237dfba9dad070a79f55fa931d4f017270c792dd17240dd2c07b14e",
-      "published_at": "2026-08-18T13:11:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks making the biggest moves midday: Meta, Amylyx, Baidu, Klarna, Coherent, Sandisk & more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=c72c281529f57a71ec992c40b253a421c53b8fa4b522b66a5a9c0b159bc2e730",
-      "published_at": "2026-08-18T12:56:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.856,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a1e896aa71ebecc79b309653ec4b85bc10559029986ca2b2de4dd3a0e243df93",
-      "published_at": "2026-08-18T12:40:18",
-      "sentiment": "negative",
-      "sentiment_score": -0.946,
-      "sentiment_confidence": 0.946,
       "relevance_score": 1.0,
       "event_type": null
     }
