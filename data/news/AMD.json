@@ -2,6 +2,116 @@
   "ticker": "AMD",
   "articles": [
     {
+      "headline": "AMD: The Low-Hanging Fruit Is Gone, But The Stock Is Still A Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ee3270ebd92a2667a796503903cfcdc4c6bbab7d99124f48d2e435872a9dfb5",
+      "published_at": "2026-08-26T18:42:52",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.847,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia: Compressing Multiples And A $260 Technical Target",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dacaeb5ee70b17f16e637054a02ebead758986b7845eaa7e3a081e89f45e659b",
+      "published_at": "2026-08-26T18:10:38",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.485,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia Q2: Results Keep Impressing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=43c2daec9745b84be8a11fdcb50474a48b30e3bf531b730abbcb50dab859af8f",
+      "published_at": "2026-08-26T17:30:49",
+      "sentiment": "positive",
+      "sentiment_score": 0.896,
+      "sentiment_confidence": 0.896,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AMD: The 2027 AI Repricing Is Coming",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ff08fc3c83121573d74763a408220900d9831813bad5d907e54824df15b70706",
+      "published_at": "2026-08-26T15:20:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ed0641981f09fed7e00b31bcacc65f5f7d2e916eaf2c7bd9be37e6d0669fe4e0",
+      "published_at": "2026-08-26T12:00:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.885,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This SolarEdge Analyst Turns Bullish; Here Are Top 2 Upgrades For Wednesday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a0a1c00438fee3e858a59e3d8a6bc8aab518655f874e04c080cb962ac86c7537",
+      "published_at": "2026-08-26T11:34:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Is Going On With AMD Stock on Wednesday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2ca368026b8ca1f6a3daf125c85ae92b851ee87d281a8b15df523a8f05b17a44",
+      "published_at": "2026-08-26T10:59:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.507,
+      "sentiment_confidence": 0.507,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bdd5ff242d5acf57f02c5b23519220e818af944279b3c1f3f5ab65b2e2fffb55",
+      "published_at": "2026-08-26T07:00:53",
+      "sentiment": "positive",
+      "sentiment_score": 0.692,
+      "sentiment_confidence": 0.692,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Deep Unknowns Of AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
+      "published_at": "2026-08-26T03:53:53",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.838,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cathie Wood Loads Up on Cerebras Systems Stock as AI Chip Race With Nvidia Heats Up \u2014 Ark Keeps on Dumping AMD Shares",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=81ca5e170161e7cf20fcb83404a03a450448fd66f03438f5db2243c8cc350f68",
+      "published_at": "2026-08-25T22:25:19",
+      "sentiment": "negative",
+      "sentiment_score": -0.942,
+      "sentiment_confidence": 0.942,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Top S&P500 movers in Tuesday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d9a2b22a4880b4c57a5a78e197c6c5ce8a510e121a48982bd29dab32dc155385",
@@ -438,116 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.531,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The $116 Billion That NVDA Quietly Paid Its Owners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a511043f7f93550285ade2d2b46cd2d6b3317cb4d67ef5359b4e88122a0cbe7a",
-      "published_at": "2026-08-21T21:38:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.832,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Whale Rock Just Dumped Most of Its Nvidia Stake",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d14eead10dfd9fcdbba293403721ec9a53d6fdbc151f95423472b48c18d085f3",
-      "published_at": "2026-08-21T21:18:54",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.772,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Goldman Sachs Sees Nvidia Setup Few Expect",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a39c696072714599d88a0fcb7d4dbd5d4c2f875fdd76302f44e1b9a5fdb61e40",
-      "published_at": "2026-08-21T21:17:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e21fdb73829d69f808f408b74f331ee6b14c8e56cccb25457f8f6eb9fadbdb7d",
-      "published_at": "2026-08-21T21:08:22",
-      "sentiment": "negative",
-      "sentiment_score": -0.913,
-      "sentiment_confidence": 0.913,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00b00095b875a42cfd5f20d67e9a75de9328986f35d84ea949edb3554b8211f2",
-      "published_at": "2026-08-21T21:01:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.871,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk\u2019s NVIDIA (NVDA) Pledge Sinks the Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58fbd1a383e1342c1ddcb1ebb8f01d3c9c65e5a6bccdb0c9c9931f3e5e76b426",
-      "published_at": "2026-08-21T20:48:27",
-      "sentiment": "positive",
-      "sentiment_score": 0.931,
-      "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9676c25be3b81f229fd58c3b93ae4dc61dfc31c1ff101a216f5b356182556d3",
-      "published_at": "2026-08-21T20:39:30",
-      "sentiment": "positive",
-      "sentiment_score": 0.848,
-      "sentiment_confidence": 0.848,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NVIDIA Earnings in 5 Days: Should You Buy, Hold, or Sell NVDA?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38dfa56d797196839f7eb6c13bdc21f08d91786de9d8a344528dbdad92793493",
-      "published_at": "2026-08-21T20:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b8ab5972af6f67cc30ffdc87d37e55840d2ce1983b6bf38a7710b84baee12ea",
-      "published_at": "2026-08-21T19:33:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.951,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Has More Than Tripled Off Its Low and Still Trades 20% Below Its High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0455e787c4a3f7db8c78c12ba24a519ab039a179397466d6f5123f15878e43c8",
-      "published_at": "2026-08-21T17:27:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.895,
-      "sentiment_confidence": 0.895,
       "relevance_score": 1.0,
       "event_type": null
     }
