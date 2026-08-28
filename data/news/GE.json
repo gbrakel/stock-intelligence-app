@@ -2,6 +2,28 @@
   "ticker": "GE",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f563c106233d14ebb69586ee907707f00b570373de8f8e44db8bfd287e5b4889",
+      "published_at": "2026-08-27T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.86,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "GE Aerospace: Full-Throttle Ahead, Full Valuation, Technical Froth Eases",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf98c5d8202ce32fbce0ed1170bad3b382399b400725b319e44f51d7ff94a89d",
+      "published_at": "2026-08-27T11:37:33",
+      "sentiment": "positive",
+      "sentiment_score": 0.924,
+      "sentiment_confidence": 0.924,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "$1000 Invested In GE Aerospace 5 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=4753d47c21c448ab29bb29a6f6304430a6d8404c3b4b55ee470bfc310a2a96e9",
@@ -185,17 +207,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.654,
       "sentiment_confidence": 0.654,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9d113a09f48670d436e6f2252bf1887b5a026dfadda5e1b78c4e9f01efe715bf",
-      "published_at": "2026-08-19T16:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.86,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Vernova Holds an $176 Billion Backlog, Yet Wall Street Is Selling: What Investors Should Know.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0935a49d503a7a7a36bc89b60b457a3ee6d39aef49078c15fe89c84d5d5ea49",
-      "published_at": "2026-08-07T20:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,28 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
+      "published_at": "2026-08-27T19:10:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.715,
+      "sentiment_confidence": 0.715,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
+      "published_at": "2026-08-27T16:40:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Argus Research Maintains Buy on McDonald's, Lowers Price Target to $310",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=badf92bb2d2de8eadcab6c53ec5d077b36db3f3cb1e87d4e921260c574386c3c",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Calls of the Day: McDonald's, Target, Lowe's, Home Depot, Entegris, General Dynamics and Boeing",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=2354b103aa7c001b9a2c0a700d55135bdfce658152b0779ec54d19800c27e359",
-      "published_at": "2026-08-12T13:07:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's: Forget Burgers, It Is All About Real Estate",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2a8f5929a4833b0ebdde95aed3aece16e84a5bf459f6338e180d95c7224fc853",
-      "published_at": "2026-08-12T11:13:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.904,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,28 @@
   "ticker": "BA",
   "articles": [
     {
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
+      "published_at": "2026-08-27T19:10:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.715,
+      "sentiment_confidence": 0.715,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2d65dcd8356635bea019bedd859120d43ad89cdad086ff177889b6fb7577593c",
+      "published_at": "2026-08-27T13:35:26",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.751,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
@@ -9,6 +31,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'Boeing Fails to Overturn Revived $72 Million Trade Secrets Loss' - Bloomberg Law",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=538c210a443d0d2406bdc76440554633bb0deda51bf30e4aa7f83ea76bb83ac3",
+      "published_at": "2026-08-26T14:55:21",
+      "sentiment": "negative",
+      "sentiment_score": -0.891,
+      "sentiment_confidence": 0.891,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -75,17 +108,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.934,
       "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f459a03d8c9b5a4c3cf2216f55323d075395bb2acab6072d03d080365fb3e640",
-      "published_at": "2026-08-24T13:35:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.751,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.426,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pentagon Missile Push Gives Boeing, RTX Fresh SM-3 Production Boost",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cea0d49f895058e9232f566b5b69fb4af8d208fcf3eafe464a3e65babd31e78f",
-      "published_at": "2026-08-14T12:02:40",
-      "sentiment": "positive",
-      "sentiment_score": 0.945,
-      "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing And RTX Enter Agreements With The Pentagon To Increase Production Of Key Components Of Standard Missile-3 Block IB And Increase Production Of Components For Standard Missile-3 Block IIA Suface-To-Air Interceptors",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=69a54e3fb332a218f98c2cb90abfd1a3613bf10e18999ffe6ae97f51adaaa048",
-      "published_at": "2026-08-14T08:09:34",
-      "sentiment": "positive",
-      "sentiment_score": 0.948,
-      "sentiment_confidence": 0.948,
       "relevance_score": 1.0,
       "event_type": null
     }

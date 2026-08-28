@@ -2,6 +2,17 @@
   "ticker": "KO",
   "articles": [
     {
+      "headline": "QUICK SPARK: Nvidia Stock Adds $370 Billion Market Value, A Whole Coca-Cola",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a55f090014cdd7c43aa51da6d7243572a3af487e8c47b44dec517ef60b412fe4",
+      "published_at": "2026-08-27T11:08:08",
+      "sentiment": "positive",
+      "sentiment_score": 0.547,
+      "sentiment_confidence": 0.547,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.597,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Berkshire Bought Alphabet Stock in Q2\u2014and Maybe Microsoft Too",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed31018989bcab2d566ca7b23639ee1caf7b35bac8d43b45e716c1a62d0ff443",
-      "published_at": "2026-08-13T20:07:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }

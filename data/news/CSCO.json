@@ -2,6 +2,28 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
+      "published_at": "2026-08-27T19:10:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.715,
+      "sentiment_confidence": 0.715,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Datadog: Growing Into A 400x P/E Will Be Difficult",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=81855d00a9347dfd0f902e183ff49704a366bb73ec536d67d69ef89b2051cd75",
+      "published_at": "2026-08-27T13:34:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.661,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
@@ -9,6 +31,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cramer's lightning round: Buy QXO",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=44ffe0734f477d573728fa749eaf0c63a5c287a0a2113740fe991f2636bf3292",
+      "published_at": "2026-08-26T18:54:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -515,39 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.861,
       "sentiment_confidence": 0.861,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dividend Harvesting Portfolio Week 285: $28,500 Allocated, $3,238.12 In Projected Dividends",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=80d3535cac8dec4f2521294723b745055df3a970550559052017dea0657a5d4a",
-      "published_at": "2026-08-17T08:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.908,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-      "published_at": "2026-08-15T09:51:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.705,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d4dda3373c4983a5dd7479b3d8440550dc2ade68937fd177531c3dfdb331d43f",
-      "published_at": "2026-08-14T19:10:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.839,
       "relevance_score": 1.0,
       "event_type": null
     }

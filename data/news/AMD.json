@@ -2,6 +2,116 @@
   "ticker": "AMD",
   "articles": [
     {
+      "headline": "ETJ: Very High Tech Exposure Could Be A Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
+      "published_at": "2026-08-27T12:47:06",
+      "sentiment": "negative",
+      "sentiment_score": -0.73,
+      "sentiment_confidence": 0.73,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=71cc3ad2649da68e781627f0ad4f59a6b2bac2cf3bc1526e85b2842f492c638d",
+      "published_at": "2026-08-27T12:31:15",
+      "sentiment": "positive",
+      "sentiment_score": 0.569,
+      "sentiment_confidence": 0.569,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia: A 16.0x P/E Is A Crime",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=84d8ba867725f7db9d628571de5b71bd633c02f11e2543578f180548338c93fa",
+      "published_at": "2026-08-27T11:49:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia Beats Again - But Cash Flow Must Keep Up With Blackwell's Growth",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=952c58ae2a4c18c3868d849fc653a0a0d40a08cf8025a0b5fd2cc0298683dfa1",
+      "published_at": "2026-08-27T11:00:14",
+      "sentiment": "positive",
+      "sentiment_score": 0.928,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Is AMD Stock Trending Today?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cfe6a97c48d673a8132ae4202e47fdaf77691263475be86cf0638d595da5b15c",
+      "published_at": "2026-08-27T10:49:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.735,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Q2: Nvidia Isn't Microsoft, And 2026 Isn't 1999",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd21bdb37bbd763317c5dd9eab1cbb369523438e148b0888af84c069e4edb5a1",
+      "published_at": "2026-08-27T10:20:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.872,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cerebras Still Has A Promising Future, But There Is Still Limited Evidence",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=433f8e5779bdd2f4db2da8797d67add95e283580cd969b8e3a0a4c77a142cd14",
+      "published_at": "2026-08-27T09:54:40",
+      "sentiment": "positive",
+      "sentiment_score": 0.641,
+      "sentiment_confidence": 0.641,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia Stock Climbs Over 7% in Thursday Pre-Market: What\u2019s Lifting Micron, Intel and Other Chip Stocks?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5bac38b5d50e9af866da848c31d5f2cba85176e2d5723bdce8ff92ca7fa4fcda",
+      "published_at": "2026-08-27T05:31:57",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.83,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia jumps nearly 10% after blockbuster earnings boost AI confidence",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=12b4d04bde0782841e4ab481b03e273a2f78c02f8abd6d01f64f98388d940307",
+      "published_at": "2026-08-27T04:04:33",
+      "sentiment": "positive",
+      "sentiment_score": 0.897,
+      "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "CrowdStrike Posts Best Quarter Ever, but Cathie Wood's Ark Sells Shares Amid Cloudflare, Cerebras Buys",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d832f5c6110d75c93888b1cee63ef4fe4d59b82fcdd87458bbd10cdc883b4d7b",
+      "published_at": "2026-08-27T00:17:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.51,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "AMD: The Low-Hanging Fruit Is Gone, But The Stock Is Still A Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6ee3270ebd92a2667a796503903cfcdc4c6bbab7d99124f48d2e435872a9dfb5",
@@ -438,116 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.686,
       "sentiment_confidence": 0.686,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b40be1909044dd7a0c90eeb83fd286d6cccfbb4425b8e58d4185c1043fe67018",
-      "published_at": "2026-08-23T10:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.581,
-      "sentiment_confidence": 0.581,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=11155d3408aa838914d6a94061caed3a78f8fe059a61db2e33a7df90d1b4da9b",
-      "published_at": "2026-08-23T09:21:08",
-      "sentiment": "positive",
-      "sentiment_score": 0.903,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
-      "published_at": "2026-08-23T07:13:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.767,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia Stock Doesn\u2019t Look as Expensive as You Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b058d47c3d31d5a64d2d76fcaaea49c259aa247d30415df085a628ea6cdd86b9",
-      "published_at": "2026-08-22T16:30:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1493b46750c36714a44f628d677fd6ff8f3f3f52dab3bfd24ce3bd97d3af5c5",
-      "published_at": "2026-08-22T12:31:13",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.953,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Semiconductor Stocks to Buy Before August Ends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fae07a955723db3f714470232e761c6fdc1952b0c5b76f33bd3a0db05acc7e54",
-      "published_at": "2026-08-22T12:00:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Advanced Micro Devices (AMD) Adds Tim Ryan To Board After Director Retirement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d99806ffef788abf24ee64af9108293ca5fd46c094410ee2446dd400b9b9f69c",
-      "published_at": "2026-08-22T07:10:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Investors Must Be Ready For Major News On Aug. 26",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=019f4ca7ce0dc167c53c0801b50df1a3d44ebd1acd52a125f9cdaf84458714c1",
-      "published_at": "2026-08-22T06:20:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ec3c53052e5e56bf744c5cccdbb59776bc76160fcad6a76ec0da00a099b49d6",
-      "published_at": "2026-08-22T00:13:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.795,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5949ab20902baf1daa4c38bd6b5446f99f65df349f847c78a4ece5453c87826a",
-      "published_at": "2026-08-21T21:40:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.531,
       "relevance_score": 1.0,
       "event_type": null
     }
