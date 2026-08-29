@@ -1,19 +1,21 @@
 {
   "ticker": "NEE",
-  "risk_level": "medium",
-  "overall_risk_score": 36.0,
+  "risk_level": "high",
+  "overall_risk_score": 55.0,
   "factors": {
-    "volatility": 20.6,
+    "volatility": 100.0,
     "debt_burden": 75.0,
     "earnings_consistency": 13.9,
     "cash_burn": 24.0,
     "sector_risk": 20.0,
     "sentiment_stability": 52.5,
     "liquidity": 50.0,
-    "drawdown": 29.1,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
   "risk_flags": [
-    "Elevated debt-to-equity ratio"
+    "High volatility (annualized)",
+    "Elevated debt-to-equity ratio",
+    "Significant drawdown in last 12 months"
   ]
 }

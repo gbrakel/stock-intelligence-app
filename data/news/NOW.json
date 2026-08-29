@@ -2,6 +2,72 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
+      "published_at": "2026-08-28T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.86,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=226a087fb2c034cf2076b7844135dd196ce111c2eb8062283e71ffc0a6e21d87",
+      "published_at": "2026-08-28T16:00:41",
+      "sentiment": "positive",
+      "sentiment_score": 0.633,
+      "sentiment_confidence": 0.633,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=81ed8112d0d786c6c71f2d7e405990e49b82117bcb36da65ede80eaa70e96465",
+      "published_at": "2026-08-28T12:43:45",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.748,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Software Is An AI Trade Now",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f892581a7bbe2dd48b48d35ad84b1c28a73f73013ea03ef82d70b19e42309953",
+      "published_at": "2026-08-28T10:51:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.778,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Even After A 22% Pop, You Know That Salesforce Is Still Undervalued",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2f872e1552a2fa40ee05a6bafc0da438bed3ffa90816ba26224e233a54f4117e",
+      "published_at": "2026-08-28T10:19:34",
+      "sentiment": "positive",
+      "sentiment_score": 0.736,
+      "sentiment_confidence": 0.736,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nebius: Capital Intensity Becoming A Serious Issue",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f64465fff5653a28a5fa4971140ab8a9aaabd45959ef06b84fc3a506344f7ecf",
+      "published_at": "2026-08-28T10:13:40",
+      "sentiment": "negative",
+      "sentiment_score": -0.942,
+      "sentiment_confidence": 0.942,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ServiceNow, Inc. (NOW) Presents at Deutsche Bank 2026 Technology Conference Transcript",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5c1be21d63c77d2b695f89a461e6abfe98470c44fe9e35600654575128bae774",
@@ -9,17 +75,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f563c106233d14ebb69586ee907707f00b570373de8f8e44db8bfd287e5b4889",
-      "published_at": "2026-08-27T19:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.86,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.934,
       "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UiPath Stock Rises 44% in 6 Months: Should You Buy, Hold or Sell?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc543b038828f85d004332c597491b06b0c0ae9a0c16d8218c7fc6fad814598e",
-      "published_at": "2026-08-19T18:18:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Strong AI Adoption Help Atlassian Challenge CRM & NOW?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f12737081a1cab4c9b10baa16105154cf41ca66101ff683d54459ff6e0a494b",
-      "published_at": "2026-08-19T16:37:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.685,
-      "sentiment_confidence": 0.685,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "\u201cThe Selling Goes Too Far\u201d: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2979ff70b5c7a3efc97224f7613c1aa09f44a3d962fb62ed1053a534adb3a260",
-      "published_at": "2026-08-19T15:55:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.893,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Semiconductors Are Collapsing While ServiceNow May Be Bottoming (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2ce5cf60d26bd60d45145c15318b980956a407b77e99e4ef79544d204d12ba79",
-      "published_at": "2026-08-19T08:18:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.927,
-      "sentiment_confidence": 0.927,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Salesforce's and ServiceNow\u2019s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0ec6ccc31a21442974170482fd7a9ba42b24496d0c757b178775ce03d7041e3a",
-      "published_at": "2026-08-18T11:46:22",
-      "sentiment": "negative",
-      "sentiment_score": -0.662,
-      "sentiment_confidence": 0.662,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,17 @@
   "ticker": "WMT",
   "articles": [
     {
+      "headline": "The Only Play On Conagra",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=645f781d979044d9d9a9f946108a995886b38f3ae92082513133b822444ff6c5",
+      "published_at": "2026-08-28T09:33:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.923,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thursday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
@@ -20,6 +31,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart Stock Moves Lower Thursday: What's Going On?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=152b4bc225bbb8465154e40dcab579edf191677d6c69cbc8a3f0b818656c9e17",
+      "published_at": "2026-08-27T12:00:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.947,
+      "sentiment_confidence": 0.947,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.517,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sector Update: Consumer Stocks Higher Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3bd84ee4653c4e3e85d33e13963a1f53b2a21b61d18e6ee69de8111a84970995",
-      "published_at": "2026-08-21T20:46:59",
-      "sentiment": "positive",
-      "sentiment_score": 0.922,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Walmart Finally Gives In on Apple Pay and Google Pay",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2be0768b516eb30543595a24fcea6747050ab0bffbde4cf5a3aa5957eb566d9",
-      "published_at": "2026-08-21T20:42:28",
-      "sentiment": "negative",
-      "sentiment_score": -0.535,
-      "sentiment_confidence": 0.535,
       "relevance_score": 1.0,
       "event_type": null
     }

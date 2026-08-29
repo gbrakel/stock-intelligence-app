@@ -2,6 +2,61 @@
   "ticker": "INTC",
   "articles": [
     {
+      "headline": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
+      "published_at": "2026-08-28T18:05:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.905,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These stocks are the most active in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ccc3c26fea555b03d814c5c12a5db12d4793626b2a6ca91c5eb7fdade59417ed",
+      "published_at": "2026-08-28T18:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Friday's pre-market session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dcb4b71fd2871b34d27da0105bf9221f9976270688aee3d4fc4cdfc744af2869",
+      "published_at": "2026-08-28T12:35:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.794,
+      "sentiment_confidence": 0.794,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e",
+      "published_at": "2026-08-28T10:37:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.754,
+      "sentiment_confidence": 0.754,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia Warns Of AI Power Bottleneck \u2014 And Bloom Energy Could Benefit",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e008b658c563dfc6611f03b2f7656ada21bcb6fc2e34ecf6bdbbbdee6a364a4d",
+      "published_at": "2026-08-28T10:16:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Nvidia: The 'Coiled Spring' Poised To Jump",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2cc4a9c1f698b781123b0ae14a5b20f2743779d7e68ec543de2f90442810e647",
@@ -20,6 +75,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.874,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "S&P 500 falls, but heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e13d1479a39ecc8ab97939a24781859377dabe05ae9cf52bf5987399f303f68b",
+      "published_at": "2026-08-27T18:02:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.694,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -185,17 +251,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.901,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=ef9d112c99842b5333cb53c3d010e1efd966f64ddf0b9870aa741fdc3383fbbf",
-      "published_at": "2026-08-25T18:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.902,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Friday's session: most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b62b5a1624ff2850df9325358f0ff808fb927cb74bae610bd929dc9712420e38",
-      "published_at": "2026-08-21T18:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.884,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70dcffff7b11547a08ec81d4218a3168f500702f65d76bf0cfcae489a4a1290e",
-      "published_at": "2026-08-21T17:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.687,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=106552ef2220c3619f322f14000bff7f1485b008a7e186d89d6455cc5377da38",
-      "published_at": "2026-08-21T16:41:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.898,
-      "sentiment_confidence": 0.898,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Duquesne Entered a New Position in Riot Platforms During Q2. What This Means for RIOT Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68f4fbcc54512945d545e991d7cb9669f11edd0d866d9abf8ea4a7fd877ef3cf",
-      "published_at": "2026-08-21T15:53:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.864,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Should You Add NVIDIA Stock to Your Portfolio Ahead of Q2 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=947c43853a9ebb1e70b0ac4eae886aed6a84d2b2a5efa0f9d69f81fbebe436a0",
-      "published_at": "2026-08-21T15:14:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.937,
       "relevance_score": 1.0,
       "event_type": null
     }

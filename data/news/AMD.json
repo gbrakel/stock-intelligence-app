@@ -2,6 +2,61 @@
   "ticker": "AMD",
   "articles": [
     {
+      "headline": "Cathie Wood Trims AMD After a 120% Rally \u2014 Is the AI Trade Getting Too Crowded?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6",
+      "published_at": "2026-08-28T12:11:24",
+      "sentiment": "negative",
+      "sentiment_score": -0.572,
+      "sentiment_confidence": 0.572,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a55a04d5b30dd8970e2a9e574d09c90f5e0125ae17f03079c65646e6e33f86a2",
+      "published_at": "2026-08-28T12:07:05",
+      "sentiment": "negative",
+      "sentiment_score": -0.624,
+      "sentiment_confidence": 0.624,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Is AMD Stock Sliding on Friday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4f0f4cf00e698f78501ca615fcbd44bd859d1c098502c1cc6b97a6ea60657647",
+      "published_at": "2026-08-28T12:04:38",
+      "sentiment": "negative",
+      "sentiment_score": -0.94,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Billionaire Activist Investor Dan Loeb's Third Point Builds 4-Stock Bitcoin-To-AI Basket",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=66a5bc1ae6614a26a9a2cf44b01a49787cd24d10bac8ecc001fb65b94815ccb1",
+      "published_at": "2026-08-28T06:32:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.868,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9d5de5ef665568ca9cc9c4261004bda6169acc744fc3be491a787512b077d6da",
+      "published_at": "2026-08-27T13:48:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.846,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ETJ: Very High Tech Exposure Could Be A Risk",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
@@ -493,61 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.964,
       "sentiment_confidence": 0.964,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e0665b2f98336b15334e7573b52b4a913863de3d52074a520fe3e0acca62154f",
-      "published_at": "2026-08-24T11:09:51",
-      "sentiment": "negative",
-      "sentiment_score": -0.594,
-      "sentiment_confidence": 0.594,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=9aa75525346d31a1dfb90d34d8747ec329f9b8486db12c5b152cef660cddf179",
-      "published_at": "2026-08-24T07:31:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.87,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24",
-      "published_at": "2026-08-23T21:37:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.782,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b88ad01664211237a7e92988a4351927f4bb52466ecdbb4a762bbe0ffa7ade1",
-      "published_at": "2026-08-23T16:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=12cd46b0cff0e28d639ec498220f053d46a43a80156d3db8cdb9d92d4ad86b9f",
-      "published_at": "2026-08-23T13:12:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.686,
-      "sentiment_confidence": 0.686,
       "relevance_score": 1.0,
       "event_type": null
     }

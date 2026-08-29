@@ -1,17 +1,20 @@
 {
   "ticker": "PG",
   "risk_level": "medium",
-  "overall_risk_score": 26.4,
+  "overall_risk_score": 44.3,
   "factors": {
-    "volatility": 24.8,
+    "volatility": 100.0,
     "debt_burden": 30.0,
     "earnings_consistency": 9.0,
     "cash_burn": 0.0,
     "sector_risk": 25.0,
-    "sentiment_stability": 42.1,
+    "sentiment_stability": 39.5,
     "liquidity": 50.0,
-    "drawdown": 31.0,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }

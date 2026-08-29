@@ -1,32 +1,38 @@
 [
   {
-    "ticker": "AAPL",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-08-28"
+    "ticker": "TSLA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-08-29"
   },
   {
     "ticker": "AMD",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-08-28"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-08-29"
   },
   {
-    "ticker": "NOW",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-08-28"
+    "ticker": "INTC",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-08-29"
   },
   {
-    "ticker": "GS",
-    "previous_signal": "exit_watch",
+    "ticker": "PG",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "NKE",
+    "previous_signal": "reduce",
     "new_signal": "hold",
-    "date": "2026-08-28"
+    "date": "2026-08-29"
   },
   {
-    "ticker": "PEP",
+    "ticker": "NFLX",
     "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-08-28"
+    "date": "2026-08-29"
   }
 ]
