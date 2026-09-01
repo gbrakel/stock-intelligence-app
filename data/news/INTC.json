@@ -2,6 +2,39 @@
   "ticker": "INTC",
   "articles": [
     {
+      "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
+      "published_at": "2026-08-31T18:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.934,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AMD: Still Eating Intel's Lunch",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f98b088261d3a83eaf699b4660bb59129dc2f89466316756897a3e101aa6a75b",
+      "published_at": "2026-08-31T15:19:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2d5abdb607b055573b7822022510206b08f75be320eb83da85199aa95a9795c4",
+      "published_at": "2026-08-31T07:41:43",
+      "sentiment": "negative",
+      "sentiment_score": -0.622,
+      "sentiment_confidence": 0.622,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Most active S&P500 stocks in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The $116 Billion That NVDA Quietly Paid Its Owners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a511043f7f93550285ade2d2b46cd2d6b3317cb4d67ef5359b4e88122a0cbe7a",
-      "published_at": "2026-08-21T21:38:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.832,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b8ab5972af6f67cc30ffdc87d37e55840d2ce1983b6bf38a7710b84baee12ea",
-      "published_at": "2026-08-21T19:33:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.951,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which S&P500 stocks are the most active on Friday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c44337b50efe0da34e7f47d53a781801f081fdbdc9b1b80bf495179c51b14ae9",
-      "published_at": "2026-08-21T18:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.902,
       "relevance_score": 1.0,
       "event_type": null
     }

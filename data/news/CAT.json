@@ -2,6 +2,28 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
+      "published_at": "2026-08-31T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Two Covered Call ETFs Built To Weather The Sell-Off",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f63a697049919b11a470fe248dd4ad5e1631005c05e5f0f75300b647d3d8ce46",
+      "published_at": "2026-08-31T09:15:39",
+      "sentiment": "positive",
+      "sentiment_score": 0.902,
+      "sentiment_confidence": 0.902,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
@@ -321,17 +343,6 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
-      "published_at": "2026-08-19T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "\u2018AI Plays in Disguise\u2019 \u2013 Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ed69591c9e926b03eb18c2e3ddda40df554c2d98af7ceb5400beb9c3702c5293",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.766,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Market Would Fall by 12,152 Points in a \u2018Black Monday\u2019 Style Crash. Big Short Investor Says It\u2019s Possible.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6969e537f6b9ebc7373c7c864388fa715168c2d9a39e8c7f00980299c634f5e4",
-      "published_at": "2026-08-13T11:18:35",
-      "sentiment": "negative",
-      "sentiment_score": -0.925,
-      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     }

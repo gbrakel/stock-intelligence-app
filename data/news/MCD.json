@@ -2,6 +2,61 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
+      "published_at": "2026-08-31T19:10:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.699,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
+      "published_at": "2026-08-31T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nomura Value Fund Q2 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e31bb94ba8ba5bf570eec0910d8d4a76f8de5cb1337c82447b88712cea7dea53",
+      "published_at": "2026-08-31T14:11:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.95,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d51433a38a0f4890cf4c5e89cba7f152e5467f9b5df585ace5da77fceb26f54f",
+      "published_at": "2026-08-30T13:27:18",
+      "sentiment": "positive",
+      "sentiment_score": 0.851,
+      "sentiment_confidence": 0.851,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Broadcom, Palo Alto Networks Headline Earnings Amid A Tight Economic Calendar",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c83a2c86c8db0866676e3aafc425c609bd7b7715585b004d97d373f8ffa28c4",
+      "published_at": "2026-08-29T11:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.844,
+      "sentiment_confidence": 0.844,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
@@ -97,17 +152,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.729,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
-      "published_at": "2026-08-25T19:10:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.947,
       "sentiment_confidence": 0.947,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "PepsiCo: A Behemoth Trading At A Decade-Low Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=712e38ed1d3504c8116af87cd1cc2f398970d0222a550f1abbc2b33ed3d074c2",
-      "published_at": "2026-08-13T10:46:33",
-      "sentiment": "negative",
-      "sentiment_score": -0.849,
-      "sentiment_confidence": 0.849,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "5 Insightful Analyst Questions From McDonald's\u2019s Q2 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf90d9e64383eadc6707add987933d11dcd5017a301f552c3d7f25e99243796f",
-      "published_at": "2026-08-13T05:01:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "McDonald's (MCD) Stock Gets Fair Value Trim As Analysts Split On US Execution",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0abfe1f50bdd8dffaebc99dcde43876397acbae435365c445159b4d5c2d30e47",
-      "published_at": "2026-08-12T22:10:44",
-      "sentiment": "positive",
-      "sentiment_score": 0.905,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The End of \u2018The Middle\u2019 in the Restaurant Industry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4bd56f276e1991329daeed785c051ae9f219b96d5e5afb4a344f3f4b7df81fd",
-      "published_at": "2026-08-12T20:00:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.772,
       "relevance_score": 1.0,
       "event_type": null
     }

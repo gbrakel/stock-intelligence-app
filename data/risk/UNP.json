@@ -1,22 +1,20 @@
 {
   "ticker": "UNP",
-  "risk_level": "high",
-  "overall_risk_score": 57.0,
+  "risk_level": "medium",
+  "overall_risk_score": 39.6,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 34.7,
     "debt_burden": 75.0,
     "earnings_consistency": 3.1,
     "cash_burn": 0.0,
     "sector_risk": 40.0,
-    "sentiment_stability": 60.0,
+    "sentiment_stability": 59.0,
     "liquidity": 83.3,
-    "drawdown": 100.0,
+    "drawdown": 24.6,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
     "Elevated debt-to-equity ratio",
-    "Low relative trading volume",
-    "Significant drawdown in last 12 months"
+    "Low relative trading volume"
   ]
 }

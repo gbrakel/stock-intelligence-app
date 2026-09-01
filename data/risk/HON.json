@@ -1,21 +1,19 @@
 {
   "ticker": "HON",
-  "risk_level": "high",
-  "overall_risk_score": 62.8,
+  "risk_level": "medium",
+  "overall_risk_score": 49.4,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 53.4,
     "debt_burden": 75.0,
     "earnings_consistency": 56.1,
     "cash_burn": 24.0,
     "sector_risk": 40.0,
-    "sentiment_stability": 47.3,
+    "sentiment_stability": 48.8,
     "liquidity": 50.0,
-    "drawdown": 100.0,
+    "drawdown": 34.4,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
-    "Elevated debt-to-equity ratio",
-    "Significant drawdown in last 12 months"
+    "Elevated debt-to-equity ratio"
   ]
 }

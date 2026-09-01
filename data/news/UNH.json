@@ -2,6 +2,28 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
+      "published_at": "2026-08-31T19:10:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.699,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Elizabeth Warren Says 6 Huge Companies Pocketed $83 Billion in Tax Breaks as Americans Struggled: 'Let That Sink In'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d6b2fed5009ccabc61c34d07a341418e823e3f9ce3d9bc8aae00b23662e98875",
+      "published_at": "2026-08-30T21:32:11",
+      "sentiment": "positive",
+      "sentiment_score": 0.524,
+      "sentiment_confidence": 0.524,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thursday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.941,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Investor suit says UnitedHealth ignored governance, cybersecurity gaps for years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=560b9fd013e0e2af6745d981cf395987a674906e89d3b40f5fa85d00ba24ef26",
-      "published_at": "2026-08-17T10:52:53",
-      "sentiment": "negative",
-      "sentiment_score": -0.868,
-      "sentiment_confidence": 0.868,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "David Tepper's Latest AI Bet Is CoreWeave",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9c4d75270a303776b3ed5c20d30209deccf4a080d295bf8f989e05cad1ba22b9",
-      "published_at": "2026-08-17T09:43:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,17 @@
   "ticker": "NFLX",
   "articles": [
     {
+      "headline": "Take-Two Interactive Software: The Street Is Missing The Big Picture",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c1e941ba37b823022bde98c957fe09c6aa78fbe641d19e6d6c097df0e323ad85",
+      "published_at": "2026-08-31T17:04:47",
+      "sentiment": "negative",
+      "sentiment_score": -0.852,
+      "sentiment_confidence": 0.852,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Breaking Down The Incredible Rise Of Esports",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=7f7c8f5bdeb2bd875a7bdb5fe4095311f1e0fd0b23644e2ae2daae1b3dd9ac46",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.651,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-      "published_at": "2026-08-14T18:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.897,
       "relevance_score": 1.0,
       "event_type": null
     }
