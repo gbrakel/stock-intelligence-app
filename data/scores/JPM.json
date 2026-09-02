@@ -2,6 +2,21 @@
   "ticker": "JPM",
   "history": [
     {
+      "date": "2026-09-02",
+      "composite": 57.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.77,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 71.1,
+        "growth_trend": 61.0,
+        "valuation": 68.9,
+        "sentiment": 60.0,
+        "technical": 72.1,
+        "risk_penalty": 37.7
+      }
+    },
+    {
       "date": "2026-09-01",
       "composite": 57.3,
       "signal": "reduce",

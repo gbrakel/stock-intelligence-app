@@ -2,6 +2,105 @@
   "ticker": "NKE",
   "articles": [
     {
+      "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2811d09bc453d60ad535201a16e94c17326b4e0711eab591a46c0c53c4effcac",
+      "published_at": "2026-09-01T19:10:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Industrial Average Dividend Winners: These 5 Stocks Yield 2.9% or More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=645c4dbfd5ebb435adf671dfbc9ef595d2412494d82575773b4e737b58272b33",
+      "published_at": "2026-09-01T16:53:30",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "DICK'S Sporting Goods: Crashed 31% And Now Yielding Near 4%, But I Wouldn't Buy Yet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bbe99af758fb4206131b9ce0ca21a79b2783cb90df70e4c70dea59dd7b6fc0ff",
+      "published_at": "2026-09-01T16:52:33",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.61,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c80d53f7cac54342cabbb62192f561e4ee503d10c3a9000331444aeb6824eebf",
+      "published_at": "2026-09-01T16:40:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NIKE's Inventory Cleanup: Short-Term Pain, Long-Term Gain Ahead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ee66de94c76673e4a57849161ab287315c068adc77bfaf289267582223a4aef",
+      "published_at": "2026-09-01T15:57:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.586,
+      "sentiment_confidence": 0.586,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The Canary in Foot Locker\u2019s Coalmine: DICK\u2019S Guidance Cut Drags NIKE Down With It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67b6fd70907f64c3c64f33524c913a472265f952de27087cd1c78230b4718031",
+      "published_at": "2026-09-01T04:19:50",
+      "sentiment": "negative",
+      "sentiment_score": -0.93,
+      "sentiment_confidence": 0.93,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "LULU: A Cash Gusher At A Marked-Down Price",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=530f8106d0ecf99ce06b56a3f1621f717a13cfd67bc01bf368aea661c62792d2",
+      "published_at": "2026-09-01T03:21:17",
+      "sentiment": "negative",
+      "sentiment_score": -0.483,
+      "sentiment_confidence": 0.483,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nike (NKE) Suffers a Larger Drop Than the General Market: Key Insights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8de799d6ada894e55a3cf19ae88b9ca5fdcdc1c31e603932da6778a39649fdc4",
+      "published_at": "2026-08-31T22:45:02",
+      "sentiment": "negative",
+      "sentiment_score": -0.854,
+      "sentiment_confidence": 0.854,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "DAVID WEEKLEY HOMES NAMES NEW CFO AND ADDS CMO TO LEADERSHIP TEAM",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0a2e4e1ff9509778e694a1a03ea8d8844f4281b54a5f4bd6dfdc3bf3f8609db",
+      "published_at": "2026-08-31T20:15:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.913,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Top dow jones movers in Monday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
@@ -13,13 +112,24 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
-      "published_at": "2026-08-31T16:40:05",
+      "headline": "Nike (NKE) Reinstates Chief Commercial Officer Role",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11c202086a1273b64e9db6994ec0f6f0cfebb817a83149d334988ef419adaec0",
+      "published_at": "2026-08-31T17:15:48",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
+      "sentiment_confidence": 0.888,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AI Disruption in Footwear Recycling Accelerates as Investor Capital and Brand Mandates Force Industry Transformation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf5269a7f6168d5e7a7068d387d67591e62d4a6aede35aaff261a739d7da54d9",
+      "published_at": "2026-08-31T15:33:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.661,
+      "sentiment_confidence": 0.661,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -35,6 +145,17 @@
       "event_type": null
     },
     {
+      "headline": "JPMorgan Cuts Nike 2027 Earnings Outlook, Flags China, Rising Competition",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8cd3ed356f30e13fbdf13edbe2ed15c43a57db693a24239f976fb1cabdd8655c",
+      "published_at": "2026-08-31T12:32:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.933,
+      "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Ahead of Earnings, Lululemon Stock Trades Like a Discount Rack",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=bea0fe09524244ab0ffba09e9fccc9fe6cfadbcd925840d8a8dedcb4dbec5224",
@@ -42,6 +163,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.915,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Where\u2019s the long-term money in softlines?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4b1a631698911f761a04432642db1b5df246098bed025aa521e788cf0a58348",
+      "published_at": "2026-08-30T04:15:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.846,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -79,6 +211,39 @@
       "event_type": null
     },
     {
+      "headline": "NIKE, Inc. Announces First Quarter Fiscal 2027 Earnings and Conference Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e128a34d9a2f684ef3a1597c714e026d4714355453cea69f9a032bf136c4e8bc",
+      "published_at": "2026-08-28T22:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.879,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "LeBron James borrowed $300M from life insurers in 2018. Here's why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a849f4c28ffc5ef174e7932cb735805968965160b7da828ce541044ef7f2ea19",
+      "published_at": "2026-08-28T21:45:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Academy Sports + Outdoors Teams Up with Nike and Jordan Brand to Present the H-Town Classic 3v3 Basketball Tournament",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fa38921fa903d48da8a1573ce4bb3f217453d79317133acfe87c6360d6f07cc",
+      "published_at": "2026-08-28T20:44:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.684,
+      "sentiment_confidence": 0.684,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
@@ -90,13 +255,24 @@
       "event_type": null
     },
     {
-      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
-      "published_at": "2026-08-28T16:40:06",
+      "headline": "Starbucks (SBUX) & Nike (NKE): Why America\u2019s Biggest Brands Keep Losing in China",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=548e48a77d24b57a03143836755b6f5b6737973c2f2f5cb54e014145a3c6c3d1",
+      "published_at": "2026-08-28T18:25:02",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
+      "sentiment_confidence": 0.751,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Inside the marketing powering Whoop\u2019s \u2018pivotal\u2019 next act",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05b5187364341ad26651b7d1f2cd80a769edf1ca1f117cc252033aad47ddae36",
+      "published_at": "2026-08-28T17:16:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.854,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -108,6 +284,50 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.907,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Estee Lauder vs Nike: One Turnaround Just Proved Itself, the Other Keeps Slipping",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91a43c26aeaaeaef8e13f8fc2b6350c20189822ff689c4c54c372c67c702cf1b",
+      "published_at": "2026-08-28T14:05:48",
+      "sentiment": "positive",
+      "sentiment_score": 0.789,
+      "sentiment_confidence": 0.789,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nike names Walmart vet as commercial chief, months after cutting role",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef3fbecefad4af3c30a4f46689f8735a6ca4067c9d79b5d20bb9112ef0b123f0",
+      "published_at": "2026-08-28T12:55:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.774,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Consumers Look to Congress for Relief as Companies Cash Tariff Refund Checks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53220e9aa5dd44ecd427b7dbd0dec3348565a06b416d2b08eb84653559338594",
+      "published_at": "2026-08-28T12:47:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.481,
+      "sentiment_confidence": 0.481,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Did NKE, NIO, MCD Stocks Plunge To 52-Week Lows Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c4229f8122083b628a043565e32210ed710008547a17d2c1e157635845b22a1",
+      "published_at": "2026-08-28T04:15:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.913,
+      "sentiment_confidence": 0.913,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -328,226 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.944,
       "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Stock Slides After Dick's Disappointing Q2 Results",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c5d6254059abd6d1456bcbd1dd2e18a9828f959e171a5140ecf369c460e7cb35",
-      "published_at": "2026-08-25T13:35:09",
-      "sentiment": "negative",
-      "sentiment_score": -0.961,
-      "sentiment_confidence": 0.961,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d44ae880012a4f33762d53100b314f1895a0d7bc8d84b9479edaf08c001133a2",
-      "published_at": "2026-08-25T12:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dick's Sporting Goods Stock Plunges 25% on $31.9M Foot Locker Investment Loss",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2171932e3fd948bd79cab8516645aa78ff5d793b619a58f0bfb86942a3047000",
-      "published_at": "2026-08-25T11:07:11",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Reiterates Sector Perform on Nike, Maintains $45 Price Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2d513c7f33d02c9379dbeb037085c6cc9e1ea20d64a4d1fba6ce4ef9d4423126",
-      "published_at": "2026-08-25T09:33:48",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.837,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NIKE, Inc. (NYSE:NKE) Vs On Holding (NYSE:ONON) \u2013 Here\u2019s What Jim Cramer Thinks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b98069670e23686794aec8c43b4043f2049d07f1574a3fa23171a4000627a54d",
-      "published_at": "2026-08-23T01:01:28",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Now Yields More Than Coca-Cola. Is the Turnaround Finally Priced In?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f802330d757fdb61c83cb7f2013775a6885dcfe2cb65de29e21424a65e4fcb3",
-      "published_at": "2026-08-22T09:35:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.635,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Benzinga Bulls and Bears: Ross, Moderna, Webull",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9c7c4b6e7a4bd983931392cae935ba5ee7de9fcf2e7462339dc649abae2c0a2a",
-      "published_at": "2026-08-22T08:01:13",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.94,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike (NKE) Could Be 9% Overvalued Following Community Push And Ongoing Headwinds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ad8de8676c6b5c80cc65566fd962ecaf78bfc472b43e6ff5401823615f41a74",
-      "published_at": "2026-08-21T22:10:18",
-      "sentiment": "negative",
-      "sentiment_score": -0.887,
-      "sentiment_confidence": 0.887,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Just Hit a 12-Year Low. Does History Say Now Is the Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f7b6fc06588e406f5d5b36a6121841639dbc2ca91a278a903309d98c5ff81b4",
-      "published_at": "2026-08-21T20:55:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.825,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Stock Sinks to Multi-Year Lows: There\u2019s No Quick Fix for NKE Here",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad93fa65ad6e2e5d7cc4c8144a908f58810270703d4ec693383545e019f71da7",
-      "published_at": "2026-08-21T19:47:42",
-      "sentiment": "negative",
-      "sentiment_score": -0.896,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Discover which dow jones stocks are making waves on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
-      "published_at": "2026-08-21T19:10:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.923,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike Is Back at Its 2014 Price and Still Isn\u2019t Cheap, and Wall Street Expects Earnings to Fall Another 18%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b57b2c52e23d553f3096dfbdf33928a1c639b7ab51f43bc084855509e645112",
-      "published_at": "2026-08-21T17:33:56",
-      "sentiment": "negative",
-      "sentiment_score": -0.975,
-      "sentiment_confidence": 0.975,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike: More Pain Ahead Before A Revival, If At All",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=74bc88ea47a3523e480c8b547b964668551023193fa5a13737ef1c9308cede37",
-      "published_at": "2026-08-21T15:23:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.861,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "WWW Raises 2026 Outlook as Saucony and Merrell Drive Growth Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee9e978230e0a9d94dad8f516a637052d6877882a0e8455f9c1b1f6c6f415066",
-      "published_at": "2026-08-21T15:07:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.792,
-      "sentiment_confidence": 0.792,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is WWW a Buy as Growth Momentum Meets Tariff and Execution Risks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03cf3d1b53825f0a176616c24c7a860bd4c5bc22138545fbc16062e7ca9066a9",
-      "published_at": "2026-08-21T15:06:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.776,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "WWW Climbs 11.1% in One Week as Brand Momentum Builds, Can It Last?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2282e31dbfdbd8f15b912cb23713a5d1ef51b101e9e67890ef562fd616095ecb",
-      "published_at": "2026-08-21T15:05:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.875,
-      "sentiment_confidence": 0.875,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 of Wall Street\u2019s Favorite Stocks We\u2019re Skeptical Of",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=afc817a7f5cc234bc1a161d3b7aff86304f3ef183185ec6ae240d531f5bfafa4",
-      "published_at": "2026-08-21T14:39:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.863,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why American brands are losing relevance in China",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=3afdab6d21027060629ea491f8150da088e09aea97623a806d63c3cd29c56d42",
-      "published_at": "2026-08-21T07:25:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.809,
-      "sentiment_confidence": 0.809,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Caleres (CAL) Stock Is Trading Lower Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b5bb5b62ee632fa5af1a45fdb83ffe3a09d31331235aa8de961e169ff1573e4",
-      "published_at": "2026-08-20T22:23:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.952,
-      "sentiment_confidence": 0.952,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike\u2019s Stock Troubles Aren\u2019t New, Here\u2019s Why the Crash Is Going Viral Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=deed30b9041200f792faf8c833e6bd84696d6eada82044577ebb3dac66097241",
-      "published_at": "2026-08-20T20:23:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.832,
       "relevance_score": 1.0,
       "event_type": null
     }
