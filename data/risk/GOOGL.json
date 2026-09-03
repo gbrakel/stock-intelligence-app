@@ -1,17 +1,20 @@
 {
   "ticker": "GOOGL",
-  "risk_level": "medium",
-  "overall_risk_score": 40.5,
+  "risk_level": "high",
+  "overall_risk_score": 52.8,
   "factors": {
-    "volatility": 65.4,
+    "volatility": 100.0,
     "debt_burden": 15.0,
     "earnings_consistency": 34.2,
     "cash_burn": 24.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 48.6,
-    "liquidity": 43.8,
-    "drawdown": 42.1,
+    "sentiment_stability": 54.7,
+    "liquidity": 50.0,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }

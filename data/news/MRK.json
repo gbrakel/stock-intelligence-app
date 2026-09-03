@@ -2,6 +2,83 @@
   "ticker": "MRK",
   "articles": [
     {
+      "headline": "How Did Merck Stock Beat The Market With Slowing Sales?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b83ed80afcb80cbd4652b6ca44f619ec245ce1285bf164a2fe2279ae839bfc54",
+      "published_at": "2026-09-02T18:16:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.869,
+      "sentiment_confidence": 0.869,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62e773579e3a62df81afcdad4037a0fd886c9dbd055e0ac4c015a53682f0fe97",
+      "published_at": "2026-09-02T17:24:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AZN Stock Down 20% in 6 Months: How to Play After Pipeline Setbacks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be26bbec50ca5a5b43eebb50858927fd3ecc60fec2a00862e209b8f346cbf49c",
+      "published_at": "2026-09-02T15:10:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.956,
+      "sentiment_confidence": 0.956,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can LLY's Merida Deal Boost Its M&A Push to Diversify Beyond GLP-1s?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8780cdd6f1f1fad15e05dfd24f46c854de4ccc02b6ab97af39ced883123d9239",
+      "published_at": "2026-09-02T15:07:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.945,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Global Health Leader Jeffrey L. Sturchio, PhD, Joins FINN Partners' Health Policy and Impact Group as Senior Advisor",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d029860b216fddfbff397866faf68627b7d0e5e085bc67947d73b47a2b94314",
+      "published_at": "2026-09-02T14:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Merck to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70f5ee04c17fec2fc81eed793a9d35075ea371422f06bbe803a55e67af6db3aa",
+      "published_at": "2026-09-02T11:45:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.826,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Did Merck\u2019s (MRK) First Positive Phase 3 Individualized mRNA Cancer Trial Just Redefine Its Moat?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b8ae9abd0431d10053f8279b998a980036723c7d887184dd5f43c60a6006a14",
+      "published_at": "2026-09-02T01:19:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.851,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Can Bixlenvo Unlock New Growth for Gilead's HIV Business?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d712d75c450835888382f0049c3dfaaa54fd8760a7b25a62dc9c11038231ace7",
@@ -46,6 +123,17 @@
       "event_type": null
     },
     {
+      "headline": "Stocks rise for first time in four sessions as Treasury yields take breather: Live updates",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e4e18d878304530ff690fd40e3e9194a40a530d4efe228b4c517b51541d5d5b2",
+      "published_at": "2026-09-01T18:01:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.811,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c80d53f7cac54342cabbb62192f561e4ee503d10c3a9000331444aeb6824eebf",
@@ -86,6 +174,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.933,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Palo Alto Networks, Fervo Energy, Chevron, Apple & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3e8db54c0b5ab5e1fcd7fd29a36003db9ca2ac1882435469d32ca71af62e3594",
+      "published_at": "2026-09-01T13:26:25",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.88,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.648,
       "sentiment_confidence": 0.648,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GSK: Still One Of My Top Healthcare Picks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=320a5de29203b8e44f2edf5548e3915f957e76feed78625c85f5fe1da7b57b64",
-      "published_at": "2026-08-27T08:08:07",
-      "sentiment": "positive",
-      "sentiment_score": 0.627,
-      "sentiment_confidence": 0.627,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
-      "published_at": "2026-08-26T19:10:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Summit Therapeutics: Signals Of Moving Past Lung Cancer (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3417a3fd58c9acd17e69c9a0d87f708c3e8f3e97dd028fe9fbdbf7f909b2946c",
-      "published_at": "2026-08-26T16:43:47",
-      "sentiment": "positive",
-      "sentiment_score": 0.511,
-      "sentiment_confidence": 0.511,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=41d4f97dcb9c14125228f555e756c21cedb80f2461e657928ccf4a89931d142e",
-      "published_at": "2026-08-26T16:40:05",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "EXCLUSIVE: Sunshine Biopharma Advances Vaccine Strategy for Lung Cancer",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=639a09fd66eb61566ebe38db1bdd8d933cab4a796973b124b878d52985839f21",
-      "published_at": "2026-08-26T08:31:09",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.879,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SCHD And STK: A 3%+ Income Barbell",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ea4ad1157b42d6bad453f53df9599e9e64e5dddcb48416e8ed75336323562ec6",
-      "published_at": "2026-08-26T08:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.873,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mike Johnson Says Prescription Drug Prices Are at 'Lowest Levels' in 60 Years, Credits Trump and Republicans for Lower Costs",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=47f0f4739447dbe1e4ab1b7802e30af37c28a05f9004cf1fef4b9032da320780",
-      "published_at": "2026-08-26T03:56:40",
-      "sentiment": "negative",
-      "sentiment_score": -0.896,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top dow jones movers in Tuesday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a8858e98310f85462059e252bd76fc3444519de43c88f68833ab57142ce4739b",
-      "published_at": "2026-08-25T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.729,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Measles Kills 2 in Pennsylvania: What Do Prediction Markets Say About the Disease?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5e113f1e4a5c7ac536bb10cef8d1cc08f3629e7b2a6fdb156dede6adc97e627f",
-      "published_at": "2026-08-25T15:31:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.724,
       "relevance_score": 1.0,
       "event_type": null
     }
