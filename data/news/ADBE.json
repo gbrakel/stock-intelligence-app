@@ -2,6 +2,105 @@
   "ticker": "ADBE",
   "articles": [
     {
+      "headline": "Adobe names longtime exec Anil Chakravarthy CEO, Narayen shifts to executive chair",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6b68bdcad35d69888ae4dc63d4084eb9354c7b1afe633059de1e949899a2b1c",
+      "published_at": "2026-09-03T21:23:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.91,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Adobe Announces New CEO. The Stock Slips.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb42b9846b1aca312636f28955bdb2f96127eceb6f7aebba3ec2d1df7751b87a",
+      "published_at": "2026-09-03T21:05:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.873,
+      "sentiment_confidence": 0.873,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Adobe Inc. (ADBE): Can New AI Strategy Revive Growth and Unlock Higher Valuation?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd86792f5a3907a7953e9ee426ef519dc8b069188f913b571b44e45c7d65b13a",
+      "published_at": "2026-09-03T19:26:06",
+      "sentiment": "positive",
+      "sentiment_score": 0.884,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Adobe (ADBE) Brings AI Guided Content Creation Into One Marketing Workflow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b1f3294f13a98ec86776cd7c4584c6adf061807c91fda79863c2f3fe76a8243",
+      "published_at": "2026-09-03T14:06:44",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.925,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "E-Commerce Update - Alibaba Lawsuit Highlights Regulatory Challenges For Global Companies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e7d2f072ec8d8173e911600ce59ffc93cc3713da88eb1eed1dd66f08420d4f2",
+      "published_at": "2026-09-03T13:37:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.595,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Calls of the Day: Adobe, Costco and Uber",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4348a500d370f0a87b8d862a5a5e5eb59fa6ed73877ca21fae3b1523f93321bd",
+      "published_at": "2026-09-03T13:13:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer Warns Google\u2019s New AI Tool: \u2018Could Be Tough for Adobe\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9898af65eaae1438a2dad69fd3b09c799e6f6a8dd52dff5b5961f5927bd6f1e",
+      "published_at": "2026-09-03T12:01:02",
+      "sentiment": "negative",
+      "sentiment_score": -0.905,
+      "sentiment_confidence": 0.905,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a60f63e481993391c3c302f83c568485ad1db536ba2c0746d47ef91a07739e13",
+      "published_at": "2026-09-03T09:26:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.951,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Barclays Maintains Equal-Weight on Adobe, Raises Price Target to $295",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4a3fa7034f40fa8d1aa366be333e813ee1c2a510139fd4a3ad7c138cc29f8f94",
+      "published_at": "2026-09-03T09:21:14",
+      "sentiment": "positive",
+      "sentiment_score": 0.726,
+      "sentiment_confidence": 0.726,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3be0b07967af6d16a2c450aee3ac8c66bd8371fa62345d5732cc831c6012680b",
@@ -53,17 +152,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.921,
       "sentiment_confidence": 0.921,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Jim Cramer Warns Google\u2019s New AI Tool: \u2018Could Be Tough for Adobe\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5a9a13230016f8d048eb664b50b402fe509b6df913ca70c7c29649bfea4f1bc9",
-      "published_at": "2026-09-02T08:39:18",
-      "sentiment": "negative",
-      "sentiment_score": -0.905,
-      "sentiment_confidence": 0.905,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.935,
       "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Software Isn't Dead, But Seat-Based SaaS Is Under Pressure",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=eb52ae3add789f67e1391a83b971e810b1483a21ecf36b36751d6f94aab1aa24",
-      "published_at": "2026-08-27T11:40:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.766,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay updated with the S&P500 stocks that are on the move in today's after-hours session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f958314b4ee9ab1a1bbec252f4ecf81e1db41470f2f308d74e256640f1a5a6ad",
-      "published_at": "2026-08-26T21:05:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.938,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nasdaq jumps as Nvidia revenue outlook lifts chip stocks: Live updates",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=5bde961c3143d732192b067c2d6d19882de7c1ef5ff15fc3b32a2f7ec7490eb3",
-      "published_at": "2026-08-26T18:02:13",
-      "sentiment": "positive",
-      "sentiment_score": 0.441,
-      "sentiment_confidence": 0.441,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top S&P500 movers in Wednesday's pre-market session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=45404df3aec94c43e0fe19f8dea362f33c12ae578f30b5581f5f7c0ff85b82d6",
-      "published_at": "2026-08-26T12:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.701,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
-      "published_at": "2026-08-26T11:20:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.494,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IGV: This Could Make Or Break Software",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7bb0b83bffcda4d0f72b3fea9a210ef3a3552a4c83987b3f6cdac4b7003ae685",
-      "published_at": "2026-08-25T11:54:45",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.817,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d70aeb17af8f3bb67468c014ab48a9c0351439ab761e916096af3b89365d94b3",
-      "published_at": "2026-08-24T13:35:24",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.854,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Adobe Stock Looks Cheap for a Reason. Here\u2019s Why I\u2019m Buying.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b06e76efcf204fdb056eee00f880c6d037865b67464ad72b0baa452ac751f71",
-      "published_at": "2026-08-22T17:10:40",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.905,
       "relevance_score": 1.0,
       "event_type": null
     }
