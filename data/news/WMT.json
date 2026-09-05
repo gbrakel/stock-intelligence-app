@@ -2,6 +2,138 @@
   "ticker": "WMT",
   "articles": [
     {
+      "headline": "Walmart, Target, and Kroger face growing retail crime issue",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc13dce42e6b5e98dec221d5c6d73788f9a474f3888638b310cfed10cd6503ac",
+      "published_at": "2026-09-04T23:33:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.935,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Friday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=112e1e8978d52d2cbd5db13911f01181162e86289295dc3706f8a282f6894de5",
+      "published_at": "2026-09-04T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "DOJ expands beef price probe to eight retailers, including Walmart and Amazon, with inflation a key issue ahead of midterm elections",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bbad406a237f83fd6a4847379b3f18b63dac37db772f7dcbd790b938b98fff7",
+      "published_at": "2026-09-04T18:45:02",
+      "sentiment": "positive",
+      "sentiment_score": 0.57,
+      "sentiment_confidence": 0.57,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Uneven Investor Sentiment Toward Hardline Retailers Could Persist Amid Macro Headwinds, UBS Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d805745451a584b7c399e887526b6b9fecee650e56e81076767cc44e6b6b181",
+      "published_at": "2026-09-04T18:19:21",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Shuffle Board: Kohl\u2019s Taps Walmart Exec; CreateMe Builds Leadership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d1021e63466a563da0d8a7012379613d68a9aede426e8be57449b795bf36082",
+      "published_at": "2026-09-04T18:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Inflation Odds Move Toward 100%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f74ca4ba3526012994b337ec2df9efe55fe0bbd76352daaa2c2047dc6e0698ad",
+      "published_at": "2026-09-04T16:26:39",
+      "sentiment": "positive",
+      "sentiment_score": 0.851,
+      "sentiment_confidence": 0.851,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Lululemon\u2019s Margin Problem Could Spell Trouble for These ETFs",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=21d13116b4af032fde5ff25ec9559090beada75893850f5b57269855f3fb4923",
+      "published_at": "2026-09-04T15:29:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.966,
+      "sentiment_confidence": 0.966,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart (WMT) Brings Nationwide Restaurant Delivery To Its App With A New Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b526901f09a583ec857f65f9b999d61553bb9ec37954d48a2bfa3a85e630e33",
+      "published_at": "2026-09-04T15:08:51",
+      "sentiment": "positive",
+      "sentiment_score": 0.615,
+      "sentiment_confidence": 0.615,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is Lululemon a warning sign for retail stocks? What investors should know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f27919b6a1b8f1b0b96ca5307f3248d2d04f9103c3849a9808130d7a49779d0",
+      "published_at": "2026-09-04T14:41:35",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.825,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Trump's DOJ Expands Beef Price Probe to Walmart, Costco, Amazon and 5 Other Retail Giants \u2014 Calls it a 'Critical Concern'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de35b9ddbe32cc4c99c5057184eebd8e7c133c7d736b9ae54923ff9738cb11e",
+      "published_at": "2026-09-04T14:30:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.441,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Sensodyne Maker Haleon Leverages Eye-Level Shelf Placement To Outpace Rivals-Report",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=96711a3d1422c8eac45620e6e791c06da681658c54679c3576f9110341007786",
+      "published_at": "2026-09-04T14:03:51",
+      "sentiment": "positive",
+      "sentiment_score": 0.906,
+      "sentiment_confidence": 0.906,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart expands restaurant delivery service with Dunkin\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce5db09965e58763d378ac75f945961b93fc2e15459b726a8454735a83b8007c",
+      "published_at": "2026-09-04T12:23:51",
+      "sentiment": "positive",
+      "sentiment_score": 0.84,
+      "sentiment_confidence": 0.84,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Retailers Charging Ahead With EV Stations Despite Policy Pullback",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8adce78d9893c5d0b1c071284a97d41faaef89f029b3bbc6bd2581af74bfb807",
@@ -145,6 +277,17 @@
       "event_type": null
     },
     {
+      "headline": "Walmart Stock Gains on Broad Market Rally and New Delivery Partnership",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f18768fca50d65a74d43677bedaa0387da708a2103b7938bdf7ae08598dd3576",
+      "published_at": "2026-09-03T14:27:41",
+      "sentiment": "positive",
+      "sentiment_score": 0.868,
+      "sentiment_confidence": 0.868,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=906fe06915ba5209f2198c4bfab08b6ce290b06a928dd47543c6ead3fbea5b01",
@@ -222,6 +365,17 @@
       "event_type": null
     },
     {
+      "headline": "If You Invested $1000 In Walmart Stock 5 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8193267a4d91415e2bfe2c8264a5472f90679d8bf0742f65c2ee94142ad27913",
+      "published_at": "2026-09-03T12:45:29",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Wall Street Lunch: Ford Aims To Sell Over 100K EV Trucks In First Year",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a7f0e4a78995cab7424aba2a1d86532ec09cdfe6a69ad71cca639e756cba0d8a",
@@ -295,17 +449,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.75,
       "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Trump's DOJ Expands Beef Price Probe to Walmart, Costco, Amazon and 5 Other Retail Giants \u2014 Calls it a 'Critical Concern'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a83a101c6c331843d38462d55ac8e516743732f8a50f57798509b39f38f10ea3",
-      "published_at": "2026-09-03T04:54:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.441,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -405,149 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.683,
       "sentiment_confidence": 0.683,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Surging Earnings Estimates Signal Upside for ADM (ADM) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bdc803e3c3b44c0beee88f7d4b620d08f4f935cad799691ee87397ff25b82fb6",
-      "published_at": "2026-09-02T17:20:02",
-      "sentiment": "negative",
-      "sentiment_score": -0.904,
-      "sentiment_confidence": 0.904,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ollie's Bargain Outlet Cuts Sales Outlook as Second-Quarter Revenue Misses Views",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=597b8e5af1f40ff3dcf4fcc32030d1c3edc0873187c4a34e434559e01755ced6",
-      "published_at": "2026-09-02T16:56:29",
-      "sentiment": "negative",
-      "sentiment_score": -0.972,
-      "sentiment_confidence": 0.972,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 S&P 500 Stocks with Competitive Advantages and 1 That Underwhelm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12fb2d3be8021e600694ebdf06d6d287b89be7c9ac6eed6af98b32548e7b52c0",
-      "published_at": "2026-09-02T16:48:23",
-      "sentiment": "negative",
-      "sentiment_score": -0.705,
-      "sentiment_confidence": 0.705,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Kroger taps Walmart tech veteran as store operations chief",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3db7f349699e5b490ec0f572b82eaee42218cdc328dcd477e2eaf9e2eaa744f",
-      "published_at": "2026-09-02T16:40:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.566,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "TGT or COST: Which Is the Better Value Stock Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f0159d36590314461a0dc7398b97d75ab086047b087ef446b7d37f8cb40fa93",
-      "published_at": "2026-09-02T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sysco's Fiscal 2027 Outlook Puts AI Cost Savings in the Spotlight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d607ad2f924ae91daa3ab3b452a8cf37812f3013186950da20212c24f81fcc17",
-      "published_at": "2026-09-02T16:34:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.919,
-      "sentiment_confidence": 0.919,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Is Tyson (TSN) Down 6.3% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c4bd56e50b98b3c28afcfb068ffcb9a1c8233c21ae7cd3b96dae87b243b1036",
-      "published_at": "2026-09-02T16:30:11",
-      "sentiment": "negative",
-      "sentiment_score": -0.966,
-      "sentiment_confidence": 0.966,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Is Medifast (MED) Down 7.6% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=50471f5c9ec514d9ebf6355806973d1eca3f2da07ee2b9ee961382e4138c364c",
-      "published_at": "2026-09-02T16:30:08",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Clorox (CLX) Down 9.3% Since Last Earnings Report: Can It Rebound?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0dada182013976e709e343111c0e6866438164ab6388d05cb4aa20c11d5d09de",
-      "published_at": "2026-09-02T16:30:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Brown-Forman Maintains Full-Year Guidance as First-Quarter Sales Miss Views",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dcf6b6278d324b35d03baec4ba51a6d9b9e5833bb67e0fe6b62a69b4fc394e08",
-      "published_at": "2026-09-02T16:16:08",
-      "sentiment": "negative",
-      "sentiment_score": -0.682,
-      "sentiment_confidence": 0.682,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Hershey's Pricing Holds Firm: Can Volume Pressure Ease From Here?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af9e96bf5ded8038bdb92a2f93d1d0604d8389665ef23fec2e6ff6e73503a6e0",
-      "published_at": "2026-09-02T16:10:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.844,
-      "sentiment_confidence": 0.844,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ollie's Bargain Outlet Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3dfbf323baca08c2bf7759b11efe5866ae38e772617f75c234e2bdb39727ee46",
-      "published_at": "2026-09-02T16:03:22",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.86,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disclosure of total number of voting rights and number of shares  in the capital at August 31, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5816efc4b908d7c313e47b637c33ca047926ae35d7cf96f6f68e6c5826eb3b52",
-      "published_at": "2026-09-02T16:01:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.95,
       "relevance_score": 1.0,
       "event_type": null
     }

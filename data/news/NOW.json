@@ -2,6 +2,94 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Why Is Dynatrace (DT) Up 8% Since Last Earnings Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48716810b81c2dd05399c20180629b0437a2e3a8cf2ffe3c773728fc43e8effa",
+      "published_at": "2026-09-04T15:30:21",
+      "sentiment": "positive",
+      "sentiment_score": 0.792,
+      "sentiment_confidence": 0.792,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Software Stocks Are Back. 2 Winners, 2 Losers\u2014and Salesforce.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc2b9aec298b36cc339efb5f7a295181c187487ee762a496f9bc28cf5063421d",
+      "published_at": "2026-09-04T14:40:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.629,
+      "sentiment_confidence": 0.629,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Guidewire Software shares are trading higher after the company reported better-than-expected Q2 financial results, raised its FY26 sales guidance and issued Q3 sales guidance above estimates. Also, BTIG maintained its buy rating on the stock and raised its price target from $175 to $200.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5f9a8b70a8cb4995fbc8ee557dd49a76d6933376cf166d5e74e34933b96ed574",
+      "published_at": "2026-09-04T13:37:26",
+      "sentiment": "positive",
+      "sentiment_score": 0.953,
+      "sentiment_confidence": 0.953,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68a9d3c48ae488d6ece16b00e487e4718cf22fac8212f0c5e29c6b542da85326",
+      "published_at": "2026-09-04T13:13:23",
+      "sentiment": "negative",
+      "sentiment_score": -0.929,
+      "sentiment_confidence": 0.929,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "2 Profitable Stocks for Long-Term Investors and 1 That Underwhelm",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45b888c87054f90ee0acc1ab7db8e081905bce47f6aa0bf0dec9addb04b20620",
+      "published_at": "2026-09-04T09:30:10",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.707,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Nvidia, ServiceNow, Spotify And A Financial Stock On CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8d0674854b88b52e7897bcfa6ec37441580185b7509ea36e8487aa852e99b119",
+      "published_at": "2026-09-04T07:02:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.945,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e",
+      "published_at": "2026-09-04T03:08:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.708,
+      "sentiment_confidence": 0.708,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures: Tesla Cybercabs Hit The Road, Jobs Report Looms",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=770043a0590350ef40bc9806df720b7731d3ff079ab2c9423d2d6f229b45267a",
+      "published_at": "2026-09-04T00:54:04",
+      "sentiment": "negative",
+      "sentiment_score": -0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6c4204602180674b2508d93e7869f92f085937c882fca0782841a4ced3eac60f",
@@ -460,94 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.815,
       "sentiment_confidence": 0.815,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Salesforce Stock Repriced A Fear, Not A Forecast",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21e0eaa3e3bfc70cab6b91e0e19348c777c91fe34294422d31ae61f2c079cbce",
-      "published_at": "2026-08-31T17:36:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.83,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=66cd2776f7c30a964722094b09bd6a18e34943fce0381882ba1635f3c58fe405",
-      "published_at": "2026-08-31T16:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11722db5207542b14c0e38fc1f568a90111c9bf5dd843ee4c282bf03fcad7e0b",
-      "published_at": "2026-08-31T16:27:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.719,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow Stock Up Nearly 3% After Key Trading Signal",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a88a58dcff0b212ccb60037b2580a83bf31950cd7b21b3fa54e83890d2dd116d",
-      "published_at": "2026-08-31T14:54:41",
-      "sentiment": "positive",
-      "sentiment_score": 0.942,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The SaaSpocalypse Trade Is Cracking, and These 5 Stocks Are Leading Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0da55490bc30ea434e413b4488eb26a048c576a7dedbc2b10c3821f09008182",
-      "published_at": "2026-08-31T14:50:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.848,
-      "sentiment_confidence": 0.848,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ServiceNow Vs. Salesforce: Who\u2019s Better Positioned to Capitalize on AI?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e762ab8721ca704ace60c1120e3c02649b098611eecf34fdb54a85f8db23ff2",
-      "published_at": "2026-08-31T13:42:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.789,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Software Is Back: 5 Stocks To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6c360020db1d3f9bb63d82b2ec53d576a13f4e2361f8521c4c1caee25747346e",
-      "published_at": "2026-08-31T12:42:19",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.813,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's going on in today's pre-market session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e386197b227003cb9e35f310b5fc0325463fc3e1e2b3d357927179bcd5d44831",
-      "published_at": "2026-08-31T12:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.862,
       "relevance_score": 1.0,
       "event_type": null
     }

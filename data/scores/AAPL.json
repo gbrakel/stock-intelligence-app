@@ -2,6 +2,21 @@
   "ticker": "AAPL",
   "history": [
     {
+      "date": "2026-09-05",
+      "composite": 52.7,
+      "signal": "reduce",
+      "signal_confidence": 0.76,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 69.7,
+        "growth_trend": 67.0,
+        "valuation": 33.1,
+        "sentiment": 55.0,
+        "technical": 80.5,
+        "risk_penalty": 48.5
+      }
+    },
+    {
       "date": "2026-09-04",
       "composite": 52.7,
       "signal": "reduce",

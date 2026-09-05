@@ -2,6 +2,28 @@
   "ticker": "AMT",
   "articles": [
     {
+      "headline": "American Tower (AMT) Holds Its Outlook On A Valuation That Still Looks Compelling",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66598c6521749dccb73ac6a7f7da6ce3387840f461f704dbbe19ee38b7d8cc41",
+      "published_at": "2026-09-04T18:14:39",
+      "sentiment": "positive",
+      "sentiment_score": 0.818,
+      "sentiment_confidence": 0.818,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "American Tower (AMT) Stock May Be 39% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63d765059a6c4acf1fc666c89ae0fba7566cef15553259c0a8758accf8aed533",
+      "published_at": "2026-09-04T07:19:48",
+      "sentiment": "negative",
+      "sentiment_score": -0.589,
+      "sentiment_confidence": 0.589,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "American Tower: This Undervalued Infrastructure Giant Is A Strong Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d1cd27763e6e94018dbb0e11bc56bc1497525454a927472410bd5642fc45bc9e",
@@ -504,50 +526,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.841,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
-      "published_at": "2026-08-05T19:05:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.878,
-      "sentiment_confidence": 0.878,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top S&P500 movers in Wednesday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=41596b07c037fe81a6963035041969d9a5305c9b2c7c1ef2d76aaea6efc80395",
-      "published_at": "2026-08-05T16:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.575,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which S&P500 stocks are gapping on Wednesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=6beb908ae12813dfd98a52eb52bb2db4a5234cb5fae50594bf2bc304a6172d38",
-      "published_at": "2026-08-05T14:35:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.726,
-      "sentiment_confidence": 0.726,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stockholders Of Echo Global Logistics Approve Merger With An affiliate Of The Jordan Company",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=74dbb6c3824bfde90d0822c376acf41302b702851e466974f2b1da1c0965adb4",
-      "published_at": "2026-08-05T10:29:10",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.832,
       "relevance_score": 1.0,
       "event_type": null
     }
