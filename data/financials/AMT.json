@@ -2,6 +2,22 @@
   "ticker": "AMT",
   "quarterly": [
     {
+      "period_end": "2026-06-30",
+      "revenue": 2749100000.0,
+      "net_income": 867500000.0,
+      "eps": 1.86,
+      "gross_margin": 0.7303481139281947,
+      "operating_margin": 0.46153286530137133,
+      "net_margin": 0.31555781892255647,
+      "free_cash_flow": 1165900000.0,
+      "total_debt": 44979900000.0,
+      "total_equity": 10252500000.0,
+      "cash_and_equivalents": 1762500000.0,
+      "roe": 0.08461350890026823,
+      "roa": 0.01370455970843648,
+      "shares_outstanding": 465938000.0
+    },
+    {
       "period_end": "2026-03-31",
       "revenue": 2737500000.0,
       "net_income": 859500000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-03-31",
-      "revenue": 2562800000.0,
-      "net_income": 488700000.0,
-      "eps": 1.05,
-      "gross_margin": 0.7524192289683159,
-      "operating_margin": 0.4893475885749961,
-      "net_margin": 0.19068987045419072,
-      "free_cash_flow": 963900000.0,
-      "total_debt": 44383600000.0,
-      "total_equity": 9936300000.0,
-      "cash_and_equivalents": 2103700000.0,
-      "roe": 0.04918329760574862,
-      "roa": 0.007875195792160578,
-      "shares_outstanding": 467640000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2024-12-31",
@@ -181,11 +197,11 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 24.188446,
+    "pe_ratio": 24.221764,
     "forward_pe": 25.085451,
     "ev_ebitda": 18.694,
     "price_to_sales": 7.488834,
-    "peg_ratio": 1.68,
+    "peg_ratio": 1.66,
     "market_cap": 81939079168,
     "enterprise_value": 131689275392
   }

@@ -1,21 +1,19 @@
 {
   "ticker": "AMT",
-  "risk_level": "high",
-  "overall_risk_score": 56.0,
+  "risk_level": "medium",
+  "overall_risk_score": 40.9,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 46.2,
     "debt_burden": 90.0,
-    "earnings_consistency": 18.4,
+    "earnings_consistency": 15.5,
     "cash_burn": 0.0,
     "sector_risk": 35.0,
-    "sentiment_stability": 41.9,
+    "sentiment_stability": 45.5,
     "liquidity": 50.0,
-    "drawdown": 100.0,
+    "drawdown": 31.4,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
-    "Elevated debt-to-equity ratio",
-    "Significant drawdown in last 12 months"
+    "Elevated debt-to-equity ratio"
   ]
 }

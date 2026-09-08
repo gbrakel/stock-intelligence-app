@@ -1,20 +1,17 @@
 {
   "ticker": "V",
   "risk_level": "medium",
-  "overall_risk_score": 45.3,
+  "overall_risk_score": 27.7,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 30.3,
     "debt_burden": 30.0,
     "earnings_consistency": 4.2,
     "cash_burn": 0.0,
     "sector_risk": 50.0,
-    "sentiment_stability": 53.0,
+    "sentiment_stability": 47.1,
     "liquidity": 28.6,
-    "drawdown": 100.0,
+    "drawdown": 34.4,
     "concentration": 40.0
   },
-  "risk_flags": [
-    "High volatility (annualized)",
-    "Significant drawdown in last 12 months"
-  ]
+  "risk_flags": []
 }

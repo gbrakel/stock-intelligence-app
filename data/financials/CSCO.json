@@ -2,6 +2,22 @@
   "ticker": "CSCO",
   "quarterly": [
     {
+      "period_end": "2026-07-31",
+      "revenue": 17252000000.0,
+      "net_income": 3859000000.0,
+      "eps": 0.98,
+      "gross_margin": 0.6412589844655692,
+      "operating_margin": 0.2767795038256434,
+      "net_margin": 0.2236842105263158,
+      "free_cash_flow": 4996000000.0,
+      "total_debt": 29533000000.0,
+      "total_equity": 50285000000.0,
+      "cash_and_equivalents": 7218000000.0,
+      "roe": 0.07674256736601372,
+      "roa": 0.029767736063006704,
+      "shares_outstanding": 3949000000.0
+    },
+    {
       "period_end": "2026-04-30",
       "revenue": 15841000000.0,
       "net_income": 3373000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.05443716243622313,
       "roa": 0.020851902429451064,
       "shares_outstanding": 3960000000.0
-    },
-    {
-      "period_end": "2025-04-30",
-      "revenue": 14149000000.0,
-      "net_income": 2491000000.0,
-      "eps": 0.63,
-      "gross_margin": 0.6557353876599052,
-      "operating_margin": 0.22870874266732633,
-      "net_margin": 0.17605484486536152,
-      "free_cash_flow": 3796000000.0,
-      "total_debt": 29279000000.0,
-      "total_equity": 45935000000.0,
-      "cash_and_equivalents": 8161000000.0,
-      "roe": 0.05422880156743224,
-      "roa": 0.02079611293850495,
-      "shares_outstanding": 3972000000.0
     }
   ],
   "annual": [
@@ -169,7 +169,7 @@
     "forward_pe": 19.492132,
     "ev_ebitda": 23.914,
     "price_to_sales": 6.798744,
-    "peg_ratio": 1.0,
+    "peg_ratio": 1.01,
     "market_cap": 430530461696,
     "enterprise_value": 445797498880
   }

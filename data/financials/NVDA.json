@@ -2,6 +2,22 @@
   "ticker": "NVDA",
   "quarterly": [
     {
+      "period_end": "2026-07-31",
+      "revenue": 96221000000.0,
+      "net_income": 59688000000.0,
+      "eps": 2.47,
+      "gross_margin": 0.7497531723844068,
+      "operating_margin": 0.6623710000935347,
+      "net_margin": 0.6203219671381507,
+      "free_cash_flow": 21400000000.0,
+      "total_debt": 38351000000.0,
+      "total_equity": 228984000000.0,
+      "cash_and_equivalents": 22443000000.0,
+      "roe": 0.2606645005764595,
+      "roa": 0.18636658839986012,
+      "shares_outstanding": 24190000000.0
+    },
+    {
       "period_end": "2026-04-30",
       "revenue": 81615000000.0,
       "net_income": 58321000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.2638743246347285,
       "roa": 0.1877362512434276,
       "shares_outstanding": 24366000000.0
-    },
-    {
-      "period_end": "2025-04-30",
-      "revenue": 44062000000.0,
-      "net_income": 18775000000.0,
-      "eps": 0.77,
-      "gross_margin": 0.6052380736235304,
-      "operating_margin": 0.49108074985248057,
-      "net_margin": 0.4261041260042667,
-      "free_cash_flow": 26187000000.0,
-      "total_debt": 10285000000.0,
-      "total_equity": 83843000000.0,
-      "cash_and_equivalents": 15234000000.0,
-      "roe": 0.2239304414202736,
-      "roa": 0.14989541252175578,
-      "shares_outstanding": 24441000000.0
     }
   ],
   "annual": [
@@ -166,10 +166,10 @@
   ],
   "valuation": {
     "pe_ratio": 29.159492,
-    "forward_pe": 14.902219,
+    "forward_pe": 14.843682,
     "ev_ebitda": 27.466,
     "price_to_sales": 18.359913,
-    "peg_ratio": 0.58,
+    "peg_ratio": 0.59,
     "market_cap": 5562502742016,
     "enterprise_value": 5528066981888
   }

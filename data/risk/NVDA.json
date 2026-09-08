@@ -1,20 +1,19 @@
 {
   "ticker": "NVDA",
   "risk_level": "medium",
-  "overall_risk_score": 44.3,
+  "overall_risk_score": 33.3,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 74.2,
     "debt_burden": 15.0,
-    "earnings_consistency": 23.3,
+    "earnings_consistency": 18.6,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 54.3,
+    "sentiment_stability": 49.7,
     "liquidity": 6.2,
-    "drawdown": 100.0,
+    "drawdown": 40.4,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
-    "Significant drawdown in last 12 months"
+    "High volatility (annualized)"
   ]
 }

@@ -1,21 +1,19 @@
 {
   "ticker": "COST",
   "risk_level": "medium",
-  "overall_risk_score": 45.7,
+  "overall_risk_score": 28.6,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 31.1,
     "debt_burden": 15.0,
     "earnings_consistency": 6.9,
     "cash_burn": 0.0,
     "sector_risk": 25.0,
-    "sentiment_stability": 45.6,
+    "sentiment_stability": 45.1,
     "liquidity": 83.3,
-    "drawdown": 100.0,
+    "drawdown": 33.1,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
-    "Low relative trading volume",
-    "Significant drawdown in last 12 months"
+    "Low relative trading volume"
   ]
 }
