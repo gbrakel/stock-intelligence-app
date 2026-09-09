@@ -2,6 +2,21 @@
   "ticker": "CSCO",
   "history": [
     {
+      "date": "2026-09-09",
+      "composite": 54.3,
+      "signal": "hold",
+      "signal_confidence": 0.81,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 53.9,
+        "growth_trend": 75.5,
+        "valuation": 60.4,
+        "sentiment": 67.7,
+        "technical": 71.0,
+        "risk_penalty": 49.4
+      }
+    },
+    {
       "date": "2026-09-08",
       "composite": 53.9,
       "signal": "hold",

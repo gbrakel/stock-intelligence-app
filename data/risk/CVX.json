@@ -1,17 +1,20 @@
 {
   "ticker": "CVX",
-  "risk_level": "medium",
-  "overall_risk_score": 41.3,
+  "risk_level": "high",
+  "overall_risk_score": 55.7,
   "factors": {
-    "volatility": 41.6,
+    "volatility": 100.0,
     "debt_burden": 15.0,
     "earnings_consistency": 47.5,
     "cash_burn": 24.0,
     "sector_risk": 60.0,
-    "sentiment_stability": 44.4,
+    "sentiment_stability": 43.0,
     "liquidity": 66.7,
-    "drawdown": 41.6,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }
