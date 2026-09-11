@@ -2,6 +2,21 @@
   "ticker": "UNP",
   "history": [
     {
+      "date": "2026-09-11",
+      "composite": 54.9,
+      "signal": "hold",
+      "signal_confidence": 0.83,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 66.0,
+        "growth_trend": 63.2,
+        "valuation": 76.2,
+        "sentiment": 60.6,
+        "technical": 79.4,
+        "risk_penalty": 55.8
+      }
+    },
+    {
       "date": "2026-09-10",
       "composite": 54.0,
       "signal": "hold",

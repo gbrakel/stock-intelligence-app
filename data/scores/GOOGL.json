@@ -2,6 +2,21 @@
   "ticker": "GOOGL",
   "history": [
     {
+      "date": "2026-09-11",
+      "composite": 58.0,
+      "signal": "reduce",
+      "signal_confidence": 0.73,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 77.1,
+        "growth_trend": 61.8,
+        "valuation": 63.3,
+        "sentiment": 64.5,
+        "technical": 79.6,
+        "risk_penalty": 51.6
+      }
+    },
+    {
       "date": "2026-09-10",
       "composite": 58.2,
       "signal": "reduce",
