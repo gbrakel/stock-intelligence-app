@@ -2,6 +2,22 @@
   "ticker": "ADBE",
   "quarterly": [
     {
+      "period_end": "2026-08-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 4.63,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 395000000.0
+    },
+    {
       "period_end": "2026-05-31",
       "revenue": 6618000000.0,
       "net_income": 1712000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-05-31",
       "revenue": 5873000000.0,
       "net_income": 1691000000.0,
-      "eps": 3.95,
+      "eps": null,
       "gross_margin": 0.8913672739656053,
       "operating_margin": 0.35910097054316364,
       "net_margin": 0.2879278052102843,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 4931000000.0,
       "roe": 0.14771139063591893,
       "roa": 0.06016294873163269,
-      "shares_outstanding": 428000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-02-28",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 14.577036,
-    "forward_pe": 9.048969,
+    "pe_ratio": 14.075335,
+    "forward_pe": 9.11529,
     "ev_ebitda": 10.316,
-    "price_to_sales": 3.9253087,
+    "price_to_sales": 3.9789436,
     "peg_ratio": 0.62,
-    "market_cap": 98909929472,
+    "market_cap": 100261421056,
     "enterprise_value": 100360921088
   }
 }

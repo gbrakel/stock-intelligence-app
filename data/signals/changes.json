@@ -1,44 +1,50 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-09-11"
-  },
-  {
     "ticker": "NOW",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-11"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-12"
   },
   {
     "ticker": "LLY",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-09-11"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-09-12"
   },
   {
-    "ticker": "ABBV",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-09-11"
-  },
-  {
-    "ticker": "MRK",
+    "ticker": "PFE",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-09-11"
+    "date": "2026-09-12"
   },
   {
     "ticker": "GS",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-09-11"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-09-12"
   },
   {
     "ticker": "HD",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-09-12"
+  },
+  {
+    "ticker": "CAT",
     "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-09-11"
+    "date": "2026-09-12"
+  },
+  {
+    "ticker": "GE",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-09-12"
+  },
+  {
+    "ticker": "DIS",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-12"
   }
 ]

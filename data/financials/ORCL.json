@@ -2,6 +2,22 @@
   "ticker": "ORCL",
   "quarterly": [
     {
+      "period_end": "2026-08-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.58,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 2966000000.0
+    },
+    {
       "period_end": "2026-05-31",
       "revenue": 19184000000.0,
       "net_income": 4304000000.0,
@@ -80,22 +96,6 @@
       "roe": 0.163431732557585,
       "roa": 0.020355070354773373,
       "shares_outstanding": null
-    },
-    {
-      "period_end": "2025-02-28",
-      "revenue": null,
-      "net_income": null,
-      "eps": 1.05,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
-      "shares_outstanding": 2799000000.0
     }
   ],
   "annual": [
@@ -181,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 27.706522,
-    "forward_pe": 13.945881,
+    "pe_ratio": 23.55486,
+    "forward_pe": 13.672855,
     "ev_ebitda": 19.072,
-    "price_to_sales": 6.5403633,
+    "price_to_sales": 6.42661,
     "peg_ratio": 0.91,
-    "market_cap": 440539250688,
+    "market_cap": 432877174784,
     "enterprise_value": 581579243520
   }
 }
