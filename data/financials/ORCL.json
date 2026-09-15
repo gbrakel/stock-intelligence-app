@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-08-31",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 19345000000.0,
+      "net_income": 4760000000.0,
       "eps": 1.58,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.6002584647195658,
+      "operating_margin": 0.35264926337554925,
+      "net_margin": 0.24605841302662187,
+      "free_cash_flow": -5396000000.0,
+      "total_debt": 155931000000.0,
+      "total_equity": 67196000000.0,
+      "cash_and_equivalents": 36369000000.0,
+      "roe": 0.07083754985415798,
+      "roa": 0.0156961541124913,
       "shares_outstanding": 2966000000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.11866536933430634,
       "roa": 0.016220649601826554,
       "shares_outstanding": 2826000000.0
-    },
-    {
-      "period_end": "2025-05-31",
-      "revenue": 15903000000.0,
-      "net_income": 3427000000.0,
-      "eps": null,
-      "gross_margin": 0.701880148399673,
-      "operating_margin": 0.3264163994214928,
-      "net_margin": 0.21549393196252278,
-      "free_cash_flow": -2923000000.0,
-      "total_debt": 104104000000.0,
-      "total_equity": 20969000000.0,
-      "cash_and_equivalents": 10786000000.0,
-      "roe": 0.163431732557585,
-      "roa": 0.020355070354773373,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -181,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 23.55486,
-    "forward_pe": 13.672855,
-    "ev_ebitda": 19.072,
-    "price_to_sales": 6.42661,
-    "peg_ratio": 0.91,
-    "market_cap": 432877174784,
-    "enterprise_value": 581579243520
+    "pe_ratio": 22.658842,
+    "forward_pe": 13.179789,
+    "ev_ebitda": 16.706,
+    "price_to_sales": 5.810624,
+    "peg_ratio": 0.85,
+    "market_cap": 417063370752,
+    "enterprise_value": 575250759680
   }
 }
