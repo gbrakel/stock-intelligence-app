@@ -1,17 +1,20 @@
 {
   "ticker": "XOM",
   "risk_level": "medium",
-  "overall_risk_score": 31.8,
+  "overall_risk_score": 47.3,
   "factors": {
-    "volatility": 40.0,
+    "volatility": 100.0,
     "debt_burden": 15.0,
     "earnings_consistency": 26.8,
     "cash_burn": 0.0,
     "sector_risk": 60.0,
-    "sentiment_stability": 42.2,
+    "sentiment_stability": 46.5,
     "liquidity": 33.3,
-    "drawdown": 40.2,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }

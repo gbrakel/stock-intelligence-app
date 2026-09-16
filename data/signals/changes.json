@@ -1,98 +1,62 @@
 [
   {
     "ticker": "TSLA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-09-15"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
   },
   {
     "ticker": "AMD",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-09-15"
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
   },
   {
     "ticker": "ORCL",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-09-15"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
   },
   {
-    "ticker": "CSCO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-15"
+    "ticker": "UNH",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
   },
   {
     "ticker": "JNJ",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "PFE",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "ABBV",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "MRK",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "BAC",
     "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-09-15"
+    "date": "2026-09-16"
   },
   {
     "ticker": "GS",
-    "previous_signal": "exit_watch",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-09-15"
+    "date": "2026-09-16"
   },
   {
     "ticker": "PEP",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-09-15"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-09-16"
   },
   {
     "ticker": "MCD",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-09-15"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-09-16"
   },
   {
     "ticker": "HD",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "CAT",
     "previous_signal": "reduce",
     "new_signal": "hold",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "GE",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-09-15"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-15"
+    "date": "2026-09-16"
   }
 ]

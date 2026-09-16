@@ -2,6 +2,21 @@
   "ticker": "KO",
   "history": [
     {
+      "date": "2026-09-16",
+      "composite": 56.9,
+      "signal": "reduce",
+      "signal_confidence": 0.77,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 81.7,
+        "growth_trend": 55.4,
+        "valuation": 59.2,
+        "sentiment": 60.2,
+        "technical": 74.8,
+        "risk_penalty": 46.1
+      }
+    },
+    {
       "date": "2026-09-15",
       "composite": 59.4,
       "signal": "hold",

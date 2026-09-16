@@ -2,6 +2,61 @@
   "ticker": "V",
   "articles": [
     {
+      "headline": "Discover which dow jones stocks are making waves on Tuesday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a2fd6ceef859ea3281feda9ce6737beeb691937977ad1252cfc372c6ed60226b",
+      "published_at": "2026-09-15T19:10:06",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.92,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Did Greg Abel Already Make His First Big Mistake as Berkshire Hathaway CEO?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f88de3f58a307ca4db158868a458fb82d2621aaa7dc44783060b61992768ab7a",
+      "published_at": "2026-09-15T17:26:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.768,
+      "sentiment_confidence": 0.768,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Visa Finds Online Spending Gaining Ground Across Key Markets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16007c4ddf633c7ac069e9293d0fa0ad59ab7606830be5a95bdc2cc2dd02d8f6",
+      "published_at": "2026-09-15T13:24:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.949,
+      "sentiment_confidence": 0.949,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Walmart slams card fee pact, again",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dba9c01668a4e5dae38b7a4a72ff392fa3db427b12037374c8928357004eafb",
+      "published_at": "2026-09-15T10:03:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.795,
+      "sentiment_confidence": 0.795,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Finsei brings acquiring in-house for business clients",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=275029e4d649afd7983f0b111da28a6c042bb114581e4e47bdcd703f6283ea64",
+      "published_at": "2026-09-15T08:11:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.915,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Visa (V) Increases Despite Market Slip: Here's What You Need to Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=137cfb3e9171e8fad821756888d27aff7f92968448a67ed89bd8e4c5a713bf29",
@@ -68,6 +123,17 @@
       "event_type": null
     },
     {
+      "headline": "'UK banks kick off fundraising in bid to create new payments giant' - Sky News",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=98518ea0119e39b5b0b8cb40abcde990c46612135a6ce794246427baefc46be5",
+      "published_at": "2026-09-14T15:03:22",
+      "sentiment": "positive",
+      "sentiment_score": 0.736,
+      "sentiment_confidence": 0.736,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "PayPal's Agentic Payments: Can These Unlock the Next Growth Leg?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=045786674724784c8fd3260210349ee86e27a592e03f0191048bc8cc43238694",
@@ -123,6 +189,17 @@
       "event_type": null
     },
     {
+      "headline": "Latest News In Digital Payment - eToro's Evolving Metrics Highlight Changing Trade Dynamics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d95a05b8dbcb34bebf6f8fff401073aa6f6b4cd36dc1682a7ce939976c2d7108",
+      "published_at": "2026-09-14T12:37:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.55,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Zelis\u00ae Names Jim Young Chief Financial & Administrative Officer, Succeeding Retiring Brian Gladden",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7dbcfa0864d8408ac8b6c8fd491d4ce421be6eac6b4bf0316f25a7ef0db98c91",
@@ -130,6 +207,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "$1000 Invested In Visa 15 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e90c12de3270af432c8d41be343f354fcf3f7c4f25ea6bb0caae1deb4cef1497",
+      "published_at": "2026-09-14T10:45:43",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.913,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.584,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What's Going On With Visa Stock Thursday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0ac9d7e1ea5e06e8f0183532c111faed07c570ba0049c1826ab4442705f0c403",
-      "published_at": "2026-09-10T13:47:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.546,
-      "sentiment_confidence": 0.546,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Far Could PayPal Stock Bounce From Here?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df0158ccd9204ba717c319e0d65d7e48ae0b7a549e653cec966be69cc070a26e",
-      "published_at": "2026-09-10T13:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.891,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "eXp University\u2019s FastCAP Wins Two Gold Awards in Global Field Beating Out 3M, IBM, and Pepsi",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46cbf9716b071176637f70de8b37c680fc881c336af2efec6ab4ba00c707cde1",
-      "published_at": "2026-09-10T13:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.924,
-      "sentiment_confidence": 0.924,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ant International, Visa, and Mastercard Agree on Agent Identity Standard. Now Comes the Hard Part.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52e5a7364ab2191f8ca3ec49571ebb35bc03c25b90f5b21b79a5d21b71243303",
-      "published_at": "2026-09-10T11:34:52",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.899,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Buy the Stocks Dip or Foldable iPhone? How to Spend Trump\u2019s $5,000 Handout.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d2b94c3d68cccf5e31ad81295772b1047fbc0a2d3628285dc2d5f3773e88a03",
-      "published_at": "2026-09-10T11:34:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.932,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ant, Mastercard and Visa collaborate on KYA to scale agentic commerce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee7f389f9863f6405dfe5d86e4721129bd71aede61482b5a30d73744fbd6370e",
-      "published_at": "2026-09-10T11:02:37",
-      "sentiment": "positive",
-      "sentiment_score": 0.728,
-      "sentiment_confidence": 0.728,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Ant International, Mastercard and Visa Initiate Collaboration on Know-Your-Agent Interoperability to Scale Agentic Commerce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5eb23dfe34b144e62ffca80f22b05f8116596a68456614b6da7f96e5dde964b4",
-      "published_at": "2026-09-10T01:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.85,
-      "sentiment_confidence": 0.85,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=3f9396fd378945ab289f1fef5df0f06f15cd8f5cea04f043344d77ae53f1a0a4",
-      "published_at": "2026-09-09T19:10:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
       "relevance_score": 1.0,
       "event_type": null
     }

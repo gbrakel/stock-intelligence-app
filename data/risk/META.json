@@ -1,17 +1,20 @@
 {
   "ticker": "META",
-  "risk_level": "medium",
-  "overall_risk_score": 42.5,
+  "risk_level": "high",
+  "overall_risk_score": 52.2,
   "factors": {
-    "volatility": 60.8,
+    "volatility": 100.0,
     "debt_burden": 30.0,
     "earnings_consistency": 28.4,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 43.4,
+    "sentiment_stability": 46.8,
     "liquidity": 62.5,
-    "drawdown": 64.9,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }
