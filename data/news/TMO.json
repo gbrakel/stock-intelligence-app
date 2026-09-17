@@ -2,6 +2,17 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Top Stock Reports for Cisco, Lam Research & Thermo Fisher",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=514dc3396812c9b72aa8057bc5c2bd0c5873b64213f3249f865d988802280f0f",
+      "published_at": "2026-09-16T20:41:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.929,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b9533ba462e02bc4cdd69ebe009cce3b112c1338397a301218653d5b059ea426",
@@ -35,6 +46,17 @@
       "event_type": null
     },
     {
+      "headline": "10-Year Yield Tops 5%, Oil Storms Past $105: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d1cab808ccf45cf13f1263e44cacc1adc587155103fca3659b6bbe4aa4db95f1",
+      "published_at": "2026-09-15T13:27:09",
+      "sentiment": "positive",
+      "sentiment_score": 0.569,
+      "sentiment_confidence": 0.569,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Mayo Clinic and Thermo Fisher Scientific launch Precure, LLC to identify signs of disease before symptoms appear",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06b158996df410c30016b7d92637821c6736bee2d7c478b7ac4356d72b582da9",
@@ -64,6 +86,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thermo Fisher CEO Marc Casper: AI is shortening the time to market for medicines that do work",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1b2e64abbdc7dfa22480be2348be75ec0fb8ba63ad666433587dc580855dcf8b",
+      "published_at": "2026-09-15T11:10:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thermo Fisher Scientific Exec Says At Morgan Stanley Conference Orders Are Outpacing Revenue, Boding Well For Future Growth",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4922de63c48df8d2129ae01797c2c65bf84ffad18eb62c756c591b6c0c799a05",
+      "published_at": "2026-09-15T10:00:56",
+      "sentiment": "positive",
+      "sentiment_score": 0.889,
+      "sentiment_confidence": 0.889,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.843,
       "sentiment_confidence": 0.843,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "iMDx to Participate in Lake Street 10th Annual Best Ideas Growth \u201cBIG10\u201d Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f215b7e0a909c11c8e19dd5d0355aa5aab6bc883a61fcd8a21fb842812e12af4",
-      "published_at": "2026-09-02T13:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.595,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Quantum Cyber Appoints Tzvi Lev as Head of Sales, Middle East to Lead GCC Commercial Expansion of Its Autonomous Defense Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=24569b0d75a2ac40e8136db562d12f9de9ac4051edf1bb435e40f436f04a9a2d",
-      "published_at": "2026-09-02T12:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.84,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Revvity (RVTY) Margins Story Faces A Valuation Test Following Its Zacks Upgrade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=323914a6aab244c46436fbc5e705d5ab656e998a732346d572925b8e2cabe6fd",
-      "published_at": "2026-09-02T12:06:27",
-      "sentiment": "negative",
-      "sentiment_score": -0.906,
-      "sentiment_confidence": 0.906,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Neo Completes Transfer of Sarfartoq Interest to Greenland Mines",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a30548438f007b9bac2518efe02f69f1d23ab5cc16b0e967ad2360b60441c35",
-      "published_at": "2026-09-02T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.914,
       "relevance_score": 1.0,
       "event_type": null
     }

@@ -2,6 +2,61 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "What Has Home Depot Stopped Telling You About Where Its Goods Come From?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7db065353067f2401e1567db112c19c1b4a833b3f158bbe1fe04c1d8a4fe5b3c",
+      "published_at": "2026-09-16T23:52:51",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.854,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is Lowe's Cheap Because Nobody Noticed Its Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37354ffe491eb29e40f6b578765545c63e56ed755705711042a0593c267c9d3c",
+      "published_at": "2026-09-16T23:45:50",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a7f4a33ec0874d76807fce9f33e2df62237dd14cd3496691d1338c9a8a2f7b1a",
+      "published_at": "2026-09-16T16:40:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.75,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How gig delivery apps became retail infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1aac3b3e1eac7e36045dc3a93a71db7b04bcdeb7898ff762d428c378562dddbf",
+      "published_at": "2026-09-16T14:12:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.911,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot (HD) Could Be 21% Undervalued On Its Expanding Pro Supply Narrative",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bb071b76de9fe9a991927309c542923f2caf0dd1d8c5adf4e197bcb6d00b1f2",
+      "published_at": "2026-09-16T04:27:27",
+      "sentiment": "negative",
+      "sentiment_score": -0.598,
+      "sentiment_confidence": 0.598,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Ulta Beauty faces rising customer backlash over anti-theft tool",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1f170704f1ddebca448cc69c81d639a8525f2df8bd3fa64f7e61c1293816def7",
@@ -255,17 +310,6 @@
       "event_type": null
     },
     {
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=3c6dd7e37edbe2d02b33bc261a6730d798fa99bd613b91d01d5e24dda6b86b3d",
-      "published_at": "2026-09-10T16:40:07",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "Is LOW Stock A Buy As EPS Grows While Sales Shrink?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dd256f6bb4614f13130427af3b86ab78884dfaeebe6299255d3ffc5add8d7e7d",
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.76,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot Just Reported Earnings. Here's Whether the Dow Dividend Stock Is Still a Buy.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0acb78cd3020ca72216f5815fd46c46ba7a5e0fb2788d731a8e179960ab97c8",
-      "published_at": "2026-09-06T09:25:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Home Depot\u2019s AI Magic Apron Rollout and Capital Moves Will Impact Home Depot (HD) Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5791a55d601d82b7db452696bfcd3719033a32afe4b2c7d408942b4553b6fb8b",
-      "published_at": "2026-09-05T11:07:53",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Republican Congressman Bearish on Stocks? $7 Million+ Sold in 2026, Including 28 Recent Moves",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=bdc1962979cbb2a80bb936f5a2d67c53818d889696e535788453a69274213bbe",
-      "published_at": "2026-09-05T10:36:11",
-      "sentiment": "negative",
-      "sentiment_score": -0.487,
-      "sentiment_confidence": 0.487,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Buy 3 Ideal September Dividend Dogs Out Of Barron's 58 August Picks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=99f1dbb7cb0e8b9d81deeb5c8ae56d37d85d41ec6cac2ff9644d8e26d4eec6da",
-      "published_at": "2026-09-05T09:59:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
       "relevance_score": 1.0,
       "event_type": null
     }
