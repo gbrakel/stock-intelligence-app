@@ -2,6 +2,50 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=55f31429d3f26aac53f71cf95d0c731361353e893a3ade3b59802a6b3e5e7d80",
+      "published_at": "2026-09-17T19:05:01",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.86,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Most active S&P500 stocks in Thursday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=0d852bd60c8de3c6239685cf2705b7e360785db1df8879cd5d21e530331f5afd",
+      "published_at": "2026-09-17T18:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.908,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thursday's session: gap up and gap down stock in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=3c3ab3478fac2b1ee03b0a465128059da61df8e31998d91fce98457fa9158b1d",
+      "published_at": "2026-09-17T14:35:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.865,
+      "sentiment_confidence": 0.865,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "FreeWheel Brings Attention, Quality and Emotional Resonance Signals into CTV Buying",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aebab9129ff615201d67208c44545c45bdf71fa36ab8712b71ec6854fa35cc8c",
+      "published_at": "2026-09-17T12:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.875,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Should You Buy Netflix Stock Because Its Earnings Outrun Its Sales?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9216f592d7342d899b2682a33de8ba524ae8ac2840dc3ff4c37fc1662e60f57c",
@@ -20,6 +64,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.643,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Federal Communications Chair Carr Says Wireless Spectrum Auctions Over Next Couple Of Years Could Easily Generate More Than $100B",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c743e06cd36ee2d17e534620ab212785c7a1b54d18a978fd4806e0c9808d0563",
+      "published_at": "2026-09-16T16:54:40",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.662,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "U.S. Senate Committee Passes Bill To Bar Government Officials From Pressuring Private Companies To Censor Speech, Citing Trump Threats To Late-Night Talk Shows",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=01aaac771bfad00ba87c6411b7e3880f10326695b23ee1f6a7a2739b0be9a892",
+      "published_at": "2026-09-16T10:49:03",
+      "sentiment": "negative",
+      "sentiment_score": -0.91,
+      "sentiment_confidence": 0.91,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.972,
       "sentiment_confidence": 0.972,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9010e2be1fabb11bd0e4b96f580bfbdf4df2d168c86e72bedc5388b43a1e69fc",
-      "published_at": "2026-09-09T16:35:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.731,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96843027af7e3761703d9fcdbedf9c4808ff354c64f48ba722c7375a528ca09a",
-      "published_at": "2026-09-09T16:31:56",
-      "sentiment": "negative",
-      "sentiment_score": -0.793,
-      "sentiment_confidence": 0.793,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1871b1dc9dd178e91f6a46682e5de2926631e3248682e0e22d19187bd7f19e2",
-      "published_at": "2026-09-09T16:16:10",
-      "sentiment": "negative",
-      "sentiment_score": -0.75,
-      "sentiment_confidence": 0.75,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "SCTE TechExpo 2026 Brings the Executives & Technologists Shaping Content and Connectivity to Atlanta \u2014 Sept. 29\u2013Oct. 1",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03a705c99ff74a7f15ba39d440d0f94f5f75e06adf5e557c8073cb46fbfee611",
-      "published_at": "2026-09-09T15:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.918,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Value Stocks with Questionable Fundamentals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46f45f94654877652d0fc411872e4f20bbcc67f26ac48b6dc71d43ca24873e3f",
-      "published_at": "2026-09-09T14:50:38",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.641,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,800 Homes and Businesses in Glades County, Florida",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aacc4df89fb6a5c519287a61c534a893b659faa342a3e5b26ec87051dd089c06",
-      "published_at": "2026-09-09T14:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.838,
       "relevance_score": 1.0,
       "event_type": null
     }
