@@ -1,44 +1,62 @@
 [
   {
     "ticker": "TSLA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-18"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-19"
   },
   {
     "ticker": "ORCL",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-09-18"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-09-19"
   },
   {
     "ticker": "ADBE",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-18"
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-19"
   },
   {
     "ticker": "JNJ",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-18"
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-19"
+  },
+  {
+    "ticker": "PFE",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-19"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-19"
   },
   {
     "ticker": "GS",
-    "previous_signal": "exit",
-    "new_signal": "reduce",
-    "date": "2026-09-18"
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-09-19"
+  },
+  {
+    "ticker": "PG",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-19"
   },
   {
     "ticker": "KO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-18"
-  },
-  {
-    "ticker": "DIS",
     "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
+  },
+  {
+    "ticker": "NEE",
+    "previous_signal": "buy",
+    "new_signal": "reduce",
+    "date": "2026-09-19"
   }
 ]

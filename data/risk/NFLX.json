@@ -1,20 +1,19 @@
 {
   "ticker": "NFLX",
   "risk_level": "medium",
-  "overall_risk_score": 45.9,
+  "overall_risk_score": 40.1,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 64.2,
     "debt_burden": 30.0,
     "earnings_consistency": 18.5,
     "cash_burn": 0.0,
     "sector_risk": 45.0,
-    "sentiment_stability": 46.0,
+    "sentiment_stability": 50.6,
     "liquidity": 25.0,
-    "drawdown": 100.0,
+    "drawdown": 91.1,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
     "Significant drawdown in last 12 months"
   ]
 }

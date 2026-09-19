@@ -1,20 +1,17 @@
 {
   "ticker": "AVGO",
   "risk_level": "medium",
-  "overall_risk_score": 49.5,
+  "overall_risk_score": 39.2,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 59.7,
     "debt_burden": 30.0,
     "earnings_consistency": 20.3,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 50.6,
+    "sentiment_stability": 49.6,
     "liquidity": 43.8,
-    "drawdown": 100.0,
+    "drawdown": 58.9,
     "concentration": 40.0
   },
-  "risk_flags": [
-    "High volatility (annualized)",
-    "Significant drawdown in last 12 months"
-  ]
+  "risk_flags": []
 }

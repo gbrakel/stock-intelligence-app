@@ -2,6 +2,39 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dac085f5a5fdc62ecdccc1276a4373bcd0cdebaa58e1e1ecabb2a0aa4a12451",
+      "published_at": "2026-09-18T22:37:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.569,
+      "sentiment_confidence": 0.569,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=19132d3174e5558af2ee7f4aa0e4f2c65ea769710042cfdf42f6819a521901ef",
+      "published_at": "2026-09-18T19:10:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Honeywell CEO Calls GE-CPP Deal Positive Amid Persistent Supply Constraints",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a23f9376755d251d9974d95bc2092ac45c3c9b1e369d4898a76540be068264b",
+      "published_at": "2026-09-18T16:52:39",
+      "sentiment": "positive",
+      "sentiment_score": 0.937,
+      "sentiment_confidence": 0.937,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
@@ -13,13 +46,35 @@
       "event_type": null
     },
     {
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
-      "published_at": "2026-09-17T16:40:06",
+      "headline": "Could Eaton Stock Lose A Third Or Gain Half In A Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b804bf6d5f5e5bd3ad09087d40a0d4da7442502c58b7ee22fce1e83b199074f3",
+      "published_at": "2026-09-17T14:11:50",
+      "sentiment": "negative",
+      "sentiment_score": -0.795,
+      "sentiment_confidence": 0.795,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d99d5e1187f23e29a9ff120b12014e1baa6cb57a766045222ed8c5a02a544c29",
+      "published_at": "2026-09-17T13:47:31",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "sentiment_confidence": 0.895,
+      "sentiment_confidence": 0.809,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Roblox downgraded, Hershey upgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1d3b315c0cd0044514dccc82f693ebb2731b22eb23eeeb98e8f74df5ddfdf6f",
+      "published_at": "2026-09-17T13:47:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.762,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Long Would You Wait For GE Aerospace Stock To Come Back?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20374cd87cdbd8c95583aab5d1b4fe31478ca9a4628981f30cd8ffa234926c7f",
-      "published_at": "2026-09-03T18:37:46",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Brady Corporation Q4 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ddd2b39693eb6dfaa3bcbec78cfd6c354f0bf8ae7b399c144266f1bb4903717",
-      "published_at": "2026-09-03T18:00:51",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Brady Q4 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e9c4b6c41369010072c6e0445bf34eb08b684bcb809f57c2746eadca98fb0ee",
-      "published_at": "2026-09-03T14:03:48",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.79,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Technologies Announces Participation at Upcoming Investor Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=61904995caf438da372e4f78137b37fddeb05e6f65cd72e3118680b3fd27a86a",
-      "published_at": "2026-09-03T11:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.91,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dogs Of The Dow: No Buys And Few Worth Watching",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ed1957ad66206400aa38e5738a92e74edc45daa437de09bdc89fa2634ed6800e",
-      "published_at": "2026-09-03T07:55:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.84,
       "relevance_score": 1.0,
       "event_type": null
     }
