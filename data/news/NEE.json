@@ -2,6 +2,72 @@
   "ticker": "NEE",
   "articles": [
     {
+      "headline": "2 Big Trump Breakthroughs Can Power Stock Markets Higher",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=248c2e91f0a6514144e3f85acc59272fe8d3be758e36ee6f667194d0be25edf2",
+      "published_at": "2026-09-21T11:44:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.688,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0aabd873b275d8cda638bcd76c2f2362d77e2baafe8586a4220c78f2213409f",
+      "published_at": "2026-09-20T15:33:56",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.836,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NextEra\u2019s Nuclear Bet Just Got a $1.9 Billion Boost",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=058b42e33ddeaad89da3f6c09ac37c499bde49e73dc8a74c30935aa412cd1798",
+      "published_at": "2026-09-20T15:24:38",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.608,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Brookfield Asset Management Targets Doubling Fee-Bearing Capital by 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfa5eba4d4997b8c86dc19371def2be0ed01bd944354a7f64a65c6a8b84954e8",
+      "published_at": "2026-09-20T00:02:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.913,
+      "sentiment_confidence": 0.913,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b110c64977ccf0e51aad6b966d41466c295e246e2d9fa40fe0d5bf8c6257832",
+      "published_at": "2026-09-19T19:29:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.904,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56eb849bcc48b36665d337fc478c95ae554a0ca2b2dca53a6cb6d5efc6bcbd8e",
+      "published_at": "2026-09-19T08:01:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.524,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ac8a792e0d2721369fc792e6bbcf3e1f5d89a28b830ba05aadf7d7bd22f35042",
@@ -9,6 +75,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.826,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on NextEra Energy, Lowers Price Target to $111",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6fd5eeed6a3827db2e53953ff61d768a9104e5766ebeb6f019c3eadb9d728c93",
+      "published_at": "2026-09-18T11:23:39",
+      "sentiment": "negative",
+      "sentiment_score": -0.546,
+      "sentiment_confidence": 0.546,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -471,83 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.449,
       "sentiment_confidence": 0.449,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "U.S. Department of Energy Closes Up to $1.9 Billion Loan to Restart NextEra Energy's Duane Arnold Energy Center",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6d67e8bacfb2e237b0e5edb19f8ecb16b1bcab3c1597544d84e25d2331701e0",
-      "published_at": "2026-09-08T11:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.704,
-      "sentiment_confidence": 0.704,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ab7f061a0151490306b194afda625109ab03e86d1335dce90a0686f66ab0df8",
-      "published_at": "2026-09-08T09:22:16",
-      "sentiment": "positive",
-      "sentiment_score": 0.842,
-      "sentiment_confidence": 0.842,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra Energy Reaches Combined Conditional Commitment Of Up To $1.9B With U.S. Department Of Energy To Restart Duane Arnold Energy Center In Iowa",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=03f66a9cfdef913f1f01461d987a00a9a30998806a211b4fbade624896dbe247",
-      "published_at": "2026-09-08T09:00:12",
-      "sentiment": "positive",
-      "sentiment_score": 0.911,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Top M&A Deals In September: Nvidia, Dominion Energy, Nextera Energy, Vertiv In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6a31e4a15734c0e8da38044ba7d74e57ee28ad6addb508517255acbb3c67228c",
-      "published_at": "2026-09-08T06:12:44",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.747,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "PGIM Jennison Global Infrastructure Fund Q2 2026 Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0ce2ec77e2890b3233d557f238da3b331589c9da376ba3f1da83d06a1bdeed25",
-      "published_at": "2026-09-08T02:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.557,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra-Dominion Merger Wins Shareholder Backing: What\u2019s Next?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6eb25b75980c7e23989f60625d14574a2268b71b04f5969d400530747c1de92c",
-      "published_at": "2026-09-07T23:37:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.913,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "EXC vs. NEE: Which Stock Is the Better Value Option?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37b77595e77f421f8475fa88a9796d5ab6ecd8130b3c588acf507bb6183415af",
-      "published_at": "2026-09-07T16:40:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.928,
       "relevance_score": 1.0,
       "event_type": null
     }
