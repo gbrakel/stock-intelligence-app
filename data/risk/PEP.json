@@ -1,19 +1,21 @@
 {
   "ticker": "PEP",
-  "risk_level": "medium",
-  "overall_risk_score": 38.2,
+  "risk_level": "high",
+  "overall_risk_score": 54.7,
   "factors": {
-    "volatility": 27.2,
+    "volatility": 100.0,
     "debt_burden": 75.0,
     "earnings_consistency": 14.9,
     "cash_burn": 24.0,
     "sector_risk": 25.0,
-    "sentiment_stability": 43.7,
+    "sentiment_stability": 42.9,
     "liquidity": 50.0,
-    "drawdown": 43.4,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
   "risk_flags": [
-    "Elevated debt-to-equity ratio"
+    "High volatility (annualized)",
+    "Elevated debt-to-equity ratio",
+    "Significant drawdown in last 12 months"
   ]
 }
