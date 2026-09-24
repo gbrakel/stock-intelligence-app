@@ -2,6 +2,116 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b67038caeb9680198b5ec7488bf6d46372aa5444e0aca22fa6ce111301ff91f1",
+      "published_at": "2026-09-23T19:16:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.89,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bb4171ba2315271ffac02d3155801d13d6e8d838f8d2b0f43020c3b412215389",
+      "published_at": "2026-09-23T19:10:09",
+      "sentiment": "negative",
+      "sentiment_score": -0.741,
+      "sentiment_confidence": 0.741,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Piper Sandler cuts Cisco price target to $125 on growth peak fears",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3040e18804a12d86ef7a26016dd28a86b189c28c6db6b2cf353f31f2c2a289de",
+      "published_at": "2026-09-23T13:53:54",
+      "sentiment": "negative",
+      "sentiment_score": -0.564,
+      "sentiment_confidence": 0.564,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Zscaler vs. Cisco: Which Cybersecurity Stock Is the Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=471fe38866f7105ec7405239df6c8d4bb8ca1210182ecadcc89ec448ad2653c0",
+      "published_at": "2026-09-23T13:37:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco AI Research: AgenticOps Scaling Quickly in the Enterprise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f48fa4b273735f90c709adf587fedc92deb41d647a529eff747fec91675a2fb9",
+      "published_at": "2026-09-23T13:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Stock Falls as Piper Sandler Cuts Price Target Over Growth Concerns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc71fd3a2c5dc521df55550e6bbe9406d3d327f986cf996f5031def53e47cdc4",
+      "published_at": "2026-09-23T12:37:18",
+      "sentiment": "negative",
+      "sentiment_score": -0.94,
+      "sentiment_confidence": 0.94,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Virtus SGA U.S. Large Cap Growth Q2 2026 Portfolio Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4341a4007681cd12bf332886134ee1e75a27da475b147f037f88b47f683674b1",
+      "published_at": "2026-09-23T12:30:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.892,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Viasat Wins First Task Order Award as part of $307 Million Ceiling U.S. Marine Corps Enterprise Services Contract for Multi-Orbit Connectivity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7738ddd75474288d56607ab64755b40ac2672e7f9a0ad07aa639353ea6f8262",
+      "published_at": "2026-09-23T12:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.926,
+      "sentiment_confidence": 0.926,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c1e140531aa864a70fb81d243ed646d1067d02e7349d7fbb9e2990dfddf9004",
+      "published_at": "2026-09-23T11:57:01",
+      "sentiment": "negative",
+      "sentiment_score": -0.867,
+      "sentiment_confidence": 0.867,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86d719749cb59552e0e7f16128548f9b1f5ea9d4d5bb1072e5a9429f74d430f6",
+      "published_at": "2026-09-23T10:14:26",
+      "sentiment": "positive",
+      "sentiment_score": 0.569,
+      "sentiment_confidence": 0.569,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff18d5f14f4dc95fe07a6642b4d4303866b5f30f6aa7d0751b5def40d99446d9",
@@ -123,6 +233,17 @@
       "event_type": null
     },
     {
+      "headline": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6060cbbbab8e0073fc25932a44552c12d0eebbde5f43aae0d00e9e65a0065cc1",
+      "published_at": "2026-09-22T15:21:11",
+      "sentiment": "negative",
+      "sentiment_score": -0.96,
+      "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What's going on in today's session: S&P500 gap up and gap down stocks",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f0446e18c84e837a73cc227d0f99d6763ecece1442cb743bfc7cda0da9c0f348",
@@ -134,6 +255,17 @@
       "event_type": null
     },
     {
+      "headline": "Cisco Stock Falls as Piper Sandler Cuts Price Target",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3d3daaf0ae02a47b44d9417c17f1db5291be966b1ed228fb5437350dd115aab7",
+      "published_at": "2026-09-22T14:04:19",
+      "sentiment": "negative",
+      "sentiment_score": -0.941,
+      "sentiment_confidence": 0.941,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "ClickHouse Appoints Mike Scarpelli, Former Snowflake and ServiceNow CFO, to Board of Directors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=86bf814edac81c7fa244f137cc94c2e651f2fd0a272ca6d5c0a1a48d4537ef9b",
@@ -141,6 +273,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Piper Sandler Maintains Neutral on Cisco Systems, Lowers Price Target to $125",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6263c9c3da61e69651a2c2cfeb69714c33b9205c18d3f6edf6bb2b04381e55f7",
+      "published_at": "2026-09-22T12:09:57",
+      "sentiment": "positive",
+      "sentiment_score": 0.43,
+      "sentiment_confidence": 0.43,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -405,149 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.74,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Large Cap Stocks With Strong Balance Sheets for Higher Rate Markets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92f200de5890f275876093859c99f2cc22c06f9a7240d8330c5feed83117feef",
-      "published_at": "2026-09-18T01:18:30",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "sentiment_confidence": 0.836,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Verizon\u2019s Expanded 6G Innovation Forum Could Reshape the Network Platform Story for VZ Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f070f9529c3730de6d6de28e8d8b6e2789b2443238dba20a568947a55d89eb7",
-      "published_at": "2026-09-17T19:15:52",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.501,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
-      "published_at": "2026-09-17T19:10:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Climbs 3.3% as Splunk Takes AI Behind the Firewall",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33d30d4981ed1b1e125c5a3c467350523a0876cfac7afe68ba7b440726de5d95",
-      "published_at": "2026-09-17T18:25:29",
-      "sentiment": "positive",
-      "sentiment_score": 0.623,
-      "sentiment_confidence": 0.623,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa73d46983403a0ae1486af9daf9021957b63aac603ff0879895a295e9e467b4",
-      "published_at": "2026-09-17T18:22:58",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.883,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Will Ciena's New Targets Drive Growth and Margin Expansion by 2029?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95d3ccc197dc8cd63b4a308104fe7cd0adbbc7b3e34364266c8fce9795be611a",
-      "published_at": "2026-09-17T14:02:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.691,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "/C O R R E C T I O N -- Carbon 9 Defense/",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=972a8586b8467485d900d9c49aba879b2d2284f9ba4c22e8b6c2d884dc6d6120",
-      "published_at": "2026-09-17T12:37:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Carbon 9 Defense Recognized in 2026 Splunk Regional Partner Awards",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39507d6a07399b5c1d44b7ca932131cc77a39ca5914ab6b043318c46b8ad68c6",
-      "published_at": "2026-09-17T12:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.561,
-      "sentiment_confidence": 0.561,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems: The Flight To Quality In Tech Will Run Through Cybersecurity (Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=21f77950d4014a012e52b5ecef68c67e0839d997a107b3522442e43439a54a0b",
-      "published_at": "2026-09-17T08:30:28",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.703,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Zacks Analyst Blog Highlights Cisco, Lam, Thermo Fisher Scientific, Ampco-Pittsburgh and Catalyst",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f444d93019c00f7c222b4cf9950e4f8c8ad3ff9a7095eaade07cd88ee801720",
-      "published_at": "2026-09-17T07:45:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Did AI Servers Really Quadruple Dell Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4909ea4bada9f6a3b6849b062a4f75db9788952a90be9b4297a03fbd877fe0c0",
-      "published_at": "2026-09-17T01:01:09",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.83,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Ciena's Pricing Power Real, Or Just A Parts Shortage?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2190363206ce2f9e3a436746dd3500a3286c5960ec4a4150c38331c3f6f80a0",
-      "published_at": "2026-09-16T23:38:41",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.771,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Stock Could Soon Wake From Its Summer Slumber",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0c89f0b8e3c56002df409e30aac19ac3bc88695452ff674b2403663aa1535cb6",
-      "published_at": "2026-09-16T23:07:20",
-      "sentiment": "negative",
-      "sentiment_score": -0.704,
-      "sentiment_confidence": 0.704,
       "relevance_score": 1.0,
       "event_type": null
     }

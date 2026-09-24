@@ -1,20 +1,17 @@
 {
   "ticker": "BAC",
-  "risk_level": "high",
-  "overall_risk_score": 53.3,
+  "risk_level": "medium",
+  "overall_risk_score": 37.1,
   "factors": {
-    "volatility": 100.0,
+    "volatility": 37.4,
     "debt_burden": 50.0,
     "earnings_consistency": 6.2,
     "cash_burn": 50.0,
     "sector_risk": 50.0,
-    "sentiment_stability": 64.2,
+    "sentiment_stability": 60.5,
     "liquidity": 14.3,
-    "drawdown": 100.0,
+    "drawdown": 35.9,
     "concentration": 40.0
   },
-  "risk_flags": [
-    "High volatility (annualized)",
-    "Significant drawdown in last 12 months"
-  ]
+  "risk_flags": []
 }
