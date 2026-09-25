@@ -2,6 +2,116 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Is Arista Networks Stock Too Dependent On Demand Holding Up?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db427f2dcec0378c3e6e299d8be69daf0809d5f112b5dd996e3ca3a3217a372b",
+      "published_at": "2026-09-24T23:29:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.637,
+      "sentiment_confidence": 0.637,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Changed In Dell's Story?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eee9043ef68f4ba94611480c3267d0afb37db043beccf49da9665decb0748efd",
+      "published_at": "2026-09-24T22:02:52",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.852,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Could Cisco (CSCO)\u2019s Networking Power Give Infleqtion (INFQ) a Major Edge in Quantum Computing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c52179e156c35d739132c7c3cb1ef63ad3a31c9ce1345f9e26d49d2f885e505",
+      "published_at": "2026-09-24T21:59:41",
+      "sentiment": "positive",
+      "sentiment_score": 0.73,
+      "sentiment_confidence": 0.73,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Systems (CSCO) And Its AI Security Story Still Look Slightly Undervalued",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54c61eab49c78f2d7973826ae2a163fd195953a050bcef8f09d253a6bf5a1475",
+      "published_at": "2026-09-24T19:11:10",
+      "sentiment": "positive",
+      "sentiment_score": 0.704,
+      "sentiment_confidence": 0.704,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Drops as 1,000 Switches Build an AI Campus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ef9bf39edae6b05ee8f751f66eeaee7d427de6dd5bb74515c7ef86cb9d49ae6",
+      "published_at": "2026-09-24T18:10:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.947,
+      "sentiment_confidence": 0.947,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=02c4b765a7909f85d828a4369f84da529f6b95b03fb016534212b10ece87605c",
+      "published_at": "2026-09-24T16:40:08",
+      "sentiment": "negative",
+      "sentiment_score": -0.715,
+      "sentiment_confidence": 0.715,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco CEO warns workers who worry about change that \u2018nothing\u2019s going to feel good right now\u2019 with AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=706cc2deca048461f9621e18daf7fd7fc0db6a2d2fbf842370afa3f496b24ef3",
+      "published_at": "2026-09-24T16:02:39",
+      "sentiment": "negative",
+      "sentiment_score": -0.461,
+      "sentiment_confidence": 0.461,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42772d884b1306fd97b613d0b021387ae564001f7aacf38ab4082585ae136f8a",
+      "published_at": "2026-09-24T14:05:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.534,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "1 Growth Stock with All-Star Potential and 2 We Find Risky",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d5b8ccd5ada77819b72c97d01dc31d4da5cca76a3d4d43875ceca569fb288a1",
+      "published_at": "2026-09-24T11:20:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.675,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco Slips 0.3% as 1,000 Switches Build an AI-Ready Campus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6044057f0999dc33e69cc8fa167a6ba4ef1ff0e65cf29d879387faf6a6b15d1",
+      "published_at": "2026-09-23T19:17:35",
+      "sentiment": "negative",
+      "sentiment_score": -0.959,
+      "sentiment_confidence": 0.959,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b67038caeb9680198b5ec7488bf6d46372aa5444e0aca22fa6ce111301ff91f1",
@@ -53,6 +163,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.939,
       "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Old Dogs, New Tech: 3 Legacy Stocks Powering the AI Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a85e7c83a61d27015757c24f2cc86f4814fd4314fc8a712c493cd92f13f8c89d",
+      "published_at": "2026-09-23T12:40:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.916,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -427,127 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.818,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d432dbf06ae1bb4b16b78f2905e058aefc712869443c7514557184871c71b41c",
-      "published_at": "2026-09-19T17:12:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.862,
-      "sentiment_confidence": 0.862,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c1f06dd43dfb92bc4580221c728e7d579d60bf1b6d31eeed7317cb274e178d5",
-      "published_at": "2026-09-19T14:02:51",
-      "sentiment": "negative",
-      "sentiment_score": -0.507,
-      "sentiment_confidence": 0.507,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Did SMCI Stock Just Rise For The Wrong Reason?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ddbe1794d959d4cbc94272ab5ffd6339df2b9286962c9df355273abb22d769c",
-      "published_at": "2026-09-18T19:15:18",
-      "sentiment": "negative",
-      "sentiment_score": -0.628,
-      "sentiment_confidence": 0.628,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2228853bbeb59258666739eb1c3f0f0b2a70a6b963eb625d9585b7a45b7b1903",
-      "published_at": "2026-09-18T16:55:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.831,
-      "sentiment_confidence": 0.831,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which dow jones stocks are moving on Friday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=998b7fb86800193462b3eb80f7221c5994067abd591695b8f964263732a61396",
-      "published_at": "2026-09-18T16:40:06",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.889,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Hewlett Packard Enterprise Stock Keep Running On Orders It Cannot Ship?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f54f728f01a49d29abf3b897d6e690a08bae5c8bd4ec0042776ee4a063701573",
-      "published_at": "2026-09-18T16:22:33",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.664,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can NOK's Network Automation Progress With MSFT Boost Profits?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7b851fd2ed30310d6a4a16ac00eece1396d303d2b265029fe324bd77f0207e3",
-      "published_at": "2026-09-18T15:14:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.94,
-      "sentiment_confidence": 0.94,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Options Market Says Dell Stock Can Halve Or Double",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac4466826bd277ac6b510fb9407ed5ca4fcdc9c60de4491d7147d0620c9e7eb4",
-      "published_at": "2026-09-18T14:51:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.801,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "How Much Does Arista Networks Stock Move When The Market Moves?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22f0dd43a052e9f0e289b6a29be22c9dbf425175ab92762a42ccf9e4124b20fa",
-      "published_at": "2026-09-18T14:31:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Watching Broadcom; Hearing Investor Business Daily SwingTrader Buys Stock",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3d3d29ab837e6a87f9b3507c0a87ffbde778a29404a9b367b705575f2c6ed999",
-      "published_at": "2026-09-18T13:01:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.903,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Smart Hospital Market by Medical Imaging Systems, Patient Monitoring Devices, Smart Beds, Electronic Health Records, Hospital Information Systems, Deployment & System Integration Services, and Managed & Support/Maintenance - Global Forecast to 2032",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a68fbd923437132d760de995061df2df67523b56e825f463416d7b2a9acbfe3",
-      "published_at": "2026-09-18T10:36:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.74,
       "relevance_score": 1.0,
       "event_type": null
     }

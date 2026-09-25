@@ -2,6 +2,21 @@
   "ticker": "NEE",
   "history": [
     {
+      "date": "2026-09-25",
+      "composite": 64.4,
+      "signal": "reduce",
+      "signal_confidence": 0.52,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 58.6,
+        "valuation": 100.0,
+        "sentiment": 65.4,
+        "technical": 23.2,
+        "risk_penalty": 37.4
+      }
+    },
+    {
       "date": "2026-09-24",
       "composite": 65.3,
       "signal": "reduce",
