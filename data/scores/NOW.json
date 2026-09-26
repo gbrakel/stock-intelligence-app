@@ -2,6 +2,21 @@
   "ticker": "NOW",
   "history": [
     {
+      "date": "2026-09-26",
+      "composite": 38.9,
+      "signal": "exit",
+      "signal_confidence": 0.7,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 30.7,
+        "growth_trend": 47.1,
+        "valuation": 40.7,
+        "sentiment": 67.3,
+        "technical": 80.2,
+        "risk_penalty": 51.2
+      }
+    },
+    {
       "date": "2026-09-25",
       "composite": 38.8,
       "signal": "exit",
