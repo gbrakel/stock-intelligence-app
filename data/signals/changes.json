@@ -1,44 +1,44 @@
 [
   {
-    "ticker": "JNJ",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-29"
+    "ticker": "ORCL",
+    "previous_signal": "exit",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
   },
   {
-    "ticker": "MRK",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-29"
+    "ticker": "JNJ",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "GS",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
   },
   {
     "ticker": "KO",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-29"
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
   },
   {
-    "ticker": "CAT",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-29"
-  },
-  {
-    "ticker": "GE",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-09-29"
+    "ticker": "BA",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-09-30"
   },
   {
     "ticker": "DIS",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-09-29"
-  },
-  {
-    "ticker": "CMCSA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-09-29"
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-09-30"
   }
 ]

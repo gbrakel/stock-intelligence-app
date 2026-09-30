@@ -2,6 +2,28 @@
   "ticker": "NEE",
   "articles": [
     {
+      "headline": "Can Rising Customer Demand Enhance Xcel Energy's Growth Prospects?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=464d1d382350a55cf098638be94cf55d93645eea54011f783785a1fc1b4ba962",
+      "published_at": "2026-09-29T15:32:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.932,
+      "sentiment_confidence": 0.932,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stop Reading Utility Payout Ratios Off Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=587fdddd526ba9857e2a6500a8085ad8ea653dd487aa90fae3d18202929fa898",
+      "published_at": "2026-09-29T03:10:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.684,
+      "sentiment_confidence": 0.684,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2240eece6bc39330b654ce0b79623af4074aba4dba6313ef85c8fa93fcae03e2",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.93,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NextEra and Dominion Sweeten Merger Deal With Bill Credits and New Jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84be47158a300479fb1fb8510a7907011b466183c818f7f7efaacd2feb427b2a",
-      "published_at": "2026-09-15T01:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.648,
-      "sentiment_confidence": 0.648,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a39c9178869daea5b2b7050e0136c3a0b0e3e2faa8f29ae0527b075619fdfb9",
-      "published_at": "2026-09-14T21:31:23",
-      "sentiment": "positive",
-      "sentiment_score": 0.858,
-      "sentiment_confidence": 0.858,
       "relevance_score": 1.0,
       "event_type": null
     }

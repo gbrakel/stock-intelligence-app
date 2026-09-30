@@ -2,6 +2,28 @@
   "ticker": "HON",
   "articles": [
     {
+      "headline": "Is GE Stock Riskier Than It Looks?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8bcac73b68e71a4880b4b5605165ebae8be8ee6d48cf5114bd37c1db1bd771a",
+      "published_at": "2026-09-29T19:12:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.658,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d86a89f12f7a3769625ba57f71398b516023a72b2444d33a1d6a23ea31e36d7c",
+      "published_at": "2026-09-29T19:10:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Is GE Aerospace Giving Up Margin for Growth?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a9390be63384e1ac55de2659a19d3a29c615051a4fdf1fb4b66830e04f8c4923",
@@ -526,28 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell (HON) Lands Award Winning Marine Barracks Security Rollout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc541026bf40dad83c8d04f3116c7906bee5ada2be6982a1e7316538944876e4",
-      "published_at": "2026-09-15T16:14:41",
-      "sentiment": "positive",
-      "sentiment_score": 0.497,
-      "sentiment_confidence": 0.497,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Technologies Modernizes Barracks Access Management for U.S. Marine Corps Worldwide",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a361d576bbec1a80a447771599aa714d6a083b4e7fc4e87f20d1a2afdc706f3",
-      "published_at": "2026-09-15T12:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.747,
       "relevance_score": 1.0,
       "event_type": null
     }
