@@ -2,6 +2,21 @@
   "ticker": "META",
   "history": [
     {
+      "date": "2026-10-03",
+      "composite": 49.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.65,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 49.0,
+        "growth_trend": 60.2,
+        "valuation": 67.3,
+        "sentiment": 57.5,
+        "technical": 80.2,
+        "risk_penalty": 44.3
+      }
+    },
+    {
       "date": "2026-10-02",
       "composite": 50.3,
       "signal": "exit_watch",
