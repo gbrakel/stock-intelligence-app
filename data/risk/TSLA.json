@@ -1,20 +1,19 @@
 {
   "ticker": "TSLA",
   "risk_level": "medium",
-  "overall_risk_score": 41.2,
+  "overall_risk_score": 40.8,
   "factors": {
-    "volatility": 70.4,
+    "volatility": 67.6,
     "debt_burden": 15.0,
     "earnings_consistency": 18.7,
     "cash_burn": 24.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 53.7,
-    "liquidity": 25.0,
+    "sentiment_stability": 48.0,
+    "liquidity": 31.2,
     "drawdown": 78.2,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
     "Significant drawdown in last 12 months"
   ]
 }
