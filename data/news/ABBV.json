@@ -2,6 +2,94 @@
   "ticker": "ABBV",
   "articles": [
     {
+      "headline": "Should You Be Worried About Pfizer Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f75e26b0729c5bff9494c60706fdff46e2e8753e7576109a0837be7c38c177d7",
+      "published_at": "2026-10-09T00:36:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.754,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Is Going On With Regeneron Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bff74f60d6f2160c55eb02e7e452a8c1637af7ee73d80472a98ad1b017bcc0e4",
+      "published_at": "2026-10-09T00:19:25",
+      "sentiment": "negative",
+      "sentiment_score": -0.599,
+      "sentiment_confidence": 0.599,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "AbbVie's Temab-A Gets Two FDA Breakthrough Therapy Tags in Cancer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfecdba559d9188cb658eba2eedbca983c8d2b838d0d76a1bf579ad858f1f60f",
+      "published_at": "2026-10-08T14:47:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.912,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Would It Take For Amgen Stock To Move Higher?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0777919541fde067a3ae7f2057a4e37174b1a46ec3889aa06a812dc2cfa4d84e",
+      "published_at": "2026-10-08T13:03:24",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.886,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pharma\u2019s $500B patent problem will come in waves \u2014 not as a cliff",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9f422449f20b422638b049720516a8121f59c7b4b7cec48f8a6697c9914b67e",
+      "published_at": "2026-10-08T13:00:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.862,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Fall As Oil Prices, Treasury Yields Jump; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=674107ff4a129f2b03e7ec687e6c6b3035c3196e008a50605f5f78685a44f6f0",
+      "published_at": "2026-10-08T11:51:28",
+      "sentiment": "negative",
+      "sentiment_score": -0.905,
+      "sentiment_confidence": 0.905,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cantor Fitzgerald Maintains Overweight on AbbVie, Raises Price Target to $290",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=44ee6fd98adf9aec52c74e16d046374e97abb90a93bed87a45ec9e62693cd0fc",
+      "published_at": "2026-10-08T06:36:49",
+      "sentiment": "positive",
+      "sentiment_score": 0.909,
+      "sentiment_confidence": 0.909,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures: Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8269469ca71b3c9d3defbf538b21157e94a163e323b27ef79c6c12941e3c94b2",
+      "published_at": "2026-10-08T02:55:15",
+      "sentiment": "positive",
+      "sentiment_score": 0.914,
+      "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Futures Fall As Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2129b638d75cef329d6d0fed6f2770fe6cf88efc77e2a3a953128cc6e1bc1dae",
@@ -9,6 +97,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.944,
       "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why is AbbVie (ABBV) Stock Trending After Hours?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d91b2d8789706045cc92ff6706849593a085cb83d0e31acbf0af9d8ed49119eb",
+      "published_at": "2026-10-07T22:52:31",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.558,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.938,
       "sentiment_confidence": 0.938,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Better Dividend for Retirees: AbbVie vs. Merck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0aed603f70bc8ef264d79f324d24d5701ee850ef739f8229b152e269fcdd855",
-      "published_at": "2026-10-05T19:03:47",
-      "sentiment": "positive",
-      "sentiment_score": 0.927,
-      "sentiment_confidence": 0.927,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie and Genmab Announce Epcoritamab in Combination with R-CHOP Demonstrates Significant Improvement in Progression-Free Survival versus R-CHOP in Patients with Newly Diagnosed Diffuse Large B-Cell Lymphoma",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3da2e9b317f70ff8cea67488d035b4038319d606a78219fe638aaef7de0b86b",
-      "published_at": "2026-10-05T18:54:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.953,
-      "sentiment_confidence": 0.953,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Genmab and AbbVie Announce Epcoritamab in Combination with R-CHOP Demonstrates Statistically Significant Improvement in Progression-Free Survival in Patients with Newly Diagnosed Diffuse Large B-Cell Lymphoma",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bde88342c77d38321802747a34a7a6dc0351ca1b4198f4477b26aa7f7ef85c83",
-      "published_at": "2026-10-05T18:49:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.951,
-      "sentiment_confidence": 0.951,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Genmab, AbbVie Announce Data From Phase 3 EPCORE DLBCL-2 Study Of Epcoritamab Demonstrates Reduction In Disease Progression, Death By 51% For Large B-Cell Lymphoma",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=df667b52f1fd1f45f5993f5202da5861e3aea9dbaee0cc3d91ea5978e39a2cce",
-      "published_at": "2026-10-05T14:55:02",
-      "sentiment": "positive",
-      "sentiment_score": 0.915,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Has Eli Lilly Stock Peaked?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02b55fb819eac16ad9dadcdcb5f78fd4425f22a5be3f5f3a3aaf11e2f425c375",
-      "published_at": "2026-10-05T14:19:15",
-      "sentiment": "negative",
-      "sentiment_score": -0.888,
-      "sentiment_confidence": 0.888,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FDA Expands Eli Lilly's Blood Cancer Drug Label in First-Line Setting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfda9a1448e16e56d0851bc582ecf1656ddd25118451560d36a286cecccd10d9",
-      "published_at": "2026-10-05T12:46:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.648,
-      "sentiment_confidence": 0.648,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie Announced Its 340B Rebate Pilot on October 2. Here\u2019s What It Means for the Stock Before Vraylar\u2019s 2027 Medicare Price Cut",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11de99ccd4b911af68f3aefc385255c817bc8bc17c5e164b2485144c4d06292a",
-      "published_at": "2026-10-05T08:08:39",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.934,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ExxonMobil, Visa Among 16 Dividend Growth Companies To Announce Annual Dividend Increases In October",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bb63323a7ff767b443ec70481139d1628ba1c405dbff07dda9e5ee287fdde519",
-      "published_at": "2026-10-04T23:07:03",
-      "sentiment": "positive",
-      "sentiment_score": 0.905,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "AbbVie (ABBV) vs Bristol Myers (BMY): Which is a Better Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acedf7ae2285dee254393203d1a2bcb489bd28de60e87f8af56da1e7e1c98e0a",
-      "published_at": "2026-10-04T02:46:29",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.906,
       "relevance_score": 1.0,
       "event_type": null
     }

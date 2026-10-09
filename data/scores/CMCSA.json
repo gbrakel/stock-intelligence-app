@@ -2,6 +2,21 @@
   "ticker": "CMCSA",
   "history": [
     {
+      "date": "2026-10-09",
+      "composite": 48.1,
+      "signal": "exit",
+      "signal_confidence": 0.6,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 72.5,
+        "growth_trend": 45.8,
+        "valuation": 90.0,
+        "sentiment": 50.9,
+        "technical": 23.3,
+        "risk_penalty": 43.8
+      }
+    },
+    {
       "date": "2026-10-08",
       "composite": 47.9,
       "signal": "exit",

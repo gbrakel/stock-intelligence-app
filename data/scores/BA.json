@@ -2,6 +2,21 @@
   "ticker": "BA",
   "history": [
     {
+      "date": "2026-10-09",
+      "composite": 40.2,
+      "signal": "exit",
+      "signal_confidence": 0.66,
+      "risk_level": "high",
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 51.3,
+        "valuation": 60.8,
+        "sentiment": 63.5,
+        "technical": 19.6,
+        "risk_penalty": 56.0
+      }
+    },
+    {
       "date": "2026-10-08",
       "composite": 40.4,
       "signal": "exit",
