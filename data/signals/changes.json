@@ -1,44 +1,50 @@
 [
   {
-    "ticker": "NOW",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-10-14"
+    "ticker": "CSCO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "PFE",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-10-15"
   },
   {
     "ticker": "GS",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-10-14"
-  },
-  {
-    "ticker": "PG",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-10-14"
-  },
-  {
-    "ticker": "PEP",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
   {
-    "ticker": "CAT",
-    "previous_signal": "hold",
+    "ticker": "COST",
+    "previous_signal": "exit_watch",
     "new_signal": "reduce",
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
   {
     "ticker": "GE",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-10-14"
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-10-15"
   },
   {
-    "ticker": "DIS",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-10-14"
+    "ticker": "NFLX",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "CMCSA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-10-15"
   }
 ]
