@@ -2,6 +2,61 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Gilead and Cardinal Health Stocks Jump to Record Highs. Why Healthcare Is on a Tear.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e55ca2d20a0f963b7d205e3befbf4d17eb09a9b24af869bcc4bfcaa8989ea739",
+      "published_at": "2026-10-15T20:30:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.66,
+      "sentiment_confidence": 0.66,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Pfizer, Thermo Fisher Scientific And More: CNBC\u2019s \u2018Final Trades\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5024e7ec675170c0a5a25783ae0feb83a84d769bd02bd60c9b343c091dc26a23",
+      "published_at": "2026-10-15T07:56:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "How To Invest In AI Drug Discovery",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c850fabd074fba949692037137bcd030e692025571a7d5b2b7ed467985abb0f",
+      "published_at": "2026-10-15T05:04:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.924,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Quantum BioPharma\u2019s Phase 2 Shows Where Biotech Value Actually Gets Built",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65a4c1e7f71a69ddee762fd87637a2cccf490ce8d1cf88d15ddb6d633fa24d07",
+      "published_at": "2026-10-14T13:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.855,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Final Trades: Thermo Fisher, Pfizer, U.S. 10-year and the XAR",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=23fab1a99ee8548665e2ee1e0c5506276de75089410bb4618e15ef8b2a4d6712",
+      "published_at": "2026-10-14T13:21:33",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.943,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thermo Fisher Scientific (TMO) Reports Next Week: Wall Street Expects Earnings Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=57b213eed712c316f4e53ea07da5debb1bd5815da8cff9d3337868093a8277d6",
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.568,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Thermo Fisher Scientific Showcases New Solutions and Expanded Capabilities to Accelerate Drug Development at CPHI Milan 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66c53becca0f462cd7d8a3204414f2513110733339bf4baae73c3118e209ef63",
-      "published_at": "2026-10-06T06:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.893,
-      "sentiment_confidence": 0.893,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Zacks Industry Outlook Globus Medical, Intuitive Surgical  and Thermo Fisher Scientific",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=edc042f24fdfd21319847f16066a5fa2b9cfe71df6d4e7fb320c4ce8435ecff5",
-      "published_at": "2026-10-06T04:52:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Thermo Fisher Scientific Proteomics Technologies Enable Discovery of More Than 2,500 New Biological Associations in PRECISE-SG100K Study",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=942c4f0b7290f5f29d53ab3284d172c7fdfb8a5d18408e3d10222bfc131dea8b",
-      "published_at": "2026-10-05T12:30:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.519,
-      "sentiment_confidence": 0.519,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "JPMorgan\u2019s October Stock Picks Hint at 3 ETF Trades: Value, AI Power, Health Care",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=867732eebdb5f94314143a1eb23bcb39b9c9e617667f66a14b0dacd805550e6a",
-      "published_at": "2026-10-05T12:22:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "3 Medical Instruments Stocks Using GenAI to Navigate Industry Woes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f987b82e10c30a2cd67e4bc788910979834699e3ed062c3df727464a3feb5f5a",
-      "published_at": "2026-10-05T12:18:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.637,
       "relevance_score": 1.0,
       "event_type": null
     }
