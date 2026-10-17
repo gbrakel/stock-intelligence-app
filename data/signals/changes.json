@@ -1,32 +1,38 @@
 [
   {
-    "ticker": "GS",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-10-16"
-  },
-  {
-    "ticker": "PG",
+    "ticker": "TSLA",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-10-16"
+    "date": "2026-10-17"
   },
   {
-    "ticker": "KO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-10-16"
-  },
-  {
-    "ticker": "COST",
+    "ticker": "ORCL",
     "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-10-16"
+    "date": "2026-10-17"
   },
   {
-    "ticker": "NFLX",
+    "ticker": "PFE",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "ABBV",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "HD",
+    "previous_signal": "reduce",
+    "new_signal": "hold",
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "BA",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-10-16"
+    "date": "2026-10-17"
   }
 ]

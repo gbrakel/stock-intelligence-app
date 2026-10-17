@@ -1,17 +1,20 @@
 {
   "ticker": "UNH",
-  "risk_level": "medium",
-  "overall_risk_score": 40.3,
+  "risk_level": "high",
+  "overall_risk_score": 53.2,
   "factors": {
-    "volatility": 40.9,
+    "volatility": 100.0,
     "debt_burden": 30.0,
     "earnings_consistency": 38.4,
     "cash_burn": 0.0,
     "sector_risk": 50.0,
-    "sentiment_stability": 62.3,
+    "sentiment_stability": 59.7,
     "liquidity": 50.0,
-    "drawdown": 57.1,
+    "drawdown": 100.0,
     "concentration": 40.0
   },
-  "risk_flags": []
+  "risk_flags": [
+    "High volatility (annualized)",
+    "Significant drawdown in last 12 months"
+  ]
 }

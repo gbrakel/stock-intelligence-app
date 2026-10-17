@@ -2,6 +2,72 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Update: Nasdaq Falls to End Four-Week Winning Streak Amid Tech Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b61eb09fa533acc7c06e9bdfac5f27f1a4c0545ec3b68e4d3c126ea59190d8c7",
+      "published_at": "2026-10-16T20:54:55",
+      "sentiment": "negative",
+      "sentiment_score": -0.97,
+      "sentiment_confidence": 0.97,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cisco (CSCO): Can Software Renewals Outlast the Networking Upgrade Cycle?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34ba48723a98fbefa58158e855e3d28adccc082bc8d7655a627a6da24e3b99ea",
+      "published_at": "2026-10-16T18:20:51",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.821,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of October 18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d55d2020ea3d6a37407105110c898f3380c2e49b3449b0a523fc8c044b02dc97",
+      "published_at": "2026-10-16T18:01:19",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.906,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Equity Indexes Slide Intraday Amid Tech Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29d4097f4b5eaad4bf8a0f925ae3ffff98d666fc8bfa96a7a4e407a5cf701c06",
+      "published_at": "2026-10-16T17:57:40",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ALAB vs. CSCO: Which AI Infrastructure Stock Is a Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29cab78ff0831458b94ee82d893bc90c77a108f5904486328a53998ba54775fc",
+      "published_at": "2026-10-16T17:04:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.883,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Has Buying HPE Stock's Dips Paid Off?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e3a10e586c0687d3906a527ed70f45bd6d4f987ff3278740928e53efd5487ab",
+      "published_at": "2026-10-16T16:42:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.682,
+      "sentiment_confidence": 0.682,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a92d93fd6a4c182ac52b31baedcc63a3647190f9123d8874e2d3b82df87d8b9b",
@@ -112,6 +178,17 @@
       "event_type": null
     },
     {
+      "headline": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=33af40d9d1bf1197ba10bcb2d3eb5dc6fab26d1eaa07dbe7aa24ad70a1564b35",
+      "published_at": "2026-10-15T15:42:36",
+      "sentiment": "positive",
+      "sentiment_score": 0.651,
+      "sentiment_confidence": 0.651,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why Ericsson Rose 8% After The Q3 Report",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=868e5f97e92d724896c76338a239093ebaeea5e89b72e0d8ce8938c5214fbf11",
@@ -119,6 +196,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.952,
       "sentiment_confidence": 0.952,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Why Is Cisco Stock Falling on Thursday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=983e7aaaf5906b7b1b78da9eff8f813fb6b5a03c5e1e85f35ac44dcc322ce618",
+      "published_at": "2026-10-15T14:12:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.925,
+      "sentiment_confidence": 0.925,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -460,94 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=02ccc14928cac6b07e502b3a1349a262b04aa03aacb6c39874473bea74c00ca6",
-      "published_at": "2026-10-12T19:10:13",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.925,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco, Nvidia Tackle AI's Growing Data Center Bottleneck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9350f0d74745090e64e9f2b685145f7cf07060db0d06a44ec56e6863407621d3",
-      "published_at": "2026-10-12T18:24:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.707,
-      "sentiment_confidence": 0.707,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Amphenol (APH) Stock May Be Near Fair Value After New AI Optics News",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c503de58587b9322e1bdf0dd0a16d3450b6d38aa0bb375b2df7a2bdb59258d24",
-      "published_at": "2026-10-12T17:07:33",
-      "sentiment": "positive",
-      "sentiment_score": 0.91,
-      "sentiment_confidence": 0.91,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Here's How Much $1000 Invested In Cisco Systems 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dd9130ba2f93aec99881f452e3af606c5695f293a7a1ce37abe8802511996442",
-      "published_at": "2026-10-12T16:15:14",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.94,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Advances Scalability and Openness at OCP 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e8cbdc1b30905f980ddf392e3ee92b5521c7f0216edd948d53e884b18093993",
-      "published_at": "2026-10-12T15:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.883,
-      "sentiment_confidence": 0.883,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eeed56723e1b1e852680297aaacbaca3703084014c6652f6c4250399365f26fb",
-      "published_at": "2026-10-12T15:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.66,
-      "sentiment_confidence": 0.66,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is Cisco Stock Paying You Enough For The Swings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abc206d8dd050ee8bb11503da8a48efe2b78a0b2a9eea0f5e7ff9e6afe4b17c5",
-      "published_at": "2026-10-12T14:08:03",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.862,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why IonQ Is Betting Big on Quantum Cybersecurity With $1.3 Billion Elisity Acquisition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a477ac4f78691eab1d956f2437f6f9dcbe38eaffa59a1da2b8529ed7a0a2e1f",
-      "published_at": "2026-10-12T12:41:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.916,
       "relevance_score": 1.0,
       "event_type": null
     }
