@@ -2,6 +2,21 @@
   "ticker": "XOM",
   "history": [
     {
+      "date": "2026-10-20",
+      "composite": 62.4,
+      "signal": "exit_watch",
+      "signal_confidence": 0.59,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 78.3,
+        "growth_trend": 56.6,
+        "valuation": 71.7,
+        "sentiment": 72.6,
+        "technical": 78.5,
+        "risk_penalty": 32.1
+      }
+    },
+    {
       "date": "2026-10-17",
       "composite": 59.7,
       "signal": "exit_watch",

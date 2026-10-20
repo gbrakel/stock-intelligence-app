@@ -2,6 +2,21 @@
   "ticker": "NKE",
   "history": [
     {
+      "date": "2026-10-20",
+      "composite": 54.6,
+      "signal": "reduce",
+      "signal_confidence": 0.82,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 76.3,
+        "growth_trend": 59.7,
+        "valuation": 87.5,
+        "sentiment": 58.6,
+        "technical": 25.9,
+        "risk_penalty": 42.0
+      }
+    },
+    {
       "date": "2026-10-17",
       "composite": 58.1,
       "signal": "reduce",

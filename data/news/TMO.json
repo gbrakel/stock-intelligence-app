@@ -2,6 +2,39 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Stocks Rise Pre-Bell as Traders Prepare for Busy Week of Corporate Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f17a53fd1c00385f662f74a49f2a3d6e2326e860e6d54e4044444e5fad68c46",
+      "published_at": "2026-10-19T10:26:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.419,
+      "sentiment_confidence": 0.419,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Clinical Trial Supplies Market Forecasts Growth from $5.7 Billion (2025) to $10.7 Billion by 2033, Profiling Thermo Fisher Scientific, Catalent, Almac Group, UPS Healthcare & 6 Other Key Players",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eddc0c45af44d28d76c9a615cc70ad2b038ffcb2aa471a43166a80953dbc3193",
+      "published_at": "2026-10-19T10:00:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.891,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Thermo Fisher Scientific (TMO) Is Building A Bigger Role In Precision Diagnostics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41edded3ed342441d5de01bda70b447dd724e8160e14a0cd36b2a8a68ebdcc60",
+      "published_at": "2026-10-17T03:20:48",
+      "sentiment": "positive",
+      "sentiment_score": 0.801,
+      "sentiment_confidence": 0.801,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Thermo Fisher Scientific (TMO) Stock Gets Fair Value Bump After Q2 Driven Analyst Target Increases",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=01a659179e977f99d551871332a195383d76d25b6bef1ad7ef5128a3afd70cb2",
@@ -42,6 +75,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.667,
       "sentiment_confidence": 0.667,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Lam Research Could Swing $28.6 Billion After Earnings",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=992e8c04c4ad649e3429a28e5cb40c80192b7a6af54ef7bddcb5c43082bbe30b",
+      "published_at": "2026-10-16T15:30:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.82,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -504,50 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Which S&P500 stocks are gapping on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0dd7d1b383dd91d4ef55e272b4d0e25c1c563ddef68dfa481dcf459a3f0016fa",
-      "published_at": "2026-10-08T14:35:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.74,
-      "sentiment_confidence": 0.74,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Thermo Fisher Scientific (TMO) Is Back In The Spotlight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bac59ef0ea48dc4962e86fe6e7abc5e403a32c6f756e1307fe46f11a5111986b",
-      "published_at": "2026-10-08T14:08:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.871,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "PCR Market Report Forecasts qPCR, Digital PCR and Multiplex Testing Growth, Profiling 89 Companies Including Roche and Thermo Fisher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d391fdb80c2c3368ea653d29977d894a169ddcb0617a02e031663b3f21c8c17",
-      "published_at": "2026-10-08T10:47:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.626,
-      "sentiment_confidence": 0.626,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Pharmaceutical CRO Market Forecasts Growth from $45.33B (2025) to $83.31B by 2033, Profiling IQVIA, ICON, Thermo Fisher, Medpace & 5 Other Key Players",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53ba34799909d6351483f03741e9578ee3c1ff21e8b25771f85fc62682b2d6f3",
-      "published_at": "2026-10-08T08:06:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.904,
-      "sentiment_confidence": 0.904,
       "relevance_score": 1.0,
       "event_type": null
     }
