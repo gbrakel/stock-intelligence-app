@@ -2,6 +2,21 @@
   "ticker": "HD",
   "history": [
     {
+      "date": "2026-10-21",
+      "composite": 54.9,
+      "signal": "reduce",
+      "signal_confidence": 0.83,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 82.5,
+        "growth_trend": 56.1,
+        "valuation": 68.8,
+        "sentiment": 58.7,
+        "technical": 43.2,
+        "risk_penalty": 45.3
+      }
+    },
+    {
       "date": "2026-10-20",
       "composite": 54.3,
       "signal": "reduce",

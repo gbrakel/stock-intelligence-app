@@ -1,20 +1,19 @@
 {
   "ticker": "NOW",
   "risk_level": "medium",
-  "overall_risk_score": 47.6,
+  "overall_risk_score": 47.0,
   "factors": {
-    "volatility": 70.9,
+    "volatility": 67.4,
     "debt_burden": 30.0,
     "earnings_consistency": 10.1,
     "cash_burn": 0.0,
     "sector_risk": 55.0,
-    "sentiment_stability": 53.5,
+    "sentiment_stability": 52.8,
     "liquidity": 81.2,
     "drawdown": 100.0,
     "concentration": 40.0
   },
   "risk_flags": [
-    "High volatility (annualized)",
     "Low relative trading volume",
     "Significant drawdown in last 12 months"
   ]
