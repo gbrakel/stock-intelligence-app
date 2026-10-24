@@ -2,6 +2,39 @@
   "ticker": "MCD",
   "articles": [
     {
+      "headline": "Why Is McDonald's (MCD) Challenging Tokenized Trading Of Its Shares?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=220d04e22265f4896fdadcab8022f99c97762c23e89b021cd8894ebecc0b9ebe",
+      "published_at": "2026-10-23T16:08:17",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.671,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "McDonald's Has Lost a Fifth of Its Value in 2026. Is It Time to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39ec382dbcb13c38a0037b84bb028a8f2642b37c7bb7c6c8054e45bad55a6755",
+      "published_at": "2026-10-23T10:47:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.833,
+      "sentiment_confidence": 0.833,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Could Lift Starbucks Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ebcd901e67e8ffd35addb26cdcac8910ebf5ea3ad4299e0dc784542b66bc086",
+      "published_at": "2026-10-23T08:03:48",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.521,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Dow Jones Top Movers Today: PG and JNJ Lead Gainers, CAT and AMZN Lead Losers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=6ba6eb21e59fd6c1286d6cd915cb82479246b421181b0793bf608366b363e3b8",
@@ -9,6 +42,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.59,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "McDonald's Q3 2026 Earnings: What to Expect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=998a3753c70d5ca78060274df7ab2c9dae110d65e0d79e04bbf55fbff2582f5c",
+      "published_at": "2026-10-22T19:00:32",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.913,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -42,6 +86,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.87,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "PepsiCo Strikes Back After KFC Loss, Locks In Taco Bell Beverage Deal Through 2036",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e880230d1bb794510db5b1a066528f7d2a1acabdcdbf7156d0f3fedbb78e865d",
+      "published_at": "2026-10-22T14:33:24",
+      "sentiment": "positive",
+      "sentiment_score": 0.561,
+      "sentiment_confidence": 0.561,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f155f405bf14fafdb2aeded62ea22c93a4b50e89a06e1f3d41261566b373ce6c",
+      "published_at": "2026-10-22T13:35:12",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.797,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.697,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why People Miss the Old McDonald\u2019s",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4ebc130ff24f7cb40a32bdcf59d46b57f2fd4833fef772d3fd44ffac86038e9a",
-      "published_at": "2026-10-17T16:33:14",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.847,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Are Starbucks Stock Bulls Not Worried About?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=294410c5f939f902ee3450a180b8cad1f4bb3f8caee0625d9733aedb8fd44399",
-      "published_at": "2026-10-17T00:44:31",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.867,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Went Wrong With McDonald\u2019s Playgrounds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32e4dab13d900941e587e410d14629d2a2fb532dae15f3744ef7d150c36e71dd",
-      "published_at": "2026-10-16T16:33:09",
-      "sentiment": "negative",
-      "sentiment_score": -0.697,
-      "sentiment_confidence": 0.697,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Domino's Pizza Stock Is Waiting On One Answer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d766d5e571857a9f828b9283f39d97b4f0081a1c77ca6230b7ead32c950231b",
-      "published_at": "2026-10-16T16:27:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.939,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Why Speculators May Want Another Crack at McDonald\u2019s (MCD) a163% Options Payout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf6f482334a87359f8cb17ccbb1bd6ef33de77472d992f5173ab80b07c05a5eb",
-      "published_at": "2026-10-16T14:57:52",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.807,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Coca-Cola Wins KFC Contract, Ending Decades-Long PepsiCo Partnership",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd44b112d60893428592edb35cdd222b813a1076fdd7faef627b3ab42731066c",
-      "published_at": "2026-10-16T12:48:42",
-      "sentiment": "positive",
-      "sentiment_score": 0.369,
-      "sentiment_confidence": 0.369,
       "relevance_score": 1.0,
       "event_type": null
     }

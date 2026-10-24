@@ -2,6 +2,83 @@
   "ticker": "CSCO",
   "articles": [
     {
+      "headline": "Should You Buy Hewlett Packard Enterprise Stock For Its Cash?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b778fe1a179d1f5a6b06eae724e6098b3ac6bd1b310530e882544d2dee7ad35e",
+      "published_at": "2026-10-23T20:42:04",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76dc3c996e4c9f07c9737022aee8b965cebebe9bae438e8b28c49d343a1be79c",
+      "published_at": "2026-10-23T20:38:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.969,
+      "sentiment_confidence": 0.969,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d984b60680d973f8d4ba221f6ef6f43f0254ab3f0526336fba52c4fa77ad4b6d",
+      "published_at": "2026-10-23T19:17:16",
+      "sentiment": "negative",
+      "sentiment_score": -0.565,
+      "sentiment_confidence": 0.565,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Stock Market Today: Dow Slumps 500 Points On Rising Oil Prices; 3 Oil Stocks To Watch (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=086a546be66af90a9920f02f05e5a3f4028ee01f0a72f4aeb2ed842494bc6682",
+      "published_at": "2026-10-23T17:09:20",
+      "sentiment": "negative",
+      "sentiment_score": -0.96,
+      "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Should You Buy, Sell, or Hold TER Stock Before Q3 Earnings Release?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54b9dda99218e2cb8da758d99be542a9d3807b3ce1595f8ec772addc0a093f26",
+      "published_at": "2026-10-23T16:46:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What iShares MSCI USA Value Factor ETF (VLUE) Bought: Micron Leads on Oct. 21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9325e1d0de52ed2a03bb062ec7bd7ee24ed5accc7e5129e542c3b672f02a8dd",
+      "published_at": "2026-10-23T11:05:42",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Tom Lee Urges Buying the Tech Dip, Calls Sell-Off a \u2018Healthy Correction,\u2019 Points to $30 Trillion Infrastructure Boom Ahead",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=461a7dfa0d885c08ced3e412db5af79979fb6b2b39c56f0be991055465728d84",
+      "published_at": "2026-10-23T08:36:56",
+      "sentiment": "positive",
+      "sentiment_score": 0.775,
+      "sentiment_confidence": 0.775,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Fortinet (FTNT) vs. CSCO and PANW: Can Its Hardware-Software Advantage Support Long-Term Growth?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b5edab366951d5fdca81e401e8bc8aa1934fabc390841df0546784bdbdb9eaf",
@@ -53,6 +130,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.703,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Michael Burry Shares Chilling Song on AI: 'Watching Trillion-Dollar Monuments Become Obsolete'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=53ece1bee66aa0ba66f03541e04989d208cbfeb4d2814748ee7de1982a6e4ed3",
+      "published_at": "2026-10-22T16:12:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.889,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -141,6 +229,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.866,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Congressional Trading Report: Sen. John Boozman Bought Over $10K In Cisco Systems Stock",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3d3626542ede47af5d6822134cf6e6a4394022f31499392652a22050dc0dc86e",
+      "published_at": "2026-10-22T11:00:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.84,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.695,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "IBM's Logiq Consulting Acquisition to Boost UK Cybersecurity Reach",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23a27290e702bcf0a51868d10926a2911e936241234b5e9ed664ff7d95eedd4d",
-      "published_at": "2026-10-19T12:15:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.905,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "2 Growth Stocks to Add to Your Roster and 1 Facing Challenges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9dec61a66fdc7e82222875a6ff898490c4debfccf8a58ad22fff67d82538da61",
-      "published_at": "2026-10-19T10:56:55",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.82,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Global Network Repeaters Market Size, Share, Trends, and Forecast, 2026-2033 | 5G Rollout and Wireless Dead Zones Drive Demand for Network Repeaters",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cad43b7ffac1d3680fea38a0b99924fff73145eff7c76af77e96e3c4ba1f6a2d",
-      "published_at": "2026-10-19T10:24:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.609,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Are Companies Reducing AI Spending? Chip Orders Say Otherwise",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9cbf71da5215dc14fa87e4828d2ab24ab3601466e79ef7bf81e69940b2a4377b",
-      "published_at": "2026-10-19T09:04:47",
-      "sentiment": "negative",
-      "sentiment_score": -0.493,
-      "sentiment_confidence": 0.493,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Market Has 1999-Like Valuations, 2007-Like Credit Issues",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=edfad3c74cf986abb114d7043ae6db480a40853c3d916b6b0104e7f70941a6ee",
-      "published_at": "2026-10-19T06:27:42",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.944,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Would Stop The AI Selloff",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
-      "published_at": "2026-10-19T01:53:26",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.856,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco: Fundamental Fair Value, But Here's Where Major Technical Support Appears (Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fd4fddf1332797ee9d23bc53e0ace9cffd77822004a8c9cc1edcd10772d7ed29",
-      "published_at": "2026-10-19T00:08:30",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.737,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Prediction: Cisco Stock Could Surprise Wall Street by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=793f3ef2b426d1c07634c33f27372d3a47c84ba5c31c5a79b24840b0808f7e5c",
-      "published_at": "2026-10-17T14:30:56",
-      "sentiment": "positive",
-      "sentiment_score": 0.828,
-      "sentiment_confidence": 0.828,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cisco Systems Heads 3 AI Infrastructure Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbbd156562dfc5fdcc705f281aed1a22fcb203eddec9762ab30ded4365fd8a67",
-      "published_at": "2026-10-17T03:22:43",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
       "relevance_score": 1.0,
       "event_type": null
     }

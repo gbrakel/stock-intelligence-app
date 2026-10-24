@@ -2,6 +2,50 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Dow Jones Decliners: Top Losers for Oct. 23, 2026",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=18200dff878726c8ba0a11606bafa1fe8d4bf8d85c9d772dcababe2ac0990062",
+      "published_at": "2026-10-23T19:10:57",
+      "sentiment": "negative",
+      "sentiment_score": -0.602,
+      "sentiment_confidence": 0.602,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Losers: AXP, HD, CAT, PG Decline in Today's Session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4713e46d2a2bd8e8faf8efb73a1f33161db3d0ee209e06e2385a9be927afef96",
+      "published_at": "2026-10-23T16:41:15",
+      "sentiment": "negative",
+      "sentiment_score": -0.955,
+      "sentiment_confidence": 0.955,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Home Depot's latest move is good for customers and the U.S. economy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b9fff79cdfba29ce9f540c6694fc93dae81b0766cfa71224663d978f944834e",
+      "published_at": "2026-10-23T14:17:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.936,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "The 10-Year Yield Just Fell Below 5% as Investors Fled AI Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a7a84be446147e4ca28b54b2499765b787d3a119b915f53c4b67f1c1d93fed6",
+      "published_at": "2026-10-23T11:15:07",
+      "sentiment": "negative",
+      "sentiment_score": -0.96,
+      "sentiment_confidence": 0.96,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "One Number That Makes Home Depot A Buy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6efb4eecf8cba4c614fdb39461f0af91c548807a82cb71120853549024c2fa55",
@@ -64,6 +108,28 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.895,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "American Homes 4 Rent shares are trading lower after the company reported Q4 financial results and issued FY26 FFO guidance with its midpoint below estimates.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dcb36958219db02b71de611b12cf91772a5d05ef2558f8c0d0deceea56e9c713",
+      "published_at": "2026-10-22T15:09:43",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Reported Earlier, U.S. Treasury Department Issues Proposed Regulations To Make Homeownership More Affordable; From January 7, 2027, Large Institutional Investors Generally May Not Purchase A Single-Family Home",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7f3702556ce15e615add079bb3af0eb6b0fbd60284238b6fd18c37d5dba8fb1f",
+      "published_at": "2026-10-22T14:50:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.759,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.92,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "If You Invested $100 In Home Depot Stock 15 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=23b1bafff95d32d46079fb6c60544b3d1343dfc049a7ed19ad04ab2280037567",
-      "published_at": "2026-10-14T12:30:35",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.913,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Lowe\u2019s Keeps Raising Its Dividend. A Frozen Housing Market Could Test That Streak",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51f50e44f095465b5ad6dc09bd236f9bc967fc9d008922562bfd0791a32fc3da",
-      "published_at": "2026-10-14T11:45:13",
-      "sentiment": "negative",
-      "sentiment_score": -0.89,
-      "sentiment_confidence": 0.89,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Industrial Average Monitor Update - A Look At 30 U.S. Large-Caps",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=310ef25895cc39730bc02d53261c2e29cfcc1b7eb4f0498474d0e9c56b8614e8",
-      "published_at": "2026-10-14T03:20:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.908,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Rotation Away From AI Lately",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=163e2d3002b77bf45cc2b11b0d0cea2616186f17f76a7f3662022b311546fe52",
-      "published_at": "2026-10-14T03:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.751,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot vs. Walmart: Comparing Scale and Revenue Seasonality",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e380073ce40b597ac06afc5902614e87f5692404ad2fc996a2326453edbe3f7",
-      "published_at": "2026-10-13T22:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.67,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stock Market Today: Dow Rallies On Bank Results; Micron, Sandisk, SK Hynix Sell Off (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d0ee787dfc6275f3170cb3f896417fe01932316ae6b58e14e38a15871ad5481",
-      "published_at": "2026-10-13T21:03:10",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
       "relevance_score": 1.0,
       "event_type": null
     }
