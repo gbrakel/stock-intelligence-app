@@ -2,6 +2,22 @@
   "ticker": "CMCSA",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 29298000000.0,
+      "net_income": 3448000000.0,
+      "eps": 0.971503,
+      "gross_margin": 0.7434978496825722,
+      "operating_margin": 0.1815823605706874,
+      "net_margin": 0.11768721414431019,
+      "free_cash_flow": 4212000000.0,
+      "total_debt": 87366000000.0,
+      "total_equity": 92667000000.0,
+      "cash_and_equivalents": 7596000000.0,
+      "roe": 0.0372084992500027,
+      "roa": 0.013376317555640903,
+      "shares_outstanding": 3549139432.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 29940000000.0,
       "net_income": 3526000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-06-30",
-      "revenue": 30313000000.0,
-      "net_income": 11123000000.0,
-      "eps": 3.007882,
-      "gross_margin": 0.7500742255797842,
-      "operating_margin": 0.19770395539867383,
-      "net_margin": 0.3669382773067661,
-      "free_cash_flow": 4502000000.0,
-      "total_debt": 101528000000.0,
-      "total_equity": 97458000000.0,
-      "cash_and_equivalents": 9687000000.0,
-      "roe": 0.1141312154979581,
-      "roa": 0.04061712616395837,
-      "shares_outstanding": 3697950510.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 7.18038,
-    "forward_pe": 6.4036355,
-    "ev_ebitda": 4.792,
-    "price_to_sales": 0.6545959,
+    "pe_ratio": 6.9778476,
+    "forward_pe": 6.234731,
+    "ev_ebitda": 4.717,
+    "price_to_sales": 0.6365569,
     "peg_ratio": 142.98,
-    "market_cap": 80518569984,
-    "enterprise_value": 160729776128
+    "market_cap": 78299684864,
+    "enterprise_value": 158207688704
   }
 }

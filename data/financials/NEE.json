@@ -2,6 +2,22 @@
   "ticker": "NEE",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 8090000000.0,
+      "net_income": 4775000000.0,
+      "eps": 2.27673,
+      "gross_margin": 0.6134734239802225,
+      "operating_margin": 0.3212608158220025,
+      "net_margin": 0.5902348578491965,
+      "free_cash_flow": 2587000000.0,
+      "total_debt": 113932000000.0,
+      "total_equity": 74342000000.0,
+      "cash_and_equivalents": 5579000000.0,
+      "roe": 0.06423017944096204,
+      "roa": 0.019485660186409414,
+      "shares_outstanding": 2097306049.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 7534000000.0,
       "net_income": 3144000000.0,
@@ -67,19 +83,19 @@
     },
     {
       "period_end": "2025-06-30",
-      "revenue": 6700000000.0,
-      "net_income": 2028000000.0,
-      "eps": 0.99,
-      "gross_margin": 0.6411940298507462,
-      "operating_margin": 0.28253731343283583,
-      "net_margin": 0.30268656716417913,
-      "free_cash_flow": 1120000000.0,
-      "total_debt": 93189000000.0,
-      "total_equity": 60932000000.0,
-      "cash_and_equivalents": 1728000000.0,
-      "roe": 0.03328300400446399,
-      "roa": 0.01019966805814012,
-      "shares_outstanding": 2056700000.0
+      "revenue": null,
+      "net_income": null,
+      "eps": null,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 14.792792,
-    "forward_pe": 18.751526,
-    "ev_ebitda": 21.893,
-    "price_to_sales": 5.973593,
+    "pe_ratio": 14.781981,
+    "forward_pe": 18.737823,
+    "ev_ebitda": 21.883,
+    "price_to_sales": 5.9692283,
     "peg_ratio": 1.67,
-    "market_cap": 172188827648,
-    "enterprise_value": 293385830400
+    "market_cap": 172062998528,
+    "enterprise_value": 293260001280
   }
 }

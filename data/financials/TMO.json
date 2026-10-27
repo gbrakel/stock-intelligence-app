@@ -2,6 +2,22 @@
   "ticker": "TMO",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 4.65,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 370000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 11994000000.0,
       "net_income": 1736000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 10854000000.0,
       "net_income": 1617000000.0,
-      "eps": 4.28,
+      "eps": null,
       "gross_margin": 0.40611756034641605,
       "operating_margin": 0.17652478348995762,
       "net_margin": 0.1489773355444997,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 4576000000.0,
       "roe": 0.03195525868542745,
       "roa": 0.015973525634693272,
-      "shares_outstanding": 378000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 35.539032,
-    "forward_pe": 24.28742,
-    "ev_ebitda": 23.375,
-    "price_to_sales": 5.2616234,
-    "peg_ratio": 2.01,
-    "market_cap": 249143132160,
-    "enterprise_value": 284750413824
+    "pe_ratio": 36.122894,
+    "forward_pe": 24.686432,
+    "ev_ebitda": 23.682,
+    "price_to_sales": 5.348065,
+    "peg_ratio": 2.0,
+    "market_cap": 253236232192,
+    "enterprise_value": 288846315520
   }
 }

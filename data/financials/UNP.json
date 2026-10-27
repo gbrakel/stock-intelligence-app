@@ -2,6 +2,22 @@
   "ticker": "UNP",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 7197000000.0,
+      "net_income": 2076000000.0,
+      "eps": 3.5,
+      "gross_margin": 0.4582464915937196,
+      "operating_margin": 0.40892038349312215,
+      "net_margin": 0.2884535223009587,
+      "free_cash_flow": 1762000000.0,
+      "total_debt": 31112000000.0,
+      "total_equity": 22018000000.0,
+      "cash_and_equivalents": 2211000000.0,
+      "roe": 0.09428649286947044,
+      "roa": 0.02859149692186919,
+      "shares_outstanding": 593700000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 6864000000.0,
       "net_income": 1993000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.10332871012482663,
       "roa": 0.026046294812591957,
       "shares_outstanding": 592400000.0
-    },
-    {
-      "period_end": "2025-06-30",
-      "revenue": 6154000000.0,
-      "net_income": 1876000000.0,
-      "eps": 3.16,
-      "gross_margin": 0.4621384465388365,
-      "operating_margin": 0.4103022424439389,
-      "net_margin": 0.30484237894052646,
-      "free_cash_flow": 1397000000.0,
-      "total_debt": 33956000000.0,
-      "total_equity": 16258000000.0,
-      "cash_and_equivalents": 1060000000.0,
-      "roe": 0.11538934678312215,
-      "roa": 0.027356509566028933,
-      "shares_outstanding": 594100000.0
     },
     {
       "period_end": "2025-03-31",
@@ -181,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.844774,
-    "forward_pe": 20.411762,
-    "ev_ebitda": 15.201,
-    "price_to_sales": 6.599662,
-    "peg_ratio": 2.96,
-    "market_cap": 173986889728,
-    "enterprise_value": 201114927104
+    "pe_ratio": 23.164587,
+    "forward_pe": 20.648943,
+    "ev_ebitda": 15.398,
+    "price_to_sales": 6.692053,
+    "peg_ratio": 2.91,
+    "market_cap": 176422600704,
+    "enterprise_value": 204500549632
   }
 }

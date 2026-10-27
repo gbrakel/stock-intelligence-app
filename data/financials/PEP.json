@@ -2,6 +2,22 @@
   "ticker": "PEP",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 25274000000.0,
+      "net_income": 3048000000.0,
+      "eps": 2.23,
+      "gross_margin": 0.5441956160481127,
+      "operating_margin": 0.16855266281554165,
+      "net_margin": 0.12059824325393685,
+      "free_cash_flow": 4669000000.0,
+      "total_debt": 51881000000.0,
+      "total_equity": 22487000000.0,
+      "cash_and_equivalents": 10675000000.0,
+      "roe": 0.1355449815448926,
+      "roa": 0.02722011859684218,
+      "shares_outstanding": 1364000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 24181000000.0,
       "net_income": 2981000000.0,
@@ -67,22 +83,6 @@
     },
     {
       "period_end": "2025-06-30",
-      "revenue": 22726000000.0,
-      "net_income": 1263000000.0,
-      "eps": 0.92,
-      "gross_margin": 0.5465986095221332,
-      "operating_margin": 0.1605649916395318,
-      "net_margin": 0.05557511220628355,
-      "free_cash_flow": 1065000000.0,
-      "total_debt": 51384000000.0,
-      "total_equity": 18559000000.0,
-      "cash_and_equivalents": 7631000000.0,
-      "roe": 0.06805323562691955,
-      "roa": 0.011989178413783283,
-      "shares_outstanding": 1371000000.0
-    },
-    {
-      "period_end": "2025-03-31",
       "revenue": null,
       "net_income": null,
       "eps": null,
@@ -181,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 17.077988,
-    "forward_pe": 15.71645,
-    "ev_ebitda": 11.785,
-    "price_to_sales": 1.8833213,
-    "peg_ratio": 1.44,
-    "market_cap": 185019367424,
-    "enterprise_value": 225932361728
+    "pe_ratio": 17.038996,
+    "forward_pe": 15.680566,
+    "ev_ebitda": 11.763,
+    "price_to_sales": 1.8790212,
+    "peg_ratio": 1.41,
+    "market_cap": 184596922368,
+    "enterprise_value": 225509900288
   }
 }

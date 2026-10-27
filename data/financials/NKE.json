@@ -2,6 +2,22 @@
   "ticker": "NKE",
   "quarterly": [
     {
+      "period_end": "2026-08-31",
+      "revenue": 11213000000.0,
+      "net_income": 712000000.0,
+      "eps": 0.48,
+      "gross_margin": 0.42789619192009276,
+      "operating_margin": 0.07919379291893339,
+      "net_margin": 0.06349772585391955,
+      "free_cash_flow": -64000000.0,
+      "total_debt": 11072000000.0,
+      "total_equity": 15220000000.0,
+      "cash_and_equivalents": 6903000000.0,
+      "roe": 0.04678055190538765,
+      "roa": 0.018838969148542096,
+      "shares_outstanding": 1483600000.0
+    },
+    {
       "period_end": "2026-05-31",
       "revenue": 10972000000.0,
       "net_income": 1069000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.05397980397980398,
       "roa": 0.019472866555954357,
       "shares_outstanding": 1476600000.0
-    },
-    {
-      "period_end": "2025-05-31",
-      "revenue": 11097000000.0,
-      "net_income": 211000000.0,
-      "eps": 0.14,
-      "gross_margin": 0.4027214562494368,
-      "operating_margin": 0.028926736955934035,
-      "net_margin": 0.019014147967919257,
-      "free_cash_flow": 363000000.0,
-      "total_debt": 11013000000.0,
-      "total_equity": 13213000000.0,
-      "cash_and_equivalents": 7464000000.0,
-      "roe": 0.015969121319912207,
-      "roa": 0.005768337023975505,
-      "shares_outstanding": 1476700000.0
     }
   ],
   "annual": [
@@ -165,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 17.932693,
-    "forward_pe": 23.397608,
-    "ev_ebitda": 11.886,
-    "price_to_sales": 1.2072524,
-    "peg_ratio": 3.24,
-    "market_cap": 55402016768,
-    "enterprise_value": 58159017984
+    "pe_ratio": 18.225962,
+    "forward_pe": 24.378794,
+    "ev_ebitda": 12.071,
+    "price_to_sales": 1.2269957,
+    "peg_ratio": 3.15,
+    "market_cap": 56308056064,
+    "enterprise_value": 59065057280
   }
 }

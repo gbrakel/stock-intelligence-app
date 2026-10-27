@@ -2,6 +2,22 @@
   "ticker": "NFLX",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 12874176000.0,
+      "net_income": 3663927000.0,
+      "eps": 0.89,
+      "gross_margin": 0.5278131975203695,
+      "operating_margin": 0.3463211936826093,
+      "net_margin": 0.28459506845331306,
+      "free_cash_flow": 2883513000.0,
+      "total_debt": 15132394000.0,
+      "total_equity": 29286253000.0,
+      "cash_and_equivalents": 8194275000.0,
+      "roe": 0.12510740107312465,
+      "roa": 0.06243703132312193,
+      "shares_outstanding": 4134463000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 12559938000.0,
       "net_income": 3401414000.0,
@@ -63,23 +79,7 @@
       "cash_and_equivalents": 9287287000.0,
       "roe": 0.09813179338010448,
       "roa": 0.046362494763113424,
-      "shares_outstanding": 4244550000.0
-    },
-    {
-      "period_end": "2025-06-30",
-      "revenue": 11079166000.0,
-      "net_income": 3125413000.0,
-      "eps": 0.735,
-      "gross_margin": 0.5193400839016222,
-      "operating_margin": 0.34070199868834894,
-      "net_margin": 0.28209821930639906,
-      "free_cash_flow": 2267369000.0,
-      "total_debt": 14453206000.0,
-      "total_equity": 24951899000.0,
-      "cash_and_equivalents": 8177405000.0,
-      "roe": 0.12525752047970376,
-      "roa": 0.05885937432673773,
-      "shares_outstanding": 4252110000.0
+      "shares_outstanding": 4244553000.0
     }
   ],
   "annual": [
@@ -165,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 19.031792,
-    "forward_pe": 17.47055,
-    "ev_ebitda": 17.495,
-    "price_to_sales": 5.513169,
-    "peg_ratio": 1.09,
-    "market_cap": 274195415040,
-    "enterprise_value": 279163830272
+    "pe_ratio": 18.468208,
+    "forward_pe": 16.950006,
+    "ev_ebitda": 17.027,
+    "price_to_sales": 5.349909,
+    "peg_ratio": 1.04,
+    "market_cap": 266075750400,
+    "enterprise_value": 271701065728
   }
 }
