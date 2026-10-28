@@ -2,6 +2,39 @@
   "ticker": "UNP",
   "articles": [
     {
+      "headline": "Is CSX Stock Riskier Than It Looks?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f33c919322eb1f61df01a49fb6569a9ddd25cea999e014a223d7fe3f4d63bf0e",
+      "published_at": "2026-10-27T20:21:39",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.672,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Susquehanna Maintains Positive on Union Pacific, Raises Price Target to $345",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=34ff04dff23ae249f3cd7813341e9d0877d7b8e2b4eeb633df6c61263050fbc2",
+      "published_at": "2026-10-27T09:56:55",
+      "sentiment": "positive",
+      "sentiment_score": 0.927,
+      "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "An Investor's Guide To Efficient Scale",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a398336c721898001065f2020cfe49d849c7f955fbdf6525b6c7240a6184f395",
+      "published_at": "2026-10-27T03:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.891,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Union Pacific Corporation: 3 Key Takeaways for Long-Term Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cdd390c8dfd012697fb3c57bb89fd802cddc777afcf9987d36d57bb09b1ad032",
@@ -515,39 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.678,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tech Stock Rebound Nudges US Equity Futures Mostly Higher Pre-Bell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd124836842b3071c80da4e71a93129ce972cc37ab26ac8237e25a85d25da5f2",
-      "published_at": "2026-10-19T12:02:43",
-      "sentiment": "positive",
-      "sentiment_score": 0.799,
-      "sentiment_confidence": 0.799,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Tech Rebound Lifts Wall Street Pre-Bell; Asia Mixed, Europe Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9d7e5e6fe4bc757c5297c82873c40d22f75cee4d67129e2fa37752a5e8e0b96",
-      "published_at": "2026-10-19T11:10:03",
-      "sentiment": "positive",
-      "sentiment_score": 0.869,
-      "sentiment_confidence": 0.869,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "CSX Stock And North American Rail Shares Facing A Diesel Margin Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6ff2ad9a051c032059e2ff17c88d1bd1d2fb059dcf40253e06d230d1d5da2f1",
-      "published_at": "2026-10-18T15:11:55",
-      "sentiment": "negative",
-      "sentiment_score": -0.962,
-      "sentiment_confidence": 0.962,
       "relevance_score": 1.0,
       "event_type": null
     }
