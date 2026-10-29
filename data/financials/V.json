@@ -2,6 +2,22 @@
   "ticker": "V",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 3.19,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 1865302300.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 11633000000.0,
       "net_income": 5628000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 10172000000.0,
       "net_income": 5272000000.0,
-      "eps": 2.69,
+      "eps": null,
       "gross_margin": 0.8060361777428234,
       "operating_margin": 0.667715296893433,
       "net_margin": 0.5182854895792371,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 17092000000.0,
       "roe": 0.13635423132629837,
       "roa": 0.052707350235943376,
-      "shares_outstanding": 1937000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 34.20085,
-    "forward_pe": 26.750309,
+    "pe_ratio": 32.62215,
+    "forward_pe": 23.36919,
     "ev_ebitda": 24.094,
-    "price_to_sales": 16.958145,
-    "peg_ratio": 1.83,
-    "market_cap": 754433982464,
+    "price_to_sales": 16.904976,
+    "peg_ratio": 1.82,
+    "market_cap": 752068526080,
     "enterprise_value": 749187563520
   }
 }

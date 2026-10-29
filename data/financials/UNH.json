@@ -2,6 +2,22 @@
   "ticker": "UNH",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 4.578903,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 897594847.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 112032000000.0,
       "net_income": 5484000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 111616000000.0,
       "net_income": 3406000000.0,
-      "eps": 3.763536,
+      "eps": null,
       "gross_margin": 0.17929329128440366,
       "operating_margin": 0.04614033830275229,
       "net_margin": 0.030515338302752295,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 28596000000.0,
       "roe": 0.03250496258970835,
       "roa": 0.011037906751400803,
-      "shares_outstanding": 905000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 26.39164,
-    "forward_pe": 17.623812,
-    "ev_ebitda": 14.44,
-    "price_to_sales": 0.81847924,
+    "pe_ratio": 26.383669,
+    "forward_pe": 17.482525,
+    "ev_ebitda": 14.338,
+    "price_to_sales": 0.8119176,
     "peg_ratio": 1.04,
-    "market_cap": 368363962368,
-    "enterprise_value": 417369784320
+    "market_cap": 365410844672,
+    "enterprise_value": 414402215936
   }
 }
