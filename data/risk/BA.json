@@ -1,19 +1,20 @@
 {
   "ticker": "BA",
   "risk_level": "high",
-  "overall_risk_score": 65.0,
+  "overall_risk_score": 64.9,
   "factors": {
-    "volatility": 68.9,
+    "volatility": 70.7,
     "debt_burden": 90.0,
     "earnings_consistency": 100.0,
     "cash_burn": 48.0,
     "sector_risk": 40.0,
-    "sentiment_stability": 69.2,
+    "sentiment_stability": 65.8,
     "liquidity": 16.7,
     "drawdown": 67.4,
     "concentration": 40.0
   },
   "risk_flags": [
+    "High volatility (annualized)",
     "Elevated debt-to-equity ratio",
     "Inconsistent earnings across recent quarters"
   ]

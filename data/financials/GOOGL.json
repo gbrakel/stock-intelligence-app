@@ -2,6 +2,22 @@
   "ticker": "GOOGL",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 2.14,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 12256000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 119796000000.0,
       "net_income": 112193000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 96428000000.0,
       "net_income": 28196000000.0,
-      "eps": 2.33,
+      "eps": null,
       "gross_margin": 0.5951487119923674,
       "operating_margin": 0.3242937735927324,
       "net_margin": 0.2924046957315303,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 21036000000.0,
       "roe": 0.07769290965402462,
       "roa": 0.05616140128631838,
-      "shares_outstanding": 12122000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 16.083664,
-    "forward_pe": 21.39095,
+    "pe_ratio": 14.8208885,
+    "forward_pe": 18.748026,
     "ev_ebitda": 22.347,
-    "price_to_sales": 8.91161,
-    "peg_ratio": 1.13,
-    "market_cap": 3973383716864,
+    "price_to_sales": 7.7850757,
+    "peg_ratio": 1.14,
+    "market_cap": 3471100346368,
     "enterprise_value": 3869744824320
   }
 }
