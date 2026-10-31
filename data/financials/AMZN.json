@@ -2,6 +2,22 @@
   "ticker": "AMZN",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.92,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 10797000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": null,
       "net_income": null,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 167702000000.0,
       "net_income": 18164000000.0,
-      "eps": 1.71,
+      "eps": null,
       "gross_margin": 0.5181393185531479,
       "operating_margin": 0.11431586981669867,
       "net_margin": 0.10831117100571251,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 57741000000.0,
       "roe": 0.054419893640925775,
       "roa": 0.02662679390767697,
-      "shares_outstanding": 10637000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 19.613031,
-    "forward_pe": 23.328983,
+    "pe_ratio": 19.336283,
+    "forward_pe": 22.804256,
     "ev_ebitda": 16.329,
-    "price_to_sales": 3.3900516,
-    "peg_ratio": 1.48,
-    "market_cap": 2629595299840,
+    "price_to_sales": 3.3498654,
+    "peg_ratio": 1.41,
+    "market_cap": 2598423756800,
     "enterprise_value": 2758242467840
   }
 }

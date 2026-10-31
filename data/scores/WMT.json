@@ -2,6 +2,21 @@
   "ticker": "WMT",
   "history": [
     {
+      "date": "2026-10-31",
+      "composite": 52.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.74,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 57.0,
+        "growth_trend": 62.8,
+        "valuation": 63.3,
+        "sentiment": 55.4,
+        "technical": 71.2,
+        "risk_penalty": 33.4
+      }
+    },
+    {
       "date": "2026-10-30",
       "composite": 52.7,
       "signal": "exit_watch",

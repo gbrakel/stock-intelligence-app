@@ -2,6 +2,22 @@
   "ticker": "MSFT",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": 92279000000.0,
+      "net_income": 36629000000.0,
+      "eps": 4.93,
+      "gross_margin": 0.6779332242438691,
+      "operating_margin": 0.4975671604590427,
+      "net_margin": 0.39693754808786397,
+      "free_cash_flow": 18633000000.0,
+      "total_debt": 57200000000.0,
+      "total_equity": 470509000000.0,
+      "cash_and_equivalents": 20281000000.0,
+      "roe": 0.07784973294878525,
+      "roa": 0.04699622659907647,
+      "shares_outstanding": 7426000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 90007000000.0,
       "net_income": 35766000000.0,
@@ -64,22 +80,6 @@
       "roe": 0.07642201632716016,
       "roa": 0.04360329440827468,
       "shares_outstanding": 7433000000.0
-    },
-    {
-      "period_end": "2025-06-30",
-      "revenue": 76441000000.0,
-      "net_income": 27233000000.0,
-      "eps": 3.66,
-      "gross_margin": 0.6858492170432098,
-      "operating_margin": 0.44901296424693554,
-      "net_margin": 0.3562616920239139,
-      "free_cash_flow": 25568000000.0,
-      "total_debt": 60588000000.0,
-      "total_equity": 343479000000.0,
-      "cash_and_equivalents": 30242000000.0,
-      "roe": 0.07928577875212167,
-      "roa": 0.043994940250693455,
-      "shares_outstanding": 7432000000.0
     }
   ],
   "annual": [
@@ -149,12 +149,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 29.534262,
-    "forward_pe": 21.98939,
-    "ev_ebitda": 20.568,
-    "price_to_sales": 11.862918,
+    "pe_ratio": 27.239561,
+    "forward_pe": 21.618698,
+    "ev_ebitda": 18.801,
+    "price_to_sales": 11.18736,
     "peg_ratio": 1.72,
-    "market_cap": 3936578961408,
-    "enterprise_value": 3995009024000
+    "market_cap": 3875804807168,
+    "enterprise_value": 3868941877248
   }
 }
