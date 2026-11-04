@@ -2,6 +2,22 @@
   "ticker": "XOM",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 3.72,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 4143279570.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 114529000000.0,
       "net_income": 14525000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 79477000000.0,
       "net_income": 7082000000.0,
-      "eps": 1.64,
+      "eps": null,
       "gross_margin": 0.22581375743925916,
       "operating_margin": 0.11212048768826201,
       "net_margin": 0.08910754054632158,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 14352000000.0,
       "roe": 0.026233321726761544,
       "roa": 0.01582226869259624,
-      "shares_outstanding": 4318292683.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 18.484568,
-    "forward_pe": 14.955949,
-    "ev_ebitda": 9.655,
-    "price_to_sales": 1.8877217,
-    "peg_ratio": 1.52,
-    "market_cap": 732873949184,
-    "enterprise_value": 761701924864
+    "pe_ratio": 18.257202,
+    "forward_pe": 14.771986,
+    "ev_ebitda": 9.541,
+    "price_to_sales": 1.8645022,
+    "peg_ratio": 1.46,
+    "market_cap": 723859406848,
+    "enterprise_value": 752687316992
   }
 }

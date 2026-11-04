@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-09-30",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 12137000000.0,
+      "net_income": 1721000000.0,
       "eps": 4.65,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.42275685919090383,
+      "operating_margin": 0.2028507868501277,
+      "net_margin": 0.1417978083546181,
+      "free_cash_flow": 2113000000.0,
+      "total_debt": 41370000000.0,
+      "total_equity": 54896000000.0,
+      "cash_and_equivalents": 5461000000.0,
+      "roe": 0.03135018944914019,
+      "roa": 0.015065699053688514,
       "shares_outstanding": 370000000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.03159088243343629,
       "roa": 0.01568627450980392,
       "shares_outstanding": 378000000.0
-    },
-    {
-      "period_end": "2025-06-30",
-      "revenue": 10854000000.0,
-      "net_income": 1617000000.0,
-      "eps": null,
-      "gross_margin": 0.40611756034641605,
-      "operating_margin": 0.17652478348995762,
-      "net_margin": 0.1489773355444997,
-      "free_cash_flow": 1105000000.0,
-      "total_debt": 35229000000.0,
-      "total_equity": 50602000000.0,
-      "cash_and_equivalents": 4576000000.0,
-      "roe": 0.03195525868542745,
-      "roa": 0.015973525634693272,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +149,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 36.760906,
-    "forward_pe": 24.57065,
-    "ev_ebitda": 23.77,
-    "price_to_sales": 5.3416543,
-    "peg_ratio": 2.03,
-    "market_cap": 252932669440,
-    "enterprise_value": 288375668736
+    "pe_ratio": 36.832283,
+    "forward_pe": 25.13538,
+    "ev_ebitda": 24.249,
+    "price_to_sales": 5.4644265,
+    "peg_ratio": 1.99,
+    "market_cap": 258746056704,
+    "enterprise_value": 294189039616
   }
 }
