@@ -2,6 +2,22 @@
   "ticker": "PFE",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.57,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 5700000000.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 15034000000.0,
       "net_income": -248000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 14653000000.0,
       "net_income": 2910000000.0,
-      "eps": 0.51,
+      "eps": null,
       "gross_margin": 0.7421688391455674,
       "operating_margin": 0.25708046133897494,
       "net_margin": 0.19859414454377944,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 1638000000.0,
       "roe": 0.03269222127353615,
       "roa": 0.014119702079138262,
-      "shares_outstanding": 5685000000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2025-03-31",
@@ -181,12 +197,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 39.473686,
-    "forward_pe": 10.358579,
-    "ev_ebitda": 8.788,
-    "price_to_sales": 2.6844733,
-    "peg_ratio": 14.05,
-    "market_cap": 170990206976,
-    "enterprise_value": 223068209152
+    "pe_ratio": 43.985718,
+    "forward_pe": 10.584211,
+    "ev_ebitda": null,
+    "price_to_sales": 2.7583263,
+    "peg_ratio": 13.75,
+    "market_cap": 175498510336,
+    "enterprise_value": null
   }
 }

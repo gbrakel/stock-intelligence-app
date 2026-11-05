@@ -2,6 +2,21 @@
   "ticker": "NVDA",
   "history": [
     {
+      "date": "2026-11-05",
+      "composite": 63.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.56,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 86.9,
+        "growth_trend": 76.9,
+        "valuation": 67.2,
+        "sentiment": 59.9,
+        "technical": 34.9,
+        "risk_penalty": 28.1
+      }
+    },
+    {
       "date": "2026-11-04",
       "composite": 63.8,
       "signal": "exit_watch",

@@ -2,6 +2,21 @@
   "ticker": "PFE",
   "history": [
     {
+      "date": "2026-11-05",
+      "composite": 49.0,
+      "signal": "exit_watch",
+      "signal_confidence": 0.63,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 50.0,
+        "growth_trend": 51.4,
+        "valuation": 69.1,
+        "sentiment": 61.0,
+        "technical": 84.2,
+        "risk_penalty": 42.8
+      }
+    },
+    {
       "date": "2026-11-04",
       "composite": 49.4,
       "signal": "exit",

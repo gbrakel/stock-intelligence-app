@@ -1,98 +1,26 @@
 [
   {
-    "ticker": "CSCO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "NOW",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "UNH",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-04"
-  },
-  {
     "ticker": "PFE",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "MRK",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "TMO",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "JPM",
-    "previous_signal": "reduce",
-    "new_signal": "exit_watch",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "BAC",
     "previous_signal": "exit",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
+    "new_signal": "exit_watch",
+    "date": "2026-11-05"
   },
   {
-    "ticker": "NKE",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "HD",
+    "ticker": "ABBV",
     "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
+    "new_signal": "exit_watch",
+    "date": "2026-11-05"
   },
   {
-    "ticker": "XOM",
+    "ticker": "COST",
     "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "CAT",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "UNP",
-    "previous_signal": "buy",
     "new_signal": "hold",
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   {
     "ticker": "GE",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-04"
-  },
-  {
-    "ticker": "CMCSA",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-04"
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-11-05"
   }
 ]
