@@ -2,6 +2,22 @@
   "ticker": "MCD",
   "quarterly": [
     {
+      "period_end": "2026-09-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 3.513078,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 707641531.0
+    },
+    {
       "period_end": "2026-06-30",
       "revenue": 7100000000.0,
       "net_income": 2362000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-06-30",
       "revenue": 6843000000.0,
       "net_income": 2253000000.0,
-      "eps": 3.157211,
+      "eps": null,
       "gross_margin": 0.578985824930586,
       "operating_margin": 0.47654537483559845,
       "net_margin": 0.3292415607189829,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 1876000000.0,
       "roe": -0.816304347826087,
       "roa": 0.03783057677776845,
-      "shares_outstanding": 713604434.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -149,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 21.374523,
-    "forward_pe": 20.410421,
-    "ev_ebitda": 16.07,
-    "price_to_sales": 7.158159,
-    "peg_ratio": 2.78,
-    "market_cap": 198295306240,
-    "enterprise_value": 239920021504
+    "pe_ratio": 22.172249,
+    "forward_pe": 20.251638,
+    "ev_ebitda": null,
+    "price_to_sales": 7.082019,
+    "peg_ratio": 2.97,
+    "market_cap": 196752654336,
+    "enterprise_value": null
   }
 }

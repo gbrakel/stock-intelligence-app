@@ -2,6 +2,105 @@
   "ticker": "GE",
   "articles": [
     {
+      "headline": "What 3.4% GDP Growth and a 4.2% Jobless Rate Say About a Hard Day on Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb553efd5bea542576635a591052636de3bd9b1f6ae2ac2cdae4a676a7fcfe3f",
+      "published_at": "2026-11-05T16:34:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.912,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Should You Invest in GE (GE) Based on Bullish Wall Street Views?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=566bc2b126a6b0a25d4fc12c5591e398dfa69a44202ac71a1b05067790ed4b02",
+      "published_at": "2026-11-05T13:30:03",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.89,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "GE Aerospace (GE) Recently Broke Out Above the 200-Day Moving Average",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25711e0f73755749eb0ea1f025108271639cbe814c703c4d73d9d15f665b2d35",
+      "published_at": "2026-11-05T13:30:02",
+      "sentiment": "positive",
+      "sentiment_score": 0.811,
+      "sentiment_confidence": 0.811,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "GE Aerospace CEO Larry Culp on midterm results: Doesn't have a lot of impact on our business",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a46ff72853418ea66b38a82d9cb9e23ba2fc43ca84bae5e7a9984c482c995fde",
+      "published_at": "2026-11-05T12:18:14",
+      "sentiment": "negative",
+      "sentiment_score": -0.54,
+      "sentiment_confidence": 0.54,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Bristol Gate U.S. Equity Q3 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=baf813953ae9bc75e86b422cebf6a924d5b12b64d0185fee6e688a2fe9c218f6",
+      "published_at": "2026-11-05T11:50:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.923,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22d3420505da267288919568aa0918efb5652b523890bdbdbe088df0977a206f",
+      "published_at": "2026-11-05T11:34:37",
+      "sentiment": "negative",
+      "sentiment_score": -0.893,
+      "sentiment_confidence": 0.893,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ETFs Are Net Sellers of General Electric (GE) on Nov. 3",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2df1f0d48fca53956490dbb4429bbe37d7821b65c75734271ba2e89e105a4ad3",
+      "published_at": "2026-11-05T11:02:46",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.95,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Boeing\u2019s factories stall, yet this aviation supplier\u2019s orders jumped 49%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82726e49f6a70d81a82315a545ea49090d3a4c9bcfc92b35db25848826dd3139",
+      "published_at": "2026-11-05T08:27:23",
+      "sentiment": "positive",
+      "sentiment_score": 0.509,
+      "sentiment_confidence": 0.509,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e030c1da30d95ea5d20a342e1db685e178e99be4e528f3dd64712c63336f195",
+      "published_at": "2026-11-05T03:46:19",
+      "sentiment": "negative",
+      "sentiment_score": -0.901,
+      "sentiment_confidence": 0.901,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why You Should Think About Honeywell Differently Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6cb61f914b09d44edf77baa4b2d5f0d4f1d7f73e254f94c9737f2cc90653937",
@@ -449,105 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.943,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "The Case Against a SpaceX and Tesla Merger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88ab17534752bbf924b90cc37e81263a24a5c40b875e714ddbce57d49ffb89ec",
-      "published_at": "2026-10-30T06:50:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.668,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Q3 2026 Global M&A, Equity Issuance By The Numbers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c95c735fa68e73c6d0a1189f45ac76254c4f92e9c11aa553c2e9aa946b6aab2d",
-      "published_at": "2026-10-30T06:35:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.946,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Should You Pick Honeywell Stock Over Its Competitors?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd8df8e36982f0e92a6bca19fddd4992f2c4b4ebbb2cd7d40c9b0e271b3e1bd2",
-      "published_at": "2026-10-29T22:47:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.912,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Boeing\u2019s Earnings Were Great\u2014for GE Aerospace",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbeb82ce6f000f5e264fc6984c619ccaf6f068ec2284828de7acd3f83fc59712",
-      "published_at": "2026-10-29T20:13:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.945,
-      "sentiment_confidence": 0.945,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Honeywell Aerospace Sinks 11% Despite Q3 Beat as Supply Constraints Persist: \u201cThe Most Difficult Category\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8860b3e599f95368550f6daff47a5fc1acdac0f3e3b3d3f7c9a275cdf7976c5",
-      "published_at": "2026-10-29T15:03:04",
-      "sentiment": "negative",
-      "sentiment_score": -0.955,
-      "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Vernova's $197 Billion Backlog, $9 Billion Acquisition, and One Clear Strategy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3c5caca3b609422f3d9025299fde7ac4413d3eb61e3048f8058506f27f06b60",
-      "published_at": "2026-10-29T14:57:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.829,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "GE Aerospace's Costs Rise in Q3: Is Margin Pressure Set to Persist?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aeab0f06a9b6c7cfde4fd3b28bd8e7b0d2695f0d6e72393a0bcaba5ad633abea",
-      "published_at": "2026-10-29T14:56:00",
-      "sentiment": "negative",
-      "sentiment_score": -0.662,
-      "sentiment_confidence": 0.662,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "FTAI Aviation Soars 14% on $500 Million Buyback as CEO Sees \u201cClear Visibility Into 2027\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d1269e05fe982ce820f637dbaa2ec6b7e360a9a73828662201b78d7386ce093",
-      "published_at": "2026-10-29T14:40:46",
-      "sentiment": "positive",
-      "sentiment_score": 0.897,
-      "sentiment_confidence": 0.897,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1f62e5d036e1b9700b61ab9936845eeaf40908237809987b3cb3fdffb4b2f96d",
-      "published_at": "2026-10-29T13:37:47",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.751,
       "relevance_score": 1.0,
       "event_type": null
     }

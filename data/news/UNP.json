@@ -2,6 +2,50 @@
   "ticker": "UNP",
   "articles": [
     {
+      "headline": "STB orders Union Pacific to make alleged rate hike threat video public",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50432ac1048070e92210163070308189876392ca419d0f9443083078ab8cac8e",
+      "published_at": "2026-11-05T18:35:09",
+      "sentiment": "negative",
+      "sentiment_score": -0.846,
+      "sentiment_confidence": 0.846,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What 3.4% GDP Growth and a 4.2% Jobless Rate Say About a Hard Day on Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb553efd5bea542576635a591052636de3bd9b1f6ae2ac2cdae4a676a7fcfe3f",
+      "published_at": "2026-11-05T16:34:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.912,
+      "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "This Cisco Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Thursday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=acf8395203bb32f11807fc3fdb02a7629111ccfcbcda2d5b14d3148c1f71f545",
+      "published_at": "2026-11-05T09:37:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.585,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Baird Downgrades Union Pacific to Neutral, Lowers Price Target to $310",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c39e33db0dc84c978350d8ad03d9c75f7cba33c9065fc1e6ec2cdb33140225cf",
+      "published_at": "2026-11-05T05:53:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.615,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What Are CSX Investors Betting On?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=55595d334b808482436ba7ad957c27882577be7c62dd4b71b9e25a534d1be211",
@@ -31,6 +75,17 @@
       "sentiment": "positive",
       "sentiment_score": 0.912,
       "sentiment_confidence": 0.912,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "8 Of 11 Sectors Rise Wednesday As Growth Leads",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f679e2656ec804ede4bc1beedd9f1070ea0b4ae0790da5ffd52534d70d29ea56",
+      "published_at": "2026-11-04T12:00:34",
+      "sentiment": "positive",
+      "sentiment_score": 0.918,
+      "sentiment_confidence": 0.918,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.853,
       "sentiment_confidence": 0.853,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Union Pacific (UNP) Tops Q3 Earnings and Revenue Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9d32e7e794011d478df9af2dedbbdf33508fa8bdca4c62b83b50ac4b67f9a19",
-      "published_at": "2026-10-22T11:55:02",
-      "sentiment": "positive",
-      "sentiment_score": 0.927,
-      "sentiment_confidence": 0.927,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Union Pacific Q3 2026 Earnings Call Transcript",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3b8f12e2833bf561e2bc9fca4521030eee2c55c7d4c04d7abc1464dab0b090d9",
-      "published_at": "2026-10-22T10:14:25",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.785,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Union Pacific Corporation Exec Says 2026 Reported Operating Ratio Remains Challenged By Higher Fuel Prices; Union Pacific CFO Says Our Fuel Price Per Gallon Increased From $2.56 To $4.21 YoY; Union Pacific CEO Says Confident In Merger Application, High Fuel Prices Weighing On Margins",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=58b8ebf4350c2f02aa938b987b6029db95c609c84f191051449503b10585534e",
-      "published_at": "2026-10-22T09:19:57",
-      "sentiment": "positive",
-      "sentiment_score": 0.893,
-      "sentiment_confidence": 0.893,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Union Pacific Q3 Adj. EPS $3.53 Beats $3.47 Estimate, Sales $7.197B Beat $7.125B Estimate",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5ebd7628206cd12ad78335c1c85d6fc52ed77f20967b7259b09b1acc25299df6",
-      "published_at": "2026-10-22T07:45:42",
-      "sentiment": "positive",
-      "sentiment_score": 0.55,
-      "sentiment_confidence": 0.55,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Union Pacific (UNP) CFO Jennifer Hamann To Retire After 35 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aca23e4ba21c2b89402b67e704fa3748ab8e27c2fb917a115163fccdcf54129f",
-      "published_at": "2026-10-22T05:40:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.827,
       "relevance_score": 1.0,
       "event_type": null
     }
