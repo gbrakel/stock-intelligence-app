@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-09-30",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 65237000000.0,
+      "net_income": 9924000000.0,
       "eps": 5.07,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.34383861918849734,
+      "operating_margin": 0.17451752839646212,
+      "net_margin": 0.15212226190658676,
+      "free_cash_flow": 12003000000.0,
+      "total_debt": 33534000000.0,
+      "total_equity": 199977000000.0,
+      "cash_and_equivalents": 12804000000.0,
+      "roe": 0.049625706956299975,
+      "roa": 0.029731624453991478,
       "shares_outstanding": 1956743000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.018093047034764827,
       "roa": 0.010839170477272658,
       "shares_outstanding": 1938922000.0
-    },
-    {
-      "period_end": "2025-06-30",
-      "revenue": 44375000000.0,
-      "net_income": 2490000000.0,
-      "eps": null,
-      "gross_margin": 0.296856338028169,
-      "operating_margin": 0.09142535211267605,
-      "net_margin": 0.056112676056338025,
-      "free_cash_flow": 4864000000.0,
-      "total_debt": 29467000000.0,
-      "total_equity": 147258000000.0,
-      "cash_and_equivalents": 4061000000.0,
-      "roe": 0.01690909831723913,
-      "roa": 0.009927438003349016,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +149,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 15.633627,
-    "forward_pe": 13.017199,
-    "ev_ebitda": 7.73,
-    "price_to_sales": 1.8355224,
-    "peg_ratio": 0.84,
-    "market_cap": 415426445312,
-    "enterprise_value": 449646428160
+    "pe_ratio": 15.610132,
+    "forward_pe": 12.869038,
+    "ev_ebitda": 7.719,
+    "price_to_sales": 1.8327638,
+    "peg_ratio": 0.81,
+    "market_cap": 414802116608,
+    "enterprise_value": 449022099456
   }
 }

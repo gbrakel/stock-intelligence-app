@@ -2,6 +2,61 @@
   "ticker": "HD",
   "articles": [
     {
+      "headline": "Tech Stocks Rebound But Nasdaq Is Still In Correction Territory",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c7b6c75c168ed93832eef1ecf7cd5b76d8460ecd86fd5da248568a28e38ba4ba",
+      "published_at": "2026-11-06T19:10:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.877,
+      "sentiment_confidence": 0.877,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "THE HOME DEPOT CANADA ANNOUNCES 2026 INNOVATION AWARD WINNERS",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ec4bbce5dc07153c52fc934d72b32e43016681a0c172cd02f0a796e5fdd9664",
+      "published_at": "2026-11-06T14:47:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.775,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "iShares U.S. Consumer Discretionary (IYC) Adds Amazon and Tesla on Nov. 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4ec8a6b42d53a1c74f6fd004455f6a10084e679e41ec98cf133841465ed5f21",
+      "published_at": "2026-11-06T11:05:49",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "State Street Consumer Discretionary (XLY) Adds Amazon and Tesla on Nov. 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1593aa5181f383cb6fd07b8f9c9a3b1cb5d1f85ab80a3ebb5957d7e0901e4d10",
+      "published_at": "2026-11-06T11:05:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.944,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ETFs Are Buying Home Depot (HD) on Wednesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1131c83cfbd0135806e4c1ea2923e0810bcd0b31dca29695aeae39dc73f08990",
+      "published_at": "2026-11-06T11:01:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "BJ's Restaurants (BJRI) Q3 Earnings and Revenues Top Estimates",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b02b2bf670f60ecbce73a3a0af2d2429e31cbf0849bb13d77f38ee8a945267c5",
@@ -97,6 +152,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.721,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Outside of a big pullback in rates, don't see housing demand picture changing: Zelman's Alan Ratner",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=79ca0eff0a83ba244c023f08ecb766dacf315c07bb2971b228d8a641f8fef2b6",
+      "published_at": "2026-11-05T12:24:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.731,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.936,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "State Street Consumer Discretionary (XLY) Sells Amazon and Tesla on Oct. 30",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bcbad2283c42b44d094be166aff4f5edfa82ac50b3c6d80499b8b88526f4c1c6",
-      "published_at": "2026-11-03T11:05:46",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Home Depot Executive Says Housing Market Is Frozen. A Retiree Who Pulls $50,000 From Her 401(k) for a Kitchen Remodel Could See Higher Medicare Premiums in Two Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4c25b4bf39ddb7f73882e332933f2a563040d28160e0bbafc0e3c6bc6b4ce2b",
-      "published_at": "2026-11-03T11:05:20",
-      "sentiment": "negative",
-      "sentiment_score": -0.955,
-      "sentiment_confidence": 0.955,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Gainers: Today's US Session Top Movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=1d25363b920ad84a2a094728ff253b285963c8b8462a76a03ec81b1838e897aa",
-      "published_at": "2026-11-02T20:10:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.857,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Final Trade: MA, WMT, HD, XLP",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=09fdf443e4b269eec3ef267e76c75b62f584522924b498e7d86af8222c55733b",
-      "published_at": "2026-11-02T18:03:08",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.946,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Top Gainers: Nov. 2, 2026 US Session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=67c8e174c0596db87e60ca249a20027e0e503999dba30d61e4eaf4185cc235c7",
-      "published_at": "2026-11-02T17:40:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.846,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "\u2018They sell the big hot dogs\u2019: The companies that hyperscalers trail in valuations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac627d8cc9b6756090d2d1eaf428eb7573e81ecb70f0f402b1c23eab0aff556f",
-      "published_at": "2026-11-02T15:05:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.935,
       "relevance_score": 1.0,
       "event_type": null
     }
