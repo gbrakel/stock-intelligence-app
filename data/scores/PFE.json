@@ -2,6 +2,21 @@
   "ticker": "PFE",
   "history": [
     {
+      "date": "2026-11-11",
+      "composite": 56.6,
+      "signal": "hold",
+      "signal_confidence": 0.78,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 65.4,
+        "growth_trend": 54.8,
+        "valuation": 76.9,
+        "sentiment": 70.7,
+        "technical": 77.5,
+        "risk_penalty": 41.8
+      }
+    },
+    {
       "date": "2026-11-10",
       "composite": 56.4,
       "signal": "hold",
