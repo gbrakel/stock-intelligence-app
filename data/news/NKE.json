@@ -2,6 +2,39 @@
   "ticker": "NKE",
   "articles": [
     {
+      "headline": "Shoe Shipments and Manufacturing Revenue Down at Yue Yuen",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9927f2d6c6cfe47fbcbcf9a152fe544f206180042ecb32c67376ed5627ccb49",
+      "published_at": "2026-11-12T19:07:47",
+      "sentiment": "negative",
+      "sentiment_score": -0.969,
+      "sentiment_confidence": 0.969,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "NIKE's Shares Slide Nearly 40% YTD: Is a Rebound in Sight?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb4c0e56d2ccb51186888a7f3902deb0fbbede56ff3427b80614803686a85c05",
+      "published_at": "2026-11-12T15:33:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.939,
+      "sentiment_confidence": 0.939,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "If You Ran Nike, What Would You Do?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94e554d16c9f7645ddee414c20b40aca523d903b823311871e424fa304fd19df",
+      "published_at": "2026-11-12T15:13:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.843,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "A 72-Year-Old With $500,000 in PepsiCo, Nike and Bristol Myers Squibb Collects $1,729 a Month in Dividends. How Safe Is Each Check?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a4d9715a337ddbe2d6ac02f57b7de156928f2c5f4411a3017defa7485e21dde5",
@@ -35,6 +68,17 @@
       "event_type": null
     },
     {
+      "headline": "On Holding\u2019s Sell-Off Overlooks a Key Part of Its Earnings Story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edd38122e3ea0f565756b2e49c28d7c02681f1b9e6394470dc29765ade49286c",
+      "published_at": "2026-11-11T16:05:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.919,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Lululemon Rebuild Continues With New Marketing, Strategy Officers",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9ed88d3306b6b8e729905786fc3d0ba58bb65df2a13df26f2675645ac9193d77",
@@ -42,6 +86,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.82,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cyclicals Lead Sectors In Wednesday Trading As Defensives Trail",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b2893f36405b9b90f237df63e12ecab04af5e997b7fd2ebe357a34f9974022bb",
+      "published_at": "2026-11-11T12:00:22",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.483,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.935,
       "sentiment_confidence": 0.935,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Nike's Five-Year Financial Targets Expected to Fall Within Consensus, RBC Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b47c4cc6ac5cc06b23dcf5c464cebfe4c8acf60d26c37e7b4b59aa55604445a6",
-      "published_at": "2026-11-06T16:31:43",
-      "sentiment": "negative",
-      "sentiment_score": -0.956,
-      "sentiment_confidence": 0.956,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NIKE's Fiscal 2027 Outlook Puts Pace Savings Against Revenue Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4d3eb5378ab01a2e49b1c24b504820dc76d4cb60de53e5bac66add4669e69ff",
-      "published_at": "2026-11-06T14:49:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.894,
-      "sentiment_confidence": 0.894,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Is NIKE Stock Worth Buying as Valuation Stays High Amid Weak Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=310cd2c54c584279b756694b80a4f04b55cb9289eaaba38869b1c7ab901bc558",
-      "published_at": "2026-11-06T14:46:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.531,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "NIKE Gains 13.9% in a Month: Is the Turnaround Rally Sustainable?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f3bcb2447d8559522124cac11e7ca263679b2cd9b3a8dd570e6ec6471ede3b3",
-      "published_at": "2026-11-06T14:46:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.882,
-      "sentiment_confidence": 0.882,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "RBC Capital Maintains Sector Perform on Nike, Lowers Price Target to $39",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8fd6ecd8fac18165eed68f8b64b98c0b0b8bd44fd2b3eddf2a374c943df386dc",
-      "published_at": "2026-11-06T14:43:53",
-      "sentiment": "positive",
-      "sentiment_score": 0.436,
-      "sentiment_confidence": 0.436,
       "relevance_score": 1.0,
       "event_type": null
     }

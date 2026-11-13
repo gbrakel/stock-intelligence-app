@@ -21,7 +21,7 @@
       "period_end": "2026-06-30",
       "revenue": 20543000000.0,
       "net_income": 3593000000.0,
-      "eps": 7.8,
+      "eps": null,
       "gross_margin": 0.36022002628632627,
       "operating_margin": 0.209073650391861,
       "net_margin": 0.17490142627659055,
@@ -31,7 +31,7 @@
       "cash_and_equivalents": 6713000000.0,
       "roe": 0.1852634835516139,
       "roa": 0.035016421561461473,
-      "shares_outstanding": 460400000.0
+      "shares_outstanding": null
     },
     {
       "period_end": "2026-03-31",
@@ -80,6 +80,22 @@
       "roe": 0.11133162302144343,
       "roa": 0.02454066281129297,
       "shares_outstanding": 468600000.0
+    },
+    {
+      "period_end": "2025-06-30",
+      "revenue": null,
+      "net_income": null,
+      "eps": 4.64,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 469700000.0
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 22.944698,
-    "forward_pe": 18.656292,
-    "ev_ebitda": 18.489,
-    "price_to_sales": 3.5397022,
-    "peg_ratio": 1.03,
-    "market_cap": 275293241344,
-    "enterprise_value": 313391218688
+    "pe_ratio": 23.755104,
+    "forward_pe": 18.770103,
+    "ev_ebitda": 18.588,
+    "price_to_sales": 3.5612953,
+    "peg_ratio": 1.05,
+    "market_cap": 276972601344,
+    "enterprise_value": 315070611456
   }
 }
