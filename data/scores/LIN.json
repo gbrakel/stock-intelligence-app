@@ -2,6 +2,21 @@
   "ticker": "LIN",
   "history": [
     {
+      "date": "2026-11-14",
+      "composite": 68.4,
+      "signal": "reduce",
+      "signal_confidence": 0.61,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 52.0,
+        "valuation": 86.7,
+        "sentiment": 70.1,
+        "technical": 67.5,
+        "risk_penalty": 26.7
+      }
+    },
+    {
       "date": "2026-11-13",
       "composite": 67.4,
       "signal": "reduce",

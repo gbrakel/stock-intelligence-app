@@ -2,6 +2,22 @@
   "ticker": "CSCO",
   "quarterly": [
     {
+      "period_end": "2026-10-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 1.15,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 3948000000.0
+    },
+    {
       "period_end": "2026-07-31",
       "revenue": 17252000000.0,
       "net_income": 3859000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-07-31",
       "revenue": 14673000000.0,
       "net_income": 2550000000.0,
-      "eps": 0.71,
+      "eps": null,
       "gross_margin": 0.6324541675185715,
       "operating_margin": 0.21277175765010564,
       "net_margin": 0.17378859129012472,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 8346000000.0,
       "roe": 0.05443716243622313,
       "roa": 0.020851902429451064,
-      "shares_outstanding": 3960000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -87,7 +103,7 @@
       "period_end": "2026-07-31",
       "revenue": 63325000000.0,
       "net_income": 13267000000.0,
-      "eps": null,
+      "eps": 3.36,
       "gross_margin": 0.645242795104619,
       "operating_margin": 0.2536281089617055,
       "net_margin": 0.20950651401500198,
@@ -97,7 +113,7 @@
       "cash_and_equivalents": 7218000000.0,
       "roe": 0.2638361340359948,
       "roa": 0.10233960983361232,
-      "shares_outstanding": null
+      "shares_outstanding": 3953000000.0
     },
     {
       "period_end": "2025-07-31",
@@ -146,31 +162,15 @@
       "roe": 0.28437760692625075,
       "roa": 0.12383654714684052,
       "shares_outstanding": 4093000000.0
-    },
-    {
-      "period_end": "2022-07-31",
-      "revenue": null,
-      "net_income": null,
-      "eps": 2.83,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
-      "shares_outstanding": 4170000000.0
     }
   ],
   "valuation": {
-    "pe_ratio": 30.633635,
-    "forward_pe": 18.138466,
+    "pe_ratio": 25.43617,
+    "forward_pe": 16.122913,
     "ev_ebitda": 22.393,
-    "price_to_sales": 6.351098,
-    "peg_ratio": 0.93,
-    "market_cap": 402183290880,
+    "price_to_sales": 5.954505,
+    "peg_ratio": 0.94,
+    "market_cap": 377069010944,
     "enterprise_value": 417450295296
   }
 }

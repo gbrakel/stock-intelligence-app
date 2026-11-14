@@ -2,6 +2,94 @@
   "ticker": "CRM",
   "articles": [
     {
+      "headline": "This Jim Cramer\u2019s Trust Holding Saw AI Assistant Usage Jump 21-Fold",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4500aa289718bf086ee814463f25c55fc7ccd92c288abcdaaaffc91f7b302bc1",
+      "published_at": "2026-11-13T20:40:03",
+      "sentiment": "positive",
+      "sentiment_score": 0.861,
+      "sentiment_confidence": 0.861,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Microsoft vs. Salesforce: One Software Stock Remains a Top Pick, the Other Has Something to Prove, Says RBC",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f9d14ad1573c1459cf96492bbc0e7d22a10d8bd537248bf5265663a56edc4df",
+      "published_at": "2026-11-13T20:39:40",
+      "sentiment": "positive",
+      "sentiment_score": 0.901,
+      "sentiment_confidence": 0.901,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Anthropic\u2019s Best Financial Metric Is Also Its Biggest Risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6a570608cc5d5bbffa31b2d0167a6e2288b61ef069ad400f37ee536375f3696",
+      "published_at": "2026-11-13T19:53:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.589,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "What Alithya Group (ALYA) Said on Its Q2 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55792e75275d7ee56eafaed1a30515cd0b49c2deff25422b55aa6bf6b7f862a5",
+      "published_at": "2026-11-13T18:14:41",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Anthropic\u2019s Toughest Challenge: Maintaining Its Massive Margins",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33b90cc7f575b6d564a4016b2f1b14af2b39512bd6d4ccd5ae253684279881cb",
+      "published_at": "2026-11-13T15:21:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.853,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Helmerich & Payne Q4 Earnings Preview: Is a Beat Likely?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b38af37b4c848353eff3adecfc85a4d1005d96a0dba47651b19c5a6701bb5f14",
+      "published_at": "2026-11-13T14:03:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.651,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Has Buying The Dip In Salesforce Stock Paid Off?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef409aa6212432facc7993f590e7d191e9f45e7fe375cf688e04bc2719f5d143",
+      "published_at": "2026-11-13T12:12:51",
+      "sentiment": "negative",
+      "sentiment_score": -0.682,
+      "sentiment_confidence": 0.682,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Did AI Platform Growth Just Shift Salesforce's (CRM) Investment Narrative?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=922ed224266cc6ca4b8e932d03868d8dddd50f598c282814c0f19b3f87c62404",
+      "published_at": "2026-11-13T04:34:59",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.835,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Should You Buy HubSpot Stock For Its Cash?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=31167faa3b25e611f1a17c2fdce76ba761b0c031a10404c50b36b95344afed70",
@@ -86,6 +174,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.897,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=beafc4b29be631d4c7fc0b600d8343657eb53e9f193bd5da984e8d823f519a47",
+      "published_at": "2026-11-12T13:35:09",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.854,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -436,8 +535,8 @@
       "url": "https://finnhub.io/api/news?id=9474f12771da4d7acbfcfd704dffbcd0223da2f7c42d202202b5fa99aaea5909",
       "published_at": "2026-11-10T14:03:00",
       "sentiment": "positive",
-      "sentiment_score": 0.536,
-      "sentiment_confidence": 0.536,
+      "sentiment_score": 0.537,
+      "sentiment_confidence": 0.537,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.973,
       "sentiment_confidence": 0.973,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Arvest Wealth Management Selects Practifi Sentir to Power Its Wealth Management Business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=827385d86be2d833b0bc12ba79fb79b6dfd36ec9cff7b1aa6373a1949bf6efd8",
-      "published_at": "2026-11-10T14:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.889,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Missionforce National Security Achieves \u2018Awardable\u2019 Status for Department of War Recruiting Capabilities in the CDAO's Tradewinds Solutions Marketplace",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbe0bb717b48287222a754a54c45d12c58e8b6311ec7375bc94b4a97de33a9b1",
-      "published_at": "2026-11-10T14:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.859,
-      "sentiment_confidence": 0.859,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Salesforce Sinks as S&P Cuts Its Rating to A on Deals and a $25 Billion Buyback",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8c3c3452f87d4db50ba66fe1f21b78b2fbf5a266b169683b0335c86c63804d9",
-      "published_at": "2026-11-10T13:49:50",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Arelion Automates Global Off-Net Access Quoting on The Connected World Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=257048e7fbabde61c36d19276f27a0878b814f5f1dfcfb39b57828611c12aec5",
-      "published_at": "2026-11-10T13:42:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.731,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Verint Appoints Abhi Sharma as Chief Product and Technology Officer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c74cf2810071f5b4e1c43a361741c0a0477300d6c5fe72ec15507339cf6436d4",
-      "published_at": "2026-11-10T13:33:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.922,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Zeta Global Holdings Corp. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3cb4b7a8b001bbc8d6f69e38a04fceb7720525c8b8fb0ae63d951c5dc8bb63e",
-      "published_at": "2026-11-10T13:30:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.896,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Mercor Raises $750 Million Series D at $20 Billion Valuation to Help Enterprises Own Their Intelligence",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=414d3ae1fb37abb2a08eae32dc4ec87d4040f246ef90d22de1c96386c79f7710",
-      "published_at": "2026-11-10T13:15:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.671,
-      "sentiment_confidence": 0.671,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Sparxity Closes Series A, Bringing Total Funding to $90M",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c0f182ae6db7e49f45ae10f07bb24f766afc3f1b5fe60ae77607e438f93a2f7",
-      "published_at": "2026-11-10T13:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.917,
-      "sentiment_confidence": 0.917,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Stage 2 Capital Closes $100M and Puts AI-Powered Go-to-Market at the Center of Early-Stage Venture",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4685c40448b332366f01e98db42fa433a093280f3b9fcd6ccd097c094691c930",
-      "published_at": "2026-11-10T13:00:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.55,
       "relevance_score": 1.0,
       "event_type": null
     }

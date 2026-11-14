@@ -2,6 +2,21 @@
   "ticker": "NEE",
   "history": [
     {
+      "date": "2026-11-14",
+      "composite": 68.8,
+      "signal": "buy",
+      "signal_confidence": 0.63,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 69.1,
+        "valuation": 100.0,
+        "sentiment": 60.5,
+        "technical": 54.6,
+        "risk_penalty": 40.2
+      }
+    },
+    {
       "date": "2026-11-13",
       "composite": 69.4,
       "signal": "buy",

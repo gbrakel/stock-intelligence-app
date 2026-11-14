@@ -2,6 +2,50 @@
   "ticker": "UNH",
   "articles": [
     {
+      "headline": "Elevance Health Targets 12% Earnings Growth in 2027 as Insurance Margins Recover",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c5e754df745a643f96c65e0611f698f064db59d083afbe7ac94c03cd6af650d",
+      "published_at": "2026-11-14T00:12:18",
+      "sentiment": "positive",
+      "sentiment_score": 0.89,
+      "sentiment_confidence": 0.89,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can UNH's Optum Rx Sustain Profit Growth as Prescription Volumes Fall?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fca3894f4ad3993e7ba2ce90ddabb831c2b4cec99e170ad35fda0527095ac4b",
+      "published_at": "2026-11-13T17:15:00",
+      "sentiment": "negative",
+      "sentiment_score": -0.822,
+      "sentiment_confidence": 0.822,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "State Street Health Care SPDR (XLV) Buys $66.8 Million More Eli Lilly on Nov. 11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=649387cfd0ea5e6eed2c08883796e81b97df61a8eaf88cec6788ce24c8055741",
+      "published_at": "2026-11-13T11:03:27",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.836,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "UnitedHealth (UNH) Sees $86.8 Million in Net ETF Buying on Nov. 11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=daf92136f4b3f93fff9e6a14955103cb5f22d9dfbae58cfd6e0e240573ccf480",
+      "published_at": "2026-11-13T11:01:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.632,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What Could Go Wrong At CVS Health From Here?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3609da2b1daaf496774090626cf65a6da2b16c31db829292286377314a26ca7a",
@@ -24,6 +68,17 @@
       "event_type": null
     },
     {
+      "headline": "If You Invested $1000 In UnitedHealth Group Stock 20 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57ed14cfa8d0ca6b7d46c1bc7ec622fc5b36636c35ef07af2570a5fade6c0a0e",
+      "published_at": "2026-11-12T17:45:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "UnitedHealth Group (UNH) Stock Still Looks Below Fair Value After Board Appointment",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=762d0ca36119e558ccce919bb368afde4002cf14265f7b5a5f0cd180fab8d113",
@@ -31,6 +86,17 @@
       "sentiment": "negative",
       "sentiment_score": -0.964,
       "sentiment_confidence": 0.964,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "3 Pharmaceutical Stocks That Offer Safety and Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f5d1671274b7075102b8a3058042c2b5d3bd92256a0748bedc84ae91d4e6e18",
+      "published_at": "2026-11-12T17:10:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.907,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -482,72 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Did The Market Read Molina Healthcare Stock Right?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e10d39f2ceca16ae9234dfceca40f94184d7b3eaaa5924835ad08a3954b2872",
-      "published_at": "2026-11-05T23:50:13",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.911,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Top Decliners: NVIDIA and Cisco Post Steepest Losses in Today's Session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=64f655ac143a4694ef88b55b1e7fc07dbc4568eb115d25e2db6c91062ad5a2cf",
-      "published_at": "2026-11-05T20:11:07",
-      "sentiment": "negative",
-      "sentiment_score": -0.971,
-      "sentiment_confidence": 0.971,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Cigna Q3 Earnings Top Estimates on Cigna Healthcare Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75917d4e64033a6a6bc2d5ef7c0020fa7a3efdd5b7f593b04e16f1b4a343fa84",
-      "published_at": "2026-11-05T16:47:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.907,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Utilization and Policy Concerns Weigh on UnitedHealth Group Incorporated (UNH)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2303ba7ae1281fcc58c1ad79d2c5f3b5f69e3149540999d6700f8d71fdab8d2c",
-      "published_at": "2026-11-05T16:35:52",
-      "sentiment": "negative",
-      "sentiment_score": -0.929,
-      "sentiment_confidence": 0.929,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Has The Story Under Centene Stock Run Out?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=094b3f86f89af33db197ac00b944b280c5c65032856b0693aeadf9562b376916",
-      "published_at": "2026-11-05T14:45:32",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.513,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Can Higher Premiums Help Humana Beat Q3 Earnings Estimates?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b37e82f9050015e3850b549a8271bee221e5aa2a220268b8f0a73f2fed6331f",
-      "published_at": "2026-11-05T14:45:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.945,
-      "sentiment_confidence": 0.945,
       "relevance_score": 1.0,
       "event_type": null
     }
