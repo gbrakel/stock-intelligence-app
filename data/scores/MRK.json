@@ -2,6 +2,21 @@
   "ticker": "MRK",
   "history": [
     {
+      "date": "2026-11-17",
+      "composite": 57.4,
+      "signal": "hold",
+      "signal_confidence": 0.75,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 77.7,
+        "growth_trend": 66.2,
+        "valuation": 60.0,
+        "sentiment": 64.5,
+        "technical": 56.4,
+        "risk_penalty": 46.6
+      }
+    },
+    {
       "date": "2026-11-14",
       "composite": 60.2,
       "signal": "hold",
