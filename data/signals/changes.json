@@ -1,44 +1,44 @@
 [
   {
-    "ticker": "TSLA",
+    "ticker": "CRM",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   {
     "ticker": "NOW",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-17"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-11-18"
   },
   {
-    "ticker": "V",
+    "ticker": "JNJ",
     "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "MRK",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "KO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-11-18"
   },
   {
     "ticker": "NKE",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-17"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-11-18"
   },
   {
-    "ticker": "HD",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-17"
-  },
-  {
-    "ticker": "CAT",
+    "ticker": "NFLX",
     "previous_signal": "reduce",
     "new_signal": "exit",
-    "date": "2026-11-17"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   }
 ]

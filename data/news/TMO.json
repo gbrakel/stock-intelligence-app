@@ -2,6 +2,17 @@
   "ticker": "TMO",
   "articles": [
     {
+      "headline": "Has The Story Under Bruker Stock Run Out?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb978fa4995ef9a28d1276f93f35e23969ca35b35a89f987e2e7fe071600e417",
+      "published_at": "2026-11-17T10:38:58",
+      "sentiment": "negative",
+      "sentiment_score": -0.625,
+      "sentiment_confidence": 0.625,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "What Was Waters Telling You Before Its Stock Ran?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=79034aa8d47c2592f502a6bad3de95a9166b18992e53d28d9a73367a4d6e0c76",
@@ -537,17 +548,6 @@
       "sentiment": "positive",
       "sentiment_score": 0.716,
       "sentiment_confidence": 0.716,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What Does Thermo Fisher Scientific (TMO) Mean By A New $5 Billion Buyback?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9880313b421cf5f6770e01de98e897994627889adbcdcf9b546a6afab384f23e",
-      "published_at": "2026-11-07T23:14:37",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
       "relevance_score": 1.0,
       "event_type": null
     }
