@@ -2,6 +2,21 @@
   "ticker": "AAPL",
   "history": [
     {
+      "date": "2026-11-19",
+      "composite": 52.3,
+      "signal": "exit_watch",
+      "signal_confidence": 0.74,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 73.3,
+        "growth_trend": 49.4,
+        "valuation": 30.6,
+        "sentiment": 61.8,
+        "technical": 74.4,
+        "risk_penalty": 32.4
+      }
+    },
+    {
       "date": "2026-11-18",
       "composite": 50.3,
       "signal": "exit_watch",

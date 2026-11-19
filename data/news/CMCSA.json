@@ -2,6 +2,50 @@
   "ticker": "CMCSA",
   "articles": [
     {
+      "headline": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93189af6191db226b6350801128365d7e08b551b74c4fa3186dda307e5b64510",
+      "published_at": "2026-11-18T22:58:01",
+      "sentiment": "positive",
+      "sentiment_score": 0.835,
+      "sentiment_confidence": 0.835,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Comcast\u2019s Network Powers Gaming\u2019s Biggest Moments with Fastly, Delivering Faster Downloads and Less Lag",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9934a3dee5d5cfb8036c2349c9edb1de83381768420beb6f03a04dcb955de53",
+      "published_at": "2026-11-18T14:15:00",
+      "sentiment": "positive",
+      "sentiment_score": 0.908,
+      "sentiment_confidence": 0.908,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is T-Mobile Stock A Real Bargain After Its Slide?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5db1d664a5f8b5646118b1c5b8c3e7d1ccfec812cc032331a2c14a5ce53ef7cd",
+      "published_at": "2026-11-18T14:12:24",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.582,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A $400,000 Portfolio in Comcast, Hormel and AT&T Pays $20,500 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e55572cdaf940e96868e37ffe5ba44e4ef4def48223749f5dc539983e464f74c",
+      "published_at": "2026-11-18T13:50:21",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.8,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "A $1,500,000 Portfolio in Realty Income, Comcast and Hormel Pays $79,746 a Year in Dividends. Here\u2019s What Happens if One Cuts",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ffc482b63cb697b180e9d1055cc8892c7a6443a9943c8ede90175a3f1488eea0",
@@ -75,6 +119,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "David Einhorn Bets on Aluminum in Q3: Here Are His New Stock Picks, Fund Changes",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=057303dc55091914e179f8c6a1bb75eda88a5caa90383662ee6da53089b7922b",
+      "published_at": "2026-11-17T12:36:18",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.94,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.491,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Skydance: Earnings Numbers Are Meaningless, But New Initiatives Are Transformative",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c5ba2e054fe1f0ee0b9763df4c0b2a49e913c7f6f8d820d086056743b18b1db7",
-      "published_at": "2026-11-10T09:51:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.893,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1e49fa61f4199d1be8ff509bf6b76b7bc05853b3c0e47b1eebf838edc252221",
-      "published_at": "2026-11-09T21:41:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.857,
-      "sentiment_confidence": 0.857,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "'Comcast Corp. Is Planning To Cut More Than 1,000 Jobs In The Company\u2019s Connectivity And Platforms Divisions As It Prepares To Separate The Declining Units From Its Faster-Growing Media And Entertainment Division' - Bloomberg News",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=fc8a93b8f5b3522d8ba2aba5f2a0ce46878d30f771a3c5837650640c23dbfba7",
-      "published_at": "2026-11-09T19:43:24",
-      "sentiment": "negative",
-      "sentiment_score": -0.969,
-      "sentiment_confidence": 0.969,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Xfinity Wants You to Pause Your WiFi This Holiday Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2bce354f91c557256e48782b71c53db8137ca037117765c6fd529ee94e22d742",
-      "published_at": "2026-11-09T14:32:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.706,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "These 6 Telecom Stocks Collect Monthly Bills No Matter What the Market Does",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9039163d90d7f4fdd3fab71cf7e46fa068ef74c051f93dc30269f061e885241f",
-      "published_at": "2026-11-09T14:20:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.94,
       "relevance_score": 1.0,
       "event_type": null
     }

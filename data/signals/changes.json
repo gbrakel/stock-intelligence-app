@@ -1,44 +1,20 @@
 [
   {
-    "ticker": "CRM",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-18"
+    "ticker": "TSLA",
+    "previous_signal": "exit",
+    "new_signal": "exit_watch",
+    "date": "2026-11-19"
   },
   {
-    "ticker": "NOW",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-18"
+    "ticker": "PFE",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-11-19"
   },
   {
-    "ticker": "JNJ",
+    "ticker": "DIS",
     "previous_signal": "reduce",
     "new_signal": "exit_watch",
-    "date": "2026-11-18"
-  },
-  {
-    "ticker": "MRK",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-18"
-  },
-  {
-    "ticker": "KO",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-18"
-  },
-  {
-    "ticker": "NKE",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-18"
-  },
-  {
-    "ticker": "NFLX",
-    "previous_signal": "reduce",
-    "new_signal": "exit",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   }
 ]
