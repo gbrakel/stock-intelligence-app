@@ -2,6 +2,21 @@
   "ticker": "AVGO",
   "history": [
     {
+      "date": "2026-11-20",
+      "composite": 58.6,
+      "signal": "reduce",
+      "signal_confidence": 0.71,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 79.7,
+        "growth_trend": 79.9,
+        "valuation": 46.8,
+        "sentiment": 62.9,
+        "technical": 48.6,
+        "risk_penalty": 49.2
+      }
+    },
+    {
       "date": "2026-11-19",
       "composite": 58.3,
       "signal": "reduce",

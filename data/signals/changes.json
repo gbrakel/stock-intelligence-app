@@ -1,20 +1,26 @@
 [
   {
     "ticker": "TSLA",
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-11-20"
+  },
+  {
+    "ticker": "INTC",
     "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
-    "ticker": "PFE",
-    "previous_signal": "hold",
-    "new_signal": "reduce",
-    "date": "2026-11-19"
-  },
-  {
-    "ticker": "DIS",
-    "previous_signal": "reduce",
+    "ticker": "NOW",
+    "previous_signal": "exit",
     "new_signal": "exit_watch",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
+  },
+  {
+    "ticker": "BLK",
+    "previous_signal": "exit_watch",
+    "new_signal": "reduce",
+    "date": "2026-11-20"
   }
 ]
