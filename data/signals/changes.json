@@ -1,26 +1,26 @@
 [
   {
-    "ticker": "TSLA",
+    "ticker": "INTC",
     "previous_signal": "exit_watch",
     "new_signal": "exit",
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
-    "ticker": "INTC",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-20"
-  },
-  {
-    "ticker": "NOW",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-20"
+    "ticker": "GS",
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-11-21"
   },
   {
     "ticker": "BLK",
-    "previous_signal": "exit_watch",
+    "previous_signal": "reduce",
+    "new_signal": "exit_watch",
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "NEE",
+    "previous_signal": "buy",
     "new_signal": "reduce",
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   }
 ]
