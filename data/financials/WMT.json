@@ -2,6 +2,22 @@
   "ticker": "WMT",
   "quarterly": [
     {
+      "period_end": "2026-10-31",
+      "revenue": null,
+      "net_income": null,
+      "eps": 0.62,
+      "gross_margin": null,
+      "operating_margin": null,
+      "net_margin": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "total_equity": null,
+      "cash_and_equivalents": null,
+      "roe": null,
+      "roa": null,
+      "shares_outstanding": 7931000000.0
+    },
+    {
       "period_end": "2026-07-31",
       "revenue": 187937000000.0,
       "net_income": 6366000000.0,
@@ -69,7 +85,7 @@
       "period_end": "2025-07-31",
       "revenue": 177402000000.0,
       "net_income": 7026000000.0,
-      "eps": 0.88,
+      "eps": null,
       "gross_margin": 0.25158115466567454,
       "operating_margin": 0.04107056290233481,
       "net_margin": 0.03960496499475767,
@@ -79,7 +95,7 @@
       "cash_and_equivalents": 9431000000.0,
       "roe": 0.07253992999989675,
       "roa": 0.025941802634056647,
-      "shares_outstanding": 7978000000.0
+      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -165,12 +181,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 46.358696,
-    "forward_pe": 39.63386,
-    "ev_ebitda": 24.518,
-    "price_to_sales": 1.379543,
-    "peg_ratio": 4.28,
-    "market_cap": 1015122821120,
-    "enterprise_value": 1080565891072
+    "pe_ratio": 46.949276,
+    "forward_pe": 40.13877,
+    "ev_ebitda": 22.635,
+    "price_to_sales": 1.3796079,
+    "peg_ratio": 4.35,
+    "market_cap": 1028054843392,
+    "enterprise_value": 1101957038080
   }
 }

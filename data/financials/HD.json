@@ -3,18 +3,18 @@
   "quarterly": [
     {
       "period_end": "2026-10-31",
-      "revenue": null,
-      "net_income": null,
+      "revenue": 43398000000.0,
+      "net_income": 3713000000.0,
       "eps": 3.73,
-      "gross_margin": null,
-      "operating_margin": null,
-      "net_margin": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "total_equity": null,
-      "cash_and_equivalents": null,
-      "roe": null,
-      "roa": null,
+      "gross_margin": 0.32766486934881794,
+      "operating_margin": 0.1262500576063413,
+      "net_margin": 0.08555693810774691,
+      "free_cash_flow": 3119000000.0,
+      "total_debt": 61971000000.0,
+      "total_equity": 18134000000.0,
+      "cash_and_equivalents": 1968000000.0,
+      "roe": 0.20475350170949597,
+      "roa": 0.033723274781566184,
       "shares_outstanding": 995000000.0
     },
     {
@@ -80,22 +80,6 @@
       "roe": 0.29721030042918456,
       "roa": 0.03388411088318874,
       "shares_outstanding": 993000000.0
-    },
-    {
-      "period_end": "2025-07-31",
-      "revenue": 45277000000.0,
-      "net_income": 4551000000.0,
-      "eps": null,
-      "gross_margin": 0.33405481811957505,
-      "operating_margin": 0.1447754930759547,
-      "net_margin": 0.10051461006692139,
-      "free_cash_flow": 3726000000.0,
-      "total_debt": 61321000000.0,
-      "total_equity": 10665000000.0,
-      "cash_and_equivalents": 2804000000.0,
-      "roe": 0.42672292545710266,
-      "roa": 0.04548771102159942,
-      "shares_outstanding": null
     }
   ],
   "annual": [
@@ -181,12 +165,12 @@
     }
   ],
   "valuation": {
-    "pe_ratio": 23.544445,
-    "forward_pe": 21.494715,
-    "ev_ebitda": 15.577,
-    "price_to_sales": 1.9755445,
-    "peg_ratio": 1.78,
-    "market_cap": 338256691200,
-    "enterprise_value": 397347815424
+    "pe_ratio": 24.031944,
+    "forward_pe": 22.016083,
+    "ev_ebitda": 16.39,
+    "price_to_sales": 2.016449,
+    "peg_ratio": 1.84,
+    "market_cap": 345260457984,
+    "enterprise_value": 405957738496
   }
 }
