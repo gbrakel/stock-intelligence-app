@@ -2,6 +2,72 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here\u2019s What That Says About Where Energy Money Is Going.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b75ce53dc881664ef46b3b15a86b6889c55ca52a1190410336894cc37548a3ae",
+      "published_at": "2026-11-25T00:02:02",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.888,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Deere Has More Than Doubled Its Dividend Since 2020, but the Raises Have Stopped",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ff33e1783293a6c07bacba8f14aec60cb556d01d48681d079325b22ee9d9945",
+      "published_at": "2026-11-24T19:32:51",
+      "sentiment": "positive",
+      "sentiment_score": 0.936,
+      "sentiment_confidence": 0.936,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Can Caterpillar Stock Jump 50%?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29866fb3160e93e3edcee399de3020bf812bbfbbb000b721f1d3497c5878644",
+      "published_at": "2026-11-24T17:12:39",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.735,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cathie Wood and 3 Other Big Funds Sold Deere Last Quarter. Should You Follow Them Before Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f83eb262e1134f5e88c364c5618efe87cc1c26d4628e6376c2855bdc12a959c",
+      "published_at": "2026-11-24T16:59:15",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.921,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Terex (TEX) Stock Is Up 10.6% Today: Aerials Unit Sale to Linamar",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=102fcbcf7737a7ee4059f141b2bfac9352d20b783cfd4f28f598d1fd0fac2f72",
+      "published_at": "2026-11-24T15:33:06",
+      "sentiment": "positive",
+      "sentiment_score": 0.946,
+      "sentiment_confidence": 0.946,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "A $1 Million Retirement Portfolio Could Generate $25,000 a Year Without Selling Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=918f9d05ca34acdfbf4b3dfbf35f23630a2a7a1ab81286bd7b5623c26c3e224c",
+      "published_at": "2026-11-24T12:47:13",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "The Midterms Put Data Center Permitting Back in Play. Here Are 2 Industrial Stocks That Win if Power Moves Behind the Meter.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=28e4b1ea13feb22a41bf3e474cbfd48d14f32b6f91b8dbfa532ec019b033039a",
@@ -101,6 +167,17 @@
       "event_type": null
     },
     {
+      "headline": "As AI Stocks Plummet, Insiders Are Buying Into These 3 Names",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffd1d429876c7c8e689b7db859d7819169ae6401eb7f4e0731d6d247d37ed9eb",
+      "published_at": "2026-11-23T13:10:00",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.861,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Why Is Caterpillar Stock Falling?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca2719e669a4f9f12bb6d40f2d20d5b210118bbb475e28e38fac2347c859c697",
@@ -108,6 +185,28 @@
       "sentiment": "negative",
       "sentiment_score": -0.884,
       "sentiment_confidence": 0.884,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "9 Of 11 Sectors Rise Monday As Growth Leads",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7849cbb86e22717be37f15e7dd3458af446008b8ca28197d597cc3fd18cfe561",
+      "published_at": "2026-11-23T12:00:25",
+      "sentiment": "positive",
+      "sentiment_score": 0.927,
+      "sentiment_confidence": 0.927,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "DCP Midstream Says It Will Lay Off 10% Of Workforce, 300 Operational/Corporate Roles Across 17-States, Has Reduced Capital Budget To $250M",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2f40821e66f472f9c148898ede1bd56f908f59c50193c8e73603f4a00a642fbe",
+      "published_at": "2026-11-23T11:30:53",
+      "sentiment": "negative",
+      "sentiment_score": -0.973,
+      "sentiment_confidence": 0.973,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -449,105 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.969,
       "sentiment_confidence": 0.969,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Reported Earlier, President Trump Says On Social Media That Congress Needs To Pass A Farm Bill In The Remaining Days Of The Current Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=151c53e1c3080c47674dc6e37c9e5688756e46326f1c2ec9fca4a10ab4f969a3",
-      "published_at": "2026-11-19T11:43:50",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.774,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "What State Street Industrial Select Sector SPDR (XLI) Sold: GE Leads on Nov. 17",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cad1ab96dce49a34d903abbd7571125a97d16ab2194911e48d83edcb6e9d310",
-      "published_at": "2026-11-19T11:06:04",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.771,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "ETFs Bought $33.8 Million of Caterpillar (CAT) on Nov. 17",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adab1dc01752bcbc4a9232c7216a65e3bce40029e2d50e612bd37676543191a9",
-      "published_at": "2026-11-19T11:02:11",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.931,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Build, Run, Harvest: The Just-In-Case Cycle Is Moving On",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8b33239fb09822a7bc5ee23997318134f1d60d7d22e2625f0e545bc220915d43",
-      "published_at": "2026-11-19T08:15:00",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.898,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Morgan Stanley sees Caterpillar rental gains, stays cautious",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00e66e071f50de022abb0c21bb1aca34690c706334c7e322aba60a4df4bccf91",
-      "published_at": "2026-11-18T23:17:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.876,
-      "sentiment_confidence": 0.876,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Overowned Defensives And Damaged Tech Leave Markets In Checkmate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a5e8d37f91e7e8f3a08d096e0a33d0cee74f2cde9b126b33dc41c8df5f09073",
-      "published_at": "2026-11-18T21:49:01",
-      "sentiment": "negative",
-      "sentiment_score": -0.967,
-      "sentiment_confidence": 0.967,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar Versus Coca-Cola Pair Trade Targets Ten Percent",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d3187a1ec081b38d18b536bf8be01090ed61741c7eb69d3781a53f37fb0ae75",
-      "published_at": "2026-11-18T21:48:23",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.813,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Congress Lines Up For, Against BAAJA; Here's Why Investors Should Care",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3830df1d6dea723237a89de94f72fe66c2030a24c514017bb68f3ce378b175a9",
-      "published_at": "2026-11-18T21:34:39",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.915,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb8540a46567233468e9a2db22bf64fe32b0059e6796d7f48f3a75ff41919225",
-      "published_at": "2026-11-18T20:32:36",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.859,
       "relevance_score": 1.0,
       "event_type": null
     }

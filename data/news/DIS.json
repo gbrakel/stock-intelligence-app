@@ -2,6 +2,50 @@
   "ticker": "DIS",
   "articles": [
     {
+      "headline": "Manchester United (MANU) Stock Is Up 5.6% Today Without Company News",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a11c0f642a0646a0bfbde5b5042199c82bc323e03bfaec297133c5c5b8a09c9",
+      "published_at": "2026-11-24T21:00:15",
+      "sentiment": "positive",
+      "sentiment_score": 0.951,
+      "sentiment_confidence": 0.951,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Is Netflix Stock Worth More Than Its Competitors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f7c375cde30f9939f58c746e0de9cecc37258f651e2ed4c581b8475e1d6643a",
+      "published_at": "2026-11-24T17:58:54",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.846,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Who is holding Jensen Huang accountable? It sure looks like nobody",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfa7bc1d09e13e5ca92df80414a31e8e55757b29ea2c52b0d8f3a3e55f87912d",
+      "published_at": "2026-11-24T15:42:55",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.846,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Did Liberty Media's Industry Carry Its Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c615098b87a727566393d8202133b778f3e4bfba060d56aa3e76e956fbabaa3",
+      "published_at": "2026-11-24T14:01:47",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.928,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Disney Stops Reporting Streaming Profit. Should You Worry?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=698b3660dcf0d6c8595548a98f498f66c62ace917aed70e1cbb8f5c47dab6f94",
@@ -31,6 +75,17 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.914,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cb11a6b8673cce820e09a38a368bec6e9d6fc5bf972b3a06027e8f4654dd1007",
+      "published_at": "2026-11-23T14:08:20",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.918,
       "relevance_score": 1.0,
       "event_type": null
     },
@@ -493,61 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.876,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney Rises 5% as 10 Analysts Raise Targets on Earnings Beat and $3 Billion Savings Plan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e600e7fa9087394475a8852071e09553ab1e97f946d777df206e7df270125d7",
-      "published_at": "2026-11-18T21:43:30",
-      "sentiment": "positive",
-      "sentiment_score": 0.933,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney earnings beat estimates as Bank of America raises price target to $135",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1c9d20b7d84b5cbe6741cdcbb08b9f09e4eb828dfb5e5e8013c606814671243",
-      "published_at": "2026-11-18T19:50:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.933,
-      "sentiment_confidence": 0.933,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney\u2019s Experiences Segment Hit Record Quarterly Revenue of $10.1 Billion as Cruise Days Surged. Can the Momentum Last?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e0ae4d3c9176b75e8267aa52adfb1774efc7953b5f0dbe213a511fc519ee1d61",
-      "published_at": "2026-11-18T19:20:02",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.635,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Disney Stocks Fall 1.48% Despite 16% Revenue Jump and a 33% Dividend Hike",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=332b0a8f28e2922066b72f5685c6a09d3745e116f3fd0aa1e301e22cca560423",
-      "published_at": "2026-11-18T18:39:47",
-      "sentiment": "negative",
-      "sentiment_score": -0.97,
-      "sentiment_confidence": 0.97,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "JPMorgan Raises Its Disney Target to $140. Is It Still Too Low?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=77bc7f563f3e0779f65b12908a384659e1e82b6b7eacb49875478f03eefae6f7",
-      "published_at": "2026-11-18T18:06:59",
-      "sentiment": "negative",
-      "sentiment_score": -0.49,
-      "sentiment_confidence": 0.49,
       "relevance_score": 1.0,
       "event_type": null
     }

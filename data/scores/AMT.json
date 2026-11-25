@@ -2,6 +2,21 @@
   "ticker": "AMT",
   "history": [
     {
+      "date": "2026-11-25",
+      "composite": 68.1,
+      "signal": "reduce",
+      "signal_confidence": 0.6,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 100.0,
+        "growth_trend": 56.7,
+        "valuation": 100.0,
+        "sentiment": 68.0,
+        "technical": 62.5,
+        "risk_penalty": 39.6
+      }
+    },
+    {
       "date": "2026-11-24",
       "composite": 66.4,
       "signal": "reduce",

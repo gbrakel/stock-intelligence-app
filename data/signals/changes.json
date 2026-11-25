@@ -1,74 +1,44 @@
 [
   {
-    "ticker": "TSLA",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-24"
-  },
-  {
-    "ticker": "NOW",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-24"
-  },
-  {
-    "ticker": "UNH",
-    "previous_signal": "exit_watch",
-    "new_signal": "exit",
-    "date": "2026-11-24"
-  },
-  {
-    "ticker": "JNJ",
-    "previous_signal": "exit_watch",
-    "new_signal": "reduce",
-    "date": "2026-11-24"
-  },
-  {
     "ticker": "PFE",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-11-24"
-  },
-  {
-    "ticker": "MRK",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-11-24"
-  },
-  {
-    "ticker": "V",
-    "previous_signal": "exit_watch",
+    "previous_signal": "hold",
     "new_signal": "reduce",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
     "ticker": "GS",
-    "previous_signal": "exit",
-    "new_signal": "reduce",
-    "date": "2026-11-24"
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-11-25"
   },
   {
     "ticker": "KO",
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "MCD",
     "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-11-24"
+    "new_signal": "exit_watch",
+    "date": "2026-11-25"
   },
   {
     "ticker": "NKE",
-    "previous_signal": "exit",
-    "new_signal": "exit_watch",
-    "date": "2026-11-24"
+    "previous_signal": "exit_watch",
+    "new_signal": "exit",
+    "date": "2026-11-25"
   },
   {
     "ticker": "XOM",
-    "previous_signal": "reduce",
-    "new_signal": "hold",
-    "date": "2026-11-24"
+    "previous_signal": "hold",
+    "new_signal": "reduce",
+    "date": "2026-11-25"
   },
   {
     "ticker": "CAT",
-    "previous_signal": "exit",
-    "new_signal": "reduce",
-    "date": "2026-11-24"
+    "previous_signal": "reduce",
+    "new_signal": "exit",
+    "date": "2026-11-25"
   }
 ]
