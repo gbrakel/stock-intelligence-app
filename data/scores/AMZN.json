@@ -2,6 +2,21 @@
   "ticker": "AMZN",
   "history": [
     {
+      "date": "2026-11-26",
+      "composite": 43.4,
+      "signal": "reduce",
+      "signal_confidence": 0.55,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 40.3,
+        "growth_trend": 60.0,
+        "valuation": 67.4,
+        "sentiment": 57.8,
+        "technical": 43.4,
+        "risk_penalty": 42.2
+      }
+    },
+    {
       "date": "2026-11-25",
       "composite": 44.0,
       "signal": "reduce",
