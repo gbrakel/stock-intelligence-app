@@ -2,6 +2,61 @@
   "ticker": "CAT",
   "articles": [
     {
+      "headline": "Caterpillar's $78 Billion Backlog, Explained",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=766333290c441bf9de2bee28f3d1cfd7bc24adbb387a8e59c25a770f1afd0598",
+      "published_at": "2026-11-26T18:57:02",
+      "sentiment": "negative",
+      "sentiment_score": -0.622,
+      "sentiment_confidence": 0.622,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Cathie Wood and 14 Other Big Funds Sold Deere Last Quarter, While 10 Bought. Who\u2019s Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6155c5751fcc4053ace5d0807ed7ec5e9bcd0c9e8bd0c9252b12e2a424d653a",
+      "published_at": "2026-11-26T18:16:05",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.903,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "For the Retiree Who Wants the Portfolio to Match Their Faith at 69: 3 ETFs Built Around Values",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7de492518c7892907c9cd6e87df2cff0933ba0a4082add5deab92d6e7fefb8e",
+      "published_at": "2026-11-26T16:23:36",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.742,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "State Street Industrial Select Sector SPDR (XLI) Adds GE and RTX on Nov. 24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f9e312b28efd64f3009e5b7373a1a30b5599803529151f34d01893991ae840d",
+      "published_at": "2026-11-26T11:05:07",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_confidence": 0.942,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
+      "headline": "Dow Jones Losers in Today's Session: NVDA, AMZN and GOOGL Decline",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=0eddfa8233e93bb8928dfeb04d8e5d4e28223413495ffe1ad374c2874f6d4e6b",
+      "published_at": "2026-11-25T17:40:56",
+      "sentiment": "negative",
+      "sentiment_score": -0.774,
+      "sentiment_confidence": 0.774,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "2027 Industrial Divide: Caterpillar Monetizes AI Power While Deere Chases an Ag Bottom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=996ab21dee00e5b8829e1b6501af4d21dc47f08fd456408915b1b88652e5da4b",
@@ -475,17 +530,6 @@
       "event_type": null
     },
     {
-      "headline": "State Street Industrial Select Sector SPDR (XLI) Adds GE and RTX on Wednesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbbd4a514375801948d368f18687af6ee96338c6204ed214e1c61d55ed5da7d1",
-      "published_at": "2026-11-20T11:05:01",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.942,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
       "headline": "What SPDR Dow Jones Industrial Avg ETF (DIA) Bought: Goldman Leads on Nov. 18",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0d0b01b866e6da4e3cfbc0f4e9db5dc722cf4bded58c96dc683a8dd18e2e2855",
@@ -504,50 +548,6 @@
       "sentiment": "negative",
       "sentiment_score": -0.975,
       "sentiment_confidence": 0.975,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "72% Upside for GE Vernova? Bernstein Thinks So, and Here\u2019s How It Gets to $1,298",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95097d4ba91240afa3fe05ac71e890b1bd63bcfca3568ff4903213f15d5e8cd2",
-      "published_at": "2026-11-20T09:40:56",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.919,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "5 Energy Stocks to Benefit from Anthropic\u2019s $1.5 Trillion Debut",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f869e49e42d161714c45a2e6b7a96d2f74133c4db8c3507a49d3da09db426678",
-      "published_at": "2026-11-19T22:00:00",
-      "sentiment": "positive",
-      "sentiment_score": 0.905,
-      "sentiment_confidence": 0.905,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Dow Jones Losers Today: NIKE and UnitedHealth Lead Declines",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=764a49d7747e3d89111c720cc2e3ed6b4fcd0e72e6268381837376f4b640bb41",
-      "published_at": "2026-11-19T20:10:56",
-      "sentiment": "negative",
-      "sentiment_score": -0.89,
-      "sentiment_confidence": 0.89,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Caterpillar CEO Joe Creed joins Walmart board of directors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd4235135a36b7af8f833058a202ffc4dd5aea77213d17746825c2179c438902",
-      "published_at": "2026-11-19T18:26:59",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.865,
       "relevance_score": 1.0,
       "event_type": null
     }

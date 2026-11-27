@@ -2,6 +2,21 @@
   "ticker": "BAC",
   "history": [
     {
+      "date": "2026-11-27",
+      "composite": 47.3,
+      "signal": "reduce",
+      "signal_confidence": 0.58,
+      "risk_level": "medium",
+      "scores": {
+        "fundamentals": 55.2,
+        "growth_trend": 57.1,
+        "valuation": 85.7,
+        "sentiment": 56.7,
+        "technical": 23.5,
+        "risk_penalty": 38.6
+      }
+    },
+    {
       "date": "2026-11-26",
       "composite": 47.5,
       "signal": "reduce",

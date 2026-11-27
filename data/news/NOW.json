@@ -2,6 +2,17 @@
   "ticker": "NOW",
   "articles": [
     {
+      "headline": "Cathie Wood Says OpenAI and Anthropic Have 'Stolen the Show,' but Criticizes Dario Amodei's 'Negative Headlines' on Human Extinction Odds and Job Losses",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=93ec3eda5b5767f52f3616777acbe09bfdc2e28b560e3589b6a2dc172239f48e",
+      "published_at": "2026-11-26T09:07:16",
+      "sentiment": "negative",
+      "sentiment_score": -0.935,
+      "sentiment_confidence": 0.935,
+      "relevance_score": 1.0,
+      "event_type": null
+    },
+    {
       "headline": "Salesforce Stock (CRM) Looks Mispriced After the AI Sell-Off",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=75fe9d32bd178063830591b411d8a506363927a1e9a9b604f594e6ec4efc16d7",
@@ -537,17 +548,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "sentiment_confidence": 0.895,
-      "relevance_score": 1.0,
-      "event_type": null
-    },
-    {
-      "headline": "Atlassian Looks Cheap Until You Count Stock Pay",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=256abb2fb5b8218a01c58dcc6e45e6ccdd8ebfd4062db86eaecb4629d0ae0132",
-      "published_at": "2026-11-19T11:22:27",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "sentiment_confidence": 0.933,
       "relevance_score": 1.0,
       "event_type": null
     }
